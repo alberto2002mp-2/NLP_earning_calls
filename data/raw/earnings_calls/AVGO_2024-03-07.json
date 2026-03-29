@@ -1,0 +1,343 @@
+{
+  "symbol": "AVGO",
+  "quarter": "2024Q1",
+  "transcript": [
+    {
+      "speaker": "Ji Yoo",
+      "title": "Head of Investor Relations",
+      "content": "Thank you, operator, and good afternoon, everyone. Joining me on today's call are Hock Tan, President and CEO; Kirsten Spears, Chief Financial Officer; and Charlie Kawwas, President, Semiconductor Solutions Group. Broadcom distributed a press release and financial tables after the market closed, describing our financial performance for the first quarter of fiscal year 2024. If you did not receive a copy, you may obtain the information from the Investors section of Broadcom's website at broadcom.com. This conference call is being webcast live and an audio replay of the call can be accessed for one year through the Investors section of Broadcom's website. During the prepared comments, Hock and Kirsten will be providing details of our first quarter fiscal year 2024 results, guidance for our fiscal year 2024 as well as commentary regarding the business environment. We'll take questions after the end of our prepared comments. Please refer to our press release today and our recent filings with the SEC for information on the specific risk factors that could cause our actual results to differ materially from the forward-looking statements made on this call. In addition to U.S. GAAP reporting, Broadcom reports certain financial measures on a non-GAAP basis. A reconciliation between GAAP and non-GAAP measures is included in the tables attached to today's press release. Comments made during today's call will primarily refer to our non-GAAP financial results. I'll now turn the call over to Hock.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Hock Tan",
+      "title": "President and CEO",
+      "content": "Thank you, Ji, and thank you, everyone, for joining us today. In our fiscal Q1 2024, consolidated net revenue was $12 billion, an increase of 34% year-on-year, including 10.5 weeks of contribution from VMware. Excluding VMware, consolidated revenue rose 11% year-on-year. Semiconductor solutions revenue grew 4% year-on-year to $7.4 billion, while infrastructure software revenue increased by 153% year-on-year to $4.6 billion. The contribution from consolidating VMware caused a sequential revenue hike of 132% in infrastructure software. We anticipate that the strong bookings at VMware will continue to drive revenue growth for the remainder of fiscal 2024. In semiconductors, AI revenue rose fourfold year-on-year to $2.3 billion in the quarter, outweighing the ongoing cyclical slowdown in enterprise and telecommunications sectors. Let me elaborate further on our two reporting segments, starting with software. In Q1, software segment revenue reached $4.6 billion, up 156% year-on-year, which included $2.1 billion from VMware. Consolidated bookings in software increased sequentially from under $600 million to $1.8 billion in Q1, and we expect this to exceed $3 billion in Q2. Revenue from VMware is projected to grow by double digits sequentially, quarter-over-quarter, for the rest of the fiscal year, which is a direct result of our strategy with VMware. We are focusing on upselling customers, particularly those already using vSphere virtualization tools, to upgrade to VMware Cloud Foundation, also known as VCF. VCF is the comprehensive software stack that integrates compute, storage, and networking, effectively virtualizing and modernizing customers' data centers. This on-premises self-service cloud platform offers customers a supplement and alternative to public cloud solutions. In fact, last August, at VM Explore, VMware and NVIDIA announced a partnership called VMware Private AI Foundation, allowing VCF to operate GPUs. This enables customers to deploy their AI models on-premises and wherever they operate, maintaining control over their data and privacy. We are observing a robust demand for VCF, especially from enterprises aiming to manage their expanding AI workloads on-premises. Considering all these factors, we reaffirm our fiscal 2024 software revenue guidance of $20 billion.  Now, turning to semiconductors. Before I provide an overall assessment of this segment, let me break it down by end markets. In Q1, networking revenue was $3.3 billion, up 46% year-on-year, accounting for 45% of our semiconductor revenue. This growth was largely driven by strong demand for our custom AI accelerators from two major hyperscale customers. This demand extends beyond AI accelerators. Our latest generation Tomahawk 5 800G switches are experiencing strong demand due to innovations in Ethernet mix, DSPs, and optical components, especially from hyperscale customers and large enterprises deploying AI data centers. For fiscal 2024, recognizing the ongoing demand strengths in AI NAND, we now expect networking revenue to grow over 35% year-on-year, revising our previous guidance of 30% growth.  Next, in wireless, Q1 revenue was $2 billion, which marked a 1% sequential decline and a 4% year-on-year decrease, representing 27% of semiconductor revenue. Our engagement with a North American customer continues to deepen, being very strategic and long-term. For fiscal 2024, with anticipated content increases, we maintain our previous guidance that wireless revenue will remain flat year-on-year.  Regarding server storage connectivity, Q1 revenue was $887 million, or 12% of semiconductor revenue, reflecting a 29% year-on-year decline. While we are witnessing weaker demand in the first half, we anticipate a recovery in the second half. Therefore, we are adjusting our forecast for fiscal '24 server storage revenue to predict a mid-20 percentage decline year-on-year, down from our prior guidance of a high teens decline.  On broadband, Q1 revenue fell 23% year-on-year to $940 million, constituting 13% of semiconductor revenue. We are currently experiencing a cyclical low for broadband, as telco spending continues to weaken, and we do not foresee an improvement until later in the year. Consequently, we are revising our fiscal '24 broadband revenue outlook to be down 30% year-on-year, compared to our previous guidance of a mid-teens decline. Lastly, Q1 industrial resales amounted to $215 million, reflecting a 6% year-on-year decline. For fiscal '24, we project industrial resales to decline by high single digits year-on-year.  In summary, stronger-than-expected growth from AI has outweighed the cyclical weaknesses in broadband and server storage, resulting in Q1 semiconductor revenue growing 4% year-on-year to $7.4 billion. For fiscal '24, we reaffirm our guidance for Semiconductor Solutions revenue to rise by mid- to high single digits year-on-year. Although we stated in December that AI would constitute 25% of our total semiconductor revenue for the year, we now anticipate that AI revenue will be significantly higher, representing about 35% of semiconductor revenue at over $10 billion. This growth compensates for the weaker-than-expected demand in broadband and server storage. Hence, for fiscal 2024, we reiterate our consolidated revenue guidance of $50 billion, reflecting a 40% year-on-year increase. We also reaffirm our full-year adjusted EBITDA guidance of 60%. Before handing the call over to Kirsten for more insights into our financial performance this quarter, I want to mention that Broadcom has published its fourth annual ESG report, accessible on our corporate citizenship site, which showcases our sustainability efforts. As a global technology leader, we recognize our responsibility to connect our customers, employees, and communities through our product and technology innovations, as well as operational excellence. We remain committed to this mission.",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "Kirsten Spears",
+      "title": "Chief Financial Officer",
+      "content": "Thank you, Hock. Let me now provide additional detail on our Q1 financial performance, which was a 14-week quarter and included 10.5 weeks of contribution from VMware. Consolidated revenue was $12 billion for the quarter, up 34% from a year ago. Excluding the contribution from VMware, Q1 revenue increased 11% year-on-year. Gross margins were 75.4% of revenue in the quarter. Operating expenses were $2.2 billion and R&D was $1.4 billion, both up year-on-year primarily due to the contribution from VMware. Q1 operating income, including VMware, was $6.8 billion, and was up 26% from a year ago, with an operating margin at 57% of revenue. Excluding transition costs of $226 million in Q1, operating profit of $7.1 billion was up 30% from a year ago, with an operating margin of 59% of revenue. Adjusted EBITDA was $7.2 billion or 60% of revenue. This figure excludes $139 million of depreciation. Now a review of the P&L for our two segments, starting with Semiconductor. Revenue for our Semiconductor Solutions segment was $7.4 billion and represented 62% of total revenue in the quarter. This was up 4% year-on-year. Gross margins for our semiconductor solutions segment were approximately 67%, down 190 basis points year-on-year driven primarily by product mix within our semiconductor end markets. Operating expenses increased 8% year-on-year to $865 million, reflecting a 14-week quarter resulting in semiconductor operating margins of 56%. Now moving on to our infrastructure software segment. Revenue for infrastructure software was $4.6 billion, up 153% year-on-year, primarily due to the contribution of VMware and represented 38% of revenue. Gross margins for infrastructure software were 88% in the quarter, and operating expenses were $1.3 billion in the quarter, resulting in infrastructure software operating margin of 59%. Excluding transition costs, operating margin was 64%. Moving on to cash flow. Free cash flow in the quarter was $4.7 billion and represented 39% of revenues off a higher revenue base. Excluding restructuring and integration spend of $658 million, free cash flows were 45% of revenue. We spent $122 million on capital expenditures. Days sales outstanding were 41 days in the first quarter compared to 31 days in the fourth quarter on higher accounts receivable due to the VMware acquisition. The accounts receivable we brought on from VMware has payment terms of 60 days, unlike Broadcom's standard 30 days. We ended the first quarter with inventory of $1.9 billion, up 1% sequentially. We continue to remain disciplined on how we manage inventory across the ecosystem. We ended the first quarter with $11.9 billion of cash and $75.9 billion of gross debt. The weighted average coupon rate and years to maturity of our $48 billion in fixed-rate debt is 3.5% and 8.4 years, respectively. The weighted average coupon rate and years to maturity of our $30 billion in floating-rate debt is 6.6% and three years, respectively. During the quarter, we repaid $934 million of fixed-rate debt that came due. This week, we repaid $2 billion of our floating rate debt, and we intend to maintain this quarterly repayment of debt throughout fiscal 2024. Turning to capital allocation. In the quarter, we paid shareholders $2.4 billion of cash dividends based on a quarterly common stock cash dividend of $5.25 per share. We executed on our plan to complete our remaining share buyback authorization. We repurchased $7.2 billion of our common stock and eliminated $1.1 billion of common stock for taxes due on vesting of employee equity, resulting in the repurchase and elimination of approximately 7.7 million AVGO shares. To help you with modeling share count, the weighted effect of the 54 million shares issued for the VMware acquisition resulted in a sequential increase in Q1 to $478 million. With the Q2 non-GAAP diluted share count expected to increase to approximately $492 million as the shares issued are fully weighted in the second quarter. Now on to guidance. Regardless of the updated dynamics of our semiconductor and software segments, as Hock discussed, we choose to reiterate our guidance for fiscal year 2024 consolidated revenue of $50 billion and adjusted EBITDA of 60%. With regard to VMware, in February, we signed a definitive agreement to divest the end-user computing division with the transaction expected to close in 2024, subject to customary closing conditions, including regulatory approvals. The EUC division has been classified as discontinued operations in our Q1 financials. We have decided to retain the Carbon Black business and merge Carbon Black with Symantec to form the enterprise security group. The impact on revenue and profitability is not significant. That concludes my prepared remarks. Operator, please open up the call for questions.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our first question comes from Harsh Kumar with Piper Sandler.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Harsh Kumar",
+      "title": "Analyst",
+      "content": "Yes, thank you, Hock. Once again, tremendous results and tremendous activity that you guys are benefiting from in AI. But my question was on software. I think if I heard you correctly, Hock, you mentioned that your software bookings will rise quite dramatically to $3 billion in 2Q. I was hoping that you could explain to us why it would rise almost 100% up, if my math is correct, in 2Q over 1Q. Is it something simple? Or is it something that you guys are doing from a strategy angle that's making this happen?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Hock Tan",
+      "title": "President and CEO",
+      "content": "As I indicated, with the acquisition of VMware, we're very focused on selling, upselling, and helping customers not just buy but deploy this private cloud, what we call virtual private cloud solution or platform on their on-prem data centers. It has been very successful so far. And I agree it's early innings still at this point. We just closed on the deal late November and we are now in March, early March. So we had the benefit of at least three months, but we have been very prepared to launch and focus on this push initiative on private cloud, VCF. The results have been very much what we expect it to be, which is very, very successful.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Harlan Sur with JPMorgan. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Harlan Sur",
+      "title": "Analyst",
+      "content": "Good afternoon. Thanks for taking my question. Hock, on the AI outlook being revised from greater than $7.5 billion, I think, last quarter to $10 billion plus this quarter. As you mentioned, AI compute pulls your ASICs, but it also pulls your networking, optical, PCIe, connectivity solutions as well. So can you just help us understand like of that $2.5 billion increase in outlook? Is it stronger AI ASIC demand, stronger networking, stronger optical, etc.? But more importantly, are you also seeing a similar acceleration in your forward ASIC design win pipeline as well?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Hock Tan",
+      "title": "President and CEO",
+      "content": "There's a lot of questions, a lot of information you want me to disgorge. Let's take them one at a time, shall we? Yes, the increase, as we have said before, it's roughly two-thirds, one-third or 70-30, which is AI accelerators, which are custom ASIC AI accelerators. We've a couple of hyperscalers compared to the other components, which are collectively considered networking components. And it's about a 70% to 30% mix. That increase of almost $3 billion that you mentioned, it's a similar combination.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Harlan Sur",
+      "title": "Analyst",
+      "content": "And then are you seeing a similar acceleration on the forward design win pipeline and customer engagements?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Hock Tan",
+      "title": "President and CEO",
+      "content": "I have indicated that I only really only have to say, I don't count anybody. I do not go into production as a rail customer at this point.",
+      "sentiment": "-0.2"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Vivek Arya with Bank of America Securities. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Vivek Arya",
+      "title": "Analyst",
+      "content": "Thank you for taking my question. Hock, on, again, on the over $10 billion for AI, is this still a supply constrained number? Or do you think that this is kind of a very project-driven number, so it's not really supply that gets it? So if you were to get, let's say, increase supply, could there be upside? And then, kind of part B of that is, on the switching side, have you already started to see benefits from the 51 terabit per second switches? Is that something that comes along later? Like what is the contribution of 51T to the switching upside that you mentioned for this year?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Hock Tan",
+      "title": "President and CEO",
+      "content": "Yes. No, our Tomahawk 5 is going great guns. Now it's not driven, unlike in the past, Tomahawk 3, Tomahawk 4 by traditional scale-out in hyperscalers on their cloud environment. This is all largely coming from a scaling out of AI data centers, the building of larger and larger clusters to enable generative AI computing functionality. And you're going for bigger and bigger pipes. Hence, the Tomahawk 5 51 terabit is a perfect solution, and we're seeing a lot of demand. In many cases, we are basically, they are surpassing the rate of adoption that we had previously thought. It is a very good solution in connecting GPUs. And with respect to AI accelerators, where I think you are focusing on, is that a constraint on supply chain? We do get enough lead time out of our hyperscale customers that we do not have a supply chain constraint.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Vivek Arya",
+      "title": "Analyst",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Stacy Rasgon with Bernstein Research. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Stacy Rasgon",
+      "title": "Analyst",
+      "content": "Hi, everyone. Thank you for taking my question. I wanted to ask about the core software business. You mentioned that VMware contributed $2.1 billion over the two months, which would suggest that the other software segments, including CA, Symantec, and Brocade, account for around $2.5 billion, indicating a sequential growth of about 25% and nearly 40% year-on-year. Is my calculation accurate? If it is, how is that possible? What is happening in the core business? How should we view the growth of the core business and VMware as we progress through the year? Is VMware still projected to reach $12 billion, or how should we consider that?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Hock Tan",
+      "title": "President and CEO",
+      "content": "Yes, don't get too excited over that. I think it's certain products and contracts we obtained from strong contract renewals in the old Broadcom contracts, especially in mainframes, were very strong, as were some of our other distributor software platforms. So that has also accelerated, but that's not the star of this show. The star of this show is the accelerating bookings and backlog we are accumulating on VMware.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Stacy Rasgon",
+      "title": "Analyst",
+      "content": "Okay. So VMware is still running at like an $11 billion to $12 billion run rate benefit. So that sounds like that should accelerate. So the overall for VMware should be more than the $12 billion that you talked about. So the core business, the strength this quarter that was kind of a one-time we could model that kind of like falling off because you've shown at the overall software at 20?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Hock Tan",
+      "title": "President and CEO",
+      "content": "Correct.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Aaron Rakers with Wells Fargo.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Aaron Rakers",
+      "title": "Analyst",
+      "content": "Thank you for taking my question. Continuing the discussion on VMware, Hock, now that you have had the asset for some time, I'm interested in understanding how your go-to-market strategy for VMware compares to your previous software acquisitions. Specifically, how have you approached the segmentation of VMware's customer base? I know there has been some conversation around your engagement with the legacy VMware channel in the past, so I'm curious about how you are managing the go-to-market strategy.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Hock Tan",
+      "title": "President and CEO",
+      "content": "I think we haven't had this for long, just about three months. However, it appears that things are progressing very well, as we anticipated. Our focus is not only on go-to-market strategies but also on enhancing our VCF stack, which we have developed and are actively selling. We're committed to supporting our customers in deploying it effectively in their data centers. Our attention is primarily on around 2,000 strategic customers who maintain significant on-prem distributed data centers. Many are exploring hybrid solutions. A lot of these customers have legacy but essential mainframes that remain critical despite being outdated. As they modernize their workloads, they have options, balancing applications in on-prem distributed data centers with deploying some workloads in the public cloud due to elastic demand. Currently, most customers find their on-prem data centers do not match the high availability, low latency, and resilience offered in the cloud, which is exactly what we're providing with VMware Cloud Foundation. It's effectively mirroring the public cloud experience, and customers appreciate it. In just three months, we've seen positive results reflected in our booking levels.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Aaron Rakers",
+      "title": "Analyst",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Chris Danely with Citi. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Chris Danely",
+      "title": "Analyst",
+      "content": "Thanks, for letting me ask a question. I have just a question on the AI upside in terms of a customer perspective. How much of the upside is coming from new versus existing customers? And then how do you see the customer base going forward? I think it's going to broaden. We know how you like to price, so if you do get a bunch of new customers for these products, could there be some better pricing and better margins as well? Hopefully, they're not listening to the call.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Hock Tan",
+      "title": "President and CEO",
+      "content": "Thank you for your question, Chris. I appreciate it. Let me give you an overview of our view on the generative AI market. We see it as having two main segments. The first is hyperscalers, particularly the very large ones with extensive consumer subscriber bases. You can probably guess who these players are. They have a massive amount of data and their model focuses on retaining subscribers to enhance the user experience and create better advertising opportunities for their clients, resulting in a quick return on investment. This segment is characterized by a few large players who can scale up investment substantially. Here, custom silicon and AI accelerators are crucial, and that\u2019s where our focus lies. These companies also purchase AI accelerators in large quantities, often in clusters, due to the demands of running foundational and large language models, alongside significant networking components. However, the value of networking, while growing, is still a minor part in comparison to the value of the AI accelerators we offer. The second segment, which is smaller, consists of the enterprise AI segment. This includes companies of various sizes that are starting AI initiatives driven by recent trends and discussions surrounding AI's potential to enhance productivity. Instead of utilizing public cloud solutions, many are attempting to implement these initiatives on-premises. In doing so, they tend to utilize standard silicon for AI accelerators, which falls into the merchant silicon market, where we do not have a competitive presence. On the networking side, however, these enterprises do purchase our networking products such as switches and routers, including devices from companies like Arista. It creates an interesting blend of opportunities in both segments, and we are observing growth in each.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Chris Danely",
+      "title": "Analyst",
+      "content": "Thanks a lot, Hock.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Karl Ackerman with BNP Paribas. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Karl Ackerman",
+      "title": "Analyst",
+      "content": "Yes, thank you. Hock, weakness in broadband, server, and storage customers is understandable given what your peers have said this earnings season. But perhaps you could speak to the backlog visibility you have with your customers in those markets that would indicate those markets could begin to order again and see sequential growth in the second half through the calendar year? Thank you.",
+      "sentiment": "-0.1"
+    },
+    {
+      "speaker": "Hock Tan",
+      "title": "President and CEO",
+      "content": "You're correct. As I say, we are almost like near the trough this year. '24, first half, for sure, will be the trough. Second half '24, we don't know yet. But I tell you what, we have a 52-week lead time, as you know. We are very disciplined in sticking to it, and based on that, we are seeing bookings lately significantly up from bookings a year ago.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Christopher Rolland with Susquehanna. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Christopher Rolland",
+      "title": "Analyst",
+      "content": "Thanks for the question. So Hock, this one is for you on optical. So, our checks suggest that you're vertically integrating there. You're now putting in your own drivers, TIAs, you're starting to get traction in PAM4 DSP. I think you kind of had an early lead in 100-gig data center lasers as well. A lot of this should be on the back of AI networking that appears to be exploding here. I was wondering if you could help us size the market and then also talk about how fast this is growing for you. I think there may have been some clues in that one-third number the AI you gave us, but perhaps if you can kind of double click or square that for us, it would be great. Thanks.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Hock Tan",
+      "title": "President and CEO",
+      "content": "Before we get too carried away, let\u2019s remember that while components like PAM-4, DSPs, optical parts, and filterations exist, they are relatively small in comparison to Tomahawk switches and Jericho routers that utilize AI networks. As many of you know, traditional enterprise networking is currently experiencing a bit of a slowdown. It's important to understand that much of this demand is driven by AI. This can lead to a skewed perspective because the focus and content in networking related to compute differ significantly between an AI data center and a traditional CPU-based data center. I don\u2019t want to mislead you. In the AI data center, there is indeed a considerable amount of content related to DSPs, PAM4s, optical components, and PCI Express switches, but they still represent a minor share of our overall sales when compared to switches and routers. In relation to AI accelerators, they are even smaller. As I mentioned, our AI revenue is projected to exceed $10 billion this year with 70% coming from AI accelerators and 30% from everything else. Out of that, around 20% consists of switches and routers, with the remainder being various retirement DSP components because, as I stated, we are not fully vertically integrated and do not produce the complete optical transceiver. These are typically manufactured by OEM contract manufacturers, like Eoptolink in China, who are more competitive. However, we do supply the key components we discuss, and looking at it this way helps clarify the weighting of the various values.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Christopher Rolland",
+      "title": "Analyst",
+      "content": "Super helpful. Thank you, Hock.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Toshiya Hari with Goldman Sachs. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Toshiya Hari",
+      "title": "Analyst",
+      "content": "Hi, thank you for taking the question. Hock, I think we all appreciate the capabilities you have in terms of custom compute. I asked this question last quarter on the group call back. But there is one competitor based in Asia who continues to be pretty vocal and adamant that one of the future designs at your largest customer, they may have some share, and we're picking up conflicting evidence, and we're getting a bunch of investor questions. I was hoping you could address that and your confidence level in sort of maintaining, if not extending your position there? Thank you.",
+      "sentiment": "-0.2"
+    },
+    {
+      "speaker": "Hock Tan",
+      "title": "President and CEO",
+      "content": "You know, I can't stop somebody from trash talking, okay? It's the best way to describe it. Let the numbers speak for themselves, please, and leave it that way. Most of our products tend to always have, as we do here, a very deep strategic and multiyear relationship with our customer.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Vijay Rakesh with Mizuho. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Vijay Rakesh",
+      "title": "Analyst",
+      "content": "Yes, hi, Hock. Just on the custom silicon side, obviously, you guys dominate that space. But you mentioned two customers, only two major customers. I was just wondering what's really holding back other hyperscalers from ramping up their custom silicon side. And on the flip side, you're hearing some peers talk about custom silicon road maps as well, so if you could hit both? Thanks.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Hock Tan",
+      "title": "President and CEO",
+      "content": "Well, first, we don't dominate this market. I only have two customers, so I can\u2019t be dominating it fully. Second, developing custom silicon is a long-term process. It requires significant effort to create effective solutions for generative AI and other AI capabilities in our data centers, which involves much more than just hardware. You need to invest in software models that are compatible with your custom silicon and align with your business model. This leads to the creation of foundational models that need to be optimized for the custom silicon being developed. It\u2019s an iterative process that constantly evolves, even for the same customers we work with. I mentioned this in the last call; it takes years to reach a point where you can confidently deliver production-ready solutions. This delay isn\u2019t due to poor silicon but rather the incompatibility with the foundation models the customer has and the software and firmware layers that support it. Everything needs to function correctly, creating an entire ecosystem, which we do well in x86 CPUs, but this is still early-stage for AI accelerators like GPUs. It takes time. For the two customers we've been working with, one has been for eight years. Patience is essential; I only have these two for now.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Vijay Rakesh",
+      "title": "Analyst",
+      "content": "And on the peers getting into that market?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Hock Tan",
+      "title": "President and CEO",
+      "content": "I have no comment on the custom silicon market. What I can say is that I am not interested in entering a market where we have a specific philosophy at Broadcom. Others may have different views, but my philosophy, which I have shared multiple times and is clear to my management team and everyone at Broadcom, is straightforward: focus on what you excel at and consistently invest in areas where you have a distinct advantage. By doing this, you stay ahead of the competition. Avoid pursuing opportunities where you believe you can compete, but where others are clearly outperforming you. That is my philosophy.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Matt Ramsay with TD Cowen. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Matt Ramsay",
+      "title": "Analyst",
+      "content": "Thank you very much for squeezing me in, guys. Just kind of a 2-part thing on the custom silicon stuff. I guess, Hock, if some of the merchant leaders in AI who are interested in some custom networking stuff from you either in switching routing, would you consider it? And the second question is for Kirsten. The business model around custom silicon for most folks is taking our e-payments upfront and selling the end product at a lower gross margin, but a higher operating margin, and you guys have wrapped this massive custom business with no real impact on gross margin. So maybe you could just unpack the philosophy and the accounting about the way that you guys approach the custom silicon opportunities just from a margin perspective? Thanks, guys.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Hock Tan",
+      "title": "President and CEO",
+      "content": "I'll address your question about the business model rather than getting into specific numbers. There's no clear definition of what an AI accelerator is. Currently, an AI accelerator, whether for merchants or customers, requires more than just numerous floating point multipliers for matrix multiplication and analysis. It also needs substantial memory, essentially high-speed cache memory. The chip isn't just a basic multiplier; it includes memory and has a three-dimensional architecture. Designing or building memory isn't something we excel at in AI accelerators, so we source high-bandwidth memory from specialized suppliers, which is common in the industry. When these components come together, that defines an AI accelerator. While I might achieve a favorable gross margin on the logic chip, it's impossible to apply the same margin to the high-bandwidth memory, which significantly contributes to the overall chip cost. This fundamental math indicates that the gross margin for the entire AI accelerator is lower compared to traditional silicon products. The addition of memory leads to this natural margin reduction, and no one can rationalize applying higher margins to memory. Consequently, the overall margin is inherently lower. However, regarding the logic aspect, with the high-density floating point multipliers we develop on advanced silicon, we can maintain margins comparable to our overall gross margin.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Edward Snyder with Charter Equity Research. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Edward Snyder",
+      "title": "Analyst",
+      "content": "Thank you very much. First, related to a housekeeping item, Hock, you referred to the second customer. You also mentioned that achieving results takes years of iterative work, which anyone familiar with TPU history would understand. You've previously stated that ramping up takes time. Could you provide some insights into the impressive growth of your custom silicon products? Is a significant portion of that growth coming from your second customer, and considering the low revenue figures, is the growth rate generally comparable? I also have a question about VMware.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Hock Tan",
+      "title": "President and CEO",
+      "content": "You should reach out to VMware customers. I can't discuss my customers individually, sorry.",
+      "sentiment": "-0.1"
+    },
+    {
+      "speaker": "Edward Snyder",
+      "title": "Analyst",
+      "content": "Okay. Okay, never mind. That's a waste of time. So closing VMware held kind of a significant shift in your software strategy from focus on the largest 1,000 or so customers to hundreds of thousands now. Why should we expect once you get through, I don't say, the low-hanging fruit of selling into the, like you mentioned, the first 1,000 customers with the VCF product, that your OpEx is a share of sales, firstly, in sales and marketing would start to increase because that's the big leverage Broadcom has had over almost all your acquisitions in software, and that seems to be changing now?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Hock Tan",
+      "title": "President and CEO",
+      "content": "We have a shift here. You're right, now we've got. We are spending more on go-to-market and support because we have a lot of customers with VMware. They are 300,000, but we stratify. We have the strategic guys. We sell, upsell the VC private cloud very good. The long tail of what we call smaller commercial customers, we continue to support and sell improved versions of just vSphere compute virtualization to improve productivity on their service. We don't attempt to say, go build up your whole VCM. They don't have the skills or the scale to do it. Only it adds up you're right, the costs of my spend, OpEx spend, be it support services, go-to-market will increase. The difference between that and, say, CA, under acquisition we did is we're growing this business very fast. You don't have to increase your spend growing this business. So we have operating leverage through revenue growth over the next three years.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Edward Snyder",
+      "title": "Analyst",
+      "content": "Great. If I could squeeze one more in. You'd mentioned several times actually in the last quarter that there were two divisions you're going to divest including Carbon Black, and that's changed. What has changed? Is the market outlook kind of softened, and you just wait and see? Or did you change your strategy and how you're going to integrate? I'm just curious why last quarter you said you probably get rid of it in months and now you're keeping it.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Hock Tan",
+      "title": "President and CEO",
+      "content": "We believe we can create more value for our shareholders by integrating Carbon Black, which is relatively small, into Symantec to establish the enterprise security group. The effect on revenue and profitability will not be substantial.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Ladies and gentlemen, just in the interest of time, I would now like to turn the call back over to Ji Yoo for closing remarks.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Ji Yoo",
+      "title": "Head of Investor Relations",
+      "content": "Thank you, operator. In closing, we would like to highlight our Broadcom enabling AI and Infrastructure Investor Meeting on Wednesday, March 20, 2024, at 9:00 a.m. Pacific / 12:00 p.m. Eastern Time. Charlie Kawwas, President of Broadcom's Semiconductor Solutions Group and several General Managers will present on Broadcom's merchant silicon portfolio. The live webcast and replay of the investor meeting will be available at investors.broadcom.com. Broadcom currently plans to report its earnings for the second quarter of fiscal '24, after close of market on Wednesday, June 12, 2024. A public webcast that Broadcom's earnings conference call will follow at 2:00 p.m. Pacific Time. That will conclude our earnings call today. Thank you all for joining. Operator, you may end the call.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Ladies and gentlemen, this concludes today's conference call. Thank you for your participation. You may now disconnect.",
+      "sentiment": "0.0"
+    }
+  ],
+  "reported_date": "2024-03-07"
+}

@@ -1,0 +1,271 @@
+{
+  "symbol": "CRM",
+  "quarter": "2024Q3",
+  "transcript": [
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Welcome to Salesforce's Fiscal 2024 Third Quarter Results Conference Call. After management's prepared remarks, we will open the floor to questions. I would now like to hand the conference over to your speaker, Mike Spencer, Executive Vice President of Investor Relations. Sir, you may begin.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Michael Spencer",
+      "title": "Executive Vice President of Investor Relations",
+      "content": "Thank you. Good afternoon, and thanks for joining us today on the fiscal 2024 third quarter results conference call. Our press release, SEC filings, and a replay of today's call can be found on our website. Joining me on the call today is Marc Benioff, Chair and CEO; Amy Weaver, President and Chief Financial Officer; and Brian Millham, President and Chief Operating Officer. As a reminder, our commentary today will include non-GAAP measures. Reconciliations between our GAAP and non-GAAP results and guidance can be found in our earnings materials and press release. Some of our comments today may contain forward-looking statements that are subject to risks, uncertainties, and assumptions, which could change. Should any of these risks materialize or should our assumptions prove to be incorrect, actual company results could differ materially from these forward-looking statements. A description of these risks, uncertainties, and assumptions and other factors that could affect our financial results is included in our SEC filings, including our most recent report on Forms 10-K, 10-Q, and any other SEC filings. Except as required by law, we do not undertake any responsibility to update these forward-looking statements. And with that, let me hand the call over to Marc.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Marc Benioff",
+      "title": "Chair and CEO",
+      "content": "All right. Hey, Mike. Thanks so much for your hard work this year. It's been an incredible year. I really appreciate everyone being here on the call today. I hope you all had a great Thanksgiving and are preparing for a fantastic holiday. It's been an incredible year for many on this call, and I encourage everyone to take a couple of days off for a digital detox as we enter the season. We're incredibly excited about these results, having delivered in this remarkable quarter and year. Achieving double-digit revenue growth and a non-GAAP margin exceeding 30% is thrilling for us. When we look at our $8.7 billion quarter with a 31.2% margin, and now anticipate a 34.8% margin for fiscal year '24, it's amazing to see growth rates like 800%, 900%, and even 1,000% year-over-year. These figures have surpassed our expectations, and this success is a partnership with all of you. I want to express my gratitude for everything you've done to help us have an outstanding year. More than just a great year, it\u2019s been a transformative one. Everyone on the call knows about the significant changes we've undergone and the restructuring required for both the short and long term. We've focused on boosting profitability, productivity, and operational excellence. We've also reinforced our core relationships with you, our investors. We've committed to being the number one AI CRM, and today you\u2019ll hear more about that as we identify growth factors for our company. Many have asked why I'm so enthusiastic about this quarter. I believe it's tied to three key factors: first, the 80% growth in deals exceeding $1 million, which is far beyond our expectations. We were able to integrate our various clouds into comprehensive solutions that our customers wanted, leading to substantial transactions. Second, we're thrilled about our new product, Data Cloud, which gained 1,000 new customers in the quarter. Lastly, we've delivered Einstein GPT Copilots, a product we hadn\u2019t even envisioned a year ago. With Einstein now performing 1 trillion transactions weekly and 17% of the Fortune 100 utilizing our Copilot, the excitement around this product is palpable. These larger deals, our Data Cloud growth, and Einstein GPT Copilots all contribute to our enthusiasm for our growth this quarter. The financial metrics are equally impressive, with a $1.5 billion cash flow, a 1,000% year-over-year increase. Let me transition to structured messages before handing it over to Brian. First, we are the leading AI CRM. We\u2019re leading the industry through an unprecedented AI innovation cycle. We are the only platform integrating CRM, data, AI, and trust for our customers, enabling success across industries. For the tenth consecutive year, we hold the number one market share according to the latest IDC software tracker. We're now the number one enterprise apps company. Data Cloud, our hyperscale real-time customer data platform, is crucial for our AI transactions and large deals this quarter. In just our third quarter, Data Cloud ingested 6.4 trillion records, a 140% increase year-over-year, triggering 1.4 trillion activations, a 220% year-over-year increase. This product's timing aligns perfectly with the generative AI boom, as companies require organized data to successfully deploy AI strategies. As I've mentioned, this AI revolution is also a trust revolution, necessitating a secure data architecture that protects customer information. Revenue for the quarter reached $8.7 billion, an 11% year-over-year increase, marking us as the third-largest enterprise software company by revenue. Companies are standardizing on Salesforce by executing multi-cloud deals. Nine out of our top 10 deals involved six or more clouds. We\u2019re pleased with our commitment to improving our margins, with a non-GAAP operating margin of 31.2%, an 850 basis point increase year-over-year, following a 1,000 basis point increase in the previous two quarters. Our operating cash flow for this quarter was $1.5 billion, up 389% year-over-year, and our free cash flow was $1.4 billion, up 1,088% year-over-year. Our remaining performance obligation ended the third quarter at $48.3 billion, a 21% year-over-year increase. Now, regarding guidance, based on our strong performance, we're raising our fiscal year '24 revenue guidance to 34.8% at the high end, anticipating an 11% growth year-over-year. We're also increasing our fiscal year '24 non-GAAP operating margin guidance to 30.5%. The acceleration in margin improvement this year has been remarkable. We achieved an improvement of 850 basis points year-over-year this quarter, and I couldn\u2019t be prouder of our team's performance. The morale among team members is high, and we\u2019ve focused on strength and cohesion throughout this year. We\u2019re building our number one AI CRM and enhancing our product strategy, ensuring our sales teams effectively communicate AI success stories to customers. We're also committed to delivering new products and technologies, including the UE+ product, which has seen significant adoption this quarter due to our team\u2019s efforts. Our professional services team has excelled in providing implementations that lead to customer success. Additionally, our company culture, Ohana 2.0, is evolving, and we are proud to have earned the recognition as a Great Place to Work again, ranking seventh in the top 10. We're witnessing tremendous interest in Data Cloud and Einstein, and I\u2019ve been traveling extensively, especially over the last month. Customers are investing for the future, inspired by AI's potential to enhance productivity. They are aware of the low unemployment rates, making it challenging to hire, prompting them to seek new technologies to improve efficiency. Data Cloud played a crucial role in six of our top 10 deals this quarter, adding over 1,000 net new customers. The number of deals exceeding $1 million in Data Cloud doubled, with the average annual recurring revenue per win tripling compared to last quarter. We\u2019ve introduced a self-service switch for every EE and UE customer to easily adopt Data Cloud. Our partnerships have also been thriving, and I\u2019m excited about our ongoing work with organizations like American Cancer Society and SiriusXM, among others. We look forward to more developments, and March 8 will be a significant day for Salesforce as we celebrate our 25th anniversary. We've rebuilt the company and are well-positioned for the AI revolution, thanks to our dedicated management team. Now, Brian, please share insights on our quarter.",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "Brian Millham",
+      "title": "President and Chief Operating Officer",
+      "content": "Yeah, I really appreciate it, Marc. Thank you so much. I'm very pleased with the quarter, and it's really a testament to our laser focus on operational excellence, high performance, and profitable growth initiatives. We're seeing the results of our full-scale transformation of our company. In Q3, our non-GAAP operating margin is up an amazing 850 basis points year-over-year. And we reduced GAAP sales and marketing costs as a percentage of revenue by 6 full points. And we've matured our pricing and packaging to drive growth and simplify the buying experience. As Marc said, we're well positioned to continue to drive profitable growth as we head into the largest quarter, our largest quarter, and into next fiscal year. Despite the continued measured buying environment, we grew revenues in Q3, driven primarily by the strength of our product portfolio and multi-cloud transformational deals. In fact, the average size of our deals greater than $1 million, as Marc said, was up 80% year-over-year, doubling our net new business in this segment. And for the third consecutive quarter, we saw add-on products like sales performance management, digital service, and sales productivity grow ARR nearly 40%. As customers look for quick time-to-value solutions and productivity gains, we saw traction with our new Salesforce Starter offering with nearly 1,000 new logos added this quarter. As the number one AI CRM, companies in every industry and geography like Fujitsu, Southwest Airlines, and NZ Bank are turning to us as their trusted adviser to help them transform their business for the AI future. We're seeing amazing energy across our ecosystem with our partners, GSIs, and ISVs who are looking to build more opportunities with us around our AI offerings. And we've established new partnerships with global management consulting companies like Bain & McKinsey. And as Marc mentioned, we're expanding our existing relationship with AWS. It marks a significant milestone in the evolution of our global partnership with Amazon, deepening the integrations between AWS and Salesforce products. We're bringing together the number one AI CRM and a leading public cloud provider to deliver an open integrated data and AI platform to make it easy to find, buy and manage Salesforce products to the AWS Marketplace. Before I get into the product momentum, I want to share some operational highlights. We continue to effectively manage our expenses, as you've seen, and this is reflected in our improved non-GAAP operating margin, which exceeded 31%. Today, our execution, inspection, and understanding of our customers' buying and approval process is better than ever. Our focus on high performance is a driver of growth is paying huge dividends in Q3. We saw more than a 30% increase in AE productivity year-over-year. We're also refining and scaling our big deal motion and further bundling products to drive higher sales and simplify the buying experience for our customers. And we're doing all this while becoming more effective and efficient. I've been impressed with how quickly we deployed our own trusted generative AI tools and applications internally. We've launched Sales, GPT, and Slack Sales, Elevate internally, and our global support team is live with Service GPT, and we're seeing incredible results. We've streamlined our quoting process with automation, eliminating over 200,000 manual approvals so far this year. And since the introduction in September, our AI-driven chatbot has autonomously resolved thousands of employee-related queries without the need for human involvement. We're seeing great success with our products and so our customers, which is clearly reflected in the high-level engagement and participation we're seeing in our events. In addition to Dreamforce, we hosted 80% of our top customers for the quarter. We also held an amazing 450 customer events in our offices with nearly $2 billion in pipeline. And as we close out the year, we have a New York City world tour coming up on December 14. I hope you all can join us in person. And if you can't, we hope you join us on Salesforce+. We continue to hire selectively across key growth areas, especially in data cloud and AI, and we've seen the highest demand to join Salesforce in our history with the largest volume of applications in any quarter ever. Our growth initiatives across our core products, data, AI, industries, and international drove our strong performance in the quarter. And as Marc outlined, we're seeing strong momentum in Data Cloud and Einstein. Importantly, we're already seeing high demand for our new premium UE+ bundle as customers recognize the value of our integrated solutions with Einstein AI functionality and Data Cloud built in. And our existing customers increased their spend with us by more than 70% when they upgraded to UE+. Industry clouds continue to be a tailwind to our growth, chosen by customers like Humana and U.S. Agency for internal development and RBC Wealth Management U.S. For the first time this quarter, nine of 13 Industry Clouds grew ARR above 50%. We're seeing continued MuleSoft growth, which was in eight of our top 10 deals this quarter and delivered an amazing 140 billion automated flows, up 142% year-over-year. And Tableau, which is fully integrated with the Data Cloud, continues to help customers like Rubrik, Canara Bank, and U.S. Navy see and understand their data and make data-driven decisions. In the quarter, we did continue to see macro trends affect our business, in particular, our professional services business, our create and close sales motion, and our Slack self-service business. Despite those headwinds, Slack was included in seven of our top 10 deals. Every day this quarter, there were 700 million Slack messages sent and 2.75 million workflows ran on the Slack platform. We recently announced Denise Dresser as the new CEO of Slack, and I've had the chance to work with Denise for a dozen years and could not be more thrilled for her, and importantly, for the Slack business. Before I hand it off to Amy, I want to share some key numbers and highlights on how we deliver for our customers during Cyber Week. Commerce Cloud powered nearly 50 million orders on digital storefronts across Cyber Week with 100% uptime. Einstein powered more than 49 billion product recommendations, and over 53 billion marketing messages were sent via the Marketing Cloud. In addition, Service Cloud helped our customers field and resolve 3.7 billion cases. This clearly demonstrates the scale and reliability of our number one AI CRM platform. So in closing, we're heading into Q4 with a ton of energy and ambition, guiding our customers through a new innovation cycle with an unwavering commitment to their success. I, like Marc, am extremely proud of the team with the changes that we've made not just in Q3 but over the last year. And as I said earlier, we're well positioned for Q4 and as we head into fiscal year '25. And with that, I'll turn it over to you, Amy.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Amy Weaver",
+      "title": "President and Chief Financial Officer",
+      "content": "Great. Thanks, Brian. Q3 represents another strong quarter of strong execution and discipline. As you heard from both Marc and Brian, we've transformed the company over the past 12 months to drive consistent, profitable growth. And we are pioneering the next wave of innovation with data, AI, CRM, and trust. Now let's get right to the results. For the third quarter, revenue was $8.7 billion, up 11% year-over-year and 10% in constant currency. This represents a $40 million beat in constant currency. The growth was primarily driven by continued MuleSoft momentum and resilient sales and service performance. From a geographic perspective, the Americas revenue grew 9%, EMEA grew 14% or 10% in constant currency, and APAC grew 18% or 21% in constant currency. We saw strong new business growth in India, Brazil, and Japan, while parts of EMEA were more constrained. From an industry perspective, the public sector performed very well while high tech and general continue to be more measured. And as Brian mentioned, our multi-cloud momentum continues. In Q3, nine of our top 10 deals included six or more clouds. Q3 revenue attrition remained strong and ended the quarter again at approximately 8%. In Q3, our non-GAAP operating margin was 31.2%, up 850 basis points year-over-year. Our strong margin outperformance was driven by our continued disciplined investment strategy. Q3 operating cash flow was $1.5 billion, up 389% year-over-year. Q3 free cash flow was $1.4 billion, up 1,088% year-over-year. This upside in cash flow was driven primarily by strong collections as well as lower cash outflow that results in higher margins, just discussed. Now turning to remaining performance obligations, RPO, which represents all future revenue under contract, ended Q3 at $48.3 billion, up 21% year-over-year. Current remaining performance obligation, or CRPO, ended at $23.9 billion, up 14% year-over-year and 13% in constant currency. This was ahead of expectations, primarily driven by strong early renewal performance as well as a large customer win in the quarter. This was partially offset by a one-point headwind from professional services that we had cautioned about last quarter. Finally, we continue to deliver on our capital return commitment. In Q3, we returned another $1.9 billion in the form of share repurchases. And to date, we have exceeded our initial authorization of $10 billion in just over five quarters. Before moving to guidance, I want to reiterate that we continue to assume a consistent measured customer buying environment. Let's start with full year fiscal year '24. On revenue, we are narrowing our guidance range to $34.75 billion to $34.8 billion, representing 11% growth year-over-year in nominal terms. We are now expecting a $50 million FX headwind, which implies a modest raise in constant currency. On margins, we have made incredible progress on profitability and productivity this year. For fiscal year '24, we are very pleased to raise non-GAAP operating margin guidance again to 30.5%, representing an 800 basis point improvement year-over-year. We also remain focused on stock-based compensation, which is now expected to be approximately 8% as a percent of revenue. As a result of these updates, we now expect fiscal year '24 GAAP diluted EPS of $3.99 to $4, including estimated charges for the restructuring of $0.91. Non-GAAP diluted EPS is now expected to be $8.18 to $8.19. We are raising our fiscal year '24 operating cash flow growth guidance to approximately 30% to 33%, and this continues to include a 14- to 16-point headwind from restructuring. The upside in our cash flow guidance is driven by strong collections to date and our continued expense discipline. CapEx for the fiscal year is expected to be slightly below 2.5% of revenue. This results in free cash flow growth of approximately 33% to 36% for the fiscal year. And as we focus on shareholder return and disciplined capital allocation, we continue to expect to fully offset our stock-based compensation dilution through our share repurchases in fiscal year '24. In fact, as a result of our ongoing share repurchases, for the first time in company history, we expect the full year's ending share count to decrease year-over-year. Now to guidance for Q4. On revenue, we expect $9.18 billion to $9.23 billion, growth of 10% in both nominal and constant currency. CRPO growth for Q4 is expected to be 10% year-over-year in nominal terms and 11% in constant currency. Similar to this past quarter, we expect professional services headwinds of one point to CRPO growth. For Q4, we expect GAAP EPS of $1.26 to $1.27 and non-GAAP EPS of $2.25 to $2.26. As we look forward to our largest quarter of the year, we remain focused on strong execution and our disciplined investment strategy. In closing, I want to echo both Marc and Brian. This was a great quarter, but even more than that, this has been an extraordinary year of transformation. I want to thank our shareholders for their continued support, and I particularly want to thank our employees for their incredible work throughout the past year. Now Mike, let's open up the call for questions.",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "Michael Spencer",
+      "title": "Executive Vice President of Investor Relations",
+      "content": "Thanks, Amy. Operator, we'll move to questions now. Out of courtesy for others on the call, we ask that each person participating only ask one question. And with that, operator, we'll take the first question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our first question comes from the line of Kirk Materne with Evercore ISI. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Kirk Materne",
+      "title": "Analyst",
+      "content": "Thank you very much and congratulations on a strong quarter in a challenging market environment. I'm not sure if Marc or Brian wants to address this, but MuleSoft's growth in light of a difficult comparison stands out this quarter. I was wondering if you could discuss whether we should interpret that as a sign of increasing interest in the broader Data Cloud offering. Additionally, is the interest in MuleSoft indicative of a growing interest in AI as people work to organize their data in preparation for the upcoming AI wave? Thank you.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Marc Benioff",
+      "title": "Chair and CEO",
+      "content": "I'm going to have Brian really give you the detail, but what I'll tell you is, you're seeing something that we have been seeing and calling out for the last few quarters, but we probably have not been able to illuminate it to the level that you see now in the numbers, which is that every customer and every customer transformation and every customer AI transformation is going to begin and end with data. And for us to achieve that goal, those customers are going to have to get to another level of excellence with their data. And at the heart and soul of that for many of these customers is becoming MuleSoft. So in addition to Einstein, in addition to Data Cloud, in addition to our Copilot technology that we called out, it's been a lot about MuleSoft this year. And we think that, that trend is going to continue and it's very exciting, and that we're very well positioned with this completely unique product that is helping our customers bring all their data together for their AI transformations. Brian?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Brian Millham",
+      "title": "President and Chief Operating Officer",
+      "content": "Kirk, thanks for the question. I think you nailed it. It's exactly what's happening out there. The data is becoming such an important asset for our customers that they want to bring it all together and leverage our MuleSoft technology to do it. And so, it's really an exciting opportunity. As we stated, it was eight of our 10 top deals in the quarter. And you can see the amount of data flowing through MuleSoft as an indicator for how important the data is, 142% up year-over-year on automated flows on the platform. I'd be remiss if I also didn't call out the leader there and Eric Eyken-Sluyters, who's done an incredible job in leading the sales organization as well. And so, I think you nailed it in your question. This is a really important critical product for us and for our customers as we think about scaling to the future.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Michael Spencer",
+      "title": "Executive Vice President of Investor Relations",
+      "content": "Thanks, Kirk. Operator, we will take the next question, please.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your next question comes from the line of Raimo Lenschow with Barclays. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Raimo Lenschow",
+      "title": "Analyst",
+      "content": "Congratulations to everyone involved. Brian, you mentioned the significant increase in sales productivity this year, which is quite impressive. Can you share how you achieved this milestone and where we stand on this journey moving forward? Thank you.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Brian Millham",
+      "title": "President and Chief Operating Officer",
+      "content": "Thank you for the question. This is obviously a significant focus for us, and we've discussed it in previous calls. It's an ongoing journey, and we aim to enhance productivity for our account executives. We mentioned a substantial deal this quarter that contributed to that productivity. Overall, we experienced a strong increase in productivity, emphasizing a couple of key areas. First, we prioritized enablement for all our sellers to ensure they fully understand our diverse product portfolio and can effectively communicate this to our customers. We also focused on understanding our customers' buying processes better, which was an area where we faced challenges last year. We've conducted a thorough review of our business, including our pipelines and cycles, to drive improvements. We're concentrating on the value we offer to customers regarding the returns they can expect from their investments in Salesforce, ensuring we grasp this fully before presenting proposals. Lastly, I\u2019m proud of the comprehensive inspection happening across the board, particularly with our new sales leader, Miguel Milano, who has introduced a new discipline to our approach in analyzing pipelines, not just for the current quarters but also for future ones. This discipline is contributing significantly to our productivity results. Thank you for the question.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Michael Spencer",
+      "title": "Executive Vice President of Investor Relations",
+      "content": "Thanks, Raimo. Operator, we will take the next question, please.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your next question comes from the line of Keith Weiss with Morgan Stanley. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Keith Weiss",
+      "title": "Analyst",
+      "content": "Excellent. Thank you, guys for taking the question and a very nice quarter. I wanted to ask about the 17% of the Fortune 500 that are the Einstein GPT Copilot customers. Really impressive figure. Really early in a technology cycle, because a lot of what we're hearing is a lot of exploration out there, a lot of people trying to figure out what to do with these tools, not a lot of buying. So can you give us a little bit of color on kind of what's driving that adoption and what's enabled you guys to get such good adoption so quickly? And maybe if I could sneak one in for Amy as well. Great margin expansion this year, but there's a lot of stuff you guys need to be investing against with this technology cycle. Should we expect to see further margin expansion as we head into FY '25? Thank you, guys.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Amy Weaver",
+      "title": "President and Chief Financial Officer",
+      "content": "Great. Do you want me to take this first?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Marc Benioff",
+      "title": "Chair and CEO",
+      "content": "Yes.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Amy Weaver",
+      "title": "President and Chief Financial Officer",
+      "content": "Okay, Keith. Always looking for that margin expansion, always looking for a little bit more guidance, but really happy to address this. We've had fantastic margin expansion this year, I mean, up 800 basis points for the end of the year. If I look back over the last three years, we have gone from 17.7% three years ago to we'll be ending this year over 30% on operating margin, which I am just thrilled about. I think that we do have some room here. As I've said before, we view this as a floor, not a ceiling on our success, and we intend to continue our focus on operating margin. In terms of investments, it's all a matter of priorities. We cut deeply earlier this year, and we've really been using that to invest in the areas of the business that we see as most strategic going forward. And we've been very disciplined, especially around headcount as we've been doing that. Right now, I really see areas of investment in AI and Data Cloud. In distribution, we're looking at those success stories like MuleSoft and doubling down. But we're also being very careful on how we do that. We are questioning levels. We are questioning locations. We're making sure that we're maximizing really high-scale, lower-cost locations as well. So I feel like we've got the room to do this, and we have the opportunities to invest in our future as well as to manage our margin very efficiently.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Brian Millham",
+      "title": "President and Chief Operating Officer",
+      "content": "Yeah. I'll just add a little bit there, too, Amy. I think we have really a team focused on the margin expansion. We want to continue to simplify our go-to-market strategies, how we optimize our pricing and packaging going forward as well. We talked about some of the things that we're doing there. New channels to market. We're really excited about the AWS Marketplace as a new channel to market for us. Amy mentioned location strategies, how do we continue to look at our real estate portfolio as an opportunity, how do we leverage our own technology, sales force on Salesforce, and using our own products to drive more efficiency and automation in our business. So lots of opportunity to continue to do this. I\u2019m excited about the culture and structural change in the way that we\u2019re thinking about margin expansion in the company, and I think you\u2019ll continue to see that. So thank you, Keith. And then on the Fortune 500 that are using it, you\u2019re right, it is early days. And as we said in the script, a lot of our customers are starting to trial and use this technology to see the benefits around productivity and cost takeout, leveraging the technology. But as we\u2019ve also said, the data is an important aspect of this. And how do they clean up and harmonize their data first before they start to roll out these AI technologies broadly? How do you trust the output that you\u2019re getting from your AI investments? And so what we found in conversations with our customers is an energy around and excitement around AI, but in a need to clean up the data first before they can really take advantage of this. And we\u2019ll continue to see the expansion. The 17% is great. We want to continue to go faster there, and we\u2019re going to work with our customers to go drive those outcomes.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Michael Spencer",
+      "title": "Executive Vice President of Investor Relations",
+      "content": "Thanks, Keith. Operator, we will take next question, please.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your next question comes from the line of Mark Murphy with JPMorgan. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Mark Murphy",
+      "title": "Analyst",
+      "content": "Thank you and congrats on an amazing performance. Marc, part of the story of 2023 has been optimizations weighing on hyperscaler spend and then greater scrutiny on seat-based SaaS licenses. We are now starting to hear from hyperscalers that the optimizations are attenuating. Do you sense that a shift in mentality spilling over a little into the thought process, for example, for Sales Cloud seats or perhaps some excitement sparked by Sales GPT and freeing up some budget there on gen AI that maybe wasn't there six months ago?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Marc Benioff",
+      "title": "Chair and CEO",
+      "content": "I believe the primary trend we're observing is customers striving for greater productivity. This AI revolution is a movement towards enhanced productivity, making every customer experience significantly more augmented. During my visit to Tokyo, I noted that the yen is quite weak, which clearly impacts our financial performance; our results would be much better if the yen were stronger. I had the chance to visit a couple of retail stores belonging to our customers, and I was particularly impressed with Louis Vuitton. Upon entering their store, they recognized me immediately. Even in Tokyo, I continually test this with various customers, and my experience was remarkable. They utilize an impressive app developed on our platform called ICON. They have access to my complete customer data and purchase history, guiding their sales associates on how to engage with me and what products I might be interested in. This has turned into a productivity revolution for them, enabling them to achieve significantly better results with our technology. In contrast, I visited another store that isn't one of our customers, and I still need to follow up with their CEO because the customer experience there was quite poor. They had no knowledge of who I was and struggled to assist me, causing the transaction to take several times longer than it should have due to a lack of automation. The product revolution had not reached that company. Reflecting on those companies that have thrived, Louis Vuitton and the Kering Group stand out. I was also inspired in Japan by Goto-san, the CEO of Seibu, who leads a fantastic hotel chain called Prince Hotels. They are developing a next-gen loyalty system using Salesforce, having achieved notable success in marketing their hotels and enhancing customer engagement in both B2B and B2C contexts. Now, they are poised to elevate their game with the Data Cloud, which will enable an advanced loyalty management system vital for their growth. I also spoke with the Head of Technology at Toyota, who shared that they've fully automated all Toyota dealerships in Japan, which has been a remarkable success, thanks to our partnership with Toyota Media Services. Now, we aim to elevate our vision by enhancing the connected car experience, linking all Toyota vehicles directly to our Data Cloud. This will allow us to proactively provide customer information and interactivity as it meets various thresholds. The future opportunities I see revolve around productivity, automation, and a global approach for these companies, ultimately leveraging groundbreaking artificial intelligence technology that was previously unattainable.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Amy Weaver",
+      "title": "President and Chief Financial Officer",
+      "content": "Marc, if I could weigh in there as well. I think Marc stated it well. Companies are still really focused right now in this environment, on productivity, on automation, and on time to value. You certainly see it from the CFO as my counterparts around the world. Real focus on every dollar that's being spent. We're now entering our sixth quarter of measured customer buying behavior and we're saying that this has been continuing recently. And that does reflect, particularly in areas like SMB, self-serve, create and close, you see this in professional services. But I'm also really excited about what we're seeing in terms of how we can step in and really help our customers get to their goals. Brian, I don\u2019t know if you have anything to add.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Brian Millham",
+      "title": "President and Chief Operating Officer",
+      "content": "No, that\u2019s great, Amy. Exactly what I was going to say, a lot of demand at the top of the funnel for us for new technologies like Data Cloud and like AI, but also seeing some headwinds, no doubt, from our more transactional business, as you stated. So Mark, thank you for the question.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Michael Spencer",
+      "title": "Executive Vice President of Investor Relations",
+      "content": "Thanks, Mark. Operator, we will take the next question, please.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your next question comes from the line of Brent Thill with Jefferies. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brent Thill",
+      "title": "Analyst",
+      "content": "Marc, there has been a significant improvement in deals over $1 million, with an 80% increase year-over-year. You mentioned a larger contract that you've secured. I'm curious to know if you believe this reflects a new environment or if it indicates that Miguel and the team are better collaborating in the field. Any additional insights on the larger deal front would be appreciated.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Marc Benioff",
+      "title": "Chair and CEO",
+      "content": "There's been a lot of discussion among the management team about how to address this question. We want to be clear that we don't believe this environment is behind us just yet. However, we see many promising signs and opportunities. Customers seem excited, and my trip to Japan was particularly eye-opening. A year ago, it still felt like the pandemic was affecting everyone, with employees wearing masks during lunch. Now, it felt like things were returning to normal, and customers seem to be moving past that pandemic phase. While we hesitate to claim that everything is back to normal, we acknowledge there are numerous positive developments in our products and different markets, as evidenced by our growth rate in significant deals. We're enthusiastic, but we're not ready to declare we've turned a corner. Many customers are still cautious in their purchasing decisions, as you've likely heard from them and our channel partners. However, there is a noticeable decrease in that caution compared to before. Globally, and from my recent experiences in places like San Francisco, Los Angeles, Las Vegas, Stuttgart, and Japan, I've consistently found customers excited about AI, across government and commercial sectors alike. Despite their excitement, there remains considerable confusion about AI's capabilities, which presents us with valuable opportunities to educate our customers about both the successes and realities of AI in enterprises. During my visit to Vegas, customers enthusiastically welcomed me at the Wynn Hotel, showcasing their use of our products. My frequent visits to Disneyland have shown how they are leveraging Salesforce and Slack to enhance their operations, particularly for Disney+. This has been a remarkable success story for them, and there are significant opportunities for deeper integration of AI. I can envision a future where AI-driven interactions enhance the visitor experience, like personalized conversations at Disney parks, which speaks to the strong vision Bob Iger has for the company's future with AI. A year ago, we didn't yet have hands-on experience with models like ChatGPT or other AI technologies, but today, we are in the midst of a technological revolution. It's essential we ensure this revolution is built on trust, focusing on AI, CRM, and data breakthroughs. We are making progress with our Data Cloud, but there is still much work to be done in the AI space, particularly regarding safety. Many customers wish to harness AI's full potential autonomously, but we're not quite there yet due to challenges like hallucination and toxic outputs. Each day, we see improvements. While we're not at the level envisioned in the movie Minority Report, there is a noticeable increase in automation based on customer records, which aligns with what our customers want and expect from us.",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "Michael Spencer",
+      "title": "Executive Vice President of Investor Relations",
+      "content": "Thanks, Brent. Operator, we will take the next question, please.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your next question comes from the line of Karl Keirstead with UBS. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Karl Keirstead",
+      "title": "Analyst",
+      "content": "Okay. Great. Maybe I'll direct this to Amy and Brian. Salesforce obviously made a fairly significant pricing change early in the fourth quarter. And maybe, Brian, I'd love to get some color on the receptivity. And Amy in particular, is there a way you might frame the extent to which the price change may have impacted the guidance for 11% constant currency in the fourth quarter? And also, was that perhaps one of the drivers for the early renewals that you saw in 3Q as some customers maybe wanted to get in front of it? Thanks so much.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Brian Millham",
+      "title": "President and Chief Operating Officer",
+      "content": "Hey, Karl. Thanks for the question. Appreciate it. Price increases landed as well as the price increase can, I guess, with our customers out there. I think when we're delivering value to our customers and they're seeing benefits from our technology, we feel good about our ability to go execute against this. It's still early, honestly. We just introduced this a few months ago. And so we have seen certainly some benefits from it. But we'll see these benefits roll in over the next really three years as these contracts come up for renewal. And so yes, there's been receptivity to it but the big impact will be seen over the next three years. We're not going to see it in the near term, honestly, in our numbers. Amy, any comments?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Amy Weaver",
+      "title": "President and Chief Financial Officer",
+      "content": "Thanks, Brian. Karl, Brian pretty much summed it up. As we mentioned last quarter, we do not anticipate a material impact from pricing in the guide this year. That said, I have been very pleased by the execution and the discipline that we're showing around rolling this out. And an uplift really needs to roll for the full renewal installed base, which is going to take some time.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Michael Spencer",
+      "title": "Executive Vice President of Investor Relations",
+      "content": "Thanks, Karl. Operator, we will take the next question, please.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your final question will come from the line of Brad Sills with Bank of America. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brad Sills",
+      "title": "Analyst",
+      "content": "Wonderful. Thank you so much. Great to see all the success here with Data Cloud. I'm not surprised we're hearing that in the channel. My question is really around the organization, the team that's responsible for executing on this and how they plug into the different product groups. Data scientists in this day and age are a rare commodity and you clearly are attracting that. So would love to get a sense for that organization, how it's evolved and how well integrated they are across the different product groups. Thank you.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Marc Benioff",
+      "title": "Chair and CEO",
+      "content": "I believe the primary focus of the company is centered around the Data Cloud. When we launched this initiative, our intention was to create a Customer Data Platform, which seemed like a promising market opportunity, especially since we lead in enterprise marketing automation. However, as we progressed, it became clear that every one of our clouds requires this Data Cloud. Sales Cloud and Service Cloud need it, and Marketing Cloud, which we refer to as the CDP, also relies on it. Additionally, Slack and Tableau both require a Data Cloud. My recent demonstrations with Tableau customers in Japan highlighted their need for a strong Data Cloud integrated with Tableau. We envision the Data Cloud becoming the core of our product ecosystem, serving as the engine behind all Salesforce applications. Users will have the option to utilize our AI models or integrate their own, which is an impressive feature. The capacity of the Data Cloud is remarkable, managing vast amounts of data and ingesting even more. As we delve deeper into this, you will see the extensive volume of data we are processing, amounting to trillions of transactions. This will be crucial for enabling enterprises to harness AI for productivity. However, enterprises will face challenges when using AI tools from other providers that lack comprehensive data. While those tools can work with basic data from current applications, they often miss the broader normalized data framework necessary for effective AI assistance. For example, when composing an email, asking a Copilot to revise it can yield entertaining results, but when it comes to drafting a personalized email about a customer\u2019s contract renewal, we\u2019re able to leverage rich data to provide significant value. This insight will only be available from companies with extensive data, and we are fortunate to be one of them. We\u2019re accumulating data at an unprecedented rate, thanks in part to the Data Cloud, which enhances our existing data capabilities. This is a pivotal time for Salesforce. The demonstrations at Dreamforce were impressive, and those we plan to showcase in our February release will astound customers. By the time we approach Dreamforce '24 in September 2024, the advancements we\u2019ll achieve will surpass anything we could have envisioned just 24 months prior, as generative AI has transformed the entire sector. It\u2019s clear that no single company dominates this space. The open-source model has democratized AI, making sophisticated models and responses widely accessible. We have always believed in AI\u2019s potential growth accompanying open-source development, and this shift allows us to accelerate progress without traditional limitations regarding proprietary models or costs. We expect rapid advancements, comparable to the evolution of mobile operating systems, which are typically developed by a small number of companies. In contrast, this technology is being innovated collectively by thousands of teams, leading to unprecedented innovation rates in our industry, pushing us into exciting yet possibly challenging areas. This is indeed an exhilarating time.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Michael Spencer",
+      "title": "Executive Vice President of Investor Relations",
+      "content": "Great. Thanks, Brad. With that, we'll conclude the call. We appreciate everyone joining the call and wish everyone a happy holiday season. Thank you.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Brian Millham",
+      "title": "President and Chief Operating Officer",
+      "content": "Happy holidays, everyone. Thanks, everybody.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Amy Weaver",
+      "title": "President and Chief Financial Officer",
+      "content": "Bye, everyone. Thank you.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And that concludes today's call. Thank you all for joining. You may now disconnect.",
+      "sentiment": "0.0"
+    }
+  ],
+  "reported_date": "2024-08-28"
+}

@@ -1,0 +1,373 @@
+{
+  "symbol": "AMD",
+  "quarter": "2024Q3",
+  "transcript": [
+    {
+      "speaker": "Mitch Haws",
+      "title": "Vice President of Investor Relations",
+      "content": "Thank you, and welcome to AMD's third quarter 2024 financial results conference call. By now, you should have had the opportunity to review a copy of our earnings press release and the accompanying slides. If you have not had the chance to review these materials, they can be found on the Investor Relations page of amd.com. We will refer primarily to non-GAAP financial measures during today's call. The full non-GAAP to GAAP reconciliations are available in today's press release and the slides posted on our website. Participants on today's conference call are Dr. Lisa Su, our Chair and Chief Executive Officer; and Jean Hu, our Executive Vice President, Chief Financial Officer and Treasurer. This is a live call and will be replayed via webcast on our website. Before we begin, I would like to note that Forrest Norrod, Executive Vice President and General Manager, Data Center Business Solutions, will attend the UBS Annual Technology Conference on Tuesday, December 3, and Jean Hu will attend the Barclays Global TMT Conference on Thursday, December 12. Today's discussion contains forward-looking statements based on current beliefs, assumptions and expectations, speak only as of today and as such, involve risks and uncertainties that could cause actual results to differ materially from our current expectations. Please refer to the cautionary statement in our press release for more information on factors that could cause actual results to differ materially. With that, I'll hand the call over to Lisa.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Dr. Lisa Su",
+      "title": "CEO",
+      "content": "Thank you, Mitch, and good afternoon to all those listening today. We delivered strong top- and bottom-line growth in the third quarter with revenue coming in above expectations, driven by record Instinct and EPYC product sales and robust demand for our Ryzen PC processors. Third quarter revenue increased 18% year-over-year to a record $6.8 billion as significantly higher Data Center and Client Processor sales more than offset declines in Gaming and Embedded product sales. We expanded gross margin by 2.5 percentage points and increased earnings per share by 31% year-over-year as Data Center segment revenue more than doubled. Turning to the segments. Data Center segment revenue increased 122% to a record $3.5 billion. We believe we gained server CPU share in the quarter as Enterprise wins accelerated. Cloud providers expanded their use of EPYC CPUs across their infrastructure, and we began the initial ramp of fifth-gen EPYC processors. EPYC has become the CPU of choice for the modern data center and our multi-generation product portfolio delivers leadership performance and significant total cost of ownership advantages across virtually every enterprise and cloud workload. In cloud, EPYC CPUs are deployed at scale to power many of the most important services, including Office 365, Facebook, Teams, Salesforce, SAP, Zoom, Uber, Netflix, and many more. Meta alone has deployed more than 1.5 million EPYC CPUs across their global data center fleet to power their social media platforms. Cloudflare selected general-purpose X processors with our industry-leading 3D chiplet stacking technology to power their next-generation servers that support twice as many requests per second and deliver 60% higher performance per watt compared to their prior generation. Public cloud instances increased 20% year-over-year to more than 950 as Microsoft, AWS, and others launched or expanded their EPYC processor-powered offerings in the quarter. EPYC instance adoption with Enterprise customers also grew in the quarter, highlighted by wins with Adobe, Boeing, Micron, Nestle, Slack, Synopsys, Tata, and others. In the Enterprise, sales grew by a strong double-digit percentage year-over-year for the fifth straight quarter as EPYC CPU adoption accelerated and sell-through momentum grew. Dell, HPE, Lenovo, and others have expanded the number of fourth-gen EPYC platforms they offer by 50% in the last year. There are now more than 200 different EPYC solutions available that are optimized for a broad range of enterprise and edge workloads. We are building strong momentum with large Enterprise customers, highlighted in the third quarter by wins with large technology, energy, financial services, and automotive companies including Airbus, Daimler Truck, FedEx, HSBC, Siemens, Walgreens, and others. We launched our next-generation Turin family earlier this month that delivers absolute performance and total cost of ownership leadership across both Enterprise scale up and Cloud-native scale-out workloads. Turin has already set more than 130 performance records for virtualization, database, AI, business applications, and energy efficiency, with the full EPYC portfolio accounting for more than 500 performance world records. More than 130 fifth-gen EPYC enterprise platforms are in development from all the leading server OEMs and ODMs. These new servers complement existing fourth-gen EPYC platforms providing a top-to-bottom stack of platforms optimized for a broad range of business applications. In Cloud, Google and OCI announced plans to launch fifth-gen EPYC instances early next year, and we expect broad adoption with our largest cloud customers based on the significant performance and efficiency advantages of Turin. As an example, Oracle's Turin instances delivered 35% higher performance per core, 33% faster memory speeds, and double the networking bandwidth delivering a level of compute performance and capability that is only possible with EPYC CPUs. Looking ahead, we are very well positioned for continued growth in share gains based on the strength of our broad EPYC portfolio and the momentum we have built with Cloud and Enterprise customers. We also took a major step in the quarter to advance the x86 architecture, forming an ecosystem advisory group with Intel, several industry luminaries, and the largest cloud PC and enterprise leaders to accelerate innovation by driving consistency and compatibility across both the x86 instruction set and architectural interfaces and ensuring we evolve x86 as a compute platform of choice for developers and customers. Turning to our Data Center AI business, Data Center GPU revenue ramped as MI300X adoption expanded with cloud, OEM, and AI customers. Microsoft and Meta expanded their use of MI 300X accelerators to power their internal workloads in the quarter. Microsoft is now using MI 300X broadly for multiple co-pilot services powered by the family of GPT-4 models. Meta announced they have optimized and broadly deployed MI 300X to power their inferencing infrastructure at scale, including using MI300X exclusively to serve all live traffic for the most demanding Llama 405B frontier model. We are also working closely with Meta to expand their Instinct deployments to other workloads where MI300X offers total cost of ownership advantages, including training. MI300X public cloud instance availability expanded in the quarter with Microsoft, Oracle Cloud, and multiple AI-specialized cloud providers now offering Instinct instances with leadership performance and total cost of ownership for many of the most widely used models. Instinct cloud instance adoption is strong with multiple start-ups and industry leaders adopting MI300 instances to power their models and services, including Essential AI, Fireworks AI, Luma AI, and Databricks. On the AI software front, since launching MI300 10 months ago, we have expanded functionality at every layer of the ROCm stack and increased the number of models that run out of the box on Instinct accelerators to more than 1 million, enabling customers to get up and running as fast as possible with maximum out-of-the-box performance. With the release of ROCm 6.2 last quarter, MI300X inferencing performance has improved 2.4 times since launch, and trading performance has increased by 80%. We are working closely with a growing number of marquee Cloud and Enterprise customers to fine-tune their specific inferencing workloads for MI300, with many customers seeing 30% higher performance compared to competitive offerings. We continue to expand our work with the open-source community, broadening support for key frameworks like JAX, libraries like vLLM, and hardware-agnostic compilers like Triton. At our advancing AI event earlier this month, we were excited to be joined by the creators and leaders of some of the most important AI software technologies who have added foundational support for ROCm into Triton, the Llama Stack, SGLang, vLLM, and TensorFlow and are working to enable broader open-source community work with Instinct platforms. With this growing support from the broader AI software ecosystem and the significant advances we have made in our software stack, ROCm now provides AI developers with a truly open software alternative that has been deployed and validated at scale. To expand our AI systems capabilities, we announced a definitive agreement to acquire ZT Systems, one of the leading providers of AI infrastructure to the world's largest hyperscale computing companies. The ZT team complements our silicon and software capabilities with critical systems expertise needed to deliver rack and cluster-level solutions. With ZT we will be able to design and validate our next-gen AI silicon and systems in parallel, greatly accelerating time to deploy instant accelerators at data center scale. Customer feedback has been very positive as the ZT acquisition enabled hyperscale customers to rapidly deploy AMD AI infrastructure at scale and provides OEMs and ODMs with optimized board and module designs for a wide range of differentiated Enterprise solutions. On the regulatory front, we made good progress as we recently passed the HSR waiting period required for U.S. approval. We remain on track to close the acquisition in the first half of 2025. As a reminder, we plan to divest ZT's industry-leading U.S.-based data center infrastructure manufacturing business at the close of the transaction and are pleased that we have received significant interest from a number of parties to date. Looking ahead, we launched our next-gen MI325X GPU earlier this month that extends our memory capacity and bandwidth advantages and delivers up to 20% higher inferencing performance compared to H200 and competitive training performance. Customer and partner interest for MI325X is high. Production shipments are planned to start this quarter with widespread system availability from Dell, HP, Lenovo, Super Micro, and others starting in the first quarter of 2025. Longer term, we have successfully accelerated our product development pace to deliver an annual cadence of new Instinct products. Our next-gen MI350-series silicon is looking very good and is on track to launch in the second half of 2025 with the largest generational increase in AI performance we have ever delivered. Development on our MI400 series based on the CDNA Next architecture is also progressing very well towards a 2026 launch. We have built significant momentum across our data center AI business with deployments increasing across an expanding set of Cloud, Enterprise, and AI customers. As a result, we now expect Data Center GPU revenue to exceed $5 billion in 2024, up from $4.5 billion we guided in July and our expectation of $2 billion when we started the year. Turning to our Client segment. Revenue was $1.9 billion, an increase of 29% year-over-year, driven by strong demand for our latest generation Zen 5 notebook and desktop processors. Desktop channel sales grew by a significant double-digit percentage led by the launch of our Ryzen 9000 series processors that deliver leadership productivity, gaming, and content creation performance. We are seeing strength across our Ryzen desktop portfolio and are on track to launch our next-gen Ryzen 9,000 X3D processors in November with leadership gaming performance. In mobile, Ryzen AI 300 Series sales ramped significantly from the prior quarter as Acer, HP, Lenovo, Asus, and others announced new consumer and commercial notebooks with leadership compute and AI performance. We made good progress expanding our presence in the commercial PC market in the quarter, closing multiple large deals with AstraZeneca, Bayer, Mazda, Shell, Volkswagen, and other Enterprise customers. We also launched our Ryzen AI Pro 300 Series family, the first CPUs with enterprise-class security, manageability, and AI capabilities for CoPilot Plus PCs. HP and Lenovo are on track to more than triple the number of Ryzen AI Pro platforms they offer in 2024, and we expect to have more than 100 Ryzen AI Pro commercial platforms in market next year, positioning us well for share gains as businesses refresh the hundreds of millions of Windows 10 PCs that will no longer receive Microsoft technical support starting in 2025. Now turning to our Gaming segment. Revenue declined 69% year-over-year to $462 million. Semi-custom sales declined as Microsoft and Sony reduced channel inventory. Sony announced the PS5 Pro with significant increases in graphics and ray tracing performance and AI-driven upscaling, featuring a new AMD semi-custom SoC that extends our multigenerational partnership. In Gaming Graphics, revenue declined year-over-year as we prepare for a transition to our next-gen Radeon GPUs based on our RDNA 4 architecture. In addition to a strong increase in gaming performance, RDNA 4 delivers significantly higher ray tracing performance and adds new AI capabilities. We are on track to launch the first RDNA 4 GPUs in early 2025. Turning to our Embedded segment, third quarter revenue decreased 25% year-over-year to $927 million. Embedded demand continues recovering gradually, led by strength in test and emulation offset by ongoing softness in the industrial market. Momentum continues building for our differentiated Versal family of adaptive SoCs, led by strong demand for our Versal premium VP 1902, which is the world's largest adaptive SoC in FPGA that is powering multiple platforms for all three of the largest EDA vendors. Our Versal portfolio is also being adopted broadly across multiple aerospace customers. As one example, SpaceX recently launched their latest generation broadband satellites powered by Versal AI Core adaptive SoCs. To build on this momentum, we taped out Telluride last quarter, the first product in our second-gen Versal family that delivers up to 10 times more compute and enables AI application acceleration on a single chip. Design win momentum is very strong across our portfolio, tracking to grow more than 20% year-over-year in 2024 and positioning us well to grow our embedded business faster than the overall market in the coming years. In summary, the business accelerated in the third quarter, and we expect strong demand for our Instinct EPYC and Ryzen processors to result in another quarter of significant year-over-year growth. Taking a step back, this month marks my 10th anniversary as AMD's CEO. In the last 10 years, we have successfully completed multiple arcs. First, by turning the Company around and setting the solid financial and operational foundation required for sustained growth. And then by transforming AMD into the high-performance and adaptive computing leader. While I'm incredibly proud of what we've accomplished, I'm even more excited about the unprecedented growth opportunities in front of us. Looking out over the next several years, we see significant growth opportunities across our Data Center, Client, and Embedded businesses driven by the nearly insatiable demand for more compute. Each of these opportunities is amplified exponentially by the rapid adoption of AI, which is enabling new experiences that will make high-performance computing an even more essential part of our daily lives. In the Data Center alone, we expect the AI accelerator total addressable market will grow at more than 60% annually to $500 billion in 2028. To put that in context, this is roughly equivalent to annual sales for the entire semiconductor industry in 2023. Beyond the Data Center, we are adding leadership AI capabilities across our product portfolio and partnering deeply with a broad ecosystem of partners to deliver differentiated AI solutions at scale. This is an incredibly exciting time for AMD as the breadth of our technology and product portfolios combined with our deep customer relationships and diversity of markets we address provide us with a unique opportunity as we execute our next arc and make AMD the end-to-end AI leader. Now, I'd like to turn the call over to Jean to provide some additional color on our third quarter results.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Jean Hu",
+      "title": "CFO",
+      "content": "Thank you, Lisa, and good afternoon, everyone. I'll start with a review of our financial results and then provide our current outlook for the fourth quarter of fiscal 2024. We are very pleased with our strong third quarter financial results. On a year-over-year basis, Data Center segment revenue more than doubled and the Client segment revenue grew 29%. We expanded gross margin by 250 basis points and drove earnings per share growth of 31%. For the third quarter of 2024, revenue was $6.8 billion, up 18% year-over-year, and the revenue growth in our Data Center and Client segment was partially offset by lower revenue in our Gaming and Embedded segment. Revenue increased 17% sequentially, primarily driven by growth in our Data Center and Client segment. Gross margin was 54%, up 250 basis points year-over-year, primarily driven by higher data center segment revenue. Operating expenses were $1.96 billion, an increase of 15% year-over-year as we continue to invest in R&D and go-to-market activities. Operating income was $1.7 billion, representing a 25% operating margin. Taxes, interest expense, and other was $211 million. Diluted earnings per share was $0.92, an increase of 31% year-over-year and 33% sequentially. Now turning to our reportable segments. Starting with the Data Center, Data Center delivered record quarterly segment revenue of $3.5 billion, up 122%, nearly a $2 billion increase year-over-year and an increase of 25% sequentially. Growth in revenue was led primarily by the strong ramp of AMD Instinct GPU shipment and growth in AMD EPYC CPU sales. The Data Center segment accounted for 52% of total revenue in the third quarter. Data Center segment operating income was $1 billion or 29% of revenue compared to $306 million or 19% a year ago. Data Center segment operating income more than tripled compared to the prior year, driven by higher revenue and operating leverage. Client segment revenue was $1.9 billion, up 29% year-over-year and 26% sequentially, driven primarily by strong demand for our Zen 5 AMD Ryzen processors. Client segment operating income was $276 million or 15% of revenue compared to operating income of $140 million a year ago or 10% of revenue, primarily driven by higher revenue, partially offset by higher operating expenses. Gaming segment revenue was $462 million, down 69% year-over-year and 29% sequentially, primarily due to a decrease in semi-custom revenue. Gaming segment operating income was $12 million or 2% of revenue compared to $208 million or 14% a year ago. Embedded segment revenue was $927 million, down 25% year-over-year as customers continue to normalize their inventory levels. Revenue increased 8% sequentially as demand improved in several end markets. Embedded segment operating income was $372 million or 40% of revenue compared to $612 million or 49% a year ago. Turning to the balance sheet and the cash flow. During the quarter, we generated $628 million in cash from operations and the free cash flow was $496 million. Excluding certain nonrecurring payments related to acquisitions from operating cash flows, our free cash flow was $619 million. Inventory increased sequentially by $383 million to $5.4 billion, primarily to support the continued ramp of Data Center segment products. At the end of the quarter, cash, cash equivalents, and short-term investment was $4.5 billion. In the third quarter, we returned $250 million of cash to shareholders, repurchasing 1.8 million shares, and we have $4.9 billion of authorization remaining. Now turning to our fourth quarter of 2024 outlook. We expect revenue to be approximately $7.5 billion, plus or minus $300 million, up 22% year-over-year, driven by strong growth in our Data Center and Client segment, more than offset by declines in the Gaming and Embedded segments. We expect revenue to be up approximately 10% sequentially, driven primarily by growth across Data Center, Client, and the Gaming segment. In addition, we expect fourth quarter non-GAAP gross margin to be approximately 54%. Non-GAAP operating expenses to be approximately $2.05 billion. Non-GAAP other net income to be $17 million, non-GAAP effective tax rate to be 13%, and the diluted share count is expected to be approximately 1.64 billion shares. In closing, we're pleased with our strong execution in the third quarter. We delivered record revenue, along with the strong year-over-year expansion in gross margin and earnings per share growth. Looking ahead, we are very well positioned to deliver another record quarter of revenue in the fourth quarter, driven by continued momentum in our Data Center and Client segments. Importantly, we are making a strategic investment to position AMD as the end-to-end AI infrastructure leader and drive long-term profitable growth. With that, I'll turn it back to Mitch for the Q&A session.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Mitch Haws",
+      "title": "Vice President of Investor Relations",
+      "content": "Thank you, Jean. Let's poll the audience for questions.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you, Mitch. We will now begin the question-and-answer session. The first question comes from Toshiya Hari with Goldman Sachs. Please go ahead with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Toshiya Hari",
+      "title": "Analyst",
+      "content": "My first one is on the Data Center GPU business. Lisa, you took up your '24 outlook by $500 million. Curious what drove the change there? And more importantly, as you look forward into calendar '25, I doubt you're going to give us quantitative guidance on this call. But conceptually, how are you thinking about growth in your Instinct between your large cloud customers and your Enterprise customers? And if you can speak to the possibility of adding new customers within cloud, again, specific to Instinct, that would be really helpful.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Dr. Lisa Su",
+      "title": "CEO",
+      "content": "Thank you for the question. We had a very strong quarter for the Data Center in Q3, particularly for the Instinct product lineup. We reached some important customer milestones and exceeded our initial expectations. The Data Center GPU performed exceptionally well in the third quarter, and we have raised our overall guidance for the year from over $4.5 billion to more than $5 billion due to these customer milestones. We are confident in our trajectory as we approach the end of this year. Regarding 2025, we feel positive about the market based on our discussions with customers, who are significantly investing to build the infrastructure needed for various AI workloads. Our product portfolio is also strengthening with upcoming launches, including the 325 this quarter and the 355 in the latter half of next year. Additionally, we are broadening our customer engagements effectively. Our largest cloud customers are expanding the range of workloads they run on AMD Instinct, and we are actively collaborating with several large cloud and enterprise customers to optimize their workloads, which we anticipate will present good opportunities for us in the coming quarters.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Toshiya Hari",
+      "title": "Analyst",
+      "content": "Great. And then a quick follow-up, maybe one for Jean on gross margin. You're guiding Q4 gross margin essentially flat sequentially, if you can walk through the puts and takes there, that would be really helpful. And then again, as you look forward into '25, you're kind of speaking to continued Data Center growth. One would think the Embedded business hopefully begins to recover. And then within some of your businesses like server CPU, I would expect Enterprise to grow perhaps faster off a low base. So, I do think you have a lot going for you from a gross margin standpoint. But are those points valid? And what should we be thinking about in terms of potential headwinds as well?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Jean Hu",
+      "title": "CFO",
+      "content": "Yes. Thank you for that question. First, we are very pleased with our Q3 gross margin performance. We delivered 53.6% and we are guiding approximately 54% in Q4. In general, when you look at 2024, our gross margin improvement has been primarily driven by the mix, especially Data Center business continue to be the strong growth driver of our business, accounting for more than 50% of our revenue mix, which helps us to improve gross margin. Looking to 2025, we're not going to guide specifically. But as you mentioned, the outputs and takes that will help us going forward, I would say first is, going forward, the largest growth driver is our Data Center business, both the CPU side and the GPU side, and you are absolutely right, we see our Enterprise Server business continue to expand. That will be a tailwind on gross margin side. And secondly, Embedded business is recovering gradually, but that will also help us with our gross margin. At the same time, we are also seeing our client business expansion nicely. Client business today is more focused on the consumer side, which tends to be below corporate average. That's something headwind we'll deal with. And lastly, I would say our team has done a great job to continue to improve operational efficiency. When we scale the Company next year, you can see we're going to benefit from economies of scale to continue to drive our operational efficiency to improve gross margin.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And the next question comes from the line of Aaron Rakers with Wells Fargo. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Aaron Rakers",
+      "title": "Analyst",
+      "content": "Yes. Thanks for taking the question. I'll do two as well. I guess maybe building on the latter point that you just made, I'm curious how you would characterize your supply chain having evolved now talking about $5-plus billion? How do we think about what you've been doing on the supply side, given the lead times, the production cycles of these MI300 and MI325 GPUs as we look out into 2025? And I have another question.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Dr. Lisa Su",
+      "title": "CEO",
+      "content": "Sure, Aaron. I've been very pleased with how our supply chain has improved over the past several quarters. Although it's a challenging supply environment, we've effectively ensured capacity throughout the entire supply chain. This improvement was a key factor in the increased revenue in the third quarter for our Instinct business, driven by both customer demand and supply chain enhancements. Looking ahead to the next few quarters and into 2025, we expect the environment to remain tight, but we have also prepared for significant growth in 2025. Overall, we feel confident about our supply chain capabilities.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Aaron Rakers",
+      "title": "Analyst",
+      "content": "Yes. And then as a quick follow-up, when I look at the sequential guidance in revenue at the midpoint, let's call it about $680 million up sequentially. Could you help us frame how much of that is driven by Client versus the Data Center piece of the business?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Dr. Lisa Su",
+      "title": "CEO",
+      "content": "Sure, Aaron. So certainly, if you look at the sequential guide, the largest contributor is the Data Center business. And that is now such a large piece of our business, it's over 50% of our business in Q3, and it will continue to grow in Q4. Client segment, we also expect to perform well. I think we've done very well with our launches this year, both on the desktop Zen 5 launches as well as the notebook AI PC launches. So, we expect growth there. And then the other segments on a sequential basis, Gaming and Embedded would be more modest.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And the next question comes from the line of Ross Seymore with Deutsche Bank. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Ross Seymore",
+      "title": "Analyst",
+      "content": "Lisa, congrats on the 10-year anniversary. Jean, when you gave the segment guidance kind of playing off the last question, you didn't mention Embedded as being up. And then, Lisa, you just talked about it being up left. Just curious, I know it's kind of a muted recovery. But what's happening in the Embedded business implied in your fourth quarter guidance? And how are you thinking about 2025 just directionally?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Dr. Lisa Su",
+      "title": "CEO",
+      "content": "Sure, Ross. Let me start, and then maybe Jean can add. Look, we've seen some improvement in the Embedded business. You saw some improvement in the sequential in Q3. We expect some modest improvement in Q4. What we're seeing is really a mix across the different subsegments in Embedded. There are some segments that are stronger. So, our test and emulation business actually did very well. We're ramping our new Versal platform there. Aerospace and defense did well, also continues to be relatively strong. Communications has not seen much recovery. So, I would say that, that's still fairly muted. And industrial is also a little bit on the softer side. So, between all of those, we expect a little bit of growth into Q4, and let's call it, modest growth in 2025. But we're planning for it to be a little bit mixed amongst the segments, maybe, Jean, if you want to add?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Jean Hu",
+      "title": "CFO",
+      "content": "No, I think you covered.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Ross Seymore",
+      "title": "Analyst",
+      "content": "Great. For my follow-up on the EPYC business, you've performed incredibly well, Lisa. Have you noticed any easing of the competition between the Instinct side taking demand away from the EPYC side? It doesn't seem to have slowed you down much this year, and you're still up by about 33% according to my calculations. How are you considering the CPU versus GPU spending dynamics from a customer perspective as we look into 2025?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Dr. Lisa Su",
+      "title": "CEO",
+      "content": "Yes. Sure. Let me talk a little bit about the Data Center CPU business. Look, we've been extremely pleased with the progress there. I think the market environment has certainly gotten better over the last couple of quarters. We've seen some of the large cloud customers now sort of adding to their data center capacity and refreshes. We've seen enterprises also start with some of their modernization activities. Within that sort of market environment, our product portfolio has done extremely well. So, here in the third quarter, the Zen 4 portfolio between Genoa and Bergamo was very strong. We saw the beginning ramp of our Zen 5 Turin capabilities. And then we also actually saw pretty good demand even on Zen 3 or our Milan family just given the performance of price ratios there. So overall, we have a very strong top-to-bottom stack, and we do see some strength in the overall server market, which adds to some of the AI opportunity that we have.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And the next question comes from the line of Ben Reitzes with Melius Research. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Ben Reitzes",
+      "title": "Analyst",
+      "content": "Yes. I want to follow up on servers. Looking ahead to next year, it seems you are set for gaining more market share. There's a perception that GPUs are taking over servers, but what are you specifically observing with Turin? With the momentum you mentioned, is it the right CPU for GPUs, and are hyperscalers particularly appreciative of the ability to consolidate and make more space for AI equipment? What specific factors are driving this, and what do you see with this upgrade?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Dr. Lisa Su",
+      "title": "CEO",
+      "content": "Sure, Ben. So, I think when I look at Turin and the environment going into 2025, Turin is actually very well optimized for sort of the broad set of server workloads or traditional CPU workloads, including both scale-up and scale-out workloads. So, I think that is very positive. We believe that there will be strong AI content on CPUs, and that helps Turin as well. It's also an important piece of the head node of any GPU configuration. So overall, I think those are all good catalysts for us. And primarily, we're at this point where we're expanding the workloads in general as we are working with our largest cloud customers, and we're making strong progress in Enterprise, which has been very important for us.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Ben Reitzes",
+      "title": "Analyst",
+      "content": "I want to follow up on the PC market. You continue to outperform, but there are general concerns about consumer weakness. I'm curious about what you're observing in the fourth quarter and whether there's a risk of a decline beyond the usual seasonal dip in the first quarter. Do you believe the PC market will continue to perform well for you?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Dr. Lisa Su",
+      "title": "CEO",
+      "content": "We are observing several trends in the PC market. Our business is more focused on consumers, so the second half of the year generally performs better than the first half. This year, we have also seen this trend reinforced by two product launches. We introduced our desktop products, including the Zen 5 and Ryzen 9000 series, as well as our next-generation AI PC Ryzen AI 300 products. These factors combined have resulted in a stronger second half than usual. However, I expect some seasonality heading into the first half, which is typical in our industry. The key takeaway is that this is the strongest PC portfolio we have ever had, encompassing both desktop and notebook products. As we approach 2025, there is a general optimism about the PC market, possibly growing in mid-single digits. Additionally, the AI PC developments and the impending end of support for Windows 10 in 2025 serve as catalysts for growth. Overall, we have a positive outlook for the PC market in 2025, but we do anticipate some level of seasonality going into the first half of the year.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And the next question comes from the line of Joshua Buchalter with TD Cowen & Company. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Joshua Buchalter",
+      "title": "Analyst",
+      "content": "I'll keep it to one since I'm new here. On the Data Center GPU side, I realize everyone wants new customer announcements and 2025 guidance, but we're not going to get that, certainly not today. That maybe you could speak to how much of a runway you think exists at existing customers? And how much of a catalyst MI325X on CDNA3 and then MI355 on the new architecture can be to growing revenue and workload breadth internally and externally at these existing customers as we think about growth into next year at the Data Center GPU side?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Dr. Lisa Su",
+      "title": "CEO",
+      "content": "Certainly, Joshua. Thank you for your question. I want to emphasize how satisfied we are with the progress we've made in the Data Center GPU business. At the beginning of the year, we were launching MI300 and projected about $2 billion in revenue for 2024. Over the past few quarters, we have achieved several key customer milestones, including scaling in data centers and meeting reliability requirements, along with optimizing for specific workloads to ensure top-notch out-of-the-box performance. We've gained significant confidence as we've seen customers ramp up, and while everyone hopes for quicker results, we believe things are progressing well. We're now looking at exceeding $5 billion in revenue for 2024, which makes us optimistic. Heading into 2025, we feel positive about the market, which remains a strong area for capital expenditure. Our product portfolio is improving, drawing on insights from the MI300 ramp. We've enhanced customer support and engagement, out-of-the-box performance, and our open-source ecosystem, all critical for enabling customers to operate at scale and performance while optimizing their total cost of ownership. These factors give us a solid opportunity to grow with our existing customers across various workloads. For example, Meta mentioned expanding from inference on their large language models with Llama 3.1 to training workloads, and Microsoft has been an excellent partner in this journey. We are actively collaborating with major customers to fine-tune their software for our hardware, which presents exciting opportunities ahead.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Joshua Buchalter",
+      "title": "Analyst",
+      "content": "And congrats on an amazing decade at AMD.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And the next question comes from the line of Timothy Arcuri with UBS. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Timothy Arcuri",
+      "title": "Analyst",
+      "content": "I had a quick one and then a more intensive question. So, the first one is I wanted to ask about the September actuals for Data Center GPU. It seems like it was in the $1.5 billion range. And that would put December in kind of the $2 billion range. Is that about right?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Dr. Lisa Su",
+      "title": "CEO",
+      "content": "So, it's a pretty granular question, Timothy. But maybe let me help you with this. We actually did better in the Data Center GPU business relative to our initial expectations. So, you would imagine that the business was actually greater than $1.5 billion. I mean we're actually seeing now our GPU business really approaching the scale of our CPU business.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Timothy Arcuri",
+      "title": "Analyst",
+      "content": "Great. And then just kind of more broadly on the shape of next year. I mean you see that the market with these big customers, how do you see the shape of revenue off of that Q4 number? Can you continue to grow off that level? Or do you see some risk maybe of a pause next year? And I ask because MI355 is dropping into the existing infrastructure, and I think you did say you'll have a liquid cooled option, but you do hear about some customers wanting rack scale. So, I wonder if you worry a bit about there could be a pause before you get to rack scale in 2026.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Dr. Lisa Su",
+      "title": "CEO",
+      "content": "Yes, I would put it this way. This business is very active, and we're engaging with customers as they develop their data centers. Some prefer air-cooled setups, others liquid-cooled, while some are satisfied with their current infrastructure. There are various options available. Regarding 2025, we are optimistic about the growth opportunities, although it might be uneven. Generally, these are significant customer acquisitions, and it's not always easy to predict when the major build-outs will occur. Overall, we are confident about our trajectory leading into 2025. That's helpful.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "The next question comes from the line of Joe Moore with Morgan Stanley. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Joe Moore",
+      "title": "Analyst",
+      "content": "I wonder if you could talk about the $5 billion of AI revenue, how that breaks down between training and inference, if you're able to assess that and just I know you sort of started off with most of the traction in inference, but you've seen some traction on the training side. Can you just talk about what that split looks like going forward as well?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Dr. Lisa Su",
+      "title": "CEO",
+      "content": "Sure, Joe. From the $5 billion we're discussing, the initial traction has mainly been in inference due to the strength of our product portfolio. The MI300 is very well optimized for inference, thanks to its memory capacity and bandwidth capabilities. We have seen some adoption in training, and we expect this to continue growing over the next few quarters. Looking ahead, I would say that in about a year, we will have a relatively balanced portfolio between training and inference.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And the next question comes from the line of Vivek Arya with Bank of America Securities. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Vivek Arya",
+      "title": "Analyst",
+      "content": "I had two. So, Lisa, for the first one, how do you address this investor argument that MI is off to a great start, but spec-wise, remains kind of one year behind the industry leader, right? You're shipping something comparable to Hopper while they are starting to ship Blackwell next year when you are at MI350, they will be on Blackwell Ultra or Rubin. So how do you see AMD closing that gap? And can you really gain share until that gap is closed?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Dr. Lisa Su",
+      "title": "CEO",
+      "content": "Yes. Vivek, I actually don't see that. So maybe let me state it in another way. I think MI300, when we launched it was behind H100, H100 was in the market for a longer time. And we have with our accelerated road map actually closed a good part of that gap. I think MI325 is a great product. It's going to compete very well with H200, and the MI350 series will compete very well with Blackwell. In the overarching view of the world, frankly, the market continues to be constrained, particularly in the newer product generations. It takes a long time to go from shipping your first samples to actually ramping in volume production workloads. And I think one of the advantages that we have with our portfolio is that from a data center retrofit standpoint, it's actually a much easier ramp, just the infrastructure is the same. So, look, there are lots of opportunities across the set of AI workloads. We think this road map is actually strengthening over time, and that's the feedback that we're getting from our customers.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Vivek Arya",
+      "title": "Analyst",
+      "content": "For my follow-up, Lisa, regarding the PC market, the client was up 26% sequentially. I believe you are expecting some growth in Q4 as well. How do you perceive the condition of the channel? I'm asking because sell-through in Q3 wasn't particularly strong, and Intel had indicated that their Q3 would be flat or down. How much of the growth you are observing is due to average selling prices, and how much is from units? Looking ahead to 2025, do you think the strength in average selling prices that we've seen this year can continue to benefit you in 2025 as well?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Dr. Lisa Su",
+      "title": "CEO",
+      "content": "Yes. Vivek, the way I would say it is our client business has a few factors that may be slightly different from the overall market. So let me start with our desktop channel. I think our share is very high in the desktop channel. And we've done very well there. So, we saw strength across that portfolio in Q3. We actually saw some of our highest sell-through, so it was a strong sell-through quarter. And obviously, it shows in the revenue results. I think on the notebook standpoint, our business tends to be more heavily consumer-weighted and so that is more of a second half story. There is good momentum around AI PCs. I mean we've looked at some of the activation rates of our newest risen AI300 processors and the activation rates are good. It's still very early in the AI PC cycle, but we are seeing some good momentum there. So, I think we'll see both units up and the ASPs will depend a little bit on the mix between Consumer and Enterprise and Desktop and Notebooks. But my earlier comment about the Client segment, I think it is an opportunity for us. We are underrepresented in the Client segment. And we see an opportunity to grow both in the consumer as well as Enterprise.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And the next question comes from the line of Harlan Sur with JPMorgan. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Harlan Sur",
+      "title": "Analyst",
+      "content": "Lisa, on your core EPYC business, you did start to see recovery in Enterprise last quarter. It was broad-based across many verticals. You've also got a growing share dynamic as well, right? And it sounds like that trend continued in the September quarter. Do you anticipate continued follow-through in terms of quarter-on-quarter growth this quarter for Enterprise? And then maybe what sort of Enterprise and general cloud demand trends are you seeing out of China?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Dr. Lisa Su",
+      "title": "CEO",
+      "content": "Sure. So, Harlan, thanks for the question. We did see positive growth momentum here in the third quarter in Enterprise. We are getting broader adoption and we're seeing that growth both in on-prem deployments as well as cloud third-party deployments. And so, we're very happy with the adoption of our cloud instances when people are doing migrations, they're migrating from on-prem to cloud, they're migrating to AMD or they're migrating from older cloud instances to newer cloud instances. We're seeing migrations to AMD. So, I think that helps us in both the Enterprise segment as well as the Cloud segment. As we go forward into the fourth quarter, I think we are expecting another quarter of growth on a sequential basis for our Server business and strength in both Enterprise and Cloud. And I think as we think about our opportunities going forward, the Enterprise business is a place where we have been underrepresented. I think our portfolio has strengthened. So, the platforms that are being offered by the OEMs have broadened with not just Zen 4 but also with the Zen 5 portfolio launch. So, I think those are opportunities for us in 2025.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Jean Hu",
+      "title": "CFO",
+      "content": "Yes. On your China question, we are underrepresented in the China market in the service side. So as Lisa said, that's another opportunity for us to continue to gain share.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And the next question comes from the line of Stacy Rasgon with Bernstein Research. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Stacy Rasgon",
+      "title": "Analyst",
+      "content": "For the first one, I wanted to go back to what you said about the size of the Data Center GPUs in the quarter. You said it was approaching the size of your compute business which you put around what under $1.7 billion, maybe a little more. And number, is that right? And like if that is right, it implies that at $5 billion for the year, you'd actually be down in Q4. So, I'd probably got to be $5.2 billion or $5.3 billion for the full year, just to be flat sequentially and more than that to get growth. So, I guess the question is number one, is that the size of the business that you're talking about in Q3? And is that the kind of level of growth you're thinking into Q4? Like how should we think about that?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Dr. Lisa Su",
+      "title": "CEO",
+      "content": "Right, Stacy. So first, a couple of things. You have to remember that in our Data Center segment, we have some other revenue that is not from CPUs and GPUs. We have some FPGAs and other things. But regarding the earlier question about revenue of $1.5 billion, I mentioned that it was greater than $1.5 billion. So take that as a fundamental. We didn't provide an exact number for the data center GPU, but we stated it would exceed $5 billion. Therefore, you should assume that it exceeds $5 billion.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Stacy Rasgon",
+      "title": "Analyst",
+      "content": "For my follow-up, you mentioned some variability for next year. Is there any seasonality that I should consider specifically for Q1 regarding Data Center GPU? I understand the MI300 is ramping into production at that time. Should I expect any seasonal trends in Q1 given the overall comment on variability?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Dr. Lisa Su",
+      "title": "CEO",
+      "content": "I wasn't implying something about seasonality of the Data Center GPU business. I was implying more that if you think about the evolution of the business, it depends quite a bit on a specific number of customers. So, these are large customers that drive deployments. Like for example, the third quarter was a bit higher than we expected. That was driven by some additional customer demand, and we may see that type of lumpiness. So that was what I was implying. And we'll have to see how things evolve as we get into 2025.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "We have time for two more questions. The next question comes from the line of Harsh Kumar with Piper Sandler. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Harsh Kumar",
+      "title": "Analyst",
+      "content": "Lisa, first of all, congratulations on your 10-year anniversary. I just looked at the 10-year chart, the stock is around $3, so a heck of a job here. And also, congratulations on $5 billion in Instinct revenues. So, I wanted to ask the first question. This is one we get from investors all the time. In the coming year, let's say, 2025, your key competitor will take most of the TAM of the AI market, the GPU market, rough count, they'll take in something like $50 billion, $60 billion, you'll get another $5 billion to $10 billion, call it. So, the question is, what do you think is the major hindrance? You've got chip level compatibility. So does it boil down to the fact that you're just earlier in the game. You've been doing this just 12 months in a serious manner? Or is there still a rack level of disparity? If you could just help us think about what the hindrances are to you becoming a major player here.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Dr. Lisa Su",
+      "title": "CEO",
+      "content": "Yes, thank you for the question and your comments. I see them as opportunities. As you may recall, our EPYC progression from Zen 1 through Zen 4 has been strong, even during the Rome period. Building trust and familiarity with the product takes time, especially since, while both are GPUs, there are notable differences in the software environment. Customers need to feel comfortable with the workload ramp. From my perspective, the ramp rate is very promising\u2014it's the fastest product ramp I've experienced. I view this as a multi-generational journey, and we've always acknowledged that. Next year will focus on expanding both our customer base and workload. With the MI400 series, we believe we have an outstanding product. Overall, the ramp is progressing well, and we will continue to gain the trust and partnership of these large customers. Customers are very receptive to AMD, and we see this consistently; everyone is giving us a fair chance to earn their business, which is our goal.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Harsh Kumar",
+      "title": "Analyst",
+      "content": "Very helpful. Lisa, for my follow-up, and maybe Jean can help out here. It's kind of well understood that your gross margin for MI300, MI325 will be below corporate margins. Could you help us maybe think of some framework on how those gross margins for Instinct might get to parity with your corporate business? I know you probably won't give us a revenue level or a time frame, but maybe you could help us frame in some manner that we could try and understand it.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Jean Hu",
+      "title": "CFO",
+      "content": "We are very pleased with the growth in our Data Center GPU business revenue. Our team is not only supporting this revenue growth but also working to enhance gross margins, which are currently below the corporate average. As we look ahead to next year, our main focus is to address customer demand and significantly boost our market presence to drive substantial revenue growth. We believe that as we continue to increase revenue, there will be opportunities to improve gross margins. Historically, the data center business tends to perform better than the corporate average in the long term, although it may take some time to reach that point. Our Data Center segment has seen more than a doubling of revenue year-over-year, along with a tripling of operating income in the same period. Our goal is to drive long-term growth while enhancing our market presence and improving gross margins.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And our final question comes from the line of Thomas O'Malley with Barclays. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Thomas O'Malley",
+      "title": "Analyst",
+      "content": "Lisa, I just wanted to ask on mix the MI300 platform into Q4. Obviously, you're launching the MI325 series. Should we expect a significant contribution from the new product in Q4? Or is this a situation in which it's launching late year and most of the impact is into Q1? I guess that's the first one. And then the second one is just if you look into next year, could you talk about where the end markets are and Embedded for Xilinx? You gave some color on Com and a little of industrial there. But just where we're at in terms of starting kind of Q4 and into Q1. Are there any that are outperforming, underperforming? Any color there would be helpful.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Dr. Lisa Su",
+      "title": "CEO",
+      "content": "Definitely, Tom. Regarding your first question about the mix in Q4, we expect the majority will still come from MI300. MI325 will start production late in the quarter and will ramp up more significantly in the first quarter. As for the Embedded business looking into 2025, the trends appear to be similar to what I mentioned for Q3 and Q4. We anticipate some markets will gradually recover. We are observing strength in the Test and Emulation segment, particularly in aerospace and defense. We have noticed a slight recovery in automotive as well. However, we're still waiting for improvements in communications and industrial sectors. We'll gain more clarity on those areas as we approach the end of this year, but that's our current outlook.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Mitch Haws",
+      "title": "Vice President of Investor Relations",
+      "content": "That concludes today's call. Thanks to all of you for joining us today.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And thank you. That does conclude today's teleconference. We thank you for your participation. You may disconnect your lines at this time.",
+      "sentiment": "0.0"
+    }
+  ],
+  "reported_date": "2024-10-29"
+}

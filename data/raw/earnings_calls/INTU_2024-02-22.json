@@ -1,0 +1,445 @@
+{
+  "symbol": "INTU",
+  "quarter": "2024Q1",
+  "transcript": [
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Good afternoon, my name is Chelsea, and I will be your conference operator. I would like to welcome everyone to Intuit's First Quarter Fiscal Year 2024 Conference Call. All lines have been placed on mute to prevent any background noise. After the speakers' remarks, there will be a question-and-answer period. With that, I'll turn the call over to Kim Watkins, Intuit's Vice President of Investor Relations. Ms. Watkins?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Kim Watkins",
+      "title": "VP of Investor Relations",
+      "content": "Thanks, Chelsea. Good afternoon and welcome to Intuit's first quarter fiscal 2024 conference call. I'm here with Intuit's CEO, Sasan Goodarzi, and our CFO, Sandeep Aujla. Before we start, I'd like to remind everyone that our remarks will include forward-looking statements. There are a number of factors that could cause Intuit's results to differ materially from our expectations. You can learn more about these risks in the press release we issued earlier this afternoon, our Form 10-K for fiscal 2023, and our other SEC filings. All of those documents are available on the Investor Relations page of Intuit's website at intuit.com. We assume no obligation to update any forward-looking statements. Some of the numbers in these remarks are presented on a non-GAAP basis. We\u2019ve reconciled the comparable GAAP and non-GAAP numbers in today's press release. Unless otherwise noted, all growth rates refer to the current period versus the comparable prior-year period, and the business metrics and associated growth rates refer to worldwide business metrics. A copy of our prepared remarks and supplemental financial information will be available on our website after this call ends. And with that, I will turn the call over to Sasan.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "Thanks, Kim, and thanks to all of you for joining us today. We had a very strong first quarter and have great momentum innovating on our platform across the company. Total revenue grew 15%, driven by Small Business and Self-Employed Group revenue growth of 18% and Consumer Group revenue growth of 25%. This was partially offset by Credit Karma revenue decline of 5%, in line with our expectations for Q1 given the macroeconomic environment. With the strong start to the year, we are reiterating our full year guidance for fiscal year 2024. Consumer Group revenue growth reflects a strong finish to the tax extension season. We remain focused on transforming the assisted consumer and business tax categories with TurboTax Live. Our innovation in tax has accelerated in several areas. First, the Credit Karma platform is leveraging data and AI to deliver personalized experiences and compelling tax offers. Second, is the innovation with TurboTax Live to deliver speed and confidence to prior year assisted customers, particularly with full service, where we can get taxes done in as little as an hour using data, AI, and our expert platform at scale. And third, Intuit Assist, our GenAI-powered financial assistance, helping customers in key areas where confidence matters most. For example, understanding their refund or getting answers to their questions as if they're talking to an expert. We ran many experiments during the extension season, and the learnings give us confidence in our game plan to win this tax season. We believe this is Intuit's most exciting era yet. Five years ago, we declared our strategy to be an AI-driven expert platform with data and AI core to fueling innovation across our platform. We're delivering experiences where the hard work is done for you with a gateway to human expertise, powering our customers' prosperity and accelerating penetration of our $300 billion in total addressable market. The launch of Intuit Assist is the result of years of investment in data and AI. At the core of our platform is powerful, relevant data. Intuit has incredibly rich longitudinal, transactional and behavioral data for our 100 million customers. We have 500,000 customer and financial attributes per small business and 60,000 financial and tax attributes per consumer on our platform. And with our GenAI operating system, GenOS, we empower Intuit technologists to create breakthrough AI experiences across the platform. This includes utilizing our own powerful financial LLM as well as those from other leaders in GenAI which together unlock new opportunities to serve our customers with accuracy and speed in a cost-efficient way. We are creating a future of done for you, a future where the hard work is done automatically on behalf of our customers with a gateway to human expertise fueling their financial success. Intuit Assist powered by GenAI is critical to delivering unparalleled benefits for our customers over the next decade. Let me share a few updates on Intuit Assist across our offerings. First, Mailchimp. We're rolling out two new GenAI experiences designed to help our customers grow their revenue and save time. These include AI-driven audience segmentation and marketing automation. I'll share more on those in just a moment. Second, TurboTax. As I shared earlier during the extension season we tested new GenAI experiences to deliver higher confidence for our DIY customers. This includes in-topic accuracy checks and personalized explanations throughout the filing process that help explain a customer's tax outcome. We're excited about rolling out these experiences this season. Third, QuickBooks. We are testing GenAI to help customers save time and run their business with complete confidence, including a digital expert that can surface business insights and allow customers to dig deeper or connect them to a human expert. For example, we're serving our proactive business insights to customers with an actionable business summary. These customers are using the business summary as a launching point to learn, create reports directly using Intuit Assist and take actions to drive their business success. These experiences will be rolled out in the coming months and in the future, we plan to automate these actions and do the work for our customers. Fourth, Credit Karma. We're testing GenAI to help our customers find the products that are right for them in a highly personalized way. For example, based on our research, prime members spend an average of five hours online comparing credit card benefits. With our members' credit data and spending history from accounts they choose to link to Credit Karma, we can use GenAI to help members select the right credit card for them optimized based on their personal spending history. This is designed to increase engagement with our members and help them improve their financial health and drive financial success. These experiences will be rolled out in the coming months. We are excited by Intuit Assist's early progress. It will change our relationship with customers as we move from a transactional workflow platform to a trusted assistant that our customers rely on daily to power their prosperity. We believe Intuit Assist will lead to higher frequency of engagement and monetization across the platform. Let me now highlight progress across two of our five big bets. As a reminder, our five big bets are revolutionize speed to benefit, connect people to experts, unlock smart money decisions, be the center of small business growth and disrupt the small business mid-market. Our fourth big bet is to become the center of small business growth by helping our customers get new customers, get paid fast, manage capital and pay employees with confidence in an omnichannel world. In payments, our innovation continues to drive digitization from creating an estimate to invoicing a customer to getting paid to paying a supplier. Today, easier discovery, auto-enable payments, instant deposit and get paid upfront are all helping drive adoption of our payments offering. Total online payment volume growth was strong in the quarter at 21%. We're also making good progress digitizing B2B payments to accelerate and automate transactions between small businesses and ultimately improving their cash flow. We made our bill pay offering widely available to customers during the quarter. While it's early, we are seeing mid-market customers choosing the paid subscription offering at approximately 2x the rate of non-mid-market customers, indicating this paid offering is resonating with larger customers. Turning to Mailchimp. We are well on our way to becoming the source of truth for our customers to help them grow and run their business. As I shared earlier, we're rolling out several features powered by Intuit Assist in time for peak holiday season for many of our customers. Let me highlight two of these impactful benefits designed to help our customers grow their revenue while saving time. First, AI-driven audience segmentation, which allows small businesses to target specific audiences. Many customers don't use audience segmentation today despite the fact that it can drive up to 60% lift in average order revenue or average order value over 12 months. With Intuit Assist, a customer can use conversational language to more quickly build segments and use them as part of a marketing campaign. Second, AI-powered marketing automation, which are automated workflows that help small businesses reach their customers in a uniquely tailored way. Today, many of our customers don't use marketing automation because they are time-consuming to set up even though they can help them drive higher revenue. With Intuit Assist, Mailchimp creates marketing automation that can easily be turned on and email content can be generated and edited. Our fifth big bet is to disrupt the small business mid-market representing a total addressable market of 1.7 million customers, 800,000 of which are already in our franchise, but using a core QuickBooks or desktop product. Online mid-market customer and revenue growth remained strong, and we are driving increased adoption of QuickBooks Advanced, payments, and payroll, resulting in ARPC expansion as we serve these mid-market customers with a full ecosystem of services. We are proud of our innovation and the impact that we're making on our customers' lives. We also continue to make an impact on the communities that we serve. This quarter, we launched Intuit for education, a new financial literacy program to provide Gen Z and Gen Alpha students access to Intuit products and teach them some personal and small business finance skills. We also announced the first set of winners of our Coalfield Solar Fund, providing grants in solar energy projects in coal mining communities to help build a sustainable future. Wrapping up, with our durable AI-driven expert platform strategy and focus on innovating with GenAI across our platform, we are more excited than ever about the opportunity in front of us and our ability to power prosperity for our customers. We are also delighted to be one of the only eight Fortune 500 companies named to Fortune's inaugural top 50 AI Innovators list. With that, let me now hand it over to Sandeep.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Sandeep Aujla",
+      "title": "CFO",
+      "content": "Thank you, Sasan. For the first quarter of fiscal 2024, we delivered very strong results that exceeded the high end of our guidance range across all key metrics, including revenue of $3 billion, up 15%. GAAP operating income of $307 million versus $76 million last year. Non-GAAP operating income of $960 million versus $662 million last year, up 45%, GAAP diluted earnings per share of $0.85 versus $0.14 a year ago and non-GAAP diluted earnings per share of $2.47 versus $1.66 last year, up 49%. I am pleased with our early momentum this fiscal year. Turning to the business segment. Small Business and Self-Employed Group revenue grew 18% during the quarter, driven by online ecosystem, which grew 20%. Our results demonstrate the power of our small business platform and the mission-critical nature of our offerings, which continue to resonate with customers as they look to grow their businesses and improve cash flow in any economic environment. With the goal of being the source of truth for small businesses, our strategic focus within a Small Business and Self-employed group is threefold: grow the core, connect the ecosystem, and expand globally. First, we continue to focus on growing the core. QuickBooks Online's accounting revenue grew 19% in Q1, driven mainly by customer growth, higher effective prices, and mix shift. Second, we continue to focus on connecting the ecosystem. Online services revenue grew 20% in Q1, driven primarily by Payroll, Mailchimp, Payments, Capital, and Time Tracking. Within Payroll, revenue growth in the quarter reflects an increase in customers adopting the payroll solutions and a mix shift towards higher-end offerings. In Mailchimp, revenue growth was driven by higher effective prices and paying customer growth. And within Payments, revenue growth in the quarter reflects ongoing customer growth as more customers adopt our payments offerings to manage their cash flow as well as an increase in total payment volume per customer. Third, we continue to make progress expanding globally by executing a refreshed international strategy, which includes leading with both QuickBooks Online and Mailchimp in established markets, and leading with Mailchimp in all other markets as we continue to execute on a localized product and lineup approach. On a constant currency basis, total international online ecosystem revenue grew 16%. Desktop ecosystem revenue grew 14% in the first quarter, and QuickBooks Desktop Enterprise revenue grew in the high single digits. We are more than two-thirds of the way through a three-year transition for customers that remain on our license-based desktop offering to a recurring subscription model. In conjunction with our business model transition, we also raised prices across multiple desktop products in October, consistent with our principle to price for value. Looking ahead, we expect continued strong desktop ecosystem revenue growth this year as we complete the remaining part of the three-year transition. Our focus is to continue innovating across our online ecosystem and to help our desktop customers migrate seamlessly to our online offerings. We continue to expect the online ecosystem to be a growth catalyst in the longer term. Moving to Credit Karma. Credit Karma delivered revenue of $405 million in Q1, down 5% year-over-year. We saw partners taking a conservative approach to extending credit in both personal loans and credit cards during Q1. This performance was consistent with our expectations and a prudent approach to guidance given the uncertain macroeconomic environment. On a product basis, the decline in Q1 was driven primarily by macroeconomic trends across personal loans, auto insurance, home loans, and auto loans, partially offset by growth in credit cards and Credit Karma money. Shifting to the consumer and ProTax groups. Consumer Group revenue was $187 million and grew 25% in the quarter and ProTax revenue was $42 million and grew 24%. During the quarter, we saw stronger-than-expected TurboTax return volume from states, both with and without extended tax deadlines and strong performance in share of total returns during the extension season. As Sasan shared earlier, we are excited about our innovation across TurboTax. The multiple experiments we ran during the extension season bolster our confidence in our game plan to win this coming tax season. Now let me briefly touch on our financial principles and capital allocation. Our financial principles guide our decisions that remain our long-term commitment and are unchanged. We finished the quarter with approximately $2.3 billion in cash and investments and $5.9 billion in debt on our balance sheet. In September, we raised $4 billion in senior notes to repay the outstanding balance on an unsecured term loan. These notes carry a weighted average coupon of 5.29%, approximately 1 point lower than the term loan rate at the end of Q4. As a reminder, during Q1, we made tax payments of approximately $710 million that were deferred from fiscal 2023 due to the IRS disaster area tax relief. We also repurchased $603 million of stock during the first quarter. Depending on market conditions and other factors, our aim is to be in the market each quarter. And lastly, the Board approved a quarterly dividend of $0.90 per share, payable on January 18, 2024. This represents a 15% increase versus last year. As I stated earlier, I'm pleased with the early momentum we're seeing in fiscal 2024, highlighting the strength of our platform within the uncertain macroeconomic environment that is consistent with our expectations. We have a proven playbook and a track record of managing for the short and the long term, including controlling discretionary spend to deliver strong results while investing in what is most important for future growth. Our goal remains for Intuit to emerge from this period of macroeconomic uncertainty in an even greater position of strength. Moving on to guidance. We are reaffirming our fiscal 2024 guidance. This includes total company revenue growth of 11% to 12%, GAAP operating income growth of 15% to 18%, non-GAAP operating income growth of 12% to 14%, GAAP earnings per share growth of 11% to 15% and non-GAAP earnings per share growth of 12% to 14%. Our guidance for the second quarter of fiscal 2024 includes revenue growth of 11% to 12%, GAAP earnings per share of $0.62 to $0.68 and non-GAAP earnings per share of $2.25 to $2.31. As a reminder, we are taking a prudent approach with guidance given the continued macroeconomic uncertainty. You can find our full fiscal 2024 and Q2 guidance details in our press release and on our fact sheet. With that, I'll turn it back over to Sasan.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "All right. Well, thank you, Sandeep. And to wrap it up, we are confident in our AI-driven expert platform strategy and progress across our five big bets and creating a future of done for you with a gateway to human expertise. We believe this will change our relationship with customers, becoming their trusted adviser, leading to higher engagement and monetization. The combination of our assets and our strategy creates a growth flywheel for Intuit to accelerate at penetrating our $300 billion in total addressable market. With all of that said, let's now open it up to your questions.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our first question will come from Raimo Lenschow with Barclays. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Raimo Lenschow",
+      "title": "Analyst",
+      "content": "Thank you, Sasan. Regarding the AI strategy, it appears that you have a significant platform driving this initiative. Can you share how opportunities to learn from one segment can be applied to another? Additionally, are you facing any challenges due to the chip shortage, and will it affect your rollout plans? Thank you.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "Yeah. Thank you for your question. And I actually think it's a really interesting question that you're asking in terms of how are we learning across platforms. The short answer is we capture best practices and share the insights on a daily basis across our teams. And in fact, I'll just use our staff as an example. We get weekly slacks with documents that share the best practices, the progress that has been made and how that informs the next week across each of the platforms. And we spend 80% of my staff meeting actually doing product reviews of Intuit Assist. A big part of it is what the key best practices are, learning opportunities. And I would tell you that there's a lot of commonality in themes across our learnings across the platform, which actually is simply putting us in a position to accelerate our pivot and our progress and innovation and the timing of going GA across the platform. To your second question, no, we're not impacted by the chip shortage. It does not at all impact our launch plans.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Raimo Lenschow",
+      "title": "Analyst",
+      "content": "Okay. Perfect. Congrats. Thank you.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question will come from Keith Weiss with Morgan Stanley.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Keith Weiss",
+      "title": "Analyst",
+      "content": "Thank you for the question and congratulations on a strong quarter. I have two questions, one for Sasan and one for Sandeep. Sasan, I was surprised to see the strength in a marketing platform like Mailchimp, which you mentioned contributed to the performance in online services. Do you think this is more a result of Intuit's efforts in repackaging and aggressive marketing, or does it suggest that the market is performing better than expected? Sandeep, operating margins were impressive this quarter. Are there any one-time items or adjustments we should consider that might mean this level of operating margin won't continue throughout the year? Thank you.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "Thanks for the question, Keith. I'll take your first one. What you're seeing from us in Mailchimp is entirely execution. We're not getting tailwinds from the macro environment. And as I mentioned, when we closed the acquisition a while back, that our biggest opportunity was to be clear about our product improvements, our lineup and to be able to create one growth platform, develop strength internationally and go to mid-market. And by the way, we've made a lot of progress in all of those areas. We still have a lot of work ahead of us, to be clear. But everything that you're seeing is based on our execution and no macro tailwinds.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Sandeep Aujla",
+      "title": "CFO",
+      "content": "Regarding the margin question, I want to emphasize our commitment to keeping our expense growth lower than revenue, which will enable us to achieve margin expansion and operating leverage. This principle is essential to us, and our guidance of 40 to 60 basis points expansion for the year reflects the discipline of our management team. For the quarterly margin, I suggest not focusing too much on the quarterly figure. Some expenses were shifted out of the quarter to later in the year, particularly certain marketing expenses. As mentioned in the prepared remarks, we remain committed to our full year guidance on operating income. That is my guidance for you and the teams.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Keith Weiss",
+      "title": "Analyst",
+      "content": "Excellent. Really nice job guys. Thank you.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from Siti Panigrahi with Mizuho.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Siti Panigrahi",
+      "title": "Analyst",
+      "content": "Thanks for taking my question. Sasan, I wanted to ask about the health of small business. Where do you see right now, strength and weakness in this environment?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "Thanks for the question, Siti. As you know, we've been in this macro environment for some time now. And the small businesses that we serve are resilient for a couple of reasons. One, they're on our platform. And by digitizing what they do, which is how they grow customers and manage their cash flow, they are far more resilient, and as we've shared before, anybody that's on our platform is nearly 20 points higher in their success rate than those that are not on our platform. So we are part of sort of the health that we're experiencing on our platform. With that as context, I would just share a couple of data points. One, the number of companies and the number of employees that our small businesses are hiring still remains strong. Two, our total online payments volume grew 21%, which means that our small businesses are continuing to be competitive. I also remind us, by the way, I think, a year ago or more, that growth was in the 30% plus. And so we have seen an impact, but just our overall platform is very resilient. And then the last thing I would say is that the cash reserves of our small businesses is 90% of where it was this time last year. However, it's 128% of where it was pre-pandemic. So their cash flow is stronger than several years ago, but down 10% from last year. And then very specifically, as you know, we serve service-based businesses, which is about 70% of the market. We're not concentrated in any one particular area. But you'll see places like auto repairs and professional services that are doing well. But just like pure construction, those that do lending are not doing well. So there's sort of ups and downs across the small businesses that we see. But in aggregate, the health comes from the numbers that I shared with you.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Siti Panigrahi",
+      "title": "Analyst",
+      "content": "Thanks for that color, Sasan.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question will come from Alex Zukin with Wolfe Research.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Allan Verkhovski",
+      "title": "Analyst",
+      "content": "Hi, this is Allan Verkhovski on behalf of Alex Zukin. Thank you for taking the question. QuickBooks Online accounting growth decelerated another 3 percentage points this quarter. With respect to your growth drivers, is there anything that got meaningfully worse in the quarter? Or something that is worth emphasizing to investors? And that will be helpful for thinking about what growth could look like for the rest of the year.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "Yeah, that was really driven by a larger price increase last year versus this year. That was really the only driver. We liked what we saw in terms of our acquisitions, our retention. So that's really the variance.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Allan Verkhovski",
+      "title": "Analyst",
+      "content": "Okay. And as just a quick follow-up, would you be able to step through the monthly linearity that you saw in Credit Karma through the quarter and in November? Thanks.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "Yeah. Well, I'll answer your question in two ways. One, as you heard in our prepared remarks, we saw and we anticipated further tightening by our partners. By the way, it happened exactly the same time last year. And so we expected that as our partners prepare for the end of the fiscal year and next year, there would be some further tightening, and that's really what we saw. And that was included in our expectations and in our guidance as we thought about the year. That's number one. Number two, there is not everything is linear because it depends on the number of days like a month like November based on in the US, based on Thanksgiving week, the number of days that people take off that actually impacts certain behaviors. And so there is no linearity. But the quarter just in total was in line with what we expected.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Allan Verkhovski",
+      "title": "Analyst",
+      "content": "Thank you.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question will come from Alex Markgraff with KeyBanc Capital Markets.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Alex Markgraff",
+      "title": "Analyst",
+      "content": "Hey, thanks for taking my question. Yeah, maybe just be curious to understand, Sasan, as you've done some of the testing around Intuit Assist across product categories, has there been any sort of price testing involved in that as well? And how well received has that been if so?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "Sure, let me address your question in two parts because it's a great question and they are connected. Firstly, our biggest insight is the importance of embedding benefits directly into the customer's workflow rather than presenting them as separate or side assistance. For example, when a customer is building a marketing campaign, we assist them in identifying the right audience to target and help them create the campaign while they maintain full control. This might seem obvious, but it's a crucial realization that also applies to our tax offerings. We aim to help customers understand their financial outcomes within their workflow, perform accuracy checks, and notify them about any missed items so they can resolve them immediately. These examples are consistent across all our platform workflows where embedded solutions are vital.  Secondly, the level of depth varies depending on the customer's needs. For instance, we have been effectively testing a business summary in QuickBooks that highlights the most critical information for the user. Customers engaging with these business insights tend to create reports or seek additional information. We have learned that we should not solely rely on developing propensity models for determining the right time to connect customers with experts. It's essential for monetization because extended Q&A sessions may not lead to immediate benefits. These insights have influenced our approach to monetization.  For Mailchimp, we're introducing GenAI SKUs based on automated services we can provide for customers. In QuickBooks and TurboTax, interactions with our services create monetizable opportunities that connect customers with human expertise. We will also test GenAI-specific SKUs in QuickBooks. These examples reflect how the benefits we've identified shape our pricing strategy. Overall, we're pleased with the insights we've gained and our ability to adapt rapidly as a company.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Alex Markgraff",
+      "title": "Analyst",
+      "content": "That's great. Thank you, Sasan.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question will come from Steve Enders with Citi.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Steve Enders",
+      "title": "Analyst",
+      "content": "Okay, great. Thanks for taking the question here. I guess I'm going to ask on the tax business, what you saw with some of those newer product initiatives and maybe what kind of drove the strength there year-over-year and the share gains with some of those newer initiatives?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "Let me address your question in two parts. First, we noticed a macro element where there were more filers during the extension season than we expected, both in states that extended deadlines and those that did not. These filings were more complex, which is our specialty and contributed to our increased market share this season. Secondly, we are excited about three key areas that remain focused priorities for us. We conducted several tests that yielded positive results and valuable insights for the upcoming tax season. These areas are the Credit Karma platform, TurboTax Live, and Intuit Assist.  In the Credit Karma platform, we enhanced our tax experience, catering to users who prefer DIY methods or seek assistance. Our compelling offerings have allowed us to serve 42 million active users who engage with us frequently, which has proven to be successful.  For TurboTax Live, we expanded our data, AI capabilities, and expert network. This enables us to complete many customers\u2019 tax returns in under an hour when they opt to delegate their tax needs to us. We are also preparing to serve business tax customers on a larger scale.  Finally, with Intuit Assist, we focus on accuracy checks to help customers rectify potential mistakes, which is crucial for conversion. Additionally, we provide explanations for refunds and financial outcomes, leveraging our advanced knowledge and AI technologies. These elements, along with the macro factors, instill confidence as we move forward into the tax season.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Steve Enders",
+      "title": "Analyst",
+      "content": "Great. Perfect. Thanks for taking the question.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question will come from Brent Thill with Jefferies.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Unidentified Analyst",
+      "title": "Analyst",
+      "content": "Hi, thank you. This is for Brent. First question on Mailchimp. Wondering if you could share some color on how it's doing in US versus international? And I don't know if you could talk about also about cross-selling synergies with the rest of the small business platform. And second, any update on how the native bill pay is ramping? Thank you.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "What was your last question, Bill Pay?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Unidentified Analyst",
+      "title": "Analyst",
+      "content": "Yes. On Bill Pay.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "Thank you for the question. I\u2019ll start with Mailchimp. One of our top priorities is focusing on international opportunities. We have invested significantly in translating materials into local languages, building a team to address the EMEA market, and ensuring we have the appropriate pricing strategy and go-to-market plan in place. We see positive results from these efforts, which contribute to the numbers we reported. We are balancing our focus between the US and international markets because we recognize substantial opportunities in both areas.  Regarding cross-selling, as mentioned during Investor Day, a major aspect of our acquisition strategy was to develop a unified growth platform. We are actively building an AI-driven CRM within the QuickBooks platform, and we continue to make strides in testing and refining the product for optimum market fit. Once we achieve that fit, we expect cross-selling opportunities to emerge. However, we have not factored any contributions from this into our guidance for this year. It's a crucial long-term strategy and the primary reason behind the acquisition: to create one platform that enables customer growth and cash flow management all in one place.  On the Bill Pay front, we are pleased to have reached general availability. We've noted that our mid-market customers are adopting the paid subscription at double the rate compared to non-mid-market customers, indicating that we are adding value. While we recognize there is work ahead, especially regarding batch payments and faster funding options, this is part of our roadmap for future developments. Our goal is to fully digitize B2B processes for our customers, which we believe presents a significant opportunity for improving their cash flow and represents long-term growth potential for us. This sums up the current progress on both fronts.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Unidentified Analyst",
+      "title": "Analyst",
+      "content": "Great. Thank you very much.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "Yeah. You're very welcome.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question will come from Brad Reback with Stifel.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brad Reback",
+      "title": "Analyst",
+      "content": "Great. Thanks very much. Sasan, as you think about the mid-market opportunity for the QuickBooks and the online ecosystem, given the value prop, is it easier to take share during difficult economic times because of that value prop? Or are customers just hesitant to move and wait for the economy to get better before they'll make a back-office switch? Thanks.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "Great question. I\u2019ll provide two insights on what we\u2019re observing. Firstly, the economic climate doesn\u2019t significantly impact customer behavior. Whether times are good or tough, we don\u2019t see our customers hesitating to switch due to economic conditions. This leads to my second point. Essentially, the economic environment is neither a boost nor a barrier for us. That said, we do notice early signs of success when we offer bundling options to our customers. When we demonstrate the benefits of digitizing their payments and payroll, particularly in terms of cash flow, we find that this resonates well with them. Furthermore, as we expand our sales team, we're improving in account management. Looking back five years, we didn\u2019t have the value-added account management teams we\u2019re developing now. We are now actively engaging with customers, and many are discovering our full range of services, like payments and payroll, which presents an opportunity to increase our share of their business. This is where we\u2019re gaining traction, making progress, and identifying future opportunities.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Sandeep Aujla",
+      "title": "CFO",
+      "content": "And Brad, what I'll add is beyond just the QuickBooks side, we also are seeing strong progress on the Mailchimp side in terms of mid-market where historically before we acquired the company was not a focus, and now with some of the stuff was Sasan mentioned, including account management, better onboarding, we're seeing better customer acquisition on the mid-market as well as better retention year-over-year in the mid-market, so that opportunity extends beyond just the QuickBooks for us across the entire platform, including Mailchimp.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Brad Reback",
+      "title": "Analyst",
+      "content": "Excellent. Thank you.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "You're very welcome.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question will come from Kirk Materne with Evercore ISI.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Kirk Materne",
+      "title": "Analyst",
+      "content": "Thank you very much and congratulations on the quarter. Sasan, I was wondering if you could discuss the total addressable market for small businesses. I'm curious if you're observing any indications that small businesses are looking to consolidate multiple technologies onto one platform. You offer a lot in both the front office and back office. Are you starting to see any activity in that direction now that you're integrating Mailchimp with QuickBooks? I understand it's early, and that integration is crucial for success, but I was just wondering if you're seeing any signs of that yet. Thank you.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "Yes, Kirk, it's still early, but we're noticing some promising signs. This is mainly due to our efforts in expanding our account management team across the Mailchimp and QuickBooks platforms. In fact, I recently spoke with three significant mid-market customers, two in Los Angeles and one in Miami. Interestingly, many of them are unaware that we offer services like Payments and Payroll or that Mailchimp and QuickBooks are part of the same company. Some customers use Mailchimp but not QuickBooks or utilize our Payroll service but are not aware of our Payments offerings. We believe there\u2019s a vast opportunity here due to our unique strengths in data, AI, and our network of experts and applications. Our applications cater to everything a small business needs. Our account management team is uncovering that many customers simply don't have this information. Hence, we engage with them, build relationships, and explain the benefits of our services, highlighting how our AI capabilities can contribute to their success. This lack of awareness is what opens doors for us, and we're excited about the prospects as we continue to expand our talent management team. In response to your question, yes, customers prefer to be on a single platform, but what we are observing is that many customers do not fully understand our holistic offerings, which is our current mission to address.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Kirk Materne",
+      "title": "Analyst",
+      "content": "Thank you so much.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "Yeah, you're very welcome.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question will come from Mark Murphy with JPMorgan.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Arti Vula",
+      "title": "Analyst",
+      "content": "Hi, this is Arti Vula filling in for Mark Murphy. Congratulations on the quarter and thank you for taking my question. I wanted to ask about QuickBooks Advance. You mentioned during your Investor Day that the product's success relies more on go-to-market strategies than on new product or feature development. Could you share your thoughts on the progress in that area? Additionally, how is the mid-market performing overall, and how does that compare to the lower end of the market? Thank you.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "Thank you for your question. To reiterate what I mentioned at the Investor Day, the most significant factor for our future is our go-to-market strategy. We are actively enhancing our product capabilities because our goal is to grow beyond 100 employees. We plan to cater to mid-market customers that are much larger than that. In the short to medium term, the key to our success lies in the go-to-market approach. This involves attracting the right talent in sales and marketing. Recently, we've brought on a strong marketing leader and a capable sales leader, and we're in the process of hiring more sales leaders and skilled account managers to support our customers. For mid-market businesses, it's crucial to show them how they can manage their operations seamlessly on one platform and understand the benefits, particularly regarding cash flow. We also want to share our roadmap, especially with features like Intuit Assist, which offers automation with access to human expertise \u2013 a valuable proposition for mid-market customers. Overall, our focus remains on investing in our product and platform for long-term opportunities. Regarding business health, it varies based on the sector and the state of the business. Generally, more established customers can better weather economic challenges compared to those just starting out with limited savings. It's not that newer businesses are inherently less healthy; rather, it depends on various factors such as business size, longevity, and industry segment.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Arti Vula",
+      "title": "Analyst",
+      "content": "Perfect. Thank you.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question will come from Kartik Mehta with Northcoast Research.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Kartik Mehta",
+      "title": "Analyst",
+      "content": "Good afternoon. Sasan, we've discussed the Full Service business extensively. As you assess that business and the insights you've shared, how do you plan to measure success for it at the end of the tax season? Will it be based on the number of returns processed, or what metrics will you use to determine if you've achieved success?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "Yeah. Thanks for your question. First of all, I'll start with something that's really, really important, and that is the investments that we've made over the years where TurboTax is now one platform, and that platform is built on an incredibly rich sort of data layer, AI layer and expert network and now an ecosystem of apps, which is consumer app and business taxes. And the reason I start there is because now we have the ability in one place for you to do your taxes yourself, get help with an expert that's matched specifically to your needs, and we can do your taxes for you. And in fact, you can request the same person to do your taxes for you year in and year out and provide advice along the way. The reason I started with that foundational element that we are one platform is as we go to market and start talking to customers about the notion of that choice with us, and we can do everything for you, it actually creates a halo effect. And so what we will look at are metrics around number of customers, conversion, retention, average revenue per customer across the entire franchise. And we also look at it by area. So very specifically, Full Service plays a very important halo effect because it's an element of confidence. It's actually knowing that if I want to hand everything off to someone, that Intuit can now do it for me, whether it's virtually or now locally, if I want to connect to an expert. But ultimately, the metric that will matter the most for Full Service is going to be average revenue per customer because it's not just the numbers game. It's the value of these customers. We, of course, will measure a number of customers and average revenue per customer, but average revenue per customer will have the largest impact on our outcomes this year and in the future because now we do your taxes for you as a consumer and as a business.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Kartik Mehta",
+      "title": "Analyst",
+      "content": "Perfect. And Sandeep just one quick question. You talked about not wanting to focus on one quarter for margins. But I'm wondering, as you look at the year, any differentiation or movement in marketing especially as the tax season unfolds?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Sandeep Aujla",
+      "title": "CFO",
+      "content": "Kartik, we are continuing to invest in our product, our Big Bet, GenAI, and marketing. As we transition to Full Service, we aim to enhance our brand's equity beyond the DIY category. However, I do not anticipate any significant changes in the seasonality of our marketing spending, which I believe is your primary concern. I'm optimistic about the campaigns and investments we've made in our go-to-market strategy across tax and other segments.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Kartik Mehta",
+      "title": "Analyst",
+      "content": "Thank you. Yes. That was the question I was asking. I just did a poor job of it. So thank you.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our last question will come from Brad Sills with Bank of America.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brad Sills",
+      "title": "Analyst",
+      "content": "Great. Thank you so much. Another question here on TurboTax as you're kind of heading into the next tax season here. Now that the focus is more on full service and TurboTax Live, is there something different about the end user, the end consumer filer that you're targeting now, say, going after that CPA segment that's different from traditionally, where you've gone after that tax store, you've had tremendous success there against tax stores. Now that CPA segment. Is there some difference there? And is there some learning from last year in go-to-market that you can apply this year to gain more traction there at that end of the market? Thanks, again.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "Yeah, Brad, thank you for your question. And it's actually spot on the way you asked it, and that is we view our opportunity as nearly 100 million customers that are either consumers, which is about 88 million of the 100 million and the rest are our business customers, small businesses. We view our opportunity going after them, which is a combination of small pros, mom-and-pop shops, stores is actually a smaller part of the whole pie. And in the last, I would say, 18 months, we've experimented a lot with how do we go after these customers, how do we raise awareness, how do we get them to consider and ultimately, how do we ensure that when they come to our front door, front door is a service front or not a software front door because of the behaviors that they have. And a lot of those both go-to-market and platform insights and learnings is what has informed a number of things that I touched on earlier that we experimented with and ran test in the tax extension season and what we feel good about going into this coming season. So it was a long answer to your question, but yeah, a lot of those insights have informed our game plan because we're not just the software platform; we're a software and service platform, given who we're focused on serving. And by the way, while I have the floor, the same thing applies to small businesses as we think about what we're doing to embed QuickBooks Live in our offering.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Brad Sills",
+      "title": "Analyst",
+      "content": "Wonderful. Thank you, Sasan.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our last question will come from Scott Schneeberger with Oppenheimer.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Scott Schneeberger",
+      "title": "Analyst",
+      "content": "Thank you very much. I have a follow-up question for Sandeep and then one for you, Sasan. Sandeep, regarding the margins in the quarter, you mentioned marketing, which I assume was the main factor. Was there anything else in the quarter that contributed positively, or was that the primary driver? You also referred to expectations for the rest of the year, and in Kartik\u2019s response, it seemed like you were discussing TurboTax, but it appears you're anticipating a decline in margins in the second quarter. It looked like the primary advantage was in small business during the first quarter. Will that benefit end in the second quarter? Is it something that will really taper off in the second half too? Then I'll come back with my follow-up. Thank you.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Sandeep Aujla",
+      "title": "CFO",
+      "content": "Sure. Thanks for the question, Scott. The way I would think about the Q1, we had multiple expenses that moved out of the quarter into later parts of the year, and marketing was one of those expense lines, and I would not say that marketing was the lion's share of it. There were several things that we expected would hit us in October that got pushed out, but I would definitely not take away marketing being the lion's share of items that got pushed out. And you're right, some of those will get caught up, and we'll have those expenses in Q2, and so once you look at Q1 and Q2 spent together, those things will start normalizing out. Again, I'll bring you and the team back to the fact that you should all be focusing on our margins on a full-year basis. In any given year, we could have different expense trend lines. So again, we remain confident in our guidance for the full year across the margins for the company.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Scott Schneeberger",
+      "title": "Analyst",
+      "content": "Thanks. Appreciate that. And Sasan, we're pretty well along now into Karma Guarantee. Would love just to get an update on that and Credit Karma was a bit stronger than we had anticipated in the quarter. Is it something that could potentially inflect a positive year-over-year growth in the fiscal first half? Or is that something that you'd expect more in the back half? Thanks.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "Thank you for your question. To start, based on our insights from last year, we approached our guidance with intention and prudence, considering both the macro environment and the number of initiatives planned for the second half of the year. We're being aggressive with our initiatives, but we chose not to include them in our guidance to remain thoughtful and cautious. Regarding your question about Karma Guarantee, we haven't explicitly discussed it lately, not because it's less important, but because we are rethinking how to incorporate it into various areas. One area is the app redesign, which aims to present the right benefits to customers at the right time, as we mentioned at Investor Day, along with Intuit Assist. For instance, prime customers often spend considerable time comparing credit cards to find their ideal option. Now, we can streamline that process by leveraging the data we collect about them. The app redesign combined with Intuit Assist and our focus on prime customers means that Karma Guarantee is crucial for assisting those who struggle to access financial products, ensuring they are approved for their selected options or compensating them with $50 if they are not. These initiatives are what we expect will enhance customer engagement, increase frequency, and boost monetization. Although we didn't include this in our guidance, it remains vital for our future growth. Moreover, tax considerations are significant for us. We have spent years examining how every interaction with customers through the Credit Karma platform affects their taxes. This approach will create a more seamless experience at tax time alongside attractive offers. Therefore, as we look ahead, taxes are a key focus area for our members on the Credit Karma platform, and we have high hopes for what this means for the future, even though it is not reflected in our guidance.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Scott Schneeberger",
+      "title": "Analyst",
+      "content": "Excellent. Thanks for all that.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Ladies and gentlemen, thank you for participating. This does conclude today's conference call, and you may disconnect at this time.",
+      "sentiment": "0.0"
+    }
+  ],
+  "reported_date": "2024-02-22"
+}

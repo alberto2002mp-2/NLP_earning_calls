@@ -3,7 +3,7 @@
 Batch Mode (All 2024 Release Dates): 
     python src/data/fetch_earnings_call_transcript.py
     
-    Discovers all earnings released in 2024 for IBM, AAPL, MSFT, NVDA,
+    Discovers all earnings released in 2024 for the configured symbol list,
     fetches each transcript, and saves as SYMBOL_YYYY-MM-DD.json
 """
 
@@ -131,7 +131,27 @@ def main() -> None:
             "Missing API key. Set ALPHAVANTAGE_API_KEY environment variable."
         )
 
-    symbols = ["IBM", "AAPL", "MSFT", "NVDA"]
+    symbols = [
+        "ACN",   # Accenture
+        "ADBE",  # Adobe
+        "AMD",   # Advanced Micro Devices
+        "AAPL",  # Apple
+        "AMAT",  # Applied Materials
+        "AVGO",  # Broadcom
+        "CSCO",  # Cisco Systems
+        "INTC",  # Intel
+        "IBM",   # IBM
+        "INTU",  # Intuit
+        "MU",    # Micron Technology
+        "MSFT",  # Microsoft
+        "NVDA",  # NVIDIA
+        "ORCL",  # Oracle
+        "PLTR",  # Palantir Technologies
+        "QCOM",  # QUALCOMM
+        "CRM",   # Salesforce
+        "NOW",   # ServiceNow
+        "TXN",   # Texas Instruments
+    ]
     year = 2024
 
     total_transcripts = 0

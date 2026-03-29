@@ -1,0 +1,229 @@
+{
+  "symbol": "QCOM",
+  "quarter": "2024Q2",
+  "transcript": [
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Ladies and gentlemen, thank you for standing by. Welcome to the Qualcomm Second Quarter Fiscal 2024 Earnings Conference Call. As a reminder, this conference is being recorded May 1, 2024. The playback number for today's call is (877) 660-6853, International callers, please dial (201) 612-7415. The playback reservation number is 13745532. I would now like to turn the call over to Mauricio Lopez-Hodoyan, Vice President of Investor Relations. Mr. Lopez-Hodoyan, please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Mauricio Lopez-Hodoyan",
+      "title": "Vice President of Investor Relations",
+      "content": "Thank you, and good afternoon, everyone. Today's call will include prepared remarks by Cristiano Amon and Akash Palkhiwala. In addition, Alex Rogers will join the question-and-answer session. You can access our earnings release and a slide presentation that accompany this call on our Investor Relations website. In addition, this call is being webcast on qualcomm.com, and a replay will be available on our website later today. During the call today, we will use non-GAAP financial measures as defined in Regulation G, and you can find the related reconciliations to GAAP on our website. We will also make forward-looking statements, including projections and estimates of future events, business or industry trends or business or financial results. Actual events or results could differ materially from those projected in our forward-looking statements. Please refer to our SEC filings, including our most recent 10-K, which contain important factors that could cause actual results to differ materially from the forward-looking statements. And now to comments from Qualcomm's President and Chief Executive Officer, Cristiano Amon.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Cristiano Amon",
+      "title": "President and CEO",
+      "content": "Thank you, Mauricio, and good afternoon, everyone. Thanks for joining us today. In fiscal Q2, we delivered non-GAAP revenues of $9.4 billion. Non-GAAP earnings per share of $2.44 was above the high end of our guidance. Revenues from our chipset business of $8 billion reflect strong premium tier demand for Android smartphones and continued momentum in automotive. Licensing business revenues were $1.3 billion. During the quarter, we also made significant progress on our leading technology and product road maps as well as executing on our growth and diversification opportunities. Let me share some key highlights from the business. As we drive intelligent computing everywhere, we're enabling the ecosystem to develop and commercialize on-device GenAI applications across smartphones, next-generation PCs, XR devices, vehicles, industrial edge, robotics, networking, and more. To that end, we recently launched the Qualcomm AI Hub, a gateway for developers to enable the large-scale commercialization of on-device AI applications. It features a library of approximately 100 pre-optimized AI models for devices powered by Snapdragon and Qualcomm platforms, delivering four times faster inferencing compared to non-optimized models. As AI expands rapidly from the cloud to devices, we are extremely well positioned to capitalize on this growth opportunity, given our leadership position at the edge across technologies, including on-device AI. In automotive, the Snapdragon Digital Chassis is the industry's leading technology solution, and we're pleased to announce that our design win pipeline has increased to approximately $45 billion. We're growing faster than the addressable market and remain on track to achieve more than $4 billion of automotive revenues in fiscal '26. In premium and high-tier smartphones, our Snapdragon mobile platforms continue to set the bar for performance and on-device GenAI capabilities. Recently launched flagship Android devices powered by Snapdragon 8 Gen 3 are seeing strong demand globally, especially in China. We are extending the most sought-after 8 Series capabilities, including on-device AI to a broader range of flagship and high-tier smartphones with the new Snapdragon 8S Gen 3 and Snapdragon 7 Plus Gen 3 mobile platforms launching in the second half of 2024. In cellular modems, we have again established a new industry benchmark with the Snapdragon X80, the world's most advanced 5G Modem-RF System. The X80 supports 5G advanced, the next era of 5G in addition to direct-to-mobile 3GPP-compliant satellite communications and leading Release 18 features. Additionally, our networking solutions continue to gain traction as the WiFi 7 transition expands to the enterprise. We are excited about the upcoming launches of next-generation Windows AI PCs powered by Snapdragon. The Snapdragon X Elite is the leader in performance on-device AI and power efficiency for the Windows ecosystem, and is optimally positioned to lead the transition to true AI PCs. I'm also pleased to share that we recently expanded our compute portfolio with the Snapdragon X Plus platform, which is designed to address a broader range of device tiers. In XR, we're seeing good momentum in augmented and virtual reality. In particular, the Ray-Ban Meta glasses powered by our Snapdragon AR1 Gen 1 platform continue to gain traction with consumers. Additionally, the Meta Horizon OS running on Snapdragon is now open and available to third-party hardware makers. This is a significant milestone as they will expand the device ecosystem. Finally, at the Embedded World Conference in Germany, we announced two new solutions for the industrial IoT ecosystem: the Qualcomm QCC730 micro-power WiFi SoC and the Qualcomm RB3 Gen 2 platform. The QCC730 is specifically designed for IoT connectivity in battery-powered, industrial, commercial, and consumer applications, featuring 88% lower power consumption than previous generations. The RB3 Gen 2 platform is a complete hardware and software solution designed for a wide range of products, including various types of robots, drones, industrial handheld devices, and more. The RB3 is supported by the recently announced AI Hub and also features support for Qualcomm Linux, a comprehensive package of operating system, software, and developer tools for our IoT platforms. In summary, we're very pleased with the continued progress on our growth and diversification strategy. Beyond handsets, we have established leadership positions across automotive, XR, and networking, and we are well positioned to do the same in PCs, industrial, and edge AI. We're optimistic about the opportunities ahead for the company and will continue to execute our plan to deliver long-term growth and value for shareholders. I would now like to turn the call over to Akash.",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "Akash Palkhiwala",
+      "title": "CFO",
+      "content": "Thank you, Cristiano, and good afternoon, everyone. I'll start with our second fiscal quarter earnings. We are pleased to announce another quarter of strong non-GAAP results with revenues of $9.4 billion and EPS of $2.44, which was above the high end of our guidance range. QTL revenues of $1.3 billion and EBT margin of 71% were in line with our expectations. QCT delivered revenues of $8 billion and EBT margin of 29%, which was at the high end of our guidance range, reflecting strength across handset and automotive. QCT handset revenues of $6.2 billion included the benefit of flagship Android smartphone launches powered by our Snapdragon Gen 3 mobile platform. QCT IoT revenues increased 9% sequentially to $1.2 billion, which was slightly better than our expectations. We had another record quarter in QCT Automotive, with revenues increasing by 35% on a year-over-year basis, reflecting increased content in new vehicle launches with our Snapdragon Digital Chassis products. We returned $1.6 billion to stockholders during the quarter, including $731 million in stock repurchases and $895 million in dividends. During the quarter, we also announced an increase in our quarterly dividends from $0.80 to $0.85 per share, consistent with our commitment to dividend growth. Lastly, the sale of the restraint control system business successfully completes the divestiture of the non-Arriver businesses related to our acquisition of Veoneer. We are very pleased with this acquisition, and the Arriver team is executing on the development of our computer vision and drive policy ADAS software stack, targeting vehicle launches starting in late '25. Now turning to guidance. Our forecast for global 3G, 4G, 5G handset units remains unchanged for calendar '24. We estimate that global handset units will be flat to slightly up on a year-over-year basis. This includes expected growth of high single-digit to low double-digit percentage in 5G handsets. For the third fiscal quarter, we are forecasting revenues of $8.8 billion to $9.6 billion, and non-GAAP EPS of $2.15 to $2.35. In QTL, we estimate revenues of $1.2 billion to $1.4 billion and EBT margins of 69% to 73%, reflecting normal seasonality for handset units. In QCT, we expect revenues of $7.5 billion to $8.1 billion and EBT margins of 25% to 27%. Consistent with our previous comments, we anticipate QCT handset revenues to decline by mid-single-digit percentage sequentially, reflecting a seasonal trend due to the absence of flagship handset launches in the quarter. We expect QCT IoT revenues to grow sequentially by low to mid-single-digit percentage as we continue to see a gradual recovery from the macro factors impacting the industry. Following a record performance in the second fiscal quarter, we expect QCT Automotive revenues to grow by low double-digit percentage quarter-over-quarter as the increase in our design win pipeline continues to materialize into revenue. Lastly, we expect non-GAAP operating expenses to be approximately $2.2 billion. In closing, we are pleased with our execution and financial performance for the first half of the fiscal year. Specifically, we saw year-over-year handset revenues from our Chinese OEMs increase by greater than 40% in the first half of fiscal '24, reflecting our strong competitive positioning and recovery of demand. Looking forward, our technology leadership positions us to continue to execute on our diversification strategy across IoT and automotive. In IoT, we look forward to normalization and demand across our customer base exiting fiscal '24. In addition, we're excited about the launch of our next-generation AI PCs powered by our Snapdragon X Elite and X Plus platforms from all leading PC OEMs starting in mid-'24. These PCs will deliver industry-leading processor performance, advanced on-device GenAI features, and extended battery life. In automotive, we are pleased that our design win pipeline has increased from $30 billion in September '22 to approximately $45 billion, providing confidence in executing to our long-term revenue targets. This concludes our prepared remarks. Back to you, Mauricio.",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you, Akash. Operator, we are now ready for questions.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Matt Ramsay",
+      "title": "Analyst",
+      "content": "Cristiano, I wanted to ask you a question about the handset, modem, and RF architecture as we move into the era of AI in handsets and mobile devices, where I think it's likely that the compute system and the memory system of the phone take up more battery life potentially as we try to compute some of these applications for AI inference on the device. And I wonder if that changes your potential opportunity for your modem business integrated with your RF business. There was a competitor that mentioned socket loss last night, and I think it went to you guys. I wonder if you might comment on how or why. But I think it's a bigger picture question as the compute subsystem of the phone puts pressure on the modem and RF does that give you opportunities for further integration.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Cristiano Amon",
+      "title": "President and CEO",
+      "content": "Well, let me unpack this. I think as far as modem-RF, we believe we have a very competitive RF front-end portfolio, and we have been really delivering unique features across the modem RF, especially on power. As a general comment, not related to AI, but as a general comment, I think as you look at RF AI running on device and AI running on the cloud, modem becomes more important, especially things like latency of response or hybrid AI models have a new importance of real-time connectivity. So we're starting to see more and more the modem becoming more important. The real advantage for Qualcomm is not only on the modem-RF, even though I think we're very proud of having the leadership position there, but the fact that we created the ability to run AI pervasively on devices without compromising battery life. And that has been reflected within our NPU performance both on phones as well as PCs and cars. And I think that's the key technology leadership position for AI, which is the best possible performance per watt.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Samik Chatterjee",
+      "title": "Analyst",
+      "content": "Maybe if I can start with Cristiano asking sort of you mentioned the strong performance you're seeing in the China market, but maybe any more details in terms of just what you're seeing in the market relative to any specific numbers that you can share because there's been a lot of conflicting data points about the market being strong in Q1 and then maybe taking a breather. So I'm curious to understand what you're seeing on the ground there in terms of the China market. Also, it's always been sort of a leader in adopting new technology and it seems like the AI phones are doing well. So how much of the recent strength do you attribute to an AI-led upgrade cycle versus a normal market rebound? And I have a quick follow-up after that.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Cristiano Amon",
+      "title": "President and CEO",
+      "content": "Thank you, Samik. So what moves to market for us premium and high-tier. And I think what we're seeing in the China market is that the mix is improving. As the market has stabilized and returned to some form of normality. What we really like is that within that market, premium and high-tier as a percentage continue to increase, and that's actually what's driving the results. We are seeing the very first instances of on-device AI and GenAI being launched in premium devices, and that has been resonating well with the consumer. So it's a positive trend that we like. The other color I'd like to add is, we have not seen signs of weakness in the Android premium market in China, especially with our OEMs. So a lot of the strength is really coming from premium devices from Xiaomi, Honor, Oppo, OnePlus, and Vivo. I think Huawei entering that market actually increased the overall TAM of premium Android.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Akash Palkhiwala",
+      "title": "CFO",
+      "content": "And maybe, Samik, to add a couple of quick data points on top. As we mentioned in our prepared remarks, the first half of fiscal '24, our revenue from Chinese OEMs grew by greater than 40% year-over-year, and that is also reflected in our third quarter guidance. So it's a trend that's holding up as we look forward. From a roadmap perspective, as you look into our new premium tier launches coming up later this year, in addition to GenAI, we'll have our Oryon custom CPU cores coming in as well. So we're very excited about the roadmap.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Samik Chatterjee",
+      "title": "Analyst",
+      "content": "Got it. And for my follow-up, maybe Akash, this is more for you. I mean when you talked about the seasonality into the June quarter, handset seasonality is sort of the typical seasonality that you see and the aggregate results or revenue being better than seasonal is really being driven by autos here with the low double-digit growth that you talked about. Clearly, very strong sort of pipeline of wins, but how sustainable is this sort of pace of improvement quarter-over-quarter in terms of revenue? Just want to get a sense if this is when we start to see more sort of inflection in auto revenues given the strong pipeline you have and that drives better seasonal results going forward, even into the September quarter?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Akash Palkhiwala",
+      "title": "CFO",
+      "content": "Yes. From an automotive perspective, as you know, we've given out a target of greater than $4 billion revenue in fiscal '26. What you're seeing is really our design win pipeline materializing into revenue on our way to that number. Two key kind of data points on our design win pipeline: the last number we had given was $30 billion in September\u2014about 18 months ago, September '22. The updated number that we just provided is $45 billion of design wins. Obviously, a very significant increase, and of note, within that, approximately one-third is driven by ADAS. So we're seeing tremendous success now in ADAS, and that's adding to our design win pipeline.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Mike Walkley",
+      "title": "Analyst",
+      "content": "And maybe just building off the 40% increase in shipments to the Chinese OEMs holding through the June quarter guidance. Just based on your expanding on-device AI portfolio, is this level of demand sustainable into the back half of the calendar year? Or asked another way, do you expect the smartphone market to have kind of normal seasonal trends after the June quarter dip?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Akash Palkhiwala",
+      "title": "CFO",
+      "content": "Yes. So as you'll recall, Mike, we had said earlier that we expect the third quarter to be the low quarter from a financial perspective, just given the seasonality of our business. That still holds true. So as we go from the third to fourth quarter and then into fiscal first quarter, which is the December quarter, we expect growth as new launches of phones happen across all major OEMs. As I said earlier, we're going to have the launch of our Snapdragon 8 Gen 4 chip as well, and we're extremely excited about what that chip does and the launches that will come through that chip later in the year. Specifically, as you think about the fourth quarter, we expect the EPS growth from third to fourth quarter to be consistent with fiscal '23 and then we'll grow beyond that into the December quarter. Yes. So Mike, we had talked about December fiscal first quarter as the bottom quarter. We grew from that into March by 9% sequential growth, which was better than our expectations. Now we're guiding low to mid-single-digit growth into the September quarter. As we had outlined at the beginning of the year, we would see improvement through the year, and that trend is holding, and we expect it to hold in the fourth fiscal quarter as well. In terms of different parts within IoT, consumer is more aligned with phones. So we've seen that recover faster. The industrial networking is consistent with what our peers are seeing within those industries, and the recovery timeline is aligned with that. If you kind of step back and think about our business there, we're pretty excited about new products that are coming out. Cristiano talked about the PC set of products coming out later this year, device launch coming out later this year. In addition to that, we also have new products in industrial and WiFi 7 that will drive growth into this IoT segment as well.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Stacy Rasgon",
+      "title": "Analyst",
+      "content": "For my first question, just on the PC outlook, it does sound like devices are going to be available for purchase in the back half. So how much PC is actually in the Q3 outlook? And what should we expect for the PC in the numbers into the second half and beyond, like when does PC actually get big enough for us to see it?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Cristiano Amon",
+      "title": "President and CEO",
+      "content": "Stacy, thanks for the question. We have a lot of product momentum right now and especially with all the launches. I would encourage everybody to go watch the Microsoft Build event, especially for what is happening with on-device AI. There's a lot of product momentum and launches. As those devices start to ramp up in volume, since a lot of them are going to be back to school, it's going to be more of a fiscal '25 event in terms of being material within the IoT segment. Anything you'd like to add, Akash?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Akash Palkhiwala",
+      "title": "CFO",
+      "content": "Just maybe in our June quarter guidance, there isn't material PC volume forecasted in our numbers.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Cristiano Amon",
+      "title": "President and CEO",
+      "content": "One thing we're going to do\u2014sorry, just real quick. One thing we're going to do, like we provide an update on auto this quarter. We're going to provide a more detailed update next quarter on PC, especially as we're going to have those devices launched.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Stacy Rasgon",
+      "title": "Analyst",
+      "content": "Got it. That's very helpful. For my follow-up, I wanted to ask about Huawei revenues. So in the Q, it says that you're not expecting any further product revenue from Huawei beyond the end of the calendar year. So I know it's only low-end 4G that's left, but how big is that now in the numbers in the end? How much of that will be going away into the calendar year?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Akash Palkhiwala",
+      "title": "CFO",
+      "content": "Yes. So Stacy, if you look at Huawei, as you've seen, they have launched multiple tiers of 5G devices already with their own chips. And clearly, we don't participate in those devices. What we are shipping at this point is the license that we have is for 4G chips. And as you rightly pointed out, it's at the low end of the spectrum. What we outlined in the Q is since the devices will eventually transition all to 5G, we don't expect any revenue from Huawei product business in '25.",
+      "sentiment": "-0.2"
+    },
+    {
+      "speaker": "Christopher Caso",
+      "title": "Analyst",
+      "content": "Question is on QTL. And it sounds like that you're starting to see some degree of improvement particularly among the China OEMs in the QCT business. But that has thus far hasn't translated to the QTL business. Can you talk about sort of the lag between the recovery in those segments and what your level of optimism or not is\u2014 for sort of breaking out of this range in the QTL business?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Akash Palkhiwala",
+      "title": "CFO",
+      "content": "Yes. So as you know well, the QTL business is really driven by the size of the market. And there is a cap on the total ASPs, up to which the royalty rate applies. So as we have seen the benefit on the QCT side is a lot driven by more units at the premium tier, especially above $400 in price. It does not\u2014it's not something that benefits the QTL business directly, the way the royalty program is structured. So that's the disconnect between the two.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Christopher Caso",
+      "title": "Analyst",
+      "content": "Got it. That's helpful. As a follow-up, with regard to the AI handsets, a lot of the questions that we receive on this is, sort of why? And what are the applications, what are the reasons for a consumer to upgrade their handsets to AI? Cristiano, you talked about the developer hub that you're running, perhaps that gives you some insight into what the developers are doing, what's going on in the pipeline that will drive these AI handset sales?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Cristiano Amon",
+      "title": "President and CEO",
+      "content": "Look, it's a great question. I want to step back and say, in general, I think AI is going to benefit all the devices. AI when extended to run on device, besides the benefit of working alongside the cloud, offers completely new use cases, privacy, security, latency, costs, personalization, etc. Here's how you should look into this: in the same way that when the smartphone started, you had a handful of apps that eventually grew to thousands and hundreds of thousands of apps, and that was really the user experience. I think we've just started. You're beginning to see some of those use cases, and you have exactly that moment. Some of the phones have 10 apps, and they're growing. One of the reasons we have the AI hub is that this is a new moment for the industry. It works a little bit differently. It's different than how you think about the traditional app store. You have many models, many in open-source models that they can run on a device, and they can be attached or built into any application. We are starting to see a lot of developer interest. As we said in the prepared remarks, we have over 100 different models, from models from OpenAI to Llama 3, many of which are quantized and optimized to the NPU, which when they are optimized, run four times faster than the model without optimization. Those models and those use cases started to be implemented in apps\u2014whether it's an image or associated with a camera, or a language. So we're in the beginning of that transition. We really like what we see because it's really creating a reason for people to buy a new device. It's going to be the same on PC. It's going to be the same as they come to cars as well and in industrial. So it's an exciting tailwind, I think, for our strategy of driving computing and connectivity at the edge.",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "Timothy Arcuri",
+      "title": "Analyst",
+      "content": "I wanted to ask about the mix of the business. And as you said, Akash, China is holding up quite well. It's up 40% year-over-year in the fiscal first half. But it's within shouting distance of kind of where it peaked on a quarterly basis back in fiscal '22 when they were obviously overbuilding at that time. Can you talk a little bit about what's happening there? How much of the year-over-year growth is units versus pricing?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Akash Palkhiwala",
+      "title": "CFO",
+      "content": "Yes. Thanks, Tim. As we said earlier, the biggest benefit we are seeing is the mix being stronger. And as you know, we are competitive positioning is stronger at the higher tiers, so that's helping us. The second is, when you look at generation over generation, the chips, especially at the premium tier are getting more capable as more\u2014not just GenAI, but other additional capabilities are being integrated into the chips amidst the strong competition between the OEMs. So there's demand for those capabilities. So we're seeing that come through as well. It's really a combination of those things that is driving strength versus a unit upside. The unit size we are seeing is very much aligned with the market forecast, which says a flat market versus last year.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Timothy Arcuri",
+      "title": "Analyst",
+      "content": "Got it. Okay. And just as a quick follow-up. How sustainable are these RF wins that you've obviously gotten for this upcoming phone? Should we consider that as kind of part of the modem? So when the modem goes away, the RF wins also go away?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Akash Palkhiwala",
+      "title": "CFO",
+      "content": "Of course, we will not talk about any specific customer here, but I think I'd go back to the very first question that Cristiano answered. The key thing for us is the modem-RF architecture and how when we develop them end-to-end together, it creates an advantage for us in terms of performance, and time to market for our customers as well. That's a sustainable advantage that will stay going forward for us.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Tal Liani",
+      "title": "Analyst",
+      "content": "When I look at your numbers, you beat the numbers mainly on handsets. It's both for QTL and QCT, of course. And I'm trying to understand how much of the outperformance is just China versus the rest of the world. So when you look at the rest of the world, what were the trends when it comes to your QCT shipments and QTL? And then within China, where are we in the recovery cycle, right? There is ongoing growth, but what we are seeing now in the first half of the year is mainly recovery from last year. So are you now at normal levels? From here, should it trend normally based on demand? Or are we still recovering from the low of last year?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Akash Palkhiwala",
+      "title": "CFO",
+      "content": "Yes. So a couple of comments. First is on the overall picture across OEMs. China saw a very significant benefit, but we had strength across other parts of the Android ecosystem as well. It's not something that was isolated to one or two OEMs. It was a broad trend that is just a representation of the overall market and the mix shift that we discussed. As we think about our strength in handsets, we are very optimistic that as we go forward, this is a trend that holds forward. This is not about inventory. As I said earlier, the units are actually aligned with the size of the market, and the trends are really driven by mix and increased content.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Tal Liani",
+      "title": "Analyst",
+      "content": "Got it. Okay. Second question, just on the AI. I don't know if it's possible to quantify at all. But if you look at the non-AI QCT contribution versus AI QCT contribution, when AI is included in the mix, is there a number where it comes to the increase in content per phone? Does it mean that the semiconductor there is going to be more expensive, higher price for you? So even if the market doesn't grow, can you grow just by the market shifting to AI? That's theoretical, but I'm trying to isolate the impact of AI.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Cristiano Amon",
+      "title": "President and CEO",
+      "content": "A lot of people are seeking clarity on this topic. Let me try to provide an answer to help explain. Firstly, much of the increased content in the average selling price on QCT chipsets, particularly premium ones, has been driven by the compute aspects. There\u2019s been enhanced performance in the CPU, GPU, and NPU. The NPU has seen the most significant growth in silicon for these chips. Year over year, one of the most notable advancements has been the NPU for AI, which is increasing the silicon content in devices due to the anticipated computational capacity needed for those models. Financial benefits are likely starting to emerge, improving the product mix. Consumers are eager to purchase more capable phones that can utilize AI, pushing the market toward a richer mix with greater share gains and prompting an upgrade cycle as people look to buy new phones. That's the perspective we should adopt regarding phones. The PC market operates a bit differently. As we advance in PCs, our on-device AI capabilities are set to surpass those of our competitors on laptops, which will provide a boost to performance. In the automotive sector, there's added value from the platforms currently in commercialization and design wins, with an expanding pipeline. We can implement software upgrades to run generative AI in those vehicles. This is how we foresee Qualcomm progressing. Lastly, in the industrial sector, we're focused on elevating performance from microcontrollers to high-performance computing connectivity. Edge AI is emerging as a crucial aspect of this market moving forward.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Christopher Muse",
+      "title": "Analyst",
+      "content": "I guess I was hoping you could speak to QCT gross margins. They impressively held flat despite revenues down 5%. I guess the real question here is not just how you did it this quarter, but how should we be thinking about as you bring on non-handset revenues to the model, what incremental gross margins might look like for QCT, particularly as we think about the AI PC and IoT as well as auto, given that growing backlog.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Akash Palkhiwala",
+      "title": "CFO",
+      "content": "Thanks C.J. Yes, I think the first couple of quarters of this fiscal year, we've seen\u2014definitely seen strength in the margin, and it's driven by the return mix that we've discussed on the call. What we're guiding for the third quarter is a sequential decline, again, reflecting kind of lack of flagship launches in the quarter. No change to what we've said on gross margins before. We've given a range, and we've been operating at the high end of the range, but no kind of fundamentally change on the framework of it going forward. Yes. So I mean, obviously, we're not guiding quarters that far out at this point. But if you kind of take the current run rate and extend it forward towards the $4 billion target, kind of generally slope growth increase between the two data points is a reasonable way of thinking about it.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "That concludes today's question-and-answer session. Mr. Amon, do you have anything further to add before adjourning the call?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Cristiano Amon",
+      "title": "President and CEO",
+      "content": "Yes. Just a few final thoughts. I think we're incredibly pleased with our technology and product roadmap evolution. We're really looking forward to our next-generation PCs with Snapdragon, as I said during the call. I encourage everyone to look at the announcement from Microsoft Build and how that's going to drive much more AI into the Qualcomm platform. I just wanted to leave you all with a thought: One of the great things about the execution of the company. Every time we enter a new market or we set ourselves to go to a new market, we end up building a very strong position. We went from mobile to RF front-end, we became number one. Same thing when we went to WiFi. Automotive was something that we had ambition to build as part of our diversification. We're quickly becoming the industry partner of choice. We believe that there is a long-term opportunity with virtual reality, augmented reality. Now we have the absolute majority of the designs. With PC, we clearly build the leading platform, and we have the product momentum that we hopefully will translate into financial returns in the coming year. I just wanted to state that we feel good about the company's technology capabilities and how we're driving growth and diversification for our shareholders. Thank you very much for your support. Thank you to all our employees, and I'm looking forward to talking to you in the next call.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Ladies and gentlemen, this concludes today's conference call. You may now disconnect.",
+      "sentiment": "0.0"
+    }
+  ],
+  "reported_date": "2024-07-31"
+}

@@ -1,0 +1,343 @@
+{
+  "symbol": "ACN",
+  "quarter": "2024Q2",
+  "transcript": [
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Good morning. Thank you for standing by, welcome to Accenture's Second Quarter Fiscal 2024 Earnings Conference Call. At this time, all participants are in a listen-only mode, later we will conduct a question-and-answer session. As a reminder, this conference is being recorded. I would now like to turn the conference over to your host, Managing Director, Head of Investor Relations, Katie O'Conor. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Katie O'Conor",
+      "title": "Managing Director, Head of Investor Relations",
+      "content": "Thank you, operator. And thanks, everyone, for joining us today on our second quarter fiscal 2024 earnings announcement. As the operator just mentioned, I'm Katie O'Conor, Managing Director, Head of Investor Relations. On today's call, you will hear from Julie Sweet, our Chair and Chief Executive Officer; and KC McClure, our Chief Financial Officer. We hope you've had an opportunity to review the news release we issued a short time ago. Let me quickly outline the agenda for today's call. Julie will begin with an overview of our results. KC will take you through the financial details, including the income statement and balance sheet, along with some key operational metrics for the second quarter. Julie will then provide a brief update on our market positioning before KC provides our business outlook for the third quarter and full fiscal year 2024; we will then take your questions before Julie provides a wrap-up at the end of the call. Some of the matters we'll discuss on this call, including our business outlook, are forward-looking, and as such are subject to known and unknown risks and uncertainties, including but not limited to those factors set forth in today's news release and discussed in our Annual Report on Form 10-K and quarterly report reports on Form 10-Q and other SEC filings. These risks and uncertainties could cause actual results to differ materially from those expressed in this call. During our call today, we will reference certain non-GAAP financial measures, which we believe provide useful information for investors. We include reconciliations of non-GAAP financial measures where appropriate to GAAP in our news release or in the Investor Relations section of our website at accenture.com. As always, Accenture assumes no obligation to update the information presented on this conference call. Now let me turn the call over to Julie.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Julie Sweet",
+      "title": "CEO",
+      "content": "Thank you, Katie, and everyone joining us. I also want to express my gratitude to our 742,000 employees worldwide who work tirelessly to deliver value for all our stakeholders. I am satisfied with our performance in a challenging macro environment. Our results demonstrate the strong trust our clients place in us, our ability to handle complex work central to their businesses, our advantageous position within the ecosystem, and our capability to invest for future growth opportunities. We are experiencing momentum this quarter as we execute our strategy to be the reliable partner for our clients' transformations, highlighted by a record 39 clients achieving quarterly bookings over $100 million. These significant wins position us for increased growth as client spending rises. Additionally, we secured over $600 million in new GenAI bookings, totaling $1.1 billion in GenAI sales in the first half of this fiscal year, enhancing our lead in GenAI, which is vital for our clients' transformations. Our workforce now includes over 53,000 skilled data and AI professionals, as we aim to double our data and AI team from 40,000 to 80,000 by the end of fiscal year 2026. We remain highly attentive to our clients' needs, which is reflected in our bookings of $21.6 billion, marking our second-highest quarter ever. This includes $10 billion in North America, our highest figure to date. We continue to gain market share with revenues of $15.8 billion this quarter, consistent with last year and slightly above our forecast midpoint. Looking ahead into the new calendar year, we've observed a renewed willingness to spend among our clients, especially on our services in certain areas of EMEA and North America. This shift is reflected in our new bookings, which varied from our expectations. Clients are prioritizing investments in large-scale transformations that may take longer to translate into revenue, while they are also limiting discretionary spending, particularly on smaller projects. We noted ongoing delays in decision-making and a slower spending pace. Despite these challenges, our dedicated efforts to return to growth have resulted in improvements in North America and CMT over last quarter. We are operating our business with careful discipline and remain committed to the optimization measures we outlined last year to reduce structural costs and enhance our resilience. We achieved a 3% increase in adjusted EPS. Our significant investments in strategically important areas amounted to $2.1 billion deployed across our geographic markets in Q2 through 11 acquisitions, bringing our total investments in H1 to $2.9 billion across 23 acquisitions. We also prioritized training for our employees, providing approximately 10 million training hours in the quarter, averaging 14 hours per employee. In acknowledgment of the broad value we create, we are proud to have ranked first in our industry for the 11th consecutive year and 33rd overall on Fortune\u2019s list of the World's Most Admired Companies. We also secured the top position in our industry and third overall on the JUST Capital CNBC list of America's Most Just Companies. Furthermore, we have been recognized by Ethisphere as one of the World's Most Ethical Companies for the 17th consecutive year. An essential part of our growth strategy involves using our strong balance sheet to invest in and scale growth areas and expand into new opportunities. We have a solid record of success with this approach. Here are some highlights from the quarter: In North America, we invested in supply chain, an area poised for significant transformation through enhancements in inside sourcing and on-process technology. We acquired Navisite to support clients across various cloud providers, enterprise applications, and digital technologies to modernize their digital core. Additionally, we acquired Work & Co to assist clients in developing and executing digital brand strategies and operationalizing high-quality digital products at scale. In EMEA, we continue to invest in helping clients build their digital core and drive growth. In the UK, we invested in 6point6 to support clients in transforming their digital capabilities and modernizing legacy systems. We also acquired Redkite in the UK to enhance clients' performance through data-driven insights and AI. In Germany, we welcomed Vocatus to help clients accelerate their growth strategies using behavioral economics modeling to refine pricing and sales strategies for B2B and B2C operations. Similarly, in growth markets, our acquisitions enable us to advance clients' growth agendas by expanding our marketing and customer experience capabilities with Rabbit's Tale in Thailand and GIC in Singapore, assisting clients in Indonesia benefit from their rapidly growing digital economy. Our capacity to invest in fostering organic growth is a competitive advantage, and as our clients continue transforming, we have announced a $1 billion investment over the next three years in Accenture LearnVantage to provide comprehensive technology learning and training solutions for reskilling and upskilling their workforce. This investment includes the planned acquisition of Udacity, a pioneer in digital education, which we anticipate completing by the summer, potentially generating around $100 million in annual revenue. These services are strategically significant and strengthen our role as the partner of choice for reinvention, as talent development is a top priority for many CEOs. For instance, we are collaborating with Merck, a global biopharmaceutical company known as MSD outside the United States and Canada, to launch an innovative Generative AI training program for their employees to cultivate outstanding digital leaders. Merck has a history of investing in its workforce, enabling them to gain the skills and expertise necessary for pioneering new therapies. Digital, data, analytics, and AI are crucial in all stages of discovering, developing, manufacturing, and providing access to medicines and vaccines for patients. By investing in their people once more, Merck aims to uphold its commitment to utilizing advanced scientific innovations to save and enhance lives globally. Over to you, KC.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "KC McClure",
+      "title": "CFO",
+      "content": "Thank you, Julie. And thanks to all of you for taking the time to join us on today's call. We were pleased with our overall results in the second quarter with our second highest quarter of new bookings. We continue to invest at scale to strengthen our leadership position while delivering value for our shareholders. Now let me summarize a few of the highlights of the quarter. Revenues were flat in local currency, with mid-single-digit growth or higher in six of our 13 industries, including public service, life science, utilities, energy, health, and high-tech. While our CMT industry group improved this quarter, we continue to see pressure as expected. And we continue to take market share. As a reminder, we assessed market growth against our investable basket which is roughly two dozen of our closest global public competitors, which represents about a third of our addressable market, and we use a consistent methodology to compare our financial results to theirs. Adjusted to exclude the impact of significant acquisitions. Through the date of their last publicly available results on a rolling four-quarter basis. Adjusted operating margin of 13.7% decreased 10 basis points compared to Q2 last year and year-to-date operating margin is flat. This includes continued significant investments in our people and in our business. We delivered adjusted EPS in the quarter of $2.77, reflecting 3% growth over adjusted EPS last year. Finally, we delivered free cash flow of $2 billion and returned $2.1 billion to shareholders through repurchases and dividends. In the first half of the year, we've invested $2.9 billion in acquisitions across 23 transactions. With those high-level comments, let me turn to some of the details, starting with new bookings. New bookings were $21.6 billion for the quarter, representing a 2% decline in both US dollar and local currency, with an overall book-to-bill of 1.4. Consulting bookings were $10.5 billion with a book-to-bill of 1.3. Managed services bookings were $11.1 billion with a book-to-bill of 1.4. Turning now to revenues, revenues for the quarter were $15.8 billion, flat in both US dollars and in local currency, and we're slightly above the midpoint of our guided range. Consulting revenues for the quarter were $8 billion, a decline of 3% in both US dollars and local currency. Managed service revenues were $7.8 billion, up 3% in both US dollars and local currency. Taking a closer look at our service dimensions, technology services grew low-single digits and operations and strategy and consulting declined low-single digits. Turning to our geographic markets. In North America, revenue was flat in local currency with growth in public service, offset by declines in banking, capital markets, software platforms, and communications media. In EMEA, revenues declined 2% in local currency with growth in public service, offset by declines in communications media and banking capital markets. Revenue growth in Italy was offset by declines in the United Kingdom, France, and Ireland. In growth markets, revenue grew 6% in local currency, led by growth in banking, capital markets, industrial, public service, and chemicals and natural resources. Revenue growth was driven by Japan and Argentina, partially offset by declines in Australia and Brazil. Moving down the income statement, gross margin for the quarter was 30.9% compared with 30.6% for the same period last year. Marketing expense for the quarter was 10.3% compared to 9.9% for the second quarter last year. General and administrative expense was 6.9% compared to 6.8% for the same quarter last year. Before I continue, I want to note that in Q2 of FY 2024 and FY 2023, we recorded $150 million and $244 million in costs associated with our business optimization actions respectively. These costs decreased operating margin by 70 basis points and EPS by $0.14 this quarter and operating margin by 150 basis points and EPS by $0.30 in Q2 of last year. The following comparisons exclude these impacts and reflect adjusted results. Adjusted operating income was $2.2 billion in the second quarter, reflecting an adjusted operating margin of 13.7%, a decrease of 10 basis points from adjusted operating margin in the second quarter of last year. Our adjusted effective tax rate for the quarter was 18.8% compared with an adjusted effective tax rate of 20.4% for the second quarter last year. Adjusted diluted earnings per share were $2.77 compared with adjusted diluted EPS of $2.69 in the second quarter last year. Days services outstanding were 43 days compared to 49 days last quarter and 42 days in the second quarter of last year. Free cash flow for the quarter was $2 billion resulting from cash generated by operating activities of $2.1 billion, net of property and equipment additions of $110 million. Our cash balance at February 29th was $5.1 billion compared with $9 billion at August 31st. With regards to our ongoing objective to return cash to shareholders, in the second quarter we repurchased or redeemed 3.8 million shares for $1.3 billion at an average price of $352.35 per share. As of February 29th, we had approximately $4.6 billion of share repurchase authority remaining. Also in February, we paid a quarterly cash dividend of $1.29 per share for a total of $813 million. This represents a 15% increase over last year. And our Board of Directors declared a quarterly cash dividend of $1.29 per share to be paid on May 15th, a 15% increase over last year. In closing, we remain laser-focused on capturing growth opportunities in the market and delivering value for our clients. As you know and expect of us, we will operate with rigor and discipline, while continuing to invest for long-term market leadership. Now, let me turn it back to Julie.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Julie Sweet",
+      "title": "CEO",
+      "content": "Thank you, KC. I'd like to elaborate on the current demand landscape. Our strategies continue to emphasize technology and innovation. Clients are navigating an unpredictable macro environment shaped by economic, geopolitical, and industry-specific factors. As a result, they are prioritizing substantial transformations to strengthen their digital core, improve productivity, and allocate more investment towards growth and other initiatives that promise quick returns. Our commitment to being central to our clients' most complex transformation projects provides us resilience over time, as seen with our top 100 clients, who have been with us for over a decade. There is widespread acknowledgment of AI's significance, which is central to the transformation process. However, the ability to effectively utilize AI varies among clients. Those with robust digital infrastructures are generally quicker to advance, while many others are still grappling with the investments required for enterprise-wide AI implementation. Nearly all are struggling to scale, as AI technology represents just a fraction of what's necessary. To reinvent through technology, data, and AI, clients must have a solid digital foundation, revise their processes, upskill their workforce, and develop new capabilities centered around responsible AI, all while deeply understanding their industry and operations to unlock value. Many clients are first seeking greater efficiency to enable comprehensive investments in these essential capabilities, emphasizing the need for strong data foundations. Our comprehensive services spanning strategy, consulting, technology, and operations, together with our customer-centric approach and digital manufacturing and engineering capabilities, position us to assist our clients in navigating this AI transition. Our established standing in the technology ecosystem has never been more critical. The development of Generative AI is rapidly progressing and remains in its early adoption phase. We are collaborating with our ecosystem partners to help clients identify the necessary data and AI framework to achieve measurable business outcomes. Now, I will highlight some of the intricate work we are doing for our clients. Building on a longstanding partnership, we are collaborating with Mondelez International, a prominent player in the snacking market with well-known brands such as Oreo and Cadbury, to drive growth and maintain industry leadership. After establishing a strong shared services model supported by advanced technology and data, we are now embarking on an ambitious reinvention of their digital core, which involves designing and implementing a unified cloud-based platform. We will modernize their finance function and enhance their supply chain planning and warehouse management. This will ensure quicker product availability, driving sales growth and maximizing profitability. The revamped digital core will also enable Mondelez to enhance customer satisfaction through innovations like Generative AI. Cloud technology remains a fundamental aspect of the digital core. Our cloud business experienced notable growth this quarter as clients engage in various cloud-related activities, from migration and modernization to adopting new business models and intelligent edge solutions. For instance, we are supporting Riyadh Air, a digitally-focused airline in Saudi Arabia, in becoming the world's first fully cloud-based airline. We will provide them with a cloud-only infrastructure with advanced cybersecurity and AI-driven operations. Our expertise will ensure Riyadh Air\u2019s digital core is sustainable and free from legacy constraints, facilitating rapid scaling and offering a seamless travel experience for customers and employees. The airline aims to operate more than 100 destinations by 2030. We are also working with Belden, a global leader in networking solutions, on a cloud transformation initiative aimed at establishing them as a platform business. This transformation will harness the power of edge technology, data, and AI to create new business opportunities while enhancing customer experiences. The platform will leverage edge-to-cloud technology, enabling real-time data collection and analysis in industrial settings to boost operational efficiency. This initiative will provide Belden and its clients with essential data-driven insights, particularly in sectors where timely information is vital. This reinvention will dismantle operational silos, positioning Belden as a key player in the digital twin space. Furthermore, we will support Belden in bringing this new service to market, helping them transition from a product-focused company to a data engineering and insights organization that utilizes platform dynamics. We are dedicated to assisting our clients in quickly harnessing AI's potential to generate tangible business benefits, drawing on our investments in unique tools that expedite outcomes. Our AI Navigator has been instrumental for clients across various sectors in defining their value propositions, AI architectures, and solutions. Our recently launched AI switchboard is already aiding clients in addressing the complex integration needs associated with large language models. For example, one of the largest companies is currently testing the switchboard to evaluate how different models interpret the same prompt and their performance before selecting the best model. Ultimately, a successful enterprise-wide AI initiative relies on a robust data foundation. We are collaborating with Telstra, Australia\u2019s leading telecommunications and technology provider, to radically simplify and modernize its data ecosystem, expediting its transition to an AI-driven organization. We are consolidating over 50 disparate data sources into a small, governed, and secure data and AI core, enabling Telstra to swiftly scale unique Generative AI capabilities in the future. Our initiatives will also aid the company's efforts in developing responsible ethics and establishing market-leading AI frameworks, enhancing teams' ability to deliver timely, effective, and personalized customer interactions. One key area of opportunity for our clients is transforming customer experience through Generative AI, leveraging the strengths of Song in creative insights and technological expertise. Song's performance saw low-single-digit growth this quarter, as we continue to help clients reimagine marketing for growth. We are assisting ExxonMobil, a major energy corporation, in transforming and optimizing its entire fuels marketing operations to foster future growth. Our global capabilities and managed services will utilize our SynOps platform to implement automation and yield measurable efficiencies across the fuels marketing sector. We are strengthening our partnership with Best Buy, a leading consumer electronics retailer, on multiple fronts to redefine the customer experience, optimize costs, and stimulate growth. By utilizing data and Generative AI, we are transforming their contact center operations, enhancing experiences for both customers and employees. Additionally, we have entered into a partnership with Best Buy for the lifecycle management of our own devices in North America and are developing a joint offering for end-to-end field service support for clients. We have already deployed this new service for a major TV provider, marking our entry into this new market segment. These strategic initiatives reflect our commitment to aiding Best Buy in achieving exceptional customer experiences, operational efficiencies, and growth. Security plays a vital role in transformation, extending beyond IT to safeguard core business assets and evolving its critical role in response to technological changes. We experienced strong double-digit growth in our security business this quarter. We are partnering with one of the largest electric utility companies in the U.S. to merge their operational technology into a cohesive cybersecurity solution. This collaboration will enhance our security capabilities through advanced monitoring, response strategies, vulnerability management, and security automation, thereby mitigating the risk of cyber incidents within their grid system and protecting critical infrastructure for millions. Demand for digital manufacturing and engineering services remains robust, with Industry X growing substantially in Q2. We are collaborating with Indo Count Industries Limited, a global leader in home textiles, on digital transformation initiatives aimed at simplifying operations and supporting significant growth plans while capitalizing on e-commerce opportunities. We are developing a cloud-enabled digital core underpinned by data analytics to standardize, digitize, and automate diverse processes across the supply chain, logistics, and manufacturing. This new platform will promote efficient inventory management, quality control, optimal energy use, and improved customer experiences. Together, we aim to revolutionize their operations and expand business in India, the Middle East, North America, the U.K., and Europe. Additionally, we support corporate sustainability efforts by facilitating compliance related to carbon footprints and visualizing greenhouse gas emissions, which is essential for creating a market of environmentally conscious consumer products. For example, we are aiding Matsumoto Precision, a Japanese precision machining company, in enhancing transparency regarding the sustainability of their production processes to meet decarbonization goals. We have rolled out a solution through our manufacturing platform that captures and reports CO2 emissions per product, allowing Matsumoto Precision to better understand their environmental impact and contribute meaningfully to a decarbonized world. Back to you, KC.",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "KC McClure",
+      "title": "CFO",
+      "content": "Thanks, Julie. Now let me turn to our business outlook. For the third quarter of fiscal 2024, we expect revenues to be in the range of $16.25 billion to $16.85 billion. This assumes the impact of FX will be about negative 1% compared to the third quarter of fiscal 2023 and reflects an estimated negative 1% to 3% positive growth in local currency. For the full fiscal year 2024, based upon how the rates have been trending over the last few weeks, we continue to expect the impact of FX on our results in US dollars will be about flat compared to fiscal 2023. For the full fiscal 2024, we now expect revenue to be in the range of 1% to 3% growth in local currency over fiscal 2023, which assumes an inorganic contribution approaching 3%. We continue to expect business optimization actions to impact fiscal 2024 GAAP operating margin by 70 basis points and EPS by $0.56. For adjusted operating margin, we now expect fiscal year 2024 to be 15.5%, a 10 basis point expansion over fiscal 2023 results. We now expect our adjusted annual effective tax rate to be in the range of 22.5% to 24.5%. This compares to an effective tax rate of 23.9% in fiscal 2023. We now expect our full year adjusted earnings per share for fiscal 2024 to be in the range of $11.97 to $12.20 or 3% to 5% growth over fiscal 2023 results. For the full fiscal 2024, we continue to expect operating cash flow to be in the range of $9.3 billion to $9.9 billion, property and equipment additions to be approximately $600 million, and free cash flow to be in the range of $8.7 billion to $9.3 billion. Our free cash flow guidance continues to reflect a very strong free cash flow to net income ratio of 1.2. Finally, we continue to expect to return at least $7.7 billion through dividends and share repurchases as we remain committed to returning a substantial portion of our cash to shareholders. With that, let's open it up so that we can take your questions. Katie?",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Katie O'Conor",
+      "title": "Managing Director, Head of Investor Relations",
+      "content": "Thanks, KC. I would ask that you each keep to one question and a follow-up to allow as many participants as possible to ask a question. Operator, would you provide instructions for those on the call?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Please hold for a moment while we prepare for your first question. The first question comes from Tien-Tsin Huang from JPMorgan. Please proceed.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Tien-Tsin Huang",
+      "title": "Analyst",
+      "content": "Hi. Thank you. Good morning to all of you. Julie, just a big picture, maybe two simple of a question, but just curious to get your thoughts on where we are in the cycle for IT services spend, because we've been doing sector softness for quite some time now, Accenture has done well, you have very large deal activity come through, short-term cycle stuff is always a little pressured as you said, where are we in terms of seeing maybe things bottoming or short-cycle discretionary spend returning?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Julie Sweet",
+      "title": "CEO",
+      "content": "Yes, it's challenging to predict anything beyond what we currently observe. Comparing to 90 days ago, we noted a tightening in client spending, particularly affecting our services and smaller projects. A shift in budgetary constraints for the upcoming calendar year 2024 has become evident. However, despite these challenges, we are gaining market share and seeing momentum in our strategy as a partner for reinvention, having secured 39 clients with bookings over $100 million. This highlights clients\u2019 recognition of the significance of technology-led transformation. The fundamentals remain steady, with considerable opportunities still ahead in areas like cloud migration and modernization, as well as data and AI. We estimate that a significant portion of opportunities is yet to be realized in re-platforming on cloud-based systems and security. Additionally, domains like digital manufacturing and engineering services are only starting to adopt modern technologies. Our focus is on aligning with clients where they are today, prioritizing large transformational deals while positioning ourselves to capture increased spending as it arises. The industry remains strong as all clients must embrace technology transformation. Early interest in GenAI is evident, with $1 billion in sales in the first half of the year, marking our fastest growth in an emerging technology. This demonstrates that clients recognize the necessity of AI for reinventing their enterprises. At Accenture, we are well-equipped to support this shift, as our strategy combines with operational capabilities and deep industry expertise to facilitate enterprise-wide reinvention. This gives me strong confidence in the industry's outlook and our future.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Tien-Tsin Huang",
+      "title": "Analyst",
+      "content": "Yes. No, I'm confident that Accenture will be there to catch all that like you said, but maybe as my follow-up with the GenAI bookings any trends on deal size? And in confidence that some of these early bookings will convert to become a part of this whole large $100 million plus deal activity across more pull-through from GenAI, that question makes sense.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Julie Sweet",
+      "title": "CEO",
+      "content": "So a couple of things. What you see in our resilience is that we are doing these bookings over $100 million and that's what kind of layers that. That just gives you that base rate of resilience during this period. As we said, we're seeing further constraint on the smaller projects. That's why you've got the updated guidance, right? But the pace of these larger deals, we feel really good about from a resilience perspective. And then, you know how this straight, you're at the client, you are at the heart of their business, you're really doing the strategic work that's what all these large deals represent. And then as spending increases you catch the pent-up demand and that's kind of how we see it and that's how we've run it in the past. And by the way, of course, as you know, we're really investing inorganically to capture more growth which you also start to see. Particularly at the back-end of our fiscal year. Thanks, Tien-Tsin.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your next question comes from the line of Bryan Keane from Deutsche Bank. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Bryan Keane",
+      "title": "Analyst",
+      "content": "Hi, good morning. KC, if Accenture does 1% constant currency in the third quarter, that's kind of the midpoint of the range. I guess the implied midpoint for 4Q is a ramp-up to 6% constant currency. What kind of visibility do you have going into a number of the midpoint like that in the fourth quarter?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "KC McClure",
+      "title": "CFO",
+      "content": "Yes. Hi, Bryan. Thank you for your question. You're correct in your calculations, which align with our guidance. Regarding visibility, it is consistent with what we've experienced in previous years at this time for our full-year guidance. We are not making predictions for the entire year; instead, we are focusing on the latter half of the year, and visibility remains unchanged compared to our analysis at this time in prior years. We apply the same evaluation to provide you with our guidance of 1% to 3%.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Bryan Keane",
+      "title": "Analyst",
+      "content": "Got it, got it. And then, Julie. Just thinking about the clients need to update their data in order to leverage AI and scale. Why isn't that translating into stronger demand in the business, you would think that everybody would turn-around and spend considerably on short-term to get that ramp-up in order to get AI to leverage it, but it doesn't quite translate. I'm just trying to figure out the disconnect there?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Julie Sweet",
+      "title": "CEO",
+      "content": "There are two key points to consider. First, it's about prioritization due to overall constraints on spending. Companies are making choices instead of simply adding to their budgets. They are not able to allocate extra funds; instead, they are prioritizing their expenditures. This leads to a substitution approach rather than increasing the budget, which is influenced by the uncertain macroeconomic environment causing limitations. One banker mentioned that corporate spending has been put on a diet because of the macro conditions.  The second point is that companies cannot simply leap to having a robust data foundation. They need to be in the cloud and have modern platforms in place. The increase in client bookings indicates that many are undergoing significant transformations to prepare for establishing that data foundation. Currently, only around 40% of workloads are in the cloud, and about 20% of those have not been modernized. Many of our clients have yet to implement modern ERP platforms, and without these, they cannot create a solid data foundation to support AI initiatives effectively. Building a digital core is essential, and as we have noted, there is still much work to be done. This is what is driving these larger, more complex transformations. Companies are reluctant to engage in these significant changes because they are challenging and complicated, but they need to tackle them to truly leverage AI, not just in a limited capacity but to fully realize the value it can bring. Once again, it's critical to integrate all the necessary components, and many clients have not yet reached that stage, which presents an opportunity for us.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Bryan Keane",
+      "title": "Analyst",
+      "content": "Got it. Thank you for taking the questions.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "KC McClure",
+      "title": "CFO",
+      "content": "Thanks, Bryan.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Julie Sweet",
+      "title": "CEO",
+      "content": "Thanks, Bryan.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your next question comes from the line of James Faucette from Morgan Stanley. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "James Faucette",
+      "title": "Analyst",
+      "content": "Great. Thank you very much. Wanted to follow up on the questions around, particularly AI, etcetera. I recognize like everybody is kind of at different stages. How should we think about: first, the timeline in terms of preparing and getting ready to implement new solutions, etcetera, and then moving into the full implementation? And how we should think about that affecting Accenture\u2019s business? And like you mentioned, you've talked about some record bookings or the number of new customers over $100 million, like how that will ramp in the timeframe?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Julie Sweet",
+      "title": "CEO",
+      "content": "Yes, let me begin by discussing our strategy for seizing the growth opportunities presented by Generative AI. We are applying the same approach we have used with previous technology advancements, from mainframe to client-server to cloud computing and the rise of Software as a Service, as well as robotic process automation and AI-driven automation exemplified by solutions like myWizard and SynOps. Our strategy emphasizes being the first mover to assist our clients in utilizing these technologies, which is why we are investing $3 billion to develop relevant solutions. This investment is already reflected in our sales figures for Generative AI, which are the fastest we've experienced with new technologies where interest is high and we hold a leading position. The second aspect of our strategy is to be the first mover in implementing the technology within our own operations to better serve our clients. We have successfully integrated digital tools, AI automation, and various platforms. Our proven strategy involves significant early investment, which positions us to capture opportunities with our clients who need to adapt and transform. This transformation necessitates a robust digital core, which is crucial for changing work processes, upskilling talent, and developing new capabilities like responsible AI. By being the first mover in applying Generative AI in our service delivery, we strengthen our competitive edge and differentiate ourselves in the market. Additionally, this approach allows our clients to achieve desired results more cost-effectively, which in turn enables them to reinvest in extensive reinvention efforts. We are ideally positioned to partner with them as they build the necessary digital infrastructure, which is essential for driving productivity and growth. We anticipate that this focus will define the next decade for our clients, and we are preparing ourselves to be their strategic partner and lead in these initiatives.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "KC McClure",
+      "title": "CFO",
+      "content": "Yes. And maybe I'll take the layering in question on the larger deals and talk a little bit about how that's going to work for the back half of the year as it relates to guidance. So we have the larger deals that were terrific in our second quarter and our whole first half of the year. But you're right, they do layer in slower than the smaller deals, and we see pressure in the volume of our smaller deals. And that's why we have the 1% to 3% guidance for the full year. Now we do feel good about delivering to this guidance and what that means for H2, and that really is for a few reasons that we've talked about before, but let me just kind of reiterate. The first is that, our competitive advantage is that we have the ability to invest. You saw us do that in H1 and Julie talked about that, with investing more in acquisitions this year, in the first half than we did all of last year. And that's really important because that drives inorganic growth. But again, we do that really to fuel organic growth, but we see that coming online in the back half of the year. The second thing is that we have done these larger transformation deals, but also the ones from the previous years. And we see that continuing to benefit us as it relates to revenue as they will layer on in the back half of the year. And that really just speaks to the resilience of our strategy, both in terms of being what Julie has talked about, being where our clients need us and our inorganic strategy to continue to benefit to pivot to scale in new areas of growth. And so, that's how that all comes together in terms of revenue conversion from those larger deals and when they come online, James. And maybe I'll just also add, what that means from a type of work for the entire year. What we now see from the context of the 1% to 3% is, our consulting type of work will be about flatish. And we see our managed services growing to about mid-single-digit growth for the year.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "James Faucette",
+      "title": "Analyst",
+      "content": "Great. Thanks for the color to both of you. And then quickly KC, just in terms of that investment. How do we think about like how that affects the margin expansion? I mean typically one, you're doing acquisitions, there a little bit of time before you can start to get people to the same type of trajectory as Accenture on margin expansion, but just trying to get a sense of how we should think about that impacting as well?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "KC McClure",
+      "title": "CFO",
+      "content": "Thank you for that. First, I want to express my satisfaction with our profitability in the first half of the year and the positive outlook for the full year. Our margin remains stable, but we achieved EPS growth and a profit increase of 5% in the first half. This reflects the rigor and discipline with which we manage our business. As Julie mentioned, we are continuing to invest in our business and our employees. Looking ahead to the second half of the year, we expect a 10 basis points expansion. It is crucial for us to maintain high levels of investment in our workforce and operations. For the entire year, we anticipate EPS growth between 3% and 5%. I do want to highlight that our EPS benefited in the first half from increased non-operating income, primarily related to interest income from our higher cash balance. In the first half, our cash decreased from 9% to 5%. We are in a strong cash position, and we will continue with our capital allocation strategy. However, as you project for the second half of the year, keep in mind that lower cash flow will likely lead to reduced interest income. This is something to consider as you analyze EPS for both halves of the year.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "James Faucette",
+      "title": "Analyst",
+      "content": "Super helpful. Thank you.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your next question comes from the line of Bryan Bergin from TD Cowen. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Bryan Bergin",
+      "title": "Analyst",
+      "content": "Hi, good morning. Thank you. So Julie, I'm curious just based on your conversations with leaders, what might be the catalyst here to have clients release spending programs and kind of lean back into shorter cycle work. As economic data generally holds up, are we just in a slower for longer backdrop or just kind of hoping that you can share some color on how you're thinking about a recovery internally and what enterprises really are watching and waiting for?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Julie Sweet",
+      "title": "CEO",
+      "content": "Look, I think there's going to be a couple of dynamics, right? Remember they just set budgets. So we're kind of assuming there are the budgets for their calendar year and we see in general, most of this constraint is tied to the uncertain macro. So those are the kind of things. They set budgets and they've got an uncertain macro.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "KC McClure",
+      "title": "CFO",
+      "content": "Yes. Just a reminder that as we discuss our guidance, our fiscal year ends in August, which means we are a little more than halfway through the calendar year.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Bryan Bergin",
+      "title": "Analyst",
+      "content": "Okay, okay, that makes sense. And then as it relates to GenAI, just kind of a revolutionary versus evolutionary kind of questioning here. Just given how much work needs to be done for most clients to really do anything with large language models, how do we interpret that as a driver of your growth? So meaning, does GenAI enable you to potentially drive a higher-level of growth when spending does become more normal, or should we think about this more as a next tech wave that enables comparable levels of normalized growth just because of how long this might all take for large enterprises to get there?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Julie Sweet",
+      "title": "CEO",
+      "content": "I would say this is more similar to our previous technology waves. Each wave has progressed a bit more quickly, but especially when considering where our clients are in developing their digital core, there is still a significant amount of work to be done to fully achieve that. We view this situation as analogous to how prior technologies have evolved over time. That's our current perspective.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Bryan Bergin",
+      "title": "Analyst",
+      "content": "Okay. Thank you.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your next question comes from the line of Dave Koning from Baird. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Dave Koning",
+      "title": "Analyst",
+      "content": "Yes. Hey guys. Thanks so much. I guess my question, are you seeing your clients probably having much lower attrition, just like every company has low employee attrition, right now. Are you seeing them take their own employees, their own IT employees and just do more internally right now? And is that a little bit of just the demand issue right now?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Julie Sweet",
+      "title": "CEO",
+      "content": "We are definitely noticing that our clients have invested more in technology internally based on our recommendations. During the pandemic, we advised them on the importance of enhancing their technology. As a result, some clients have significantly increased their technology capabilities, while others have not, which largely depends on their specific circumstances. There are clients that are opting for a smaller IT team, whereas others are expanding theirs, making the situation quite varied. Overall, it's very much tailored to the individual strategies of each company, with some clients choosing to do more in-house work and others outsourcing more.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Dave Koning",
+      "title": "Analyst",
+      "content": "Yes. Okay, thanks. And just one quick follow-up for KC. The tax rate, clearly you lowered guidance just on the tax rate itself. Is that something one-off to this year or is that something now that just seems more normalized?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "KC McClure",
+      "title": "CFO",
+      "content": "Yes. So, there's really four things that every year are the same, that really influence our tax rate. And just really is how those things come together. There are geographic mix of income, any settlements from previous years, any increase that we need to do on prior year tax liabilities, and lastly, the impact of our equity on our tax rate. So these four things really are confluences the same every year, depending on how they fall. That's going to influence where we land on our tax rate. And so, this year we saw them favorably in aggregate. So we're able to keep our 2 point range, but drop by 1%.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Dave Koning",
+      "title": "Analyst",
+      "content": "Okay. Well, thank you guys.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Julie Sweet",
+      "title": "CEO",
+      "content": "Thank you.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your next question comes from the line of Jamie Friedman from Susquehanna. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jamie Friedman",
+      "title": "Analyst",
+      "content": "Hi. Good morning, everyone. I have a really big picture question. I'm curious, Julie, how you feel about Accenture\u2019s role in the broader context of technology like software and cloud? I realize in your prior very thoughtful answer about technology architectures. That was a great structure as was your innovation session back on February 16th. But it does seem like other parts of tech are doing better than services. So I'm just interested in your perspective on services in the context of broader tech spending?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Julie Sweet",
+      "title": "CEO",
+      "content": "No, absolutely. It's a great question. Services are where you can dial back more easily than when you're signing up for licenses for technology that you need. So you'd imagine and just what we're seeing that when you are constraining overall spending, your discretionary spending, you go to like service providers where you're saying, I can pause for that. I can wait for that. And at the same time, you've got in other parts of it, like with software where you've got to fix things you really need to invest in and you've got different licenses. So it's really not different than other cycles. Services have a bigger opportunity to say, it's a little more discretionary, let's wait. Even if I bought the licenses, I'm going to wait to actually incur the costs because a lot of times the cost of the services can be significantly higher than the software licenses, because you've got all the change that you've got to do and all that around. So again, we don't see anything sort of different than when you've got an uncertain macro you look around for your discretionary spending and you cut that. And that's why, of course, you're seeing still the big transformations happening because it's not discretionary and they really got to re-platform in that. So it's like nothing mysterious about it, it's just kind of what I consider kind of normal in this kind of a macro.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "KC McClure",
+      "title": "CFO",
+      "content": "That's right. And I think just as a reminder, even with all that we still have the record spend with us with $40 billion of bookings for the first half of the year.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Katie O'Conor",
+      "title": "Managing Director, Head of Investor Relations",
+      "content": "Operator, we have time for one more question and then Julie will wrap up the call.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Okay. That question comes from the line of Ashwin Shirvaikar from Citi. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Ashwin Shirvaikar",
+      "title": "Analyst",
+      "content": "Thank you. Hi, Julie. Hi, KC.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Julie Sweet",
+      "title": "CEO",
+      "content": "Hi, Ashwin.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Ashwin Shirvaikar",
+      "title": "Analyst",
+      "content": "Are clients revisiting their previous bookings made last year and earlier through the perspective of integrating rapidly evolving GenAI capabilities? To what extent is this occurring, and can we use these past bookings and backlog as a predictor of future growth and determine how soon that might take effect?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Julie Sweet",
+      "title": "CEO",
+      "content": "Yes. I'll take that. Just maybe more just the financial kind of mechanical part of it. We have not seen a change in us working the work that's already been contracted, what we would call our backlog and what we talked about was really spending on new sales, new services and their smaller projects and that's the dynamic that we have factored into our guidance for the year.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Ashwin Shirvaikar",
+      "title": "Analyst",
+      "content": "Got it. And then the other question was on LearnVantage and Udacity, I thought that was a particularly interesting deal. If you could walk us through maybe the mechanics of that deal? And every company is investing in talent care, there seems to be a bit different approach maybe. Can you just talk about the rationale, the downstream impact and so on?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Julie Sweet",
+      "title": "CEO",
+      "content": "Thank you. I'm very enthusiastic about what we're accomplishing with LearnVantage, as it's essential for our clients. Talent is the top priority for CEOs. When considering what reinvention involves, clients need to address AI advancements and talent development. LearnVantage enables everyone from the Board to C-Suite, business users, and technologists to receive the necessary technology training to make informed decisions, particularly regarding AI and to deepen their understanding of new technologies. Our approach spans from the Board down to technologists. With Udacity, we apply a similar strategy to what Accenture employs. We have invested over $1 billion and our latest figures show an average of 14 hours of training per employee. We utilize learning science to foster growth and practical application. Many clients struggle to implement this effectively. Our key differentiator is that we understand the necessity of placing trained individuals in positions where they can apply their skills and receive compensation, making them work-ready. We are now scaling this expertise for our clients. Udacity mirrors this philosophy by incorporating expert mentors and practical projects with coaching. This approach allows us to teach and implement simultaneously, which our clients may not have the in-house capability to achieve, so Udacity fills that gap. Furthermore, this is complemented by Accenture's extensive knowledge of effective training methods to ensure readiness for work. We are genuinely excited about this partnership, and our clients have shown great interest. This initiative allows us to expand our learning capabilities significantly. We aim to be the go-to partner for reinvention, addressing our clients' diverse needs strategically. LearnVantage is crucial to this plan. Additionally, we currently offer a managed service for companies' internal learning needs, which we anticipate will grow as we continue to invest. Finally, we believe it's our duty as corporates to guide our workforce through this transition. Concerns about AI and job displacement highlight the importance of providing upskilling opportunities to help our clients support their employees, which is vital for both our communities and their leadership. We also view this as fundamentally the right course of action.",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "Ashwin Shirvaikar",
+      "title": "Analyst",
+      "content": "Got it.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Julie Sweet",
+      "title": "CEO",
+      "content": "Great. So thanks, everyone. In closing, I want to thank all of our shareholders for your continued trust and support all of our people for what you do every day. To assure you that we are working every day to continue to earn that trust. Thank you.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "That does conclude your conference for today. Thank you for your participation and for using AT&T Teleconference. You may now disconnect.",
+      "sentiment": "0.0"
+    }
+  ],
+  "reported_date": "2024-06-20"
+}

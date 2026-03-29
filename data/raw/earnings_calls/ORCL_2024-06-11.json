@@ -1,0 +1,367 @@
+{
+  "symbol": "ORCL",
+  "quarter": "2024Q2",
+  "transcript": [
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Good afternoon. My name is Emma, and I will be your conference operator today. At this time, I would like to welcome everyone to Oracle Corporation's Second Quarter 2024 Earnings Conference Call. All lines have been muted to avoid background noise. After the speaker's remarks, there will be a question-and-answer session. Ken Bond, you may begin your conference. Thank you, Emma. Good afternoon, everyone, and welcome to Oracle's second quarter fiscal year 2024 earnings conference call. A copy of the press release and financial tables, which includes a GAAP to non-GAAP reconciliation and other supplemental financial information can be viewed and downloaded from our Investor Relations website. Additionally, a list of many customers who purchased Oracle Cloud services or went live on Oracle Cloud recently will be available from our Investor Relations website. On the call today, our Chairman and Chief Technology Officer, Larry Ellison, and Chief Executive Officer, Safra Catz. As a reminder, today's discussion will include forward-looking statements, including predictions, expectations, estimates, or other information that might be considered forward-looking. Throughout today's discussion, we will present some important factors relating to our business, which may potentially affect these forward-looking statements. These forward-looking statements are also subject to risks and uncertainties that may cause actual results to differ materially from statements being made today. As a result, we caution you against placing undue reliance on these forward-looking statements, and we encourage you to review our most recent reports, including our 10-K and 10-Q, and any applicable amendments for a complete discussion of these factors and other risks that may affect our future results or the market price of our stock. And finally, we are not obligating ourselves to revise our results or these forward-looking statements in light of new information or future events. Before taking questions, we'll begin with a few prepared remarks. And with that, I'd like to turn the call over to Safra.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Safra Catz",
+      "title": "CEO",
+      "content": "Thanks, Ken, and good afternoon, everyone. We had another great quarter. When you look at the top of our financial results table, a few things are very clear. The largest number, cloud services and license support, is now 74% of the revenue, and it's recurring revenue, and it's the one growing by $1 billion this quarter. The smaller numbers, which are not recurring, now account for only 26%. This is exactly what we told you would happen, and it's happening. And as this continues, total revenue growth will accelerate every year. To that point, OCI is now one of the clear drivers of our acceleration. Imagine just three years ago, OCI was rarely, if ever, mentioned as a viable hyperscale alternative. Of course, we knew what we had built and we kept talking about it, and we knew it was only a matter of time. And now, more industry analysts are catching on to what customers are choosing. For example, just last week, we were recognized as a leader in the 2023 Gartner Magic Quadrant for Strategic Cloud Platform Services. Our financial results reflect that customers have figured out that by moving to OCI, they really can get more while paying less. On top of that, we are now the default choice for AI workloads given our unique differentiation and price performance capabilities. Why specifically are they coming to Oracle Cloud Infrastructure? Well, it's a combination of several things. Creating the second generation cloud enabled us to build a much better, more scalable, and more efficient cloud. We understood the limitations of the first generation and engineered very differently. Second, we know what it takes to run at enterprise scale, performance and security better than anyone else. Our 45-year history as the leading enterprise software company gives us unique knowledge of what exactly is required to run mission-critical systems. Third, we recognize that customers need deployment flexibility. Rather than just offer public cloud services like our competitors, we are the only vendor that also offers dedicated cloud to customer, dedicated region, sovereign clouds, and Alloy, our partner clouds. Finally, our belief in the importance of multi-cloud offerings will be industry-changing as these collaborations roll out. With all this success and exploding demand, we are working as quickly as we can to get the cloud capacity built out. Now, to the Q2 results. With total revenue at the midpoint of my constant currency guidance, and the EPS at the high end of guidance. Now, as a reminder, currency was 1 point less helpful than when we gave guidance three months ago. Total cloud revenue, that's SaaS plus IaaS, excluding Cerner, was $4.1 billion, up 25%. Including Cerner, total cloud revenue was up 24% at $4.8 billion, with IaaS revenue at $1.6 billion, up 50%, and SaaS revenue of $3.2 billion, up 14%. Total cloud services and license support revenue for the quarter was $9.6 billion, up 11%, driven again by our strategic cloud applications, autonomous database, and our Gen 2 OCI. Application subscription revenues, which includes support, were $4.5 billion, up 9%. Our strategic back office SaaS applications now have an annualized revenue of $7.1 billion and were up 19%. Infrastructure subscription revenues, which includes license support, were $5.2 billion, up 12%. Infrastructure cloud services revenue was up 50%. Excluding legacy hosting services, Gen 2 infrastructure cloud services revenue grew 55%, with an annualized revenue of $6 billion. OCI consumption revenue was up 71%. Database subscription revenues, which includes database license support, were up 4%, highlighted by Exadata database cloud services revenue, which was up 40%, and autonomous database up 26%. Very importantly, as on-premise databases migrate to the cloud, we expect these cloud database services will be the third leg of revenue growth alongside strategic SaaS and Gen 2 OCI. Software license revenues were $1.2 billion, down 19% in a tough comparison to last year where it was up 23%. So all in, total revenues for the quarter were $12.9 billion, up 4% including Cerner, actually up 6% excluding Cerner. Now shifting to margins, the gross margin for cloud services and license support was 78%. This is because of the mix between support and cloud in which cloud is growing much faster than support. Support and SaaS margins are consistent with last year, while IaaS gross margins improved substantially. While we continue to build data center capacity, gross margins go higher as these new cloud regions fill up. We monitor these expenses carefully to ensure gross margin percentages expand as we scale. To this point, the gross profit dollars of cloud services and license support grew 10% in Q2. Non-GAAP operating income was $5.5 billion, up 7% from last year. The operating margin was 43%, up from 41% last year. As we continue to benefit from economies of scale in the cloud and drive Cerner profitability to Oracle standards, we will not only continue to grow operating income, but we will also expand the operating margin. The non-GAAP tax rate for the quarter was 19% and non-GAAP EPS was $1.34 in USD, up 11% in USD, and up 9% in constant currency. GAAP EPS was $0.89 in USD. At quarter-end, we had nearly $8.7 billion in cash and marketable securities and the short-term deferred revenue balance was $8.9 billion, up 1%. Over the last four quarters, operating cash flow was $17 billion, up 13%. And free cash flow was $10.1 billion, up 20%. Capital expenditures were $6.9 billion over the same period as we continue to seek cash flow benefit from our cloud transformation. Our remaining performance obligation, or RPO, is now over $65 billion, with the portion excluding Cerner up 11% in constant currency. We continue to sign large deals with many in the pipeline. Approximately 48% of total RPO is expected to be recognized as revenue over the next 12 months. CapEx was $1.1 billion in Q2 as we continue to build capacity for bookings and our customers' growing needs. Given the enormity of our pipeline and backlog, I expect CapEx will be somewhere around $8 billion this fiscal year, meaning our second half CapEx will be considerably higher as we bring online more capacity. To that point, we now have 66 customer-facing cloud regions live, with 45 public cloud regions around the world and another six being built. 12 of these public cloud regions interconnect with Azure, and starting next year, customers will be able to run Oracle Database at Azure on OCI inside Azure. We also have 10 dedicated regions live and 13 more planned, nine national security regions, and two EU sovereign regions live with increasing demand for more of each. And finally, we have seven Alloy cloud regions planned where Oracle partners become cloud providers offering customized cloud services alongside the Oracle Cloud. And of course, we also have so many, many cloud customer installations. The sizing flexibility and deployment optionality of our cloud regions continue to be advantages for us in the marketplace. Finally, as we've said before, we're committed to returning value to our shareholders through technical innovation, strategic acquisition, stock repurchases, prudent use of debt, and a dividend. This quarter, we repurchased 4 million shares for a total of $450 million. And in addition, we paid out dividends of $4.1 billion over the last 12 months. And the Board of Directors declared a quarterly dividend of $0.40 per share. Now let me turn to my guidance for Q3, which I will review, as always, on a non-GAAP basis. If currency exchange rates remain the same as they are now, currency should have little effect on total revenue and EPS. However, the actual currency impact may be different. So because of that, all the numbers I give you are the same for constant currency and USD. Total revenues, including Cerner, are expected to grow from 6% to 8%. Total revenues excluding Cerner are expected to grow from 8% to 10%. Total cloud revenue excluding Cerner is expected to grow from 26% to 28%. Non-GAAP EPS growth is expected to grow between 10% and 14% and be between $1.35 and $1.39. My EPS guidance for Q3 assumes a base tax rate of 19%. However, one-time tax events could cause actual tax rates to vary. Finally, I remain firmly committed to our fiscal \u201826 financial goals for revenue, operating margins, and EPS growth. And with that, let me turn it over to Larry for his comments.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Larry Ellison",
+      "title": "CTO",
+      "content": "Thank you, Safra. The demand for Oracle's Cloud Infrastructure and Generative AI is consistently increasing quarter after quarter. Oracle's total remaining performance obligations, or RPO, has now reached $65 billion, slightly more than our annual revenue. In response to this sharply increasing demand, Oracle is in the process of expanding 66 of our existing cloud data centers and building 100 new cloud data centers. We have to build 100 additional cloud data centers because there are billions of dollars more in contracted demand than we currently can supply. Cloud Infrastructure demand is huge and growing at an unprecedented rate. In the next few weeks, we expect to sign a couple more billion-dollar Cloud Infrastructure contracts. Gartner recently named Oracle OCI as a leader in cloud platform and infrastructure services. The demand for Cloud Infrastructure services and new Oracle cloud data centers is broad-based, driven not only by Generative AI customers, but also by nation states buying sovereign Oracle cloud data centers, plus large banks, telecommunications companies, and industrial companies, buying dedicated cloud data centers, dedicated Oracle cloud data centers, and perhaps most interestingly, demand from other hyperscalers and other cloud service providers, co-locating and connecting their clouds with Oracle cloud data centers. Customers don't want clouds to be walled gardens. In the next few months, we will turn on 20 new Oracle cloud data centers, co-located with and connected to Microsoft Azure as a part of our joint multi-cloud initiative. These 20 new multi-cloud data centers will house over 2,000 full racks of Exadata database machines designed to meet pent-up demand for the Oracle cloud database. We're able to build new data centers rapidly and operate them inexpensively because all of our data centers are architecturally identical, highly automated, with an identical high-performance RDMA network, autonomous services, and applications. Oracle cloud data centers vary only by scale. Again, several nation states have ordered multiple sovereign data centers to be built within their country so that they can move their government, healthcare, and commercial workloads to the Oracle cloud. These new countries include Japan, Italy, Saudi Arabia, Bangladesh, New Zealand, and others. Some of the world's largest banks, telecommunications and industrial companies have also contracted with us to build Oracle cloud data centers dedicated entirely to them so that they can migrate their workloads to an Oracle cloud data center. These companies include Nomura, Vodafone, Telecom Italia Mobile, Saudi Telecom, a huge Korean conglomerate, and a huge US defense contractor. These are but a few examples that demonstrate the diversity of the growing demand for Oracle's highly differentiated Gen2 cloud infrastructure and data center technology. Back to you, Ken.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you, Larry. Emma, if we could please poll the audience for questions.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Your first question today comes from Ben Reitzes with Melius Research. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Ben Reitzes",
+      "title": "Analyst",
+      "content": "Hey, thanks a lot. It's great to be speaking with you this afternoon. Do you mind going through your thoughts on the OCI trajectory from here and how you feel backlog will play out into revenue? And perhaps you can comment also, is the acceleration potential that you guided for due to getting more GPUs and more AI backlog moving into revenue? Thanks a lot.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Safra Catz",
+      "title": "CEO",
+      "content": "Larry, do you want me to take it or you?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Larry Ellison",
+      "title": "CTO",
+      "content": "No, either one, Safra, you tell me.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Safra Catz",
+      "title": "CEO",
+      "content": "How about I get started? So, where do we expect OCI to go from here? Frankly, the only limiting factor is our ability to get the data centers handed over and filled up fast enough. This quarter alone, we're talking about hundreds of millions of dollars that we would have been able to recognize if our capacity was available. So the reality is, as we roll out and we've got just so many moving parts as you can hear from us, we have a lot of capacity coming online. And as you can see in my CapEx guidance, we expect OCI to just grow astronomically, frankly. It is the ideal infrastructure for so much use. And of course, also as more GPUs become available, and we can put those in, we have just a really unlimited amount of demand. Larry, I don't know if you want to say anything else?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Larry Ellison",
+      "title": "CTO",
+      "content": "In the coming weeks, we plan to sign two additional contracts, each worth around $1 billion. Our backlog is growing significantly, which reflects the strong demand for our services. OCI grew by 50% this quarter, and I expect that growth rate to increase above 50% as we bring more data centers online. We have the ability to construct these data centers quickly. It's important to note that the demand is not limited to GenAI; there's a substantial demand for cloud databases as well as overseas for sovereign clouds, especially where governments have struggled to migrate their workloads. Several large companies in Japan are planning to build at least two Oracle data centers each. The demand is exceptional, and we can build the data centers relatively quickly. I anticipate OCI\u2019s growth rate to remain above 50% for the next few years.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Safra Catz",
+      "title": "CEO",
+      "content": "Yes, we're not demand-limited in any way right now.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Ben Reitzes",
+      "title": "Analyst",
+      "content": "Thanks a lot, Safra and Larry. Appreciate it.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your next question comes from the line of John DiFucci with Guggenheim. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John DiFucci",
+      "title": "Analyst",
+      "content": "Thank you for the question and for the comments on future OCI growth. Since Ben inquired about growth, let me also address the profit aspect. Per Larry's insights, there is significant capacity being built, and Safra's remarks indicate growth in capital expenditures. Clay has mentioned the time required to establish those AI superclusters, which is just a part of the AI workloads you're handling, and that sounds very promising. However, it does take time before we start seeing revenue from this. I understand there is also a ramp-up in core OCI deals like Uber, which will generate revenue over time. How should we assess cloud gross margins moving forward considering both of these factors? There's a lot going on here.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Safra Catz",
+      "title": "CEO",
+      "content": "Yes, I'm really glad you asked because one of the figures we show represents a combination of cloud and support. Support is highly profitable due to its operational structure and our large scale. However, our cloud businesses are also very profitable. Our SaaS cloud business demonstrates strong profitability, and our IaaS, OCI business, is improving as it expands. The target gross margins for it are likely higher than you expect, as you may be comparing it to some pure-play cloud companies that don't achieve the same level of profitability. As we grow, our gross margin percentage increases. While we do make significant investments, our profitability continues to rise. The most challenging moment typically occurs when a data center is filled with computers but lacks tenants on the first day; however, that's not our operating model. We have the necessary floor space but grow incrementally, which enables us to align our spending with revenues more effectively. This is possible because we possess engineering deployment flexibility that early-generation companies lack. Larry, would you like to add anything?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Larry Ellison",
+      "title": "CTO",
+      "content": "Yes, I think it's important to note that our data centers are much more automated than older ones. To manage Oracle Cloud, we track customer usage and utilize various databases and applications, all of which are autonomous and require no labor to operate. When we set up a new cloud, the process is primarily automated, so we don\u2019t need a large workforce in the data center to manage it daily. We focus on autonomous services, and our operating system is fully autonomous with no labor needed for its operation. While developing the software does require manpower, running it does not. Therefore, the cost of running 100 data centers is comparable to running just 10 when it comes to Database Administrators or those overseeing Oracle Autonomous Linux. This model is quite different from both our previous data centers and those of our competitors. We can scale these services efficiently and quickly, and the automation reduces errors and security vulnerabilities, resulting in a self-driving system.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "John DiFucci",
+      "title": "Analyst",
+      "content": "If I might, and Safra, go back to something you said, is it fair to assume that OCI gross margins have consistently grown over time, quarter to quarter?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Safra Catz",
+      "title": "CEO",
+      "content": "Yes.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "John DiFucci",
+      "title": "Analyst",
+      "content": "Okay, and then, and then, and then\u2026",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Larry Ellison",
+      "title": "CTO",
+      "content": "Grown a lot.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "John DiFucci",
+      "title": "Analyst",
+      "content": "We've grown significantly. Finally, regarding what Larry mentioned about the database, Safra, you've indicated that we are at the very early stages of transitioning databases to the cloud. While we already have databases in the cloud, the migration from on-premises solutions is still ahead of us.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Safra Catz",
+      "title": "CEO",
+      "content": "Yes, it is really still to come. We're talking about tens of billions of dollars when it comes over. It's starting to come, but we haven't been in a position to receive it all at once, and customers need to get comfortable with it. Additionally, multi-cloud has to really roll out, and that's going to be another factor. Customers will have many excellent choices. They can choose public cloud, OCI, their cloud to customer, or OCI at Azure as one option. This is just the absolute beginning. Remember, the Oracle database is not a toy; it's a mission-critical system. If it disappeared from companies, the entire planet would come to a standstill. This is coming, and it's just the start. Look at what's happening with OCI; no one believed us this was possible, and now here we are, with the database following closely behind, and that's going to be significant.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "John DiFucci",
+      "title": "Analyst",
+      "content": "And per Larry's comments, and I'll stop talking, but for Larry's comments, the database gross margins, given the autonomous nature of it, we should expect that to be different than the OCI core Infrastructure as a Service gross margin?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Safra Catz",
+      "title": "CEO",
+      "content": "Yes, absolutely. Database\u2026",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Larry Ellison",
+      "title": "CTO",
+      "content": "I don't want to go into detail, but the autonomous database is, one, autonomous; there's no labor associated with it, but it's also the only database that's fully elastic. In other words, if you're not using it, no one's using it. I mean, there are no cores, there's no cores occupied. It goes back into the pool. So if you as a customer aren't doing something with the database, literally no cores are occupied. It's very different than an Amazon database where you allocate. I always need 64 cores or 64 processors to run my database and that's seven days a week, 24 hours a day. We only charge you for what you use when you're using it. We only consume what you use when you're using it. Otherwise, it goes to other customers. It's totally different. That allows us to have dramatically higher gross margins.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "John DiFucci",
+      "title": "Analyst",
+      "content": "Thank you very much. Sorry for the several part question, but thank you.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Safra Catz",
+      "title": "CEO",
+      "content": "Our pleasure.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your next question comes from the line of Mark Moerdler with Bernstein. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Mark Moerdler",
+      "title": "Analyst",
+      "content": "Thank you for the question. I appreciate it. I want to shift focus to Cerner, which doesn't receive as much attention. Cerner license revenue has declined, likely in anticipation of customers moving to SaaS, but Oracle does not yet offer a fully scalable multi-tenant Cerner SaaS solution. So, I would like to ask about the timing of the availability.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Larry Ellison",
+      "title": "CTO",
+      "content": "That's not correct. So Cerner has several pieces. And I believe about half the customers will be moved, half of the Millennium customers. You can think of Cerner as just automating hospitals like Epic. And that's a product called Millennium. About half of those customers will move to OCI by February. Half of all existing customers will be in Oracle OCI. But we've also developed something that began at Cerner. And we have finished now, completely rewritten it. Well, we're in the process. We will finish next calendar year. But it is largely rewritten and available right now, something called our Health and Data Intelligence platform and it was known as Cerner HealtheIntent. And that's for public health. That's for population scale, public health management. Again, it's sold to US states. It's sold to Australian states. It's sold to European countries. It's for managing population health. Remember during COVID when we didn't know, New York thought they were living out of hospital rooms, but they really weren't, but no one knew, because no one kept track of our inventory of hospital rooms. There was no national view. No one knew how many people contracted COVID yesterday. We didn't have that national view. We have that national view. It is fully staffed and it is available right now. So some of the pieces, some of the Cerner pieces are coming online, other Cerner pieces are moving more gradually, but they're all going into OCI. And they're all very quickly moving from a license basis to a subscription basis. And again, half the customers will be in OCI by February. So we're making a lot of progress. At the same time, we're adding a lot of new products to Millennium, like the public health products. But we're also adding much of new products for pharmaceutical companies. We're adding additional products for hospitals to keep track of their inventory, for hospitals to manage their workforce, really what we think of is our health division in Oracle has products for the entire healthcare ecosystem. Payers, including governments, including insurance companies, providers, including ambulatory clinics and hospitals, pharmaceutical companies, research companies, and public health departments in national governments and state governments. So we have products for the entire healthcare ecosystem, which is a much larger footprint than Cerner ever had. So we are going after a much larger market than Cerner was. So we expect Cerner to be a growth story. I guess that's what I'm getting at.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Mark Moerdler",
+      "title": "Analyst",
+      "content": "Right, that's where I'm going with the question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Safra Catz",
+      "title": "CEO",
+      "content": "Yeah, so let me just tell you, I think for the year, for the full fiscal year, Cerner will be sort of negative 1 to 2 points. But that will be it. It'll end this fiscal year. And from then on, it will be a growth story. So it will no longer be a drag on Oracle growth. Okay?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Mark Moerdler",
+      "title": "Analyst",
+      "content": "Perfect. Thank you so much. I really appreciate it. It was very helpful.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Safra Catz",
+      "title": "CEO",
+      "content": "Great.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your next question comes from the line of Siti Panigrahi with Mizuho. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Siti Panigrahi",
+      "title": "Analyst",
+      "content": "Thanks for taking my question, Larry and Safra. Many mission-critical workloads still run on Oracle database, and you have a sticky team. And we expect Oracle will start migrating those database workloads to OCI, which will bring 3x revenue uplift, which you call even the third leg of cloud growth. You also have now OCI inside Azure data center. So my question is, how does this being multi-cloud change your outlook for Oracle database? And what are you hearing from your database customers in terms of their comfort and preparedness to move their Oracle database to the cloud, either OCI or Azure?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Safra Catz",
+      "title": "CEO",
+      "content": "Larry, why don't you start with this?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Larry Ellison",
+      "title": "CTO",
+      "content": "Safra, can you go first?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Safra Catz",
+      "title": "CEO",
+      "content": "No, yes, I do. You go.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Larry Ellison",
+      "title": "CTO",
+      "content": "Okay, thanks. Our customers are very happy with the idea. Remember, Oracle started as one of the first databases that ran everywhere. We ran on IBM mainframes. We ran on personal computers. We ran on digital equipment, if you remember them, mini computers, and HP mini computers. We ran on every operating system on every computer. Now, in cloud, they're very happy to see that they can not only get the Oracle database at OCI, they can also get the identical capability from Microsoft. Microsoft, we are building data centers for Microsoft inside Azure. And Microsoft, it wasn't us that decided 2000 was the right number of Exadata machines to install in those 20 data centers. That was Microsoft. The demand is enormous. They want the same flexibility they've always had with Oracle. They want to use Oracle. They want to transition. But if they're using the Microsoft Cloud, they want to run the best and latest and greatest version of Oracle in the Microsoft Cloud. They'd want to do that in other clouds as well. Some of them, it's very important to have it in Japan, for example. It is crucial for some of that data to remain in Japan. The Oracle database operates the Tokyo Stock Exchange from a dedicated data center managed by Nomura Research, which provides financial services and Oracle Cloud, specifically Oracle Gen2 Cloud services, to the Japanese market. There are several other partners in Japan moving in a similar direction. In the past, companies in Japan would purchase the Oracle database from Nomura, Fujitsu, Hitachi, or NEC. They desired the Oracle database. It is quite natural for these companies to establish their own dedicated regions of Oracle Cloud Infrastructure and serve their customers from those regions. This flexibility is unique to us; we can create these regions for our partners, for sovereign nations, and for large companies that prefer to keep their data separate from others. They seek a public cloud with complete Oracle Cloud Infrastructure, wanting it exclusive to themselves. We have the capability to provide that, unlike anyone else.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Next question, please.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Siti Panigrahi",
+      "title": "Analyst",
+      "content": "Thank you, Larry.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your next question comes from the line of Alex Zukin with Wolfe Research. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Alex Zukin",
+      "title": "Analyst",
+      "content": "Hey, guys. Thanks for taking the question. I wanted to ask around some of the GenAI functionality inside of the applications portfolio, specifically Fusion and NetSuite. Any update or uptick that you're seeing or can share around some of your partnerships around Cohere? Maybe any early feedback from the field that informs incremental value capture, whether or not it's starting to resonate either in the form of increased migration activity, increased market share gains, or increased monetization opportunities around the application portfolio?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Larry Ellison",
+      "title": "CTO",
+      "content": "We're utilizing it extensively. One of the most impressive applications is our new telecommunication module, which summarizes consultations between doctors and patients and automatically writes the doctor's notes. For the first time, our large language model is generating these summaries without the need for a scribe, allowing the doctor to edit them in just a couple of minutes. This has successfully tackled one of the toughest challenges we set for it. We're also applying this technology to tasks like creating product and job descriptions, which are already implemented and delivered to customers. Additionally, in more complex areas like drug design, we're achieving positive results with pharmaceutical companies. The ability to write doctor's notes without a scribe has surprised many, and we're also making strides in diagnosing cancer from biopsy images, enabling patients to receive results much sooner, which can determine whether they need chemotherapy or if they are cancer-free. This is in collaboration with our partner Imaging in Israel. Overall, we're witnessing significant adoption of this technology across both complex healthcare applications and more routine enterprise tasks, enhancing employee efficiency and competitive edge.",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "Alex Zukin",
+      "title": "Analyst",
+      "content": "Got it. From a monetization perspective, are you planning to monetize in a way similar to Microsoft's copilot, or how do you see capturing additional value within the model?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Larry Ellison",
+      "title": "CTO",
+      "content": "We believe our approach is somewhat distinct from Microsoft. We have a broader range of enterprise applications, particularly in healthcare. We manage clinical trials, operate hospitals, and run ambulatory clinics. We also maintain diagnostic databases for image processing and conventional blood testing. Our monetization occurs at the highest end of the value chain, as we provide applications along with our partner that handles cancer diagnosis, manages doctors' notes, processes doctors' orders, automatically generates prescriptions, and sends reminders to patients to ensure they comply with their treatment. Currently, doctors are not informed if patients refill their prescriptions, and patients do not receive notifications. We are addressing these gaps. Our work represents a significant aspect of AI's high value, particularly in preventing patients from being readmitted to hospitals, which has substantial implications for both human suffering and financial costs.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Safra Catz",
+      "title": "CEO",
+      "content": "Now we have multiple ways, by the way, to monetize it, not only as part of our application, but also as part of our infrastructure. Because one of the unique capabilities we allow is for customers when they use our product to basically use their private data in some of these models for them to learn, but then to ultimately keep control of their data. And this is applicable in many, many different types of applications, and this is a service we provide in addition. So there's just a lot of\u2026",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Larry Ellison",
+      "title": "CTO",
+      "content": "Safra is making a very good point in that we have our own applications in healthcare, but we have partners and other companies that come to us to use our AI to enrich their applications. And we keep their data private and allow them to enrich their applications. That company I mentioned earlier, Imaging, that's not our application that does the cancer diagnosis. That's an Israeli company that's doing that, but they're using our AI to develop their healthcare application. So, we monetize through imaging, enabling them to build their AI application. And we also build a lot of our own. So of course, Safra is right. It's a combination of the two.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Safra Catz",
+      "title": "CEO",
+      "content": "Okay.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Alex Zukin",
+      "title": "Analyst",
+      "content": "Perfect. Thank you, guys.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Safra Catz",
+      "title": "CEO",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your last question today comes from the line of Brad Zelnick with Deutsche Bank. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brad Zelnick",
+      "title": "Analyst",
+      "content": "Great. Thanks so much. Larry, it's taken Oracle several years to reach 66 cloud data centers. And you're now talking about plans to build 100 new ones, which frankly seems very ambitious. What is it that you're seeing that maybe we don't see? And then related, perhaps, Safra, if you could speak to the capital requirements and timeframe for that, especially in light of CapEx this quarter that was a bit less than we had expected? Thank you.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Larry Ellison",
+      "title": "CTO",
+      "content": "Microsoft has placed an order for 20 cloud data centers, which presents a significant opportunity for us to expand by building more data centers and acquiring additional OCI customers as we construct OCI data centers within the Azure cloud. We have 66 cloud regions, and while these are sometimes used interchangeably with data centers, they don't correspond one-to-one. When a company orders 20, it drives even more demand for our services. We are establishing our own public regions based on direct customer demand and are also developing partner regions, like the 20 from Microsoft. Together, these efforts total 100.",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "Safra Catz",
+      "title": "CEO",
+      "content": "Yeah, and also one of the things is in that number, it doesn't include the many, many cloud customers, which started small, and now companies have decided they want their own region. So they had a cloud customer, which is smaller, and they decide, no, no, no, now I want a dedicated region of my own. I get it. This is working. I've saved millions, tens of millions, sometimes hundreds of millions. Now I want my own. Also really, it is absolutely true, we did not bring up as much capacity as we could have used this past quarter because we had to make some audible calls on the field to decide how to allocate, whether to build something small which was available, which I could have recognized revenue in right in the quarter, or instead to go much bigger and to wait until some larger capacity was going to be available to hand over to me. So as I think I've hinted and we're talking about demand, had we had capacity this quarter in the hundreds of millions of dollars more that was just sitting there waiting to take it, and we had made some deployment choices because we need more and we need it bigger, instead of taking small pieces or smaller pieces, we decided to focus on the bigger parts and try to also treat our customers fairly and work with them to meet their needs.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Larry Ellison",
+      "title": "CTO",
+      "content": "Let me give you one example of that, what Safra is describing, is we got enough Nvidia GPUs for Elon Musk's company xAI to bring up the first version, the first available version of their large language model called Grok. They got that up and running. But boy did they want a lot more. Boy did they want a lot more GPUs than we gave them. We gave them quite a few, but they wanted more, and we are in the process of getting them more. So, the demand, we got that up pretty quickly. They were able to use it, but they want dramatically more. There's this gold rush towards building the world's greatest large language model. And we are doing our best to give our customers what we can this quarter, and then dramatically increase our ability to give them more and more capacity each succeeding quarter.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Brad Zelnick",
+      "title": "Analyst",
+      "content": "Thanks very much.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you, Brad. A telephonic replay of this conference call will be available for 24 hours on our Investor Relations website. Thank you for joining us on the call today. And with that, I'll turn the call back to Emma for closing.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "This concludes today's conference call. Thank you for attending. You may now disconnect.",
+      "sentiment": "0.0"
+    }
+  ],
+  "reported_date": "2024-06-11"
+}

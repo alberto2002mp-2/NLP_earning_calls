@@ -1,0 +1,361 @@
+{
+  "symbol": "ADBE",
+  "quarter": "2024Q2",
+  "transcript": [
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Good day, and welcome to the Q2 FY 2024 Adobe Earnings Conference Call. Today's conference is being recorded. At this time, I'd like to turn the conference over to Jonathan Vaas, VP of Investor Relations. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jonathan Vaas",
+      "title": "VP of Investor Relations",
+      "content": "Good afternoon and thank you for joining us. With me on the call today are Shantanu Narayen, Adobe's Chair and CEO; David Wadhwani, President of Digital Media; Anil Chakravarthy, President of Digital Experience; and Dan Durn, Executive Vice President and CFO. On this call, which is being recorded, we will discuss Adobe's second quarter fiscal year 2024 financial results. You can find our press release, as well as PDFs of our prepared remarks and financial results, on Adobe's Investor Relations website. The information discussed on this call, including our financial targets and product plans, is as of today, June 13, and contains forward-looking statements that involve risk, uncertainty and assumptions. Actual results may differ materially from those set forth in these statements. For more information on those risks, please review today's earnings release and Adobe's SEC filings. On this call we will discuss GAAP and non-GAAP financial measures. Our reported results include GAAP growth rates as well as constant currency rates. During this presentation, Adobe's executives will refer to constant currency growth rates unless otherwise stated. Non-GAAP reconciliations are available in our earnings release and on Adobe's Investor Relations website. I will now turn the call over to Shantanu.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Shantanu Narayen",
+      "title": "CEO",
+      "content": "Thanks, Jonathan. Good afternoon and thank you for joining us. Adobe had an outstanding quarter, achieving revenue of $5.31 billion, representing 11% year-over-year growth. GAAP earnings per share for the quarter was $3.49 and non-GAAP earnings per share was $4.48, representing 15% year-over-year growth. Our success is driven by growing customer value through an innovative product roadmap. The advances we are delivering across Creative Cloud, Document Cloud and Experience Cloud are enabling us to attract an expanding universe of users. Everyone from creators, communicators, students, entrepreneurs and businesses of all sizes are using our products to unleash their creativity, accelerate document productivity and power their digital businesses. Adobe's highly differentiated approach to AI is rooted in the belief that creativity is a uniquely human trait and that AI has the power to assist and amplify human ingenuity and enhance productivity. We're innovating across data, models and interfaces and natively integrating AI across all our offerings. In Creative Cloud, we have invested in training our Firefly family of creative generative AI models with a proprietary data set and delivering AI functionality within our flagship products including Photoshop, Illustrator, Lightroom and Premiere. We're reimagining creativity for a broader set of customers by delivering Adobe Express as an AI-first application across the web and mobile surfaces. Since its debut in March 2023, Firefly has been used to generate over 9 billion images across Adobe creative tools. In Document Cloud, we're revolutionizing document productivity with Acrobat AI Assistant, an AI powered conversational engine that can easily be deployed in minutes. This enhances the value of the trillions of PDFs which hold a significant portion of the world's information. Acrobat AI Assistant features are now available through an add-on subscription to all Reader and Acrobat enterprise and individual customers across desktop, web and mobile. At the end of May, we celebrated the five-year anniversary of Adobe Experience Platform, which we conceived and built from scratch and which is on track to be the next billion-dollar business in our Digital Experience portfolio. We released AEP AI Assistant to enhance the productivity of marketing practitioners through generative AI, while expanding access to native AEP applications. With Adobe GenStudio, we're bringing together products across our clouds including Creative Cloud, Adobe Experience Manager, Workfront, Adobe Journey Optimizer and Customer Journey Analytics as well as Adobe Express for Business to address the massive content supply chain opportunity. Our approach to empower marketers to quickly plan, create, manage, activate and measure on-brand content is resonating with customers and validating our leadership across data, content and journeys to deliver personalized experiences at scale. We're extending our applications to integrate third-party text, image and video models and partnering strategically to create multi-modal large language models offering customers greater choice in tools and further enhancing the value of our leading applications and solutions. We're driving strong usage, value and demand for our AI solutions across all customer segments and seeing early success monetizing new AI technologies across our Digital Media and Digital Experience businesses. Given this rich product roadmap, focus on execution and customer demand in the first half of the year, we are pleased to raise our annual Digital Media net new ARR, Digital Experience subscription revenue and EPS targets. I'll now turn it over to David to discuss the momentum in our Digital Media business.",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "David Wadhwani",
+      "title": "President of Digital Media",
+      "content": "Thanks, Shantanu. Hello everyone. In Q2, we achieved net new Digital Media ARR of $487 million and revenue of $3.91 billion, which grew 12% year-over-year. On the Document Cloud side, PDF has become a global standard for automating business and consumer workflows, and Acrobat is the platform of choice to view, edit, share and collaborate with these documents. We continue to see steady growth in monthly active users of our Document Cloud solutions, including Acrobat Reader, Acrobat Standard and Pro, and our signature, share and review workflows across mobile, web and desktop. The introduction of Acrobat AI Assistant, made generally available in April for English documents, marks the beginning of a new era of innovation and efficiency for the approximately 3 trillion PDFs in the world. Acrobat AI Assistant is empowering everyone to shift from reading documents to having conversations with them in order to summarize documents, extract insights, compose presentations and share learnings. AI Assistant is available as a standalone offer for use in Reader and as an add-on to Acrobat Standard and Pro. We're seeing early success driving adoption of AI Assistant as part of our commerce flows and remain optimistic about the long-term opportunities. In Q2, we achieved Document Cloud revenue of $782 million, growing 19% year-over-year. We added $165 million of net new Document Cloud ARR, which was a Q2 record, with year-over-year ending ARR growth of 24% in constant currency. Other business highlights include, general availability of Acrobat AI Assistant support for document types beyond PDF, meeting transcripts and enterprise requirements; Acrobat link sharing for PDF-based collaboration continues to grow rapidly, more than doubling year-over-year and driving viral new user adoption; free monthly active users of Acrobat Web grew over 60% year-over-year, as a result of link sharing and our Microsoft Edge and Google Chrome extensions; continued strength with free-to-paid digital conversion, as a result of product led growth optimizations; strong growth in the SMB segment for our Teams offering, driven by a combination of seat expansion and new account wins; key enterprise customer wins with AstraZeneca, Chevron, State Government of Florida, State of Illinois, United Healthcare Services and Wells Fargo. Turning to Creative Cloud, creative professionals are leading the global charge to meet the ever-increasing demand for engaging content across a variety of platforms and channels. Enterprises rely on creative professionals to produce differentiated content to drive increasingly personalized marketing campaigns. Solopreneurs and small businesses need to stand out in a crowded digital landscape with engaging videos and designs. Educators are passionate about providing students with the visual communication skills needed to thrive in the decades ahead. Consumers are increasingly looking for ways to share their stories digitally. Creative Cloud, Express and Firefly Services are uniquely positioned to catalyze this opportunity for everyone, by leveraging the promise of generative AI. Our Creative Cloud flagship applications continue to release new features that are significantly improving user onboarding while simultaneously delivering an unprecedented level of power and precision. Generative Fill and Generative Expand are already two of the top three features used by customers on the latest version of Photoshop. Text to vector support is off to a great start in Illustrator. Remove Object is the fastest growing feature in Lightroom mobile. Our preview of generative AI capabilities in Premiere won Production Hub Award of Excellence at NAB, the largest video show in North America. We are integrating our leading applications with Firefly and third-party generative AI models to deliver the richest, most engaging content. Our vision for Adobe Express is to provide a breakthrough application to make design easy for communicators worldwide, leveraging generative AI and decades of Adobe technology across web and mobile. Our launch of the all-new Express application on iOS and Android earlier this quarter is off to a strong start, with monthly active users doubling quarter over quarter. This week's Design Made Easy event, which focused on Express for Business, was another big step forward for us. Companies of all sizes are excited about the integrated power and commercial safety of Firefly, the seamless workflows with Photoshop, Illustrator and Adobe Experience Cloud and enterprise-grade brand controls that are now part of Express for Business, making it the optimal product for marketing, sales and HR teams to quickly and easily create visual content to share. We also announced the general availability of Firefly Services and Custom Models at Summit. The platform makes API calls and model customization available to developers, accessible through low-code, no-code tools and integrates with our Experience Cloud products. Firefly Services can power the creation of thousands of asset variations in minutes instead of months, and at a fraction of the cost. This allows us to monetize the volume of content being created through automation services. The increasing availability of Firefly in Creative Cloud, Express, Firefly Services and the web app is giving us opportunities to access more new users, provide more value to existing users and monetize content automation. These integrations are driving the acceleration of Firefly generations, with May seeing the most generations of any month to date. In Q2, we achieved $3.13 billion in revenue, which grew 11% year-over-year. Net new Creative Cloud ARR was $322 million. Other business highlights include, the launch of Express for Business, including support for brand controls and template locking, Firefly custom models, bulk creation and generation of variations, presentation and print capabilities, and workflows with Photoshop, Illustrator and Experience Cloud; the release of Firefly Image 3 Foundation Model with high quality image generation and more control with structure and style reference; the release of the Photoshop beta, with Reference Image and advances in Generative Fill; the debut of Generative Remove in Adobe Lightroom, enabling anyone to remove unwanted objects from any photograph non-destructively with stunning, high-quality, photo-realistic results; the release of the Premiere beta, with new audio workflows driving strong usage; the deep integration of Firefly in Substance 3D, which provides an easy way to create textures and materials from reference images; the introduction of an all-new Frame.io, streamlining workflows across content types on a flexible and intuitive collaboration platform; key enterprise customer wins include Credit Agricole, FedEx, Infosys, Rakuten, Ralph Lauren, Samsung, Schneider Electric and Volvo. We're excited about the accelerating pace of innovation across the Digital Media business and pleased with the adoption of AI functionality as well as its early monetization across Document Cloud and Creative Cloud, including our flagship applications, Firefly Services and Express. We're pleased to raise our annual net new ARR target to $1.95 billion and excited to deliver on our rich product roadmap in the second half. I'll now pass it to Anil.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Anil Chakravarthy",
+      "title": "President of Digital Experience",
+      "content": "Thanks, David. Hello, everyone. In Q2, we achieved Experience Cloud revenue of $1.33 billion. Subscription revenue was $1.2 billion, representing 13% year-over-year growth. We are the industry leader in helping enterprises deliver personalized experiences at scale to their customers by combining the right content, customer data and journeys in real time. When we introduced Adobe Experience Platform five years ago, it was a revolutionary approach to address customer data and journeys. Today, we're the number one digital experience platform, and AEP with native apps is well on its way to becoming a billion-dollar business. We're now transforming the content supply chain for enterprises with Adobe GenStudio, enabling them to produce content at scale, leveraging generative AI through native integrations with Firefly services and Adobe Express for Business. Enterprise customers, both B2C and B2B, view customer experience management and personalization at scale as key areas of differentiation, making it a priority investment for Chief Marketing Officers, Chief Information Officers and Chief Digital Officers. We are excited by the customer interest and adoption of our latest innovations, including AEP AI Assistant, a generative AI-powered conversational interface that empowers practitioners to automate tasks, simulate outcomes, and generate new audiences and journeys. For example, customers like General Motors and Hanes brands have been working with AEP AI Assistant to boost productivity and accelerate time to value, while democratizing access to AEP and apps across their organizations. Marriott International is a great example of a customer that's expanded its decade-long relationship with Adobe and turned to Adobe Experience Cloud to orchestrate highly personalized guest experiences across online reservations and the Marriott Bonvoy mobile app. Adobe Real-time CDP and Adobe Journey Optimizer enabled Marriott to connect data from disparate sources and activate relevant experiences in moments that matter, helping the company match individuals with the best options across its portfolio of more than 30 brands and nearly 9,000 properties. Other business highlights include: continued momentum with AEP and native applications, growing subscription revenue 60% year-over-year in Q2; AEP innovations announced at Summit include Adobe Journey Optimizer B2B addition, a new application for B2B customers built on AEP to orchestrate account-specific buying group journeys; federated audience composition, which enables enterprises to minimize data copy and generate audiences directly from their enterprise data warehouses; and real-time CDP collaboration, a new clean room application for brands and publishers to collaborate in a privacy safe way to discover, reach, and measure their high-value audiences in a world without third-party cookies. GenStudio innovations to address enterprise content supply chain needs across workflow and planning, creation and production, asset management, delivery and activation, and reporting and insights. Recent advancements include contextual search in Adobe Experience Manager assets, which enables users to find the right asset and variation in their growing digital libraries. Adobe Workfront Planning, which provides every user with a unified view of all activities across the marketing life cycle through highly visual marketing campaign calendars and dynamic briefs. And AEM Generate Variations, which accelerates the creation of audience-specific content variations to drive personalized web experiences. Strong industry analyst recognition including Gartner's Magic Quadrant for Content Marketing Platforms and leadership for both IDC's B2C and B2B MarketScapes for digital commerce applications. Key customer wins include Amazon, British Telecom, Comcast, Mercedes-Benz, Maruti Suzuki, Nationwide Building Society, Novo Nordisk, ServiceNow, Stellantis, Ulta Beauty, and U.S. Department of the Treasury. We have enabled our vibrant partner ecosystem of system integrators and agencies to deliver advisory and implementation services across our product portfolio. We look forward to engaging with customers and major agencies at the Cannes Lions Festival later this month. Our category-leading solutions, robust pipeline, and tremendous scale position us to drive strong growth in the second half, and we are raising our subscription revenue target for the year. I will now pass it to Dan.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Dan Durn",
+      "title": "CFO",
+      "content": "Thanks, Anil. Today, I'll start by summarizing Adobe's performance in Q2 fiscal 2024, highlighting growth drivers across our businesses, and I'll finish with financial targets. In Q2, Adobe delivered strong top line growth and industry-leading profitability while accelerating the pace of innovations we're delivering to market across Document Cloud, Creative Cloud, and Experience Cloud. In the quarter, Adobe achieved record revenue of $5.31 billion, which represents 10% year-over-year growth or 11% in constant currency, with strength across all three clouds. This performance stems from the diversification of Adobe's business across our market-leading products, business models, customer segments, and geographies. When combined with our talented employees, strong execution and world-class financial discipline, you have the ingredients that make this company incredibly resilient. Second quarter business and financial highlights included: GAAP diluted earnings per share of $3.49 and non-GAAP diluted earnings per share of $4.48; Digital Media revenue of $3.91 billion; net new Digital Media ARR of $487 million; Digital Experience revenue of $1.33 billion; cash flows from operations of $1.94 billion; and RPO of $17.86 billion exiting the quarter. In our Digital Media segment, we achieved Q2 revenue of $3.91 billion, which represents 11% year-over-year growth or 12% in constant currency. We exited the quarter with $16.25 billion of Digital Media ARR, up 13% year-over-year in constant currency. Adobe achieved Document Cloud revenue of $782 million, which represents 19% year-over-year growth as reported and in constant currency. We added $165 million of net new Document Cloud ARR, which was a record for Q2. Q2 Document Cloud growth drivers included: demand for Acrobat subscriptions across all customer segments and geographies; new user acquisition resulting from increasing Reader MAU; a great start monetizing AI Assistant through our digital channel; strong usage and engagement from Acrobat Web as well as through our Chrome and Edge partnerships, which are driving free-to-paid conversion; growing team subscription units sold to SMBs, both through adobe.com and our research channel; and strength in our enterprise solutions, demonstrating the importance of PDF as a source of unstructured data in business workflows. We achieved Creative revenue of $3.13 billion, which represents 10% year-over-year growth or 11% in constant currency. We added $322 million of net new Creative ARR in the quarter. Q2 Creative growth drivers included: new subscriptions for Creative Cloud All Apps with particular strength in digital acquisition on adobe.com, with multiple product releases during the quarter driving customer engagement and demand; strong growth of single apps, including in imaging, photography, design, and stock; accelerating customer interest and usage for our new Express Mobile and Express for Business offerings; strong renewals as customers migrate to higher-value, higher ARPU Creative Cloud plans that include Firefly entitlements; continued subscription unit growth, with particular strength in emerging markets; and strength from SMBs adopting our team offering as well as in the enterprise segment with ETLA adoption. We're pleased with the performance of the Creative business in the first half of the year, fueled by strong commercial subscriptions in both Q1 and Q2. As we look at the momentum we're carrying into the back half, we expect to deliver year-over-year growth of Creative net new ARR in Q3 and Q4 and are raising our Digital Media net new ARR target for the fiscal year. Turning to our Digital Experience segment. In Q2, we achieved revenue of $1.33 billion, which represents 9% year-over-year growth as reported and in constant currency. Digital Experience subscription revenue was $1.20 billion, growing 13% year-over-year as reported and in constant currency. Q2 Digital Experience growth drivers included: subscription revenue strength from transformational accounts; market leadership with AEP and native applications, with subscription revenue growing 60% year-over-year; additional subscription revenue strength across the data insights and audiences and customer journey categories; and accelerated adoption of our AEM and Workfront solutions from businesses looking to solve their content supply chain challenges. Turning to the income statement and balance sheet. In Q2, Adobe delivered year-over-year EPS growth of 24% on a GAAP basis and 15% on a non-GAAP basis. This was driven by revenue growth and disciplined prioritization of our investments, which resulted in non-GAAP operating margin strength in Q2. The company continues to deliver world-class gross margins while investing in groundbreaking AI capabilities. Adobe's effective tax rate in Q2 was 18.5% on a GAAP and non-GAAP basis, in line with our expectations for the quarter. RPO exiting the quarter was $17.86 billion, growing 17% year-over-year as reported or 18% when factoring in a 1-point currency headwind. Current RPO grew 12% exiting the quarter. Our ending cash and short-term investment position at the end of Q2 was $8.07 billion, and cash flows from operations in the quarter were $1.94 billion. In Q2, we entered into a $2.5 billion share repurchase agreement, and we currently have $22.7 billion remaining of the $25 billion authorization granted in March 2024. We will now provide Q3 targets as well as updated fiscal 2024 annual targets, factoring in current macroeconomic conditions as well as strong momentum across our business, our current FX outlook into the back half of the year with the U.S. dollar remaining stronger as compared to our original expectations when we set our FY 2024 targets in December, and an expected strong seasonal finish to the year in Q4. For Q3, we're targeting: total Adobe revenue of $5.33 billion to $5.38 billion; Digital Media net new ARR of approximately $460 million; Digital Media segment revenue of $3.95 billion to $3.98 billion; Digital Experience segment revenue of $1.325 billion to $1.345 billion; Digital Experience subscription revenue of $1.20 billion to $1.22 billion; tax rate of approximately 18% on a GAAP basis and 18.5% on a non-GAAP basis; GAAP earnings per share of $3.45 to $3.50; and non-GAAP earnings per share of $4.50 to $4.55. For fiscal 2024, given our first half performance, we are now targeting: total Adobe revenue of $21.40 billion to $21.50 billion; Digital Media net new ARR of approximately $1.95 billion; Digital Media segment revenue of $15.80 billion to $15.85 billion; Digital Experience segment revenue of $5.325 billion to $5.375 billion; Digital Experience subscription revenue of $4.775 billion to $4.825 billion; tax rate of approximately 20.5% on a GAAP basis and 18.5% on a non-GAAP basis; GAAP earnings per share of $11.80 to $12; and non-GAAP earnings per share of $18 to $18.20. In summary, I'm extremely pleased with the company's performance in the first half of the year and the momentum we see in our business. Adobe's product leadership, velocity of innovation, diversity of our business, and financial discipline make us unique, enabling us to deliver strong top and bottom line results through dynamic market conditions. I'm confident in our ability to catalyze transformative long-term trends that will position us to win over the next decade. Shantanu, back to you.",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "Shantanu Narayen",
+      "title": "CEO",
+      "content": "Thanks, Dan. Adobe remains one of the greatest places to work in the industry, and I want to thank our employees for their relentless dedication to supporting our customers and communities. We continue to invest in hiring, including new college grads and interns to bring the best and brightest talent to Adobe. This quarter, Adobe was recognized among Fortune's 100 Best Companies to Work For, Glassdoor's Best-led Companies and the Civic 50 List of the Most Community-minded Companies in the U.S. Demand for our category-defining products and services continues to grow. Our business fundamentals and market tailwinds are strong, and we look forward to building on our momentum in the second half and beyond. Thank you, and we will now take questions.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our first question will come from Mark Moerdler with Bernstein.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Mark Moerdler",
+      "title": "Analyst",
+      "content": "Thank you very much, and congratulations on the quarter, especially regarding the strong net new ARR. I would like to get more details specifically about the net new ARR we observed in Creative Cloud. Can you provide insight into the near term and medium term contributions to Digital ARR from seat growth, upsell, and consumption, including aspects like Adobe Stock and AI credits? Additionally, if you could rank or quantify these contributions, it would be very helpful in understanding the factors driving that number. Thank you.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Shantanu Narayen",
+      "title": "CEO",
+      "content": "Sure, Mark, let me start and then certainly, David and Dan can add. To your point, we had a strong quarter. And I think what's really driving the quarter, big picture, continues to be the innovation that we're delivering. And the way AI is actually making our applications both more affordable, easy to onboard as well as, frankly, higher-value users. New users are still a big driver of the growth that we continue to see in the business. On the Document Cloud side, a lot of that has to do with the introduction of AI Assistant and the fact that people are migrating to the higher-value products. And on Creative Cloud, I would say the things that we're doing on imaging with Firefly and what we've seen both in Photoshop and Lightroom. I think in the prepared remarks Dan certainly talked about what's happening with also each of the different segments. So the SMB segment actually had a strong quarter. Enterprise continues to have a strong quarter. So across the board, Mark, we actually saw strength in the business.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And our next question will come from Alex Zukin with Wolfe Research.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Aleksandr Zukin",
+      "title": "Analyst",
+      "content": "Thank you for taking my question, and congratulations on the impressive results. I wanted to follow up on Mark's question regarding the level of demand for generative AI that you experienced this quarter, specifically related to the Creative Cloud portfolio, Digital Media, Creative Studio, and GenStudio. How has this demand influenced growth in the enterprise and SMB sectors? Could you provide insight into this trend and your plans for the second half of the year?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Shantanu Narayen",
+      "title": "CEO",
+      "content": "Sure, Alex. Again, maybe I'll start with that. And just taking a step back, I think we've talked about the platform that we have for gen AI that constitutes data, as well as models and finally, interfaces. On the models, we released Firefly services. We've started to see some customer wins in Firefly services. So they're using it for variations, and these are the custom models that we're creating, as well as access to APIs. I would say that's early in terms of the adoption, but the interest as customers say how they can ingest their data into our models as well as custom models, that's really ahead of us, and we expect that to continue to grow in Q3 and Q4. I think the biggest opportunity for us and why we're really excited about gen AI is in the interfaces, because that's the way people derive value, whether it's in being able to complete their tasks faster, whether it's being able to do new workflows. And I would say in that particular space, Acrobat has really seen a significant amount of usage as it relates to AI Assistant. And Photoshop, I'll have David again add, but Generative Fill and what we are doing there, what we are doing in Illustrator. And that both for existing customers as well as for prospects who now come in and say, the products are becoming increasingly more productive for us, that's what's really driving the value there. And last but not least, the AI-first applications. When we think of an application like Express, Express is all about reimagining what we can do for creatives by sort of leapfrogging existing technologies and providing an AI-first application. And so that's also off to a good start.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "David Wadhwani",
+      "title": "President of Digital Media",
+      "content": "Yes. To build on what Shantanu mentioned, we've discussed how fiscal year 2023 was the year for exploring AI, and now it's time to implement it in real-world applications. While this shift is happening across various industries, we are in a unique position to lead the charge. As Shantanu noted, we have many active product releases this quarter, including the Acrobat AI Assistant, updates to Firefly in Photoshop, the introduction of Firefly in Lightroom, and the launch of Express Mobile and Express for Business. We also rolled out Firefly services for enterprises to generate content on a large scale. This demonstrates significant innovation in our core applications centered on generative AI. Coupled with our efforts at Summit and Max London, we're spreading our message widely. This marks a transition from merely experimenting with AI to genuinely integrating it into workflow processes. Our deep integration of AI into everything we develop is crucial; improving the interfaces people use means everyone can work more efficiently.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Shantanu Narayen",
+      "title": "CEO",
+      "content": "And maybe one last thing, Alex. Sequentially, if you look at it from a route to market, Digital had a very strong quarter as it relates to what we did on adobe.com. We had talked about enterprise doing well in Q1 as well, that continued. And SMB also, the interest in our teams product also continued to do really well. So I think sequentially, I would point to SMB and Digital's strength as driving the further growth.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Aleksandr Zukin",
+      "title": "Analyst",
+      "content": "That's super helpful. And then maybe just one on the macro. Just given your guys' purview, like what is the story that you're seeing in terms of the macro on the demand environment? Clearly again, you're commenting on solid performance in the SMB and in the enterprise. Is there any areas that you're seeing pockets of weaknesses that's really vertical-dependent? Just maybe give a comment on kind of how we should think about it as we look to the rest of the year.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Shantanu Narayen",
+      "title": "CEO",
+      "content": "I think from a macro perspective, what I think differentiates Adobe more than any other company is how differentiated and how diverse the set of products that we have. And again, from individual consumers all the way to enterprises, our products are mission-critical. And so at this scale, it's all about execution. And the business cycles will come and go, Alex, but we're actually continuing to focus on execution and converting the pipeline and the interest and the awareness of AI into monetization. And so, we just will be ruthlessly focused on continuing to execute against that. So nothing really to report different on the macroeconomic environment from our perspective.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Aleksandr Zukin",
+      "title": "Analyst",
+      "content": "Awesome. Keep doing what you're doing, guys.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And our next question will come from Saket Kalia with Barclays.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Saket Kalia",
+      "title": "Analyst",
+      "content": "Thank you for taking my question and congratulations on a strong quarter. I have a question for both Shantanu and David regarding the Firefly monetization story. There are many layers to it, but I find the increased engagement that Firefly generates in your flagship products particularly interesting. For example, Generative Fill for Photoshop has been expanded to other flagship products like Premiere and Illustrator. Can you discuss the potential opportunity related to higher retention rates or any other qualitative insights you have on this?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "David Wadhwani",
+      "title": "President of Digital Media",
+      "content": "It's a great question. From the beginning, our main focus for generative AI has been on user adoption and growth. This remains our priority for several reasons, including the various monetization opportunities available to us. As we consider growth, it always begins with attracting new users, followed by providing greater value to existing users at higher average revenue per user. For new users, we aim to integrate generative AI into our tools, starting with Express. We have already launched Express and are witnessing significant adoption and usage. As this continues, we are integrating generative AI more extensively into Express, enhancing our marketing messaging about the comprehensiveness of the AI offerings, which positively affects user engagement, onboarding, and retention. Furthermore, the same integration is occurring in our core Creative products. The introduction of Firefly, along with our product-led growth initiatives, especially the Context Bar, helps new users succeed from the outset, which aids in conversion and retention. Additionally, our AI Assistant is being incorporated into the purchasing process for Acrobat, providing a high attach rate. It\u2019s akin to the \"would you like fries with that\" moment at Adobe during the checkout process, allowing customers to recognize value and opt for higher plans. There are many pathways to achieve this, but the most significant indicator is the migration of Creative Cloud users to higher-priced plans that include Firefly, as we aim to deliver more value to these users.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Shantanu Narayen",
+      "title": "CEO",
+      "content": "And in terms of the generation, Saket, I think we talked about it. We did a great job at MAX in London talking about some of the new functionality and releasing. Photoshop, I think we're up to 9 billion generations, and actually, I think the greatest amount of generations was in May. So the momentum clearly is the more we integrate this functionality into our interfaces, the more that usage is really driving adoption as well as retention.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Saket Kalia",
+      "title": "Analyst",
+      "content": "Very helpful. Thanks, guys.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And our next question comes from Brent Thill with Jefferies.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brent Thill",
+      "title": "Analyst",
+      "content": "David, on Express, you mentioned the success you're seeing. Can you maybe drill into some of the other metrics and accomplishments that you're seeing out of Express this quarter?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "David Wadhwani",
+      "title": "President of Digital Media",
+      "content": "Yes. There's a lot of excitement around Express at Adobe following the recent event we had earlier this week, primarily because the innovation in Express is progressing rapidly. A few months ago, we launched a completely new Express for the web. This quarter, we released an entirely new version for mobile and introduced Express for Business. Additionally, we have been integrating AI features more extensively into Express, such as imaging generation, generative fill, text effects, character animation, and design generations. This combination has resulted in impressive metrics over the last quarter, especially as we've been building momentum throughout the year. The number of monthly active users on Express is growing rapidly, with mobile users more than doubling quarter-over-quarter, which is fantastic. Cumulatively, exports have increased by over 80% year-over-year. We feel very optimistic about the momentum we are experiencing. Taking a broader perspective, it's crucial to understand our vision. The current version of Express is built on a new platform that sets the stage for the AI era. Express will be a destination for anyone to create using both conversational and standard inputs. This represents a significant opportunity for us to advance our capabilities on the web and mobile at Adobe. It has taken time to reach this point, but now that we're here, we are ready to accelerate our go-to-market efforts. We know what we can achieve with our data-driven operating model. We have been enhancing our Digital and Adobe.com journeys and are ready to apply that same expertise in the mobile app store. We are leveraging our strengths in product-led growth. Express Workflows have been integrated into Acrobat Editor and are being embedded into Creative Cloud workflows as well. As demonstrated at our Summit with Anil, we are also incorporating it into our Experience Cloud workflows. Furthermore, we are empowering our inside sales team to target small and medium businesses, and our education teams are gearing up for the back-to-school season for K-12 and higher education. Our field and enterprise sales teams now have Express for Business as well. We are executing all of this on a global scale in a vast market, and we are fully prepared to move forward.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Brent Thill",
+      "title": "Analyst",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And the next question comes from Gregg Moskowitz with Mizuho.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Gregg Moskowitz",
+      "title": "Analyst",
+      "content": "Hey, thank you very much. And I'll add my congratulations. For your Creative business, how are you thinking about the Q side of the P times Q equation over the balance of the year? Based on these numbers anyway, I would certainly assume that you had really healthy unit growth in Q2. And I'm wondering if you expect that to continue.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "David Wadhwani",
+      "title": "President of Digital Media",
+      "content": "Yes, I think it's a combination of the product innovation we've been introducing consistently and the attention it's receiving due to the quality and the engaging AI features that help onboard users quickly and effectively. As we've discussed, increased usage of these AI features leads to better retention rates. We're very optimistic about the entire workflow. New user growth remains our main focus, and with everything we are implementing with Express, we feel we are making significant progress in new user acquisition and retaining existing members.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Shantanu Narayen",
+      "title": "CEO",
+      "content": "And Gregg, as you're aware, I mean, certainly with Express, we also have the model of customer acquisition as it relates to people coming in through trial and free and then conversion. So we are seeing the interest level as it relates to Express, in particular, significant interest.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Gregg Moskowitz",
+      "title": "Analyst",
+      "content": "And Shantanu, since you also called out the strength in Digital earlier, including driving new Creative All Apps subscriptions from your website, are you doing anything different that's helping to drive that behavior? And if so, is that something you think can continue as well?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Shantanu Narayen",
+      "title": "CEO",
+      "content": "I would, Gregg, modestly say, we've been world-class at sort of driving that for a long time now. But the team, I think, continues to do an amazing job. And I would say David referred to the DDOM. Adobe Home is now sort of increasingly the way that we're driving a lot of people to get aware of our new products. And so, I would say the mobile part as well and the mobile journeys, as we've got these mobile products, whether it's Lightroom or whether it's certainly, Express, that's an area of increasing focus for us. And the traditional sort of understanding where search terms are, I think we're getting better and better at that, which leads to way more digital traffic for us. So I think it's across the board. But I'd also highlight, I mean, the commerce team that we have at Adobe that understands what the segments are and how for those particular segments we can attract people, that's great. I mean, I think in the prepared remarks, Dan also talked about the strength in emerging markets. And I think the beautiful part about AI is that since they need access to the cloud to get all of the AI functionality, emerging market growth has been really strong for us.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Gregg Moskowitz",
+      "title": "Analyst",
+      "content": "Very helpful. Thank you.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And moving on to Keith Weiss with Morgan Stanley.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Keith Weiss",
+      "title": "Analyst",
+      "content": "Thank you guys for taking the question. And again, congratulations on a really solid set of results in an environment where not very many software companies have been able to beat and raise in this type of uneven environment. I wanted to maybe focus in a little bit on the question that Mark Moerdler asked, in particular on what gives you guys the confidence to see a return to year-on-year growth and Creative Cloud net new ARR. It declined in Q2, it declined in Q1. And if I'm not mistaken, the decline in Q2 was a little bit steeper than what we saw in Q1. So what are the particular drivers and maybe some detail on those drivers that give you guys the confidence that, that trend line that has been actually heading in the wrong direction is going to head in the right direction now? We're actually going to see growth in those metrics in Q3 and Q4?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "David Wadhwani",
+      "title": "President of Digital Media",
+      "content": "Yes, thank you, Keith. We've previously discussed the complexities of the year-over-year comparisons in the first half due to prior pricing strategies. However, the challenges from year-over-year comparisons are now behind us. We're really excited about the positive momentum we've seen in the first half and what it means for the second half, particularly for both Document Cloud and Creative Cloud, which are both experiencing significant growth. The $487 million that we reported is strong performance and indicates that both Creative Cloud and Document Cloud exceeded our growth expectations. This gives us excellent momentum moving into the latter half of the year. This momentum is primarily driven by three factors. First, we're seeing a great performance in new user acquisition, especially with Express attracting many new users across mobile and web. The AI Assistant in Reader has also started off well, and we are pleased with its adoption rate. Additionally, Firefly has become increasingly effective in onboarding and retaining users due to its growth. We are also seeing strong usage in emerging markets, which is a bright spot and represents significant potential for us. Regarding existing customers, we have seen a positive trend in migration as more users are moving to higher-priced, higher-value plans due to Firefly capabilities. In enterprises, there's a noticeable shift to the highest-tier version of Creative Cloud, offering more features and collaborative tools beyond basic sharing. We're witnessing good momentum in upgrade cycles within the enterprise segment as well. Lastly, we shouldn't overlook our new offerings. Although still in the early stages, we are effectively driving automation and content production with Firefly services in various accounts. This combination of new user growth, existing customer migration, and new market offerings is fueling our growth strategy.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Keith Weiss",
+      "title": "Analyst",
+      "content": "That is a great answer. Thank you so much.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And we have a question from Brad Sills with Bank of America.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Bradley Sills",
+      "title": "Analyst",
+      "content": "Oh, great. Thank you so much. I wanted to ask a question around the generative credit component to your pricing here. It seems like with all the progress you've made embedding Firefly across the key flagship products and the engagement levels that you're seeing, we should start to see perhaps some ramp in that generative credit component to your pricing. Is that a fair assessment? Would you expect to start to see that coming in? Or should we look to other services like the video capabilities that you're going to be launching shortly as a key catalyst there? Thank you.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Shantanu Narayen",
+      "title": "CEO",
+      "content": "I think you're right, Brad. When we think about what we've done with imaging and video, we've done the right thing by making sure the higher-value paid plans that people don't have to think about the amount of generative capability. And so there, the balance between for free and trialist users, they're going to run into the generative capability limits and, therefore, have to subscribe. But for the people who actually have imaging and vector needs, that they're not constantly thinking about generative, I think we actually got it right. To your point, as we move to video, expect to see different plans because those plans will, by necessity, take into account the amount of work that's required to do video generation. So you're absolutely right as a sort of framework for you to think about it. The two other things that I would say is, I mean, clearly, Express is really being driven by sort of the need for AI and how people are able to describe what they want and get the final output. When David talked about exports, just to clarify what that means is people who have successfully got what they want to get done, done. And that's a key measure of how we are doing it, and AI is certainly facilitating and accelerating that. And last thing I would say, Brad is, as you know, on the Acrobat side, it's a slightly different model which we like, which is anybody who has Reader and is looking at a document, they can have an upsell to their AI Assistant. If you have Acrobat Pro, you can upsell to the AI Assistant. And if you're a brand new acquisition of a user when you're coming in, the adoption of the highest-value products, so between Standard Pro and Pro Plus Assistant, we've been pleased to see how many people are migrating to the Pro Plus Assistant. So hopefully, that gives you some color of how we think about it differently by product.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Bradley Sills",
+      "title": "Analyst",
+      "content": "Very helpful. Thank you, Shantanu.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And we'll take a question from Brad Zelnick with Deutsche Bank.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brad Zelnick",
+      "title": "Analyst",
+      "content": "Great. Thank you so much and congrats to all of you. I don't want Anil to feel left out, so I'm going to ask a DX question. Anil, it's good to hear AEP is on track to become the next billion-dollar business for Adobe. Can you expand on the journey and drivers that get you there? And in particular, how important are cloud migrations? And how do you see AEP AI Assistant perhaps accelerating the journey to $1 billion? Thanks.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Anil Chakravarthy",
+      "title": "President of Digital Experience",
+      "content": "Thank you, Brad. I appreciate your question. Customer experience management has become a key priority for Chief Marketing Officers, as well as CIOs and Chief Digital Officers. Our focus is on scaling personalization through the AEP platform, where we are the largest provider in this space and experiencing faster growth than our competitors. As a result, we are recognized as the number one Digital Experience platform, which has consistently helped us maintain momentum. The AEP AI Assistant is designed to simplify the deployment of use cases for customers. For instance, when it comes to generating audiences and managing campaigns, these tasks traditionally necessitate collaboration between marketing and IT teams due to the data engineering involved. The AEP AI Assistant is empowering marketers to handle these processes independently and deploy a wider range of use cases. Increased usage of this tool will drive higher consumption and contribute to our growth, bringing us closer to achieving that billion-dollar milestone.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Brad Zelnick",
+      "title": "Analyst",
+      "content": "Great to hear, and keep up the great work, guys. Thanks.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Jonathan Vaas",
+      "title": "VP of Investor Relations",
+      "content": "Hey, operator, we're almost at the top of the hour. We'll take two last questions and then wrap up. Thanks.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. We'll take a question from Kash Rangan with Goldman Sachs.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Kash Rangan",
+      "title": "Analyst",
+      "content": "Hi, thank you very much. You guys could have three separate earnings calls because you have three different businesses that even the smallest one is very large. So yes, sorry, Anil, Dave, and Shantanu, I may not be able to ask all the questions that I want. I'm sure we have plenty. But I'll just keep it super high level, Shantanu. Generative AI, it seems to swing back and forth. Just so early in its evolution, the possibilities seem magical sometimes, endless sometimes, sometimes it feels very disappointing. But with every quarter that Adobe is executing on this path, where do you stand with the question that we do get from investors? Will generative AI be so good that it's the end of the creative process? So we don't need creative folks, that software will do everything? That sounds a little far-fetched, but I'm just throwing it out there to see how you would react that proposition. Same in Experience Cloud as well. Could generative AI create its own marketing campaign, put marketing people out of business? Or maybe it doesn't. I'm sure you have strong views. Maybe flipped on the other side, it does create category growth on the other hand, not category compression. So sorry for that super high-level question, but that seems to be a big debate on the stock here, at least from the long-term perspective. Thank you so much.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Shantanu Narayen",
+      "title": "CEO",
+      "content": "Yes, Kash. There are two main points that investors seem to be considering. First, it's clear that the current interest in AI among investors primarily focuses on the infrastructure and chips, which is understandable because that's where the development of models is happening. There's a lot of excitement about this stage in the evolution of generative AI. However, if the benefits of AI don't translate into practical applications for users, then the investments may not yield the expected returns. We believe that with disruptive technology, the real advantages emerge when users can interact with it seamlessly, allowing them to complete tasks more efficiently and integrating it into their existing workflows, eliminating resistance to using it.  Broadly speaking, I truly believe that generative AI will significantly enlarge the market across all our categories, making our products easier to access, more affordable, and more productive. As acting CMO of the company, I've noticed the enthusiasm around our ability to quickly produce much more content and variations. Regarding personalization at scale, there are two key elements: data, which Anil and the team have effectively managed through the real-time customer data platform, and the infusion of that data with appropriate content for a personalized experience. The demand for more content than people can currently produce is high, and generative AI will accelerate this trend.  Looking ahead five years, I am confident that more individuals will be using creative tools to achieve their goals, and marketers will be able to execute marketing campaigns that are much more targeted than before. It's Adobe's responsibility to showcase our leadership in these areas and continue to innovate. I acknowledge the concerns within the industry regarding AI; if the value doesn't materialize for users, then the investment may not yield the benefits I believe it will.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "David Wadhwani",
+      "title": "President of Digital Media",
+      "content": "And maybe one thing to add to that, Kash, just to build on what Shantanu was talking about. I think the other thing we get asked a fair amount is about the comparison between different models, right? So Firefly might be better at something. Midjourney might be something at something else. DALL-E might do something else. And the key thing here is that around this table, we get excited when models innovate. We get excited when Firefly does something amazing. We get excited when third-party models do something because our view, to Shantanu's point, is that the more content that gets generated out of these models, the more content that needs to be edited, whether it's color correction, tone matching, transitions, assembling clips, or masking composite images. And the reason for this is that this is not a game where there's going to be one model. Each model is going to have its own personality, what it generates, what it looks like, how fast it generates, how much it costs when it generates that, and to have some interface layer to help synthesize all of this is important. And so just sort of to note, we've said this before but I'll say it again here, you will see us building our products and tools and services leveraging Firefly for sure, but you'll also see us leveraging best-of-breed personalities from different models and integrate them all together.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Kash Rangan",
+      "title": "Analyst",
+      "content": "Awesome, the message here is that, gen AI is going to create more growth in the category. And Shantanu, you did that with the pivot to cloud. You grew the category, so here we go again. Thank you so much.",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "Shantanu Narayen",
+      "title": "CEO",
+      "content": "Thanks, Kash.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And next will be Jake Roberge with William Blair.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jacob Roberge",
+      "title": "Analyst",
+      "content": "Hey, thanks for taking the question and I'll echo my congrats on the great quarter. I know it's early, but what's been the feedback and customer behavior for those users that are on Firefly services and GenStudio? And then thinking more longer term, what type of price uplift could you see from those customers over time, just given what you said about the acceleration in Firefly generations being driven by those products? Thanks.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "David Wadhwani",
+      "title": "President of Digital Media",
+      "content": "I'll begin with an example from our customer engagement. Just before this meeting, I had a discussion with our Chief Marketing Officer. At times, it can be challenging to discern whether he's approaching the conversation as the CMO or in a CEO capacity; this time, it was as CMO. We discussed a comprehensive marketing campaign we plan to launch later this year. As Shantanu highlighted earlier, we've noticed advantages in the campaign's cost, quicker market release, and the volume of content we can produce to tailor the campaign effectively. We have been increasingly focused on our Direct Data Optimization Model, which has proven to be very fruitful for us, as reflected in this quarter's results, and is something we're promoting to other clients. We've collaborated with several clients\u2014some of whom we mentioned earlier\u2014on various initiatives, including speeding up content development for social media, enhancing content creation for regional needs, and boosting the overall volume of personalized content. This ultimately integrates into all the Experience Cloud offerings that Anil is refining for better targeting.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Shantanu Narayen",
+      "title": "CEO",
+      "content": "And Jake, maybe in terms of what I would say we're seeing usage of, I think the initial usage of Firefly services in most companies was all around ideation. How can they create multiple variations of them and in the ideation process really just accelerate that ideation process? Most companies are then starting with as they're putting it into production, how can they, with the brand assets and the brand guidelines that they have, do this in terms of the variations, whether they be geographic variations or they be just variations? I mean, if you take a step back also, every single ad company right now will tell you that the more variance that you provide, the better your chances are of appropriately getting an uplift for your media spend. So I would say that most companies are starting with creating these variations for geographies. The other one that we see a fair amount of is engaging with their communities. So when they want their communities to have assets that they have blessed for usage within community campaigns, that's the other place where Firefly services are being used. And a company has a community portal where the community can come in, take something and then post whether it's on whatever social media site that you want. So I think that's the initial one. All of the agency companies are companies that have actually even publicly said how GenStudio is something that they have embraced. But even the large media companies, because the media companies are certainly interested in understanding how all of this gen AI could be used to automate as well as accelerate the amount of content that they can produce. So hopefully, that gives you some color of it. If there's been sort of the questions that they ask along the way, which hopefully and actually, luckily, we have great answers, it's all around the indemnification and how they can use it. And I would say that continues to be a really key differentiator for us. But since that is the last question, let me just say I'm proud of how we executed in Q2, both across the product innovation, delivery as well as the go-to-market because clearly, a number of you asked how we were able to put together these numbers where others have perhaps talked about the macroeconomic environment. We certainly remain focused on leveraging technology to light a broader set of customers. And at the end of the day, to the questions that we were asked, we believe that the real value of AI will be in the interfaces that individuals, enterprises use to accomplish their tasks and workflows. And we think we're incredibly well positioned. So thank you for joining us.",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "Jonathan Vaas",
+      "title": "VP of Investor Relations",
+      "content": "Thanks, everyone. This concludes the call.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. This does conclude today's conference. We do thank you for your participation, and have an excellent day.",
+      "sentiment": "0.0"
+    }
+  ],
+  "reported_date": "2024-06-13"
+}

@@ -1,0 +1,187 @@
+{
+  "symbol": "ORCL",
+  "quarter": "2024Q4",
+  "transcript": [
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Good day, everyone, and welcome to Oracle's Fourth Quarter 2024 Earnings Call. Today's call is being recorded, and now I would like to turn the conference over to Ken Bond. Please go ahead. Thank you, Krista. Good afternoon, everyone, and welcome to Oracle's Fourth Quarter and Fiscal Year 2024 Earnings Conference Call. A copy of the press release and financial tables, which includes a GAAP to non-GAAP reconciliation and other supplemental financial information, can be viewed and downloaded from our Investor Relations website. Additionally, a list of many customers who purchased Oracle Cloud services or went live on Oracle Cloud recently will be available from the Investor Relations website. On the call today are Chairman and Chief Technology Officer, Larry Ellison, and Chief Executive Officer, Safra Catz. As a reminder, today's discussion will include forward-looking statements, including predictions, expectations, estimates, or other information that might be considered forward-looking. Throughout today's discussion, we will present some important factors relating to our business, which may potentially affect these forward-looking statements. These forward-looking statements are also subject to risks and uncertainties that may cause actual results to differ materially from statements being made today. As a result, we caution you against placing undue reliance on these forward-looking statements, and we encourage you to review our most recent reports, including our 10-K and 10-Q, and any applicable amendments for a complete discussion of these factors and other risks that may affect our future results or the market price of our stock. And finally, we are not obligating ourselves to revise our results or these forward-looking statements, in light of new information or future events. Before taking questions, we'll begin with a few prepared remarks. And with that, I'd like to turn the call over to Safra.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Safra Catz",
+      "title": "CEO",
+      "content": "Thanks, Ken, and good afternoon, everyone. We had an incredible quarter. Oracle's Q4 is typically when customers purchase large software licenses to support their operations, but this year, the focus shifted to our cloud services, which significantly drove our results. In Q4, Oracle signed its largest sales contract ever, driven by high demand for training large language models and record sales in OCI, autonomous, fusion, and NetSuite. Our Remaining Performance Obligations reached $98 billion, an increase of $18 billion from Q3 and up 44% year-over-year from $68 billion last year. We are trading one-time non-recurring license revenue for larger, strategic customer commitments for multi-year cloud revenue, which we anticipate will accelerate our revenue growth. This shift reinforces my confidence that our overall revenue, earnings, and cash flow will strengthen and accelerate. In essence, this Q4 signifies the full emergence of our high-growth cloud businesses. I've been discussing this turning point for years, and it's evident in our ongoing results. To remind you, we accelerated our US dollar revenue growth rate from negative one to plus eight this past year, excluding Cerner. Additionally, EPS has grown at a 10% compounded annual growth rate during this time. Operating cash flow and free cash flow, which we report on a trailing 12-month basis, were both declining by 10% four years ago. This year, they grew by 9% and 39% respectively. Discussions with customers are now entirely focused on our cloud services, as our results indicate. For example, OpenAI has selected Oracle to run deep learning and AI workloads on Oracle Cloud Infrastructure because our OCI is the fastest and most cost-effective AI infrastructure available. We signed over 30 AI contracts worth more than $12 billion this quarter and nearly $17 billion this year. Furthermore, we are helping companies utilize our cloud applications to transform their businesses. For instance, a large enterprise tech company signed a contract in Q4 worth over $600 million for us to help them enhance their operations with Fusion, making them more agile, faster-growing, and more profitable, replacing many competitor products in the process. These cross-pillar cloud deals focus on business process reengineering with multiple cloud applications that no one else can provide. I also want to mention that today marks day 11 of our new fiscal year, and we are announcing our results for both the quarter and the year, as well as guidance, making us among the fastest public companies to do so. Our ability to do this is due to our Fusion applications, and this is why companies are choosing Fusion, as our teams guide them through the process. Lastly, I'm excited to share that we've signed a multi-cloud partnership with Google. Our OCI and Google Cloud Network interconnect is now available in 10 regions, and we plan to go live with Oracle Database at Google Cloud in September, allowing customers direct access to Oracle Database Services running on OCI in Google Cloud data centers. The driving force behind this expansion is our comprehensive and secure cloud offering. Customers have moved from initial curiosity about our cloud to full-scale implementation. Our cloud technologies are the most secure, complete, and cost-effective enterprise applications and infrastructure available. Our technologies are vertically integrated, and we provide flexible deployment models to meet customer needs, including public, multi-cloud, sovereign, dedicated cloud, and customized services through Oracle Alloy. Now I'll dive into Q4 details and discuss how this momentum will influence fiscal year 2025 and beyond. In Q4, the dollar strengthened since my Q4 guidance, resulting in a 1% currency headwind to total revenue and a $0.01 headwind to EPS. As usual, I will discuss our financials in terms of constant currency growth rates, as this is how we manage the business. Total cloud revenue, which includes SaaS and IaaS excluding Cerner, was $4.7 billion, up 23%. Including Cerner, total cloud revenue increased by 20% to $5.3 billion. SaaS revenue reached $3.3 billion, up 10%, while IaaS revenue was $2 billion, rising by 42% on top of last year's 77% growth. Total cloud services and license support for the quarter was $10.2 billion, up 10%, driven by our strategic Cloud Applications, Autonomous Database, and OCI. Application subscription revenues, including product support, amounted to $4.6 billion, an increase of 6%. Our strategic back-office SaaS applications now have an annualized revenue of $7.7 billion, up 16%. Infrastructure subscription revenues reached $5.6 billion, up 13%. Infrastructure cloud services revenue increased by 42%. Excluding legacy hosting, OCI Gen2 infrastructure cloud services grew by 44%, with an annualized revenue of $7.4 billion. OCI consumption revenue surged by 53%, and it would have been even higher without ongoing supply constraints. Database subscriptions, including license support, were up 6%, driven by cloud database services, which saw a 26% increase, now generating an annualized revenue of $2 billion. As on-premise databases transition to the cloud, whether directly to OCI or through Azure or Google Cloud, we believe that cloud database services will become a significant revenue growth area alongside OCI and strategic SaaS. Reflecting our strategic direction and customer preference for cloud services, software license revenues fell by 14% to $1.8 billion. Overall, total revenues for the quarter were $14.3 billion, an increase of 4% when including Cerner and 5% when excluding it. Regarding margins, the gross margin for cloud services and license support stood at 77%, influenced by the mix of support and the faster-growing cloud segment. The gross margin percentages for software support and SaaS remained consistent with last year, while IaaS gross margins improved significantly. We expect gross margins to increase as more of our cloud regions become operational. While gross profit dollars for cloud services and license support grew by 8% in Q4, non-GAAP operating income was $6.7 billion, up 9% from the previous year, with an operating margin of 47%, up from 44% last year due to enhanced efficiency in our operations. Looking ahead, as we benefit from economies of scale in the cloud, we anticipate not only continued growth in operating income but also an expansion of operating margin percentages. The non-GAAP tax rate was over 1% higher than my guidance at 20.1%, with the non-GAAP EPS at $1.63 and GAAP EPS at $1.11 in USD. Last year's non-GAAP tax rate was 9.2%, negatively impacting this quarter's EPS growth. Non-GAAP pretax income grew by 14% in constant currency, meaning that had we maintained the same tax rate as last year, net income would have increased by 14%, and EPS would have risen by 12% in constant currency and 11% in USD. For the full fiscal year, total company revenue reached $53 billion, a 6% increase. Total cloud services and license support revenue, which is fully subscription-based, accounted for nearly three-quarters of total revenue at $39.4 billion, up 11%. Total application subscription revenues grew by 9%, while infrastructure subscription revenue increased by 13%. Total cloud services, excluding Cerner, saw a 26% increase to $17.2 billion. SaaS revenue excluding Cerner rose by 13% to $10.4 billion for the year. IaaS and cloud infrastructure revenue grew by 50% to $6.8 billion, with consumption revenue up by 66% from last year. Non-GAAP EPS for the full year was $5.56 in USD, up 9%, and the full-year operating margin percentage was 44%, up from 42% the previous year. At the end of the quarter, we had nearly $10.7 billion in cash and marketable securities, and the short-term deferred revenue balance was $9.3 billion, up 4%. Over the past four quarters, operating cash flow totaled $18.7 billion, up 9%, and free cash flow reached $11.8 billion, up 39%. Capital expenditures were $6.9 billion. As mentioned earlier, our Remaining Performance Obligations are now $98 billion, a 44% increase in constant currency, with the portion excluding Cerner up 60%. We signed several substantial deals this quarter and have many more in the pipeline. About 39% of total RPO is expected to be recognized as revenue over the next 12 months, reflecting the trend of customers pursuing larger contracts as they witness the benefits of Oracle Cloud services. We spent $3.5 billion on CapEx this quarter, while the $2.8 billion reported in the cash flow statement is lower due to timing of payments. We're working diligently to expand our cloud capacity given the size of our backlog and pipeline. Currently, we have 76 customer-facing cloud regions operational, with 47 public cloud regions worldwide and another 19 in development. We have 11 database at Azure sites live, with more coming online soon. This year, we will have 12 Oracle database at Google Cloud sites operational. We also have 13 dedicated regions live and 15 more planned, along with several national security regions and EU sovereign regions experiencing growing demand. Additionally, we've launched two alloy cloud regions, with 11 more planned, alongside numerous cloud customer installations. As previously noted, the scalability and flexibility of our cloud regions continue to give us a competitive edge in the market. This quarter, we repurchased 1.25 million shares for $150 million and paid $4.4 billion in dividends over the past year. Today, the Board of Directors declared a dividend of $0.40 per share. Before discussing guidance for Q1 and fiscal 2025, I want to note that in Q4, we decided to exit the advertising business due to a decline in revenue to about $300 million in fiscal year 2024. Moreover, I will no longer be separating results for the Cerner business since it is now in a growth phase. Regarding guidance, I expect continued strong cloud demand throughout fiscal year 2025 to drive Oracle sales and RPO higher, resulting in double-digit revenue growth for the year. I anticipate that each quarter will surpass the previous one as OCI capacity expands to meet demand. Our pipeline is growing faster than bookings and our victory rates are improving as well. I expect cloud infrastructure services to grow faster than the 50% we reported this past year. CapEx in fiscal year 2025 could be double what it was in fiscal year 2024. Looking beyond this fiscal year, I remain committed to our fiscal year 2026 financial goals for revenue, operating margins, and EPS growth. However, based on our strong booking results, these goals may prove to be conservative given our momentum. We will provide a more comprehensive update during the Financial Analyst Meeting at Oracle Cloud World in Las Vegas in September. Now, let me share my guidance for Q1, which I will discuss on a non-GAAP basis. If currency exchange rates remain stable, we anticipate a negative 1% effect on my revenue and a $0.01 or $0.02 downside on EPS in Q1. Total revenue is expected to grow between 6% and 8% in constant currency and between 5% and 7% in USD based on the current currency situation. Cloud revenue is projected to grow between 21% and 23% in constant currency and 20% to 22% in USD. Non-GAAP EPS is expected to rise by 11% to 15%, ranging from $1.33 to $1.37 in constant currency. In USD, non-GAAP EPS growth is forecasted at 10% to 14%, with an expected range of $1.31 to $1.35. My EPS guidance for Q1 assumes a base tax rate of 20%, with actual rates possibly fluctuating due to one-time tax events. Thank you for your attention, and now I will turn it over to Larry for his comments.",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "Larry Ellison",
+      "title": "CTO",
+      "content": "Thank you, Safra. I'm going to start by repeating something Safra said. In Q4, Oracle's company-wide RPO increased 44% to $98 billion. In AI alone, we signed contracts with 30 different customers for $12.5 billion in new AI business. These astonishing RPO numbers 44% and $98 billion were driven by massive increases in sales of Oracle Cloud Infrastructure, OCI. So who are the companies choosing to use Oracle Cloud Services and Oracle data centers? Well, here are a few names: NVIDIA, Microsoft, Google, X AI, Open AI, and numerous others. In other words, the world's largest cloud companies and the world's most successful and accomplished AI companies choose to use Oracle cloud services and data centers. So why are they working with Oracle? Because Oracle's Gen 2 cloud infrastructure is different. OCI's area network moves data much faster. And when you charge by the minute, faster also means less expensive. OCI trains large language models several times faster and at a fraction of the cost of other clouds. OCI\u2019s critical cloud software, the operating system and the database are fully Autonomous. At OCI, human beings do not run the operating system or the database, Autonomous software robots do. No one else has this level of autonomy in the cloud. Eliminating human labor eliminates human error. Almost all cloud security breaches begin with human error; eliminating the possibility of human error is the only way to make certain your cloud data is not stolen. That's it. The most important technology companies in the world are using OCI because it's faster, less expensive, and more secure. Easy to say, not easy to do. Back to you, Ken.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you, Larry. Chris, if you could please poll the audience for questions, we'll begin the Q&A portion of the call.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Raimo Lenschow",
+      "title": "Analyst",
+      "content": "Perfect, thank you. Congrats from me. These are very impressive numbers. Safra, can you try to help us bridge the strong RPO number and how we need to think about feeding that into revenue? Is that just the capacity function? Or is there anything on the customer side that you need to deliver on the technology side you need to deliver? Just help us to bridge the gap on those. Thank you.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Safra Catz",
+      "title": "CEO",
+      "content": "It's all about capacity. As we increase our capacity globally, that's when we start to see those workloads coming in. Much of the engineering work is completed ahead of time so that our customers understand how to operate. They initially bring in smaller workloads, but are mainly waiting for us to go online and make larger workloads available. We're coordinating with them based on our capacity. As I mentioned, our ability to take on more deals relies on us getting that capacity operational and progressing.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Raimo Lenschow",
+      "title": "Analyst",
+      "content": "So it's just a mechanical problem in a way.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Safra Catz",
+      "title": "CEO",
+      "content": "Yes, it's not a problem; it's just about the schedule. As we bring the data centers online and deliver the computers, everything is straightforward. There's no mystery involved. These customers have performed significant analysis and engineering beforehand, tested us against competitors, and selected us while already understanding our operations. They are simply waiting for us to provide them with more capacity.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Brad Zelnick",
+      "title": "Analyst",
+      "content": "Great. Thank you very much and congrats from me as well. Larry, it's great to see the amazing momentum in OCI, especially given it's a competitive market and the leading names in AI are coming to you, wanting to partner with Oracle. Can you talk about the innovation roadmap for OCI and your AI services in particular? And why we should expect Oracle to keep on winning not just today, but over the next several years to come in this market?",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Larry Ellison",
+      "title": "CTO",
+      "content": "In OCI, we've discussed our capability to create very compact data centers that can fit in a shipping container, a submarine, or an entire Oracle cloud. Soon, we will offer six standard half racks designed for conventional data centers, allowing virtually any customer to deploy the complete Oracle Cloud in their facilities with access to every service available in the cloud, which can be scaled to a very large extent. This ability to start small is a significant advantage over our competitors. We can cater to individual customers and even small countries. However, we haven't emphasized enough that we're also constructing some of the largest data centers worldwide. For instance, we mentioned a 70-megawatt data center that is spacious enough to accommodate eight 747s lined up. Additionally, we're developing a 200-megawatt data center, and just last quarter, we successfully sold about half of that capacity for a duration. We are currently bringing these large 200-megawatt data centers online. We are essentially building the smallest, most portable, and cost-effective cloud data centers, right up to massive data centers ideal for training extensive language models and ensuring they remain updated. The competition in AI will last for a long time; it's not just about excelling in AI, but also about keeping models current, which necessitates increasingly larger data centers. Some of our future data centers are approaching a capacity of 1 gigawatt, which is equivalent to a sizable city or a massive AI cloud training facility. No other provider can cover this range. In every instance, we are outfitting these data centers with incredibly fast networks, incorporating power plants and direct power transmission into the facilities along with liquid cooling systems. As modern data centers shift from air cooling to liquid cooling, they need to be designed from the ground up, and we have been doing that for quite some time and will continue to do so. Currently, we are at the forefront of delivering data centers with this quality and scale.",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "Brad Zelnick",
+      "title": "Analyst",
+      "content": "Amazing, thank you so much Larry.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Siti Panigrahi",
+      "title": "Analyst",
+      "content": "Thank you. Larry and Safra, it's impressive to see how fast you ramped OCI as you're now available in 11 data centers. And then now with this Google partners, we'll have Oracle database at Google Cloud. So I have two questions: one is, as you embark on offering this multi-cloud flexibility to customers, when can we see a similar partnership with AWS? And second is, how should we think about these partners helping your customers migrate their on-prem Oracle workloads to the cloud?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Safra Catz",
+      "title": "CEO",
+      "content": "I don't know, Larry you wanted \u2013 started with that.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Larry Ellison",
+      "title": "CTO",
+      "content": "I can begin. We believe in providing customers with options, as they want choices. Customers are currently using multiple clouds, not only for infrastructure but also for applications like Salesforce or Workday. Therefore, it's crucial that all clouds are interconnected. We're excited about our partnership with Microsoft and the development of OCI data centers within Azure. This proximity reduces network costs and latency, which benefits everyone. We're pursuing a similar collaboration with Google and would like to establish connections with AWS as well. We aim to be interconnected with all providers as part of our multi-cloud strategy, which we believe is what customers desire. I am hopeful that eventually, data transfer fees between clouds will be eliminated, allowing customers the freedom to select services from their preferred clouds and combine them as they see fit, doing so easily and seamlessly.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Siti Panigrahi",
+      "title": "Analyst",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Alex Zukin",
+      "title": "Analyst",
+      "content": "Hi guys. Thanks for taking the question. I wanted to dive a bit deeper on just precisely how many deployment models you guys are offering for OCI because it feels as though that is getting particularly differentiated as we start to think of sovereign cloud, GovCloud, more private cloud, given the conservative posture for AI and data privacy. So how do we think about how much of an advantage that is providing in sales cycles? And maybe in that massive $30-plus billion in the second half RPO, but also just comment on the magnitude of that opportunity going forward.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Larry Ellison",
+      "title": "CTO",
+      "content": "I'm going to take a shot at this. Every medium-sized on-premise customer that Oracle has can have a private, full Oracle cloud without any other users. They would be the sole user of that Oracle Cloud, which we can set up in their existing data centers. No one else can provide this; they would have to switch to the public cloud. We currently have a robust public cloud with numerous regions, and we are very supportive of it. However, for very conservative clients who prioritize maximized security, we can establish a complete Oracle Cloud onsite and manage it for them. We cover the hardware costs; it's categorized as an Oracle region. For instance, we could create a cloud region specifically for Samsung, or even two regions, as well as for other large companies like General Motors or Ford. This offer extends to smaller companies too. We are unique in providing an option for a fully capable public cloud operated by Oracle, which includes all our services. Clients only pay for what they use without the associated hardware costs. This setup remains exclusive to them. We can also deploy our services on ships and submarines, which no one else can do, starting very small. All Oracle clouds are uniform apart from their scale and include all Oracle services, being fully automated due to their identical nature. The slight delay in our cloud rollout stemmed from our development of something significantly different from our competitors, which enables us to scale from very small to very large seamlessly using the same automation software. In contrast, some of our competitors may have variations in their large data centers, leading to inconsistencies in service availability across different data centers. Observing what others have done allowed us to choose a different path. Although it took longer, we believe we are now better positioned in terms of security and scalability, meaning we can easily adjust capacity to serve every corner of the globe and maintain a level of data privacy unattainable by other cloud providers.",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "Safra Catz",
+      "title": "CEO",
+      "content": "Yes. And because as Larry said, because whatever the deployment model is you don't have to compromise. Some of our competitors may offer some level of sovereignty or some level of disconnected, but they don't actually have all the services for us, and the reason we've been so successful is whether it's disconnected or sovereign or whatever it is, the customer always gets everything. All services, not just some services and they get to deploy it any way they want, and they get the security or the regulatory requirements, sovereignty may be very critical. And for most governments, they don't want their data in the public cloud out and about. They want to have its sovereign to their country. And so no compromises, no compromises on the services and no compromises on security.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Alex Zukin",
+      "title": "Analyst",
+      "content": "It also sounds like you guys have a better price in most cases. So thanks again for a tough quarter.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Safra Catz",
+      "title": "CEO",
+      "content": "Much, because we are so much faster when you use our cloud, it is new. It's modern, but it also is technical advantages and so it runs your workload so much more quickly. And when you pay by the minute, the second, the hour, if your workload ends in no time, you pay a fraction of the price. That's very hard to compete with.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Larry Ellison",
+      "title": "CTO",
+      "content": "One last comment. Our cloud was designed not for hundreds, but for thousands or possibly even tens of thousands of data centers and regions. This necessitated a high degree of automation, as managing these data centers manually is impractical. We are building them rapidly, and it's challenging to hire and train enough personnel quickly. Additionally, the risk of human error could jeopardize our customers' data, which is why our systems are highly automated. It's somewhat analogous to the extensive satellite network that Elon Musk has deployed with Starlink, which features more satellites than any other global system because it is tailored for a large number of highly automated satellites. Our approach, similar to Starlink, emphasizes extensive automation to manage these cloud infrastructures effectively.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Kirk Materne",
+      "title": "Analyst",
+      "content": "Yeah. Thanks very much. I'll echo the congrats on the cloud momentum. Larry, Safra, I was wondering if you could just expand a bit on the OpenAI announcement this afternoon. Just what that entails in terms of how you'll be working with them or Microsoft? Are there certain workloads they'll be working on with you directly? Can you just give us whatever additional color you can on that deal, obviously very excited. Thanks.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Safra Catz",
+      "title": "CEO",
+      "content": "Well. Go ahead. No, you can. Go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Larry Ellison",
+      "title": "CTO",
+      "content": "We are in the process of constructing a large data center, which is significant, about half the size of a very large data center. We are equipping it with many new NVIDIA chips, including their latest interconnect technology, and implementing liquid cooling systems. These resources are primarily focused on training rather than inference. We're managing extensive amounts of training data, which extends beyond just language processing. Although these systems are referred to as large language models, a more accurate description would be neural networks, as they are trained using not only text but also a vast array of images. For instance, Oracle is actively engaged in analyzing biopsy slides with microscopes to capture images and utilize AI for cancer diagnosis. This is one of the initiatives on the medical front we are pursuing. Interestingly, these large language models are also examining biopsies; they are not limited to language interpretation but also involve image analysis, making it a more complex challenge than language understanding. It's particularly exciting to note that Tesla is on the verge of getting full self-driving capabilities sanctioned in China. I am not providing specific details, but it seems the Chinese government is progressing towards authorizing full self-driving technology. Training a vehicle for full autonomy requires processing extensive image data so it can make decisions based on what it sees rather than responding to spoken language. This difference in training models on visual data represents a significant increase in the amount of data and training required, and we are deeply involved in that process.",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "Kirk Materne",
+      "title": "Analyst",
+      "content": "Thank you.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "John DiFucci",
+      "title": "Analyst",
+      "content": "Thank you for taking my question. My question, I think, is for Safra. Safra, the IaaS revenue growth has been really impressive and it has been for a while here, but perhaps even more so the last couple of quarters, especially is the backlog given its scale. And this may be somewhat of an obvious question for you, but it's based on my conversation with investors. There's two high-profile topics that I want to make sure we understand what the contribution has been today versus next year. And that's Oracle database at Azure and AI in general. We've heard a lot of conversation about the former when we speak to partners and customers in the field. And you've spoken a lot about the latter today. So beyond conversation volume, can you talk a little bit more about what the contribution of these two topics has been to that impressive IaaS revenue growth in this quarter versus what we should expect that contribution to be in fiscal 2025.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Safra Catz",
+      "title": "CEO",
+      "content": "Both the Azure database and the AI workloads are contributing incrementally to our revenues. The Azure database centers are just starting to go live. Although we are currently selling a significant amount in annual recurring revenue, these figures are small but rapidly growing. The revenue for Azure in the fourth quarter was minimal, but we anticipate it will be ten times higher in the first quarter and potentially thirty times higher in the second quarter. This growth is crucial to our current run rate. Additionally, we have been generating AI revenue, which we have announced. The contracts signed at the end of the third and fourth quarters are significantly larger and will also contribute incrementally to our previous year's numbers. This is an exciting time, as all these developments are adding substantially to what we have seen in the past.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "John DiFucci",
+      "title": "Analyst",
+      "content": "That is really clear, and it really speaks to, I think, what you started talking about a long time ago, especially a lot more publicly, I don't know in the fall of 2022, but thanks. That's really clear.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you, John. A telephonic replay of this conference call will be available for 24 hours on the Investor Relations website. Thank you for joining us today. And with that, I'll turn the call back to Krista for closing.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Ladies and gentlemen this does conclude today's conference call. Thank you for your participation and you may now disconnect.",
+      "sentiment": "0.0"
+    }
+  ],
+  "reported_date": "2024-12-09"
+}

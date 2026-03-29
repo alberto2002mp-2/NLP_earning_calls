@@ -1,0 +1,421 @@
+{
+  "symbol": "AMAT",
+  "quarter": "2024Q2",
+  "transcript": [
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Welcome to the Applied Materials Earnings Conference Call. During the presentation, all participants will be in a listen-only mode. Afterwards you will be invited to participate in a question-and-answer session. I would now like to turn the conference over to Michael Sullivan, Corporate Vice President. Please go ahead, sir.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Michael Sullivan",
+      "title": "Corporate Vice President",
+      "content": "Good afternoon everyone, and thank you for joining Applied's second quarter of fiscal 2024 earnings call. Joining me are Gary Dickerson, our President and CEO, and Brice Hill, our Chief Financial Officer. Before we begin, I'd like to remind you that today's call contains forward-looking statements which are subject to risks and uncertainties that could cause our actual results to differ. Information concerning the risks and uncertainties is contained in Applied's most recent Form 10-Q filing with the SEC. Today's call also includes non-GAAP financial measures. Reconciliations to GAAP measures are found in today's earnings press release and in our quarterly earnings materials, which are available on our website at ir.appliedmaterials.com. Before we begin, I have a calendar announcement. On Tuesday morning, July 9th, from 7:30 to 9 a.m., Applied will host a technology breakfast event at Semicon West in San Francisco. Joining us will be Dr. Prabu Raja, President of Applied's Semiconductor Products Group, along with Mark Fuselier, who is Senior Vice President of Technology and Product Engineering at AMD. After Mark shares AMD's AI computing technology vision, Applied's experts will share our advanced materials engineering roadmap for making future AI chips. We'll outline device architecture inflections in logic, including transistors, frontside wiring and backside power, along with DRAM, high-bandwidth memory, and other forms of advanced packaging. We hope you'll join us. And with that introduction, I'd like to turn the call over to Gary Dickerson.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Gary Dickerson",
+      "title": "President and CEO",
+      "content": "Thank you, Mike. With second quarter revenue and earnings towards the high-end of our guided range, Applied Materials continues to deliver strong performance in 2024, and we are in a great position to benefit from secular growth trends over the longer term. Semiconductors are the foundation of huge technology trends reshaping the global economy. These trends are driving demand for more chip manufacturing capacity, as well as better chips with higher performance and improved energy efficiency. Key inflections that underpin the semiconductor roadmap are enabled by Applied Materials and will support our ongoing outperformance as next-generation chip technologies move into high-volume production. In addition, the complexity of implementing the industry's roadmap and bringing new semiconductor technologies to market is driving earlier, deeper and broader collaboration with customers, as well as supporting double-digit growth for our service business. In my prepared remarks today, I'll provide some examples of how Applied's innovations are helping to enable multi-trillion-dollar technology inflections, including AI. I'll explain how this translates to our performance in the near term, and our future growth potential. I'll also describe how we are working with our customers and partners to accelerate major semiconductor inflections all the way from research and development to high-volume manufacturing, and by doing this, how we are capturing more value in our service business. I'll start with a big picture perspective. Tectonic shifts in technology, including AI, IoT and automation, electric and autonomous vehicles and clean energy, will transform virtually every area of the economy over the next several decades, and they all have one thing in common. They are built upon semiconductors. As these new technologies are deployed, they are driving growth and innovation across the semiconductor ecosystem. In terms of impact and scale, I believe AI will be the biggest technology inflection of our lifetimes. And at the heart of AI are some of the world's most sophisticated chips. In simple terms, the advanced chips that power AI data centers are enabled by four key semiconductor technologies: leading-edge logic; compute memory or high-performance DRAM; DRAM stacking technology, referred to as high-bandwidth memory, or HBM; and advanced packaging to connect the logic and memory chips together and create a 'system in a package'. Applied has process technology leadership in all four of these areas, and we have made significant investments in next-generation solutions to make possible the key device architecture inflections that are essential for our customers' future roadmaps. In advanced logic, Applied has long-standing leadership in the materials engineering processes for both transistors and interconnects. The first nodes that use gate-all-around transistors are now transitioning to high-volume manufacturing. These new transistor process flows are considerably more complex, and the shift from FinFET to gate-all-around grows Applied's available market for the transistor module from around $6 billion to approximately $7 billion for every 100,000 wafer starts per month of capacity. With the gate-all-around transition, we are also gaining share and we are on track to capture over 50% of the process equipment spending for transistor steps. We also have very strong market share in interconnect, or the wiring used to transmit data at high speed and low power. Our available market for the wiring steps is approximately $6 billion for each 100,000 wafer starts per month, and we expect it to grow by $1 billion when Backside Power Delivery is introduced into volume manufacturing. Overall, we expect to generate more than $2.5 billion of revenue from gate-all-around nodes this year and potentially more than double that in 2025. In DRAM, one of the key approaches that memory makers are using to improve performance and power consumption is to implement logic technologies in the peripheral circuitry. Our deep capabilities in logic, combined with our strong position in DRAM patterning and our unique, co-optimized hard mask solutions for capacitor scaling, makes us the clear leader in process equipment for DRAM today and best positioned for future growth. In the critical die-stacking technologies used in high-bandwidth memory, we also have strong leadership positions, including in micro-bump and through-silicon via. Last quarter, we said that we expected our HBM packaging revenue to be four times larger in 2024 than in 2023. As we have recently seen customers accelerate their capacity plans for HBM, we now believe that our revenue could be six times higher this year, growing to more than $600 million. Across all device types, we now expect revenue from our advanced packaging product portfolio to grow to approximately $1.7 billion this year. Looking further ahead, we see opportunities for this business to double again, as heterogeneous integration is more widely adopted, beyond the AI data center, and we introduce new products that expand our served market. AI data center is just one example that illustrates how the major inflections that underpin the next generation of semiconductors are enabled by Applied Materials. Materials science and materials engineering are increasingly important to the industry's roadmap. Applied has invested early to develop a broad, unique, and connected portfolio of materials engineering solutions that are critical to enable major semiconductor inflections from AI high-performance computing to ICAPS edge computing. We are translating those investments into consistent outperformance. Recent TechInsights data confirms that in 2023 Applied grew faster than the wafer fab equipment market for the fifth year in a row. We accomplished this despite headwinds created by trade rules that we estimate restricted us from more than 10% of the China market during that period. While we have gained share overall, we are growing share within our served market even faster. This is important because as logic devices become more three-dimensional, future generations of DRAM come to market and advanced packaging becomes more prevalent, we expect materials engineering to become an even larger portion of overall wafer fab equipment. Another key component of Applied's strategy is to address the increasing complexity faced by the industry. First, we are driving earlier, deeper, and broader collaboration with customers and partners. We are changing the industry's innovation model with the goal to accelerate mutual success rates and increase investment efficiencies. Our global EPIC platform, that we will build out over the next several years, is specifically designed to support high-velocity innovation and commercialization of next-generation technologies. Second, we are able to provide more complete and connected solutions that accelerate major device inflections. The portion of our revenue generated by integrated solutions has grown from approximately 20% in 2019 to 30% today. We expect demand for these fab-in-a-fab-type solutions to continue growing, both at the leading edge and from our ICAPS customers who are serving specialty IoT, communications, auto, power, and sensor applications. And third, we are helping customers transfer new technology into high-volume manufacturing faster and then optimize performance, yield, output, and cost in their factory operations. This is supporting double-digit growth of our service business. AGS delivered a new record for revenue this quarter, $1.5 billion, with a significant portion of this coming from subscriptions in the form of long-term service agreements. Before I hand over to Brice, I will quickly summarize. Applied Materials continues to deliver strong performance in 2024 and we are in a great position to benefit from secular growth trends over the longer term. Tectonic shifts in technology, including AI, IoT, EVs, and clean energy, that are reshaping the global economy are built on semiconductors, driving demand for more chips and new chips with higher performance and better energy efficiency. Key device architecture inflections that underpin the semiconductor roadmap are enabled by Applied Materials. We expect this to support our ongoing outperformance as next-generation chip technologies, including gate-all-around logic nodes, high-performance DRAM, HBM, and Advanced Packaging, move into high-volume production. And finally, the increasingly complex industry roadmap is driving earlier, deeper, and broader collaboration between Applied Materials and our customers and partners, accelerating demand for our most advanced co-optimized and integrated solutions and supporting double-digit growth in our service business. Now, I'll hand over to Brice.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Brice Hill",
+      "title": "Chief Financial Officer",
+      "content": "Thank you, Gary. And I'd like to thank our teams for their focus and execution, which resulted in another strong quarter for revenue and gross margin. Today, I'll discuss our overall business environment and share insights into our ICAPS business which serves the IoT, communications, auto, power, and sensor markets. I'll describe our capital allocation strategy and operating model, demonstrating how we are driving profitable growth and attractive shareholder returns. I'll also summarize our Q2 results and provide our guidance for Q3. In calendar Q1, the global market for semiconductors grew 15% year-over-year and we are optimistic that the data center trends Gary outlined will help drive solid growth for the semiconductor industry. During the quarter, cloud service providers announced strong capital spending plans which is good news for our customers. In the market briefing we issued earlier this month, we forecast that the data center market will eventually become the number one driver of leading-edge foundry-logic wafer starts, surpassing PCs and then smartphones in the coming years. Within our business, we had a strong quarter in fiscal Q2 across DRAM, advanced packaging, ICAPS, and services. In February, we projected that factory utilization would increase across all device types, and it did. Gary discussed how the data center AI megatrend is driving strong demand for our technologies used in leading-edge logic, DRAM, high-bandwidth memory, and other forms of advanced packaging. Our ICAPS business is driven by three additional megatrends, notably IoT and edge computing, electric and autonomous vehicles, and renewable energy. Across our ICAPS business, one of the largest demand drivers this year is edge computing, especially at the 28-nanometer node needed by smartphone companies and makers of IoT devices for industrial and home automation applications. A second large demand driver is power chips for electric vehicles where industry leaders are now establishing supply chains to support their long-term growth plans. A third driver is the power chips used to capture renewable solar and wind energy which are needed to achieve Net Zero goals in the decades ahead. We believe our ICAPS business will remain a large portion of our overall foundry-logic business for several reasons. One, the megatrends we described will continue to increase unit demand for ICAPS chips. Two, we are innovating at the device level which creates better chips, stimulates new system sales, and extends Applied's position as the highest-value partner for our customers. And finally, we are introducing ICAPS products in additional market segments which will help us broaden our reach and gain share. Next, I'll summarize our capital allocation strategy and the results it enables. Our efficient business model generates healthy free cash flow. Our first priority is investing in R&D and capital infrastructure to enable profitable growth. And our second priority is growing our dividend per share and using our buyback program to distribute excess free cash flow to shareholders. Specifically, over the past 10 fiscal years, we have reinvested more than $20 billion in R&D and over $5 billion in capital additions and distributed more than 90% of free cash flow to shareholders. Our capital allocation strategy supports our operating model, which I'll summarize. First, we invest over $3 billion in R&D each year collaborating closely with our customers to invent new semiconductor technologies that are critical to their competitive positions in the global megatrends we've described. Second, we design high-volume manufacturing systems that enable our customers to deploy these new chip and advanced packaging technologies at global scale. Third, we manage a global factory and supply chain network to manufacture these systems. Fourth, we service our systems which have decades of useful life helping customers maximize their return on investment by accelerating ramps and optimizing output, yield and cost. Fifth, we reinvest a high percentage of the profits from this activity back into R&D to develop more new technologies and solutions. And finally, we distribute excess cash to shareholders. An important point is that every tool we manufacture and ship grows our installed base and our service opportunity, which leads to consistent and stable growth for Applied Global Services. In fact, AGS has delivered 19 consecutive quarters of year-over-year growth spanning two memory downcycles. Over 80% of AGS revenue comes from recurring services and parts sales, about two-thirds of which is delivered under long-term service agreements that have a 90% renewal rate. Connecting this to our capital allocation strategy, AGS has continued to produce more than enough operating profit to fully fund our growing dividend. In March 2023, we announced a 23% increase in our dividend per share, and in March of this year, we announced a 25% increase. In summary, over the past ten fiscal years, our operating model has increased company revenue at a compound rate of over 13%, non-GAAP EPS at nearly 30%, free cash flow at 33%, and dividends per share at nearly 12%. Also over this period, we reduced net shares outstanding by over 30%. Now I'll summarize our Q2 results. On a year-over-year basis, net sales grew slightly to nearly $6.65 billion, non-GAAP gross margin grew 70 basis points to 47.5%, non-GAAP OpEx grew 5% to $1.23 billion, and non-GAAP EPS grew 4.5% to $2.09. Turning to segment results, Semiconductor Systems revenue remained strong at $4.9 billion and included record ion implant sales. Segment non-GAAP operating margin was 34.9%. Applied Global Services revenue increased 7% year-over-year to $1.53 billion, and segment non-GAAP operating margin was 28.5%. Our tools under subscription agreement increased by 8% year-over-year and our installed base of chambers surpassed 200,000 for the first time. Moving to Display, Q2 revenue was $179 million, and segment non-GAAP operating margin was 2.8%. We are becoming more confident that the OLED technology found in smartphones will be adopted in notebooks, PCs and tablets, whose larger screen sizes would spur an increase in capital investments. Turning to cash flows, in Q2, we generated nearly $1.4 billion in operating cash flow and nearly $1.14 billion in free cash flow. We distributed nearly $1.1 billion to shareholders, including $266 million in dividends and $820 million in buybacks. We repurchased 4.1 million shares at an average price of $197.77. Now, I'll share our guidance for Q3. We expect revenue of $6.65 billion, plus or minus $400 million, and non-GAAP EPS of $2.01, plus or minus $0.18. Within this outlook, we expect Semi Systems revenue of around $4.8 billion, AGS revenue of about $1.57 billion, and Display revenue of around $245 million. We expect non-GAAP gross margin to be approximately 47%, and non-GAAP operating expenses to be around $1.26 billion. Finally, we are modeling a tax rate of 12.3%. Thank you, and now Mike, let's begin the Q&A.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Michael Sullivan",
+      "title": "Corporate Vice President",
+      "content": "Thanks, Brice. To help us reach as many people as we can, please ask just one question on today's call. If you have another question, please re-queue, and we'll do our best to come back to you later in the session. Operator, let's please begin.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Certainly. And our first question comes from the line of CJ Muse from Cantor Fitzgerald. Your question, please.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "CJ Muse",
+      "title": "Analyst",
+      "content": "Yeah, thank you for taking the question. I guess we'd love for you to talk about your visibility today and how your ongoing conversations are going with your large customers as it pertains both to your outlook for kind of second half versus first half on a calendar basis, as well as building that potential backlog into calendar '25. Thank you.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Gary Dickerson",
+      "title": "President and CEO",
+      "content": "Okay, great. Hi, CJ. Thanks for the question. So, when we look at our business, and think about the largest customers as we look at Q3 and our guidance for Q3, we know that the DRAM shipments that we've had for China that we called out that were fairly high in Q1 and Q2 are falling off in the second half. And what we've been expecting is that ICAPS strength and leading-logic strength would backfill that drop-off in DRAM. And that's exactly what we see happening in Q3. And that's consistent on the leading-logic side with the advent of gate-all-around process technology and equipment beginning to ship earnest for the HVM ramp that will be upcoming, and I think that's a good indication of what we're expecting in the second half. We talked about whether leading-logic and ICAPS would be able to fill in for the drop-off in China DRAM, and that's exactly what we see in Q3. And then, when we look ahead to '25, we'll point to the same fundamental ramp for leading-logic. That will be gate-all-around. Gary highlighted in his remarks that we expected $2.5 billion of business related to gate-all-around shipments in '24. And we expect to be able to grow that significantly in '25 as that process technology ramps towards HVM, high-volume manufacturing.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. One moment for our next question. And our next question comes from the line of Stacy Rasgon from Bernstein Research. Your question, please?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Stacy Rasgon",
+      "title": "Analyst",
+      "content": "Hi, thanks for taking my question. Brice and Gary, I wanted to follow up on the 2025 outlook. So, if I understood correctly, you mentioned a $2.5 billion revenue from gate-all-around this year, which is expected to double next year or more. That suggests $2.5 billion in incremental growth from gate-all-around, and you mentioned that advanced packaging has the potential to double again over time, indicating it should continue to grow. HBM is also expected to grow theoretically, while ICAPS has been weaker but seems to have bottomed out and should start to grow. NAND flash is currently close to zero for you, so I would like to know how to think about your ability to grow relative to the market, especially if the WFE market were to remain flat next year, considering these factors.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Brice Hill",
+      "title": "Chief Financial Officer",
+      "content": "Thanks, Stacy, for your question. Our perspective starts with a long-term view. As Gary mentioned, we are focusing on key areas that will fuel growth in the fastest expanding markets. If we take a step back and consider the coming quarters and years, we believe that leading technologies like gate-all-around, backside power, advanced packaging, and HBM memory, along with our services business, are all set to grow at a rate faster than the average market, which will enable us to gain market share. While it's challenging to predict any specific quarter or short-term period soon, this is our outlook. Regarding ICAPS, you mentioned gate-all-around and its relationship with DRAM and NAND. Our DRAM share has improved by over 10 percentage points in the last decade, indicating strong technology support. We see positive trends in HBM and an uptick in DRAM utilization. For ICAPS, our performance over the last three quarters shows strong growth in the first two and a solid forecast for Q3, which will help fill the gap as certain China DRAM business diminishes. Lastly, the $2.5 billion in gate-all-around mentioned by Gary reflects not just additional gains but our total shipments related to this business for the year, and we anticipate continued growth next year.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Gary Dickerson",
+      "title": "President and CEO",
+      "content": "Stacy, this is Gary. Really, the big focus for us is enabling and winning major device architecture inflections. So, when you break out all of these different device segments, certainly, foundry-logic leading-edge, the opportunity there for us to grow is significant because we have a very high share of those big inflections. The gate-all-around, backside power delivery, wiring is a real strength for us. As Brice mentioned, in DRAM, we gained 10 points of overall DRAM share over the last 10 years. And if I look forward at the architecture inflections in DRAM, we're even better positioned. Those will be much more materials-intensive, materials engineering-enabled, and that's going to be a really good position for us. We also talked about packaging. We've increased our view of packaging in '24 to $1.7 billion. But as I mentioned and Brice reiterated, we have an opportunity to double advanced packaging business. In HBM, we've increased that growth from 4x to 6x this year. And the last one is our services business, 19th consecutive quarters year-over-year, where we've seen growth. And with these highly complex architecture inflections, it gives us a really great opportunity to add more value with our services business. Also, as people are moving into new locations where they don't have an experienced workforce, we've talked about double-digit growth in services right now. That's a $6 billion run rate, but that's adding significant growth as we go forward. So, there's just a few other thoughts.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Stacy Rasgon",
+      "title": "Analyst",
+      "content": "But you mentioned $2.5 billion this year from gate-all-around and more than double that. Did I mishear that? Does that imply $5 billion in gate-all-around in 2025?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Brice Hill",
+      "title": "Chief Financial Officer",
+      "content": "Yeah, that's what...",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Gary Dickerson",
+      "title": "President and CEO",
+      "content": "No, I think that math is correct.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Brice Hill",
+      "title": "Chief Financial Officer",
+      "content": "Yeah, that's right, Stacy. So, that's not just the increment. That's the entire equipment sales that we'll have for that technology. So, $2.5 billion for this year and opportunity to double that next year.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Stacy Rasgon",
+      "title": "Analyst",
+      "content": "Got it. Thank you, guys.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. One moment for our next question. And our next question comes from the line of Mark Lipacis from Evercore ISI. Your question, please?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Mark Lipacis",
+      "title": "Analyst",
+      "content": "Hi. Thank you for taking my question. This is for Gary. When you mention investing more in materials engineering, it appears that you're moving up the value chain into an area that was traditionally your customers' domain. Often, when companies ascend the value chain and provide added value, this is reflected in improved margins. I appreciate your commitment to partnerships, but if you're indeed adding more value, shouldn't that eventually translate into higher profitability for you? Could you share your thoughts on this? Do you expect to see this happen, or does it reveal itself in different ways? Thank you.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Gary Dickerson",
+      "title": "President and CEO",
+      "content": "Yeah. Thanks for the question, Mark. So, if you look at the industry overall, all of our customers are racing to be first to market to deliver those major device architecture inflections that determine their competitive position. So, gate-all-around, backside power, those new DRAM architectures and packaging are becoming more and more important to power performance and costs. So, that is really what shapes the competitive landscape in the industry. And it's very, very clear, we're working with our customers for technology generations out into the future. So, we have very high visibility in this broad and connected portfolio that we have gives us an opportunity to engage with customers in those early and very deep relationships on those architecture inflections. And as we look forward, we do see materials engineering as a percentage of spend and the relative contribution increasing. And Applied has clear leadership, especially with this broad, connected portfolio. We built integration capability inside Applied that is really tremendous and really co-innovating with our customers as they're driving those architecture inflections. So, I do believe, for sure, that we will be creating more value in those relationships with our customers, and that certainly is valuable for them. And our focus is to capture more value as we're delivering more value with them. So, your basic question, I agree with your thoughts.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. One moment for our next question. And our next question comes from the line of Vivek Arya from Bank of America Securities. Your question, please?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Vivek Arya",
+      "title": "Analyst",
+      "content": "Thank you for taking my question. Gary, regarding the gate-all-around, you\u2019re increasing the forecast by $1 billion. It seems you\u2019re also raising HBM by another $100 million or so. Will all of this be reflected in July and October? Does this indicate that the second half of the year is projected to be over $1 billion higher than previous expectations? Additionally, what is driving such substantial growth for gate-all-around compared to earlier forecasts? A $1 billion increase over a $1.5 billion base is very strong. I\u2019m curious about the qualitative factors behind this, and quantitatively, does this mean the second half is now projected to be $1 billion to $1.1 billion higher than what you previously anticipated?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brice Hill",
+      "title": "Chief Financial Officer",
+      "content": "Hi, Vivek, it's Brice. I want to clarify something. This quarter, we decided to change how we're discussing the incremental revenue for gate-all-around to reduce confusion. Now, we are including all revenue related to the gate-all-around transistor and wiring, not just the incremental portion. Therefore, the $2.5 billion mentioned this quarter should not be seen as an increase from the $1 billion we referred to last quarter; it's a change in how we present the information. This is all about the business associated with the gate-all-around product. I hope that clarifies things. Regarding the factors driving the increase, our view hasn't shifted much. We're estimating $2.5 billion for this year, and we expect significant growth next year as the technology scales. You'll notice some of this reflected in our Q3 guidance. As you know, we're dropping the incremental China DRAM shipments, but in the second half, we will compensate with ICAPS strength and increased leading-logic shipments driven by gate-all-around.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Vivek Arya",
+      "title": "Analyst",
+      "content": "Brice, just a clarification...",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Gary Dickerson",
+      "title": "President and CEO",
+      "content": "Vivek, I would add that the factors behind incremental spending involve technologies that enhance device performance, such as current drive, leakage, and power consumption, which are quite complex. Our customers benefit from the unique materials we provide through our diverse portfolio of technologies. As we advance through various technology nodes, step counts are increasing, which supports the roadmaps aimed at enhancing performance and power, particularly for high-performance computing and AI applications. These advancements are indeed challenging, whether we\u2019re discussing 100 billion transistors in a GPU or 100 kilometers of wiring in an applications processor. These represent significant technological achievements driven by materials, and that is what fuels the incremental spending.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Vivek Arya",
+      "title": "Analyst",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. One moment for our next question. And our next question comes from the line of Chris Caso from Wolfe Research. Your question, please?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Chris Caso",
+      "title": "Analyst",
+      "content": "Thank you. Good evening. My question is about advanced packaging. You mentioned specific expectations for this year and noted the potential to double that again, but you didn't give a timeframe. Could you provide some insight into when you expect to achieve that? Additionally, regarding what's driving these expectations, we understand there's advanced packaging in logic and HBM. Can you share the mix of these factors contributing to the increase in expectations?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Gary Dickerson",
+      "title": "President and CEO",
+      "content": "Hi Chris, this is Gary. The focus on advanced packaging and heterogeneous integration is a significant trend throughout the industry. In applications like AI servers, we are seeing remarkable innovation in high-bandwidth memory and in the connections between high-performance logic chips and memory chips. The growth in this area is expected to be substantial, especially as traditional Moore's Law has slowed considerably. This represents a major opportunity for industry innovation moving forward. At Applied, we offer the widest range of technologies including PVD, CVD, CMP, plating, etch, as well as hybrid bonding, digital lithography, and eBeam test. Our extensive portfolio positions us well. As we analyze the roadmaps\u2014architecture inflections play a crucial role in driving our future business. Our foundry-logic and memory customers are heavily investing in these technologies. Innovations from Applied are expected to potentially double our business, and the compound annual growth rate appears to be increasing. Additionally, our deep multi-generational relationships with customers and our full-flow packaging lab in Singapore give us a strong edge in developing next-generation innovations. We have a clear understanding of these inflections and are well-positioned to expand our market share as they become available. While we aren't specifying a timeline for the potential doubling, we are very optimistic about our future in packaging.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Chris Caso",
+      "title": "Analyst",
+      "content": "Thanks.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. One moment for our next question. And our next question comes from the line of Srini Pajjuri from Raymond James. Your question, please?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Srini Pajjuri",
+      "title": "Analyst",
+      "content": "Thank you, Brice. I have a question on China. I think last quarter, you said you expect China to normalize to about 30% or so by the end of this year. So, my question is, is that still the expectation? And then, it looks like ICAPS is still holding up pretty well. So, is the decline primarily DRAM going forward? And I'm just curious as to given what we are hearing about what we're seeing in the end markets of ICAPS, I mean it looks like the broader analog is still relatively weak and auto is kind of mixed. I'm just curious as to what's driving the strength in ICAPS. Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brice Hill",
+      "title": "Chief Financial Officer",
+      "content": "Okay. Thanks, Srini. Yes, first of all, our mix, as we move to the second half of the year, will normalize with respect to China as a percent of our total revenue. So, it will be closer to 30% as expected. And it's the dynamic that you highlighted. We had some catch-up DRAM shipments to particular customers in China for the last three quarters. Those will fall off as we go through Q3 and Q4, and that really will bring our percentage of China revenue back down to closer to what's average over the last few years, which we'll call about 30%. And then, with respect to the mix of business, so as that DRAM business falls off, our ICAPS business and our leading-edge logic business does increase to fill that in. And so that's consistent with continued strength in ICAPS, which the rest of the market for us in China would be ICAPS-related. And I think you described it well. The end markets are mixed. So, industrial and auto have been weaker. Smartphone, PC-related products have been slow, but gaining some strength recently. And then, as we've talked about image sensors, power chips, microcontrollers, a lot of those markets have been stronger. So, it's been mixed end markets, but the customers are investing for forward-looking demand and to get capacity in place for forward-looking demand. And when we see utilization in those markets, we've seen it improve. So, I think when people ask us for guidance, hopefully, the best thing we can tell you is Q1 and Q2 were very strong in ICAPS and Q3 will be another strong quarter in the ICAPS market. Thanks for the question.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Srini Pajjuri",
+      "title": "Analyst",
+      "content": "Thanks, Brice.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. One moment for our next question. And our next question comes from the line of Atif Malik from Citi. Your question, please?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Atif Malik",
+      "title": "Analyst",
+      "content": "Thank you for taking my question. I have a question on gate-all-around as well. Very strong outlook, $2.5 billion, doubling to next year. Is the customer funnel for this demand pretty broad across the four foundries? And also, if you can rank order for us in the $2.5 billion, FPE, ALD patterning, like what's driving the most demand? Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brice Hill",
+      "title": "Chief Financial Officer",
+      "content": "I will handle the first part. The demand is widespread among our customer base, and it's not limited to any single customer. However, we cannot disclose specific details about the balance between customers. Regarding the equipment mix, I'm not sure if there\u2019s anything to emphasize there.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Gary Dickerson",
+      "title": "President and CEO",
+      "content": "I believe one of our key advantages is our extensive portfolio of technologies combined with integrated tools and our integration engineering. We collaborate with customers who are co-innovating on various technological advancements. For instance, with gate-all-around, we offer a wide range of services including Epi, PVD, ALD, selective removal, etch, thermal processing, implant, CMP, and eBeam. This diversity in our offerings is significant, and while I won\u2019t go into the specifics of each component, our capability to interconnect them is a major strength that enhances our ability to optimize. We\u2019ve successfully done this with FinFET, allowing us to innovate in constructing these structures to enhance power and performance, and we are applying the same approach to gate-all-around.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Does that answer your question?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Atif Malik",
+      "title": "Analyst",
+      "content": "Yes. Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. One moment for our next question. And our next question comes from the line of Toshiya Hari from Goldman Sachs. Your question, please?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Toshiya Hari",
+      "title": "Analyst",
+      "content": "Hi. Good afternoon. Thank you so much for taking the question. I had two quick ones, one on HBM and the other one on NAND. So, in HBM, your customers would tell us that they're sold out, certainly for '24. For the most part, they're sold out for '25 as well. So, my guess is you've got pretty good visibility into next year. Gary, you talked about overall advanced packaging doubling over the medium to long term. But when you zoom into HBM, could that business for you multiply again in '25 on a year-over-year basis? And then, on the NAND side, the business continues to be pretty depressed. Your customers, their profitability is improving, cash flow is improving or becoming less bad. Are you starting to see purchase orders from your customers come back? Or what do they need to see for them to spend on WFE again? Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brice Hill",
+      "title": "Chief Financial Officer",
+      "content": "Okay. Toshiya, it's Brice. I'll begin, and then Gary may have some additional comments on HBM. Regarding the sold-out situation, we've observed improvements in utilization across DRAM wafer starts. The allocation to HBM from a wafer start perspective has increased from 5% to approximately 20%. However, it's not fully utilized. If there are limitations, they could be on the packaging side, and we've noticed rising orders for HBM. You'll want to consider that and discuss it with the vendors. On the NAND front, we believe Moore's Law remains very much in effect, with bit density significantly increasing with each new generation of NAND, thus meeting the demand for higher bits. This suggests that our business in NAND will focus on technology upgrades rather than new wafer starts as we move ahead. Overall, we anticipate NAND growth to keep pace with the semiconductor market. Storage plays a crucial role, and many vendors have highlighted its importance even in relation to AI, indicating growth in that area. While progress has been slow, we expect memory in total to account for about a third of our WFE sales. Gary, back to you for any specifics on HBM.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Gary Dickerson",
+      "title": "President and CEO",
+      "content": "Hello, Toshiya. There's not much more to add to what Brice mentioned. We've noticed a strengthening demand for HBM. Our latest discussions indicate an increase from about 4 times to 6 times since we last spoke. We're also observing continued incremental demand moving forward, so customer interest remains strong. While we aren't providing a specific forecast for next year, we do continue to see an upward trend in that segment.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Toshiya Hari",
+      "title": "Analyst",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. One moment for our next question. And our next question comes from the line of Krish Sankar from TD Cowen. Your question, please?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Krish Sankar",
+      "title": "Analyst",
+      "content": "Hi, thanks for taking my question. Gary, I wanted to ask about backside power delivery. It seems there are two main approaches: one involves backside wiring with direct contact to the transistors, and the other is the nano-TFE approach. I'm curious about the $1 billion incremental serviceable available market you mentioned for 100,000 wafer starts per month. How is that market divided between the two approaches? Additionally, could you provide estimates for the revenues you expect this year and next year for Applied in backside power delivery? Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Gary Dickerson",
+      "title": "President and CEO",
+      "content": "Hi, Krish. I don\u2019t want to discuss too much about the specific architectures that customers are using, as that information is confidential. However, I can say that moving forward, the direct connection to the backside is where everyone is concentrating. Over time, both approaches are expected to grow significantly. We are highly engaged with customers regarding this change and have a strong position in wiring overall, holding a very high market share. When the shift to backside wiring occurs, it represents an opportunity for us to capture 50% of that spending. While we are supporting both approaches, I prefer not to specify which one we believe will be bigger. In the long run, it might lean towards direct connection, but I can\u2019t provide a specific timeline since it depends on the individual customer roadmaps. In terms of current revenue timing, it is relatively minimal for us in 2024. It will increase in 2025, but the significant revenue ramp for backside power is expected to occur beyond 2025.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Krish Sankar",
+      "title": "Analyst",
+      "content": "Thanks, Gary. Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. One moment for our next question. And our next question comes from the line of Timothy Arcuri from UBS Securities. Your question, please?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Timothy Arcuri",
+      "title": "Analyst",
+      "content": "Thank you. Brice, I have a two-part question regarding China DRAM. First, you mentioned a decrease of $500 million. Will that change occur entirely in fiscal Q3? What is the anticipated reduction in China DRAM for fiscal Q3? Additionally, of the $1.6 billion in DRAM business, could you help us understand how much of that comes from China? Based on my analysis, it seems that around $1 billion of the $1.6 billion DRAM revenue is from China. Can you confirm if that's accurate? Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brice Hill",
+      "title": "Chief Financial Officer",
+      "content": "Hi, Tim, thanks for the question. The only quantification I provided in previous quarters was that our DRAM overall increased by more than $500 million in the quarters where we observed that increment. So, I'll just say it's over $500 million in each of the last three quarters. Looking ahead to the second half, it doesn\u2019t decline completely to zero in Q3, but it does decrease significantly and is nearly zero in Q4. Our revenue mix from China, as I mentioned in response to an earlier question, will be around 30%, which is typical for us. That\u2019s about as specific as I can get on that. Thanks for the question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Timothy Arcuri",
+      "title": "Analyst",
+      "content": "Sure, Brice. Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. One moment for our next question. And our next question comes from the line of Joe Quatrochi from Wells Fargo. Your question, please?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Joe Quatrochi",
+      "title": "Analyst",
+      "content": "Yes, thanks for taking the question. I wanted to kind of try to understand just the trends that you're seeing in ICAPS. Can you help us just understand the difference in the growth that you're seeing from China versus non-China? Because it sounds like as we look at China revenue normalizing, the DRAM falling off, obviously, the rest of that is mostly just ICAPS. So, can you help us just kind of understand the trends between China and non-China?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brice Hill",
+      "title": "Chief Financial Officer",
+      "content": "Hi, Joe, thanks for your question. Regarding China, I want to highlight that the last three quarters have shown significant strength. While there may be speculation about a slowdown, we're basing our outlook on current observations. We experienced robust performance in Q1 and Q2, and our guidance for Q3 indicates continued strength in ICAPS, along with a strong fourth quarter for China. At this point, we see three regions experiencing growth while others are not, reflecting mixed conditions in the market overall. Our analysis of China shows that last year's breakdown indicated ICAPS made up about 40% of WFE, and it remains our largest market in this segment. We have a substantial customer base and are closely monitoring more than 30 factory projects that are currently ramping up capacity. We are keeping track of utilization rates, which are on the rise, and we see improvements in yields. Therefore, we believe that the Chinese market will continue to be a significant and critical area for us moving forward. We have consistently stated that we do not anticipate a drastic decline in this market, and we stand by that assessment.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Joe Quatrochi",
+      "title": "Analyst",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. One moment for our next question. And our next question comes from the line of Harlan Sur from JPMorgan. Your question, please?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Harlan Sur",
+      "title": "Analyst",
+      "content": "Good afternoon. Thanks for taking my question. As we transition from a more mature specialty ICAPS-driven growth profile to a leading edge, sort of advanced foundry-logic memory spending profile this year and going forward, this typically tends to be a strong tailwind for your process control and diagnostics portfolio, which leans very heavily on your most advanced tools and solutions, right? Because picture sizes get smaller, so better resolution required, but also new and more defecting yield challenges, right? So, it's probably a driver of your leading-edge CFE-driven eBeam portfolio this year. Are you guys still seeing that portfolio grow like 4x this year? And how does the pipeline look for next year? And maybe mid to longer term, like given the significant manufacturability challenges, does the Applied team see process control and diagnostics intensity rising faster than overall WFE intensity over the next few years?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Gary Dickerson",
+      "title": "President and CEO",
+      "content": "Thanks, Harlan. This is Gary. So, I would say that for sure, the connection that we have with our eBeam technology and these major architecture inflections is a real advantage for us, because, again, it's a race on who gets there first relative to those major architecture inflections and learning rate, how fast you learn is one of the determining factors. So, having this unique capability is a real advantage for Applied. I mean, obviously, it's a good growth driver for us from a revenue perspective, but that synergy with the rest of our broad portfolio, our connected portfolio, is a real advantage. On cold field emission, which is really one of the key technologies in the electron optics, it gives us the highest resolution at up to 10 times higher imaging speeds. So, it really is highly differentiated. And we are still on track this year to grow our CFE systems revenue around 4x in '24, and that would represent about 50% of our total eBeam system sales. And then, when I look forward, again, I see PDC as a really great growth driver for Applied. We've had the strongest pipeline of new products than we've ever had. And the synergy with the rest of our process equipment business, all of that materials magic, materials innovation is increasing. So again, very, very optimistic about the shape of that business.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Michael Sullivan",
+      "title": "Corporate Vice President",
+      "content": "Yeah, thanks, Harlan. And operator, we have time for just one more quick question please.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Certainly. One moment for our final question. And our final question for today comes from the line of Mehdi Hosseini from Susquehanna. Your question, please?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Mehdi Hosseini",
+      "title": "Analyst",
+      "content": "Yes, thanks for letting me ask the question. Gary, you were talking about this inflection point technology leading-edge logic, HBM, DRAM and advanced packaging, but would it be fair to say that what is not in your backlog is the additional wafer capacity, especially for gate-all-around and memory, and that would be something that would be coming in, the POS be placed later this year for shipment in 2025?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brice Hill",
+      "title": "Chief Financial Officer",
+      "content": "Hi Mehdi, it's Brice. I'll address that question. We anticipate an increase in wafer starts, particularly in ICAPS and leading logic, with a smaller increment in DRAM. However, we don't expect an increase in wafer starts for NAND, although there will still be upgrades. Most memory technologies will see upgrades, combining new technologies and new plant and equipment across the board.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Mehdi Hosseini",
+      "title": "Analyst",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Michael Sullivan",
+      "title": "Corporate Vice President",
+      "content": "Okay. Thanks, Mehdi, for your question. And now, Brice, would you like to give us your closing thoughts?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brice Hill",
+      "title": "Chief Financial Officer",
+      "content": "Thanks, Mike. I think we've done a good job anticipating the roadmap inflections in datacenter AI. We can see the pull for our solutions in gate-all-around chips, from transistors to frontside wiring and backside wiring and in advanced packaging. Same goes for DRAM, where we're number one in materials engineering and especially strong in HBM stacking. In future calls, we'll have a lot more to say about our positions in edge, AI and IoT plus automotive and clean energy, which are very big and long-term drivers of our ICAPS business. The momentum in our systems business fuels our service business, which is driving very stable subscription-like growth and helping us increase the dividend at an accelerated rate. Gary will be at the Bernstein Conference in New York on May 30, and I hope to see many of you at the BofA conference in San Francisco on June 6. Thank you, Mike. Let's close the call.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Michael Sullivan",
+      "title": "Corporate Vice President",
+      "content": "Okay. Thanks, Brice. And we'd like to thank everybody for joining us today. A replay of today's call is going to be available on the IR page of our website by 5 p.m. Pacific Time today. And we'd like to thank you for your continued interest in Applied Materials.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you, ladies and gentlemen, for your participation in today's conference. This does conclude the program. You may now disconnect. Good day.",
+      "sentiment": "0.0"
+    }
+  ],
+  "reported_date": "2024-05-16"
+}

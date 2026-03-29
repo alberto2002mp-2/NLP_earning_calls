@@ -1,0 +1,145 @@
+{
+  "symbol": "CRM",
+  "quarter": "2024Q2",
+  "transcript": [
+    {
+      "speaker": "Mike Spencer",
+      "title": "Executive Vice President of Investor Relations",
+      "content": "Good afternoon and thanks for joining us today on our fiscal 2024 second quarter results conference call. Our press release, SEC filings and a replay of today's call can be found on our website. Joining me on the call today is Marc Benioff, Chair and CEO; Amy Weaver, President and Chief Financial Officer; and Brian Millham, President and Chief Operating Officer. As a reminder, our commentary today will include non-GAAP measures. Reconciliations between our GAAP and non-GAAP results and guidance can be found in our earnings materials and press release. Some of our comments today may contain forward-looking statements that are subject to risks, uncertainties and assumptions, which could change. Should any of these risks materialize or should our assumptions prove to be incorrect, actual company results could differ materially from these forward-looking statements. A description of these risks, uncertainties and assumptions and other factors that could affect our financial results is included in our SEC filings including our most recent report on Forms 10-K, 10-Q and other SEC filings. Except as required by law, we do not undertake any responsibility to update these forward-looking statements. And with that, let me hand the call over to Marc.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Marc Benioff",
+      "title": "Chair and CEO",
+      "content": "All right. Thanks so much, Mike, and really appreciate everyone being here today. We're obviously very excited about these results and sharing them with all of you. So, listen, as we've shared with you over the last couple of earnings calls, Salesforce has really accelerated our transformation to profitable growth. I think that's super clear from the numbers and I couldn't be more excited, especially on this huge top-line beat and our margin looks today. As you all know, over the last year, we've been executing against these four key areas of our transformation. First, our restructuring for the short and long-term. We've been discussing that since the fourth quarter call, and we're going to update you on that today. Second, we're reigniting our performance culture by focusing on productivity, operational excellence and profitability, and Brian is going to talk about that today. Third, we're prioritizing core innovations to drive customer success, and I can't wait to share with you at Dreamforce how we're elevating our core platform with amazing enhancements to our data cloud, as well as new versions of Einstein and extensions to our core platform. Our fourth priority is building even stronger relationships with our investors, you know how important that is to us. In the last six to nine months, we've probably spent more time with our investors than in the entire history of the company, and we've received great feedback. We've made great progress here, and I want to especially thank Mike for everything he has done. We're also adding a fifth priority: driving our AI transformation. We're leading AI for our customers and ourselves, pioneering the industry through this incredible innovation cycle, and I couldn't be happier with Srini, David, and the entire product and technology team for the speed of AI products released this quarter and their huge market impact, showcasing how Salesforce is transforming from the number one CRM to the number one AI CRM. Our AI data, CRM plus Trust platform has propelled us to become the third largest enterprise software company by revenue in the world, and recently in Japan, we just became the second largest company. Congratulations to everyone at Salesforce and especially to our Japanese team. With our industry-leading cloud and sales service marketing commerce, all powered by Data Cloud, Einstein Flow, Tableau, and MuleSoft, we are providing more capabilities to more customers than any other CRM vendor. I can't wait to show it all at Dreamforce. That's why Salesforce is the number one CRM by market share according to the latest IDC Software Tracker. Our transformation drove our second quarter results, especially regarding profitability. We are happy to see these numbers and incredible margin acceleration in such a short period of time. We've exceeded our own expectations, and I hope you've exceeded yours. In the second quarter, our non-GAAP operating margin rose to 31.6%, up over 1,000 basis points year-over-year. It's the second quarter in a row where our operating margin is up 1,000 points year-over-year. As you'll hear from Amy, we've maintained our disciplined approach to cost management while also investing in growth initiatives, positioning Salesforce for the future while driving margins and customer growth. Revenue in the second quarter was $8.6 billion, an increase of 11% year-over-year in constant currency. We had great wins with JPMorgan, Bayer, FedEx, Maersk, the Department of Veterans Affairs, and so many more you're going to hear about from Brian. Operating cash flow for Q2 was $808 million, up 142% year-over-year, quite impressive. Our remaining performance obligation ended at $46.6 billion, an increase of 12% year-over-year. Current remaining performance obligation ended at $24.1 billion, also up 12% year-over-year. In the last 12 months, we have returned an amazing $8 billion in share repurchases since we started the buyback program a year ago. Based on our performance and what we saw in the back half of the year, we're raising our fiscal '24 revenue guidance to $34.7 billion to $34.8 billion, or about 11% projected growth year-over-year. Last quarter, we raised our fiscal year '24 non-GAAP operating margin guidance to 28% and expected to eclipse 30% in the first quarter of fiscal '25. Today, I am happy to officially share we are raising our fiscal year '24 non-GAAP operating margin goal to 30%, an improvement of 750 basis points year-over-year. It's incredible, yes, we are saying that we've achieved a 30% margin this year. Also, I am thrilled to welcome back many boomerang employees who left Salesforce for different reasons but are now excited to join us again. This speaks volumes about our company culture and the dedication of our teams. Boomerang employees know our environment and can hit the ground running, contributing immensely. Recently, we welcomed Sabastian Niles as our Chief Legal Officer, who is impressive in his role on my executive leadership team. I couldn't be happier about having Sabastian here. We are at the dawn of an AI revolution, ushering in a new cycle of tech buying and investment across industries. Companies believe AI is crucial for improving their productivity and overall success. At Salesforce, we use AI in our operations, and we are committed to democratizing generative AI and making it accessible across every industry, facilitating an integrated approach to customer engagement. Our Data Cloud team has done outstanding work releasing Genie technology, and customers need real-time data to achieve success with AI. This AI revolution is indeed a data revolution. We aim to turn on our Data Cloud seamlessly for each of our customers while trusting our platform. We've ingested over six trillion records in Q2, with more than one trillion activations to enhance customer engagement. Trust is critical to our operations and permeates our AI innovations. Companies like Heathrow Airport and PenFed Credit Union exemplify the transformative power of our integrated AI and Trust approach. As always, we ensure that everything we do is underpinned by ethics and customer trust, which will be central to our AI developments moving forward. I am excited for what the future holds at Salesforce and cannot wait to showcase our achievements and vision at Dreamforce next week, where we will gather the best and brightest minds in AI technology. I am eager to welcome everyone to the conference and show you what's happening at Salesforce, including the incredible AI innovations we\u2019re delivering. Now, let me turn it over to Brian.",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "Brian Millham",
+      "title": "President and Chief Operating Officer",
+      "content": "Thanks, Marc, particularly for the sandbagging comment. Our focus on operational excellence, high performance, and growth initiatives drove another strong quarter. We continued our disciplined approach to cost management, removing complexity from our business to drive top and bottom-line improvements. Every customer I met with in the quarter made it clear they are laser-focused on driving greater productivity and quick time to value. They all see AI CRM as the answer to those priorities, and we're making it easier and faster for our customers to unleash the power of trusted generative AI safely and at scale. We're innovating faster than ever with AI, data, and our CRM Trust platform. We also have the most complete product portfolio with Customer 360 delivering mission-critical outcomes for our customers. Data Cloud is supercharging our product portfolio, servicing real-time customer data across sales, service, marketing, and commerce. That\u2019s why more than 90% of the Fortune 100 rely on Salesforce, running an average of over five of our clouds. Despite a challenging buying environment, we exceeded top and bottom-line expectations in Q2, which reflects our proven go-to-market strategy and focus on customer success. Consistent demand in our core business is driving success as customers consolidate their technology platforms. Six of our top 10 wins included five or more clouds. Schneider Electric has utilized Customer 360 for over a decade, driving enhanced customer engagement and service efficiency. With Einstein, Schneider refined demand generation, automated order fulfillment through Salesforce Flow, and with Service Cloud, they're handling over 8 million support interactions annually. In Q2, Schneider selected Marketing Cloud to further personalize customer experiences. We witnessed strong growth in add-on products and launched Salesforce Starter in Q2, integrating sales, service, and marketing for small businesses. Additionally, Data Cloud was in five of our top 10 deals this quarter, with notable wins at companies like SiriusXM and KPMG. FedEx made a significant investment in Salesforce by adding Data Cloud, fully integrating it with their existing services. We're gaining momentum with Einstein generative AI too; PenFed demonstrates how it drives growth by unifying customer data and implementing generative AI assistants for service agents. Our usage growth in automation products, including Slack, indicates strong customer engagement, and we've seen continued success with our industry clouds, which are growing at an impressive rate. As we move into the second half of the year, we are leading the way as the number one AI CRM, and I look forward to showcasing our community of Trailblazers and experts at Dreamforce next month. Amy, over to you.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Amy Weaver",
+      "title": "President and Chief Financial Officer",
+      "content": "Thank you, Brian. Our Q2 results show that we're continuing to progress in our five key areas of transformation, delivering another quarter of top and bottom-line expansion. As you can see in our results, we're progressing towards driving profitable growth and shareholder value, and we are well positioned for the future as the number one AI CRM. Our execution against our profitable growth framework drove our Q2 results. Revenue was $8.6 billion, reflecting an 11% year-over-year increase, with growth driven by MuleSoft momentum and solid sales performance. The durability of our business model and our multi-cloud expansion strategy demonstrate the critical nature of our unified platform. This is evidenced by over 450 customers investing more than $10 million annually while averaging seven clouds. From a geographical standpoint, Americas revenue grew 10%, EMEA grew 13%, and APAC grew 20%. We saw strong growth internationally with notable performance in Canada, France, and India. Our Q2 non-GAAP operating margin rose to 31.6%, up 1,000 basis points for the second quarter in a row. We are very proud of our progress. Our disciplined cost management approach allowed us to exceed our 30% non-GAAP margin target three quarters ahead of schedule. Q2 operating cash flow was $808 million. The remaining performance obligation, or RPO, ended at $46.6 billion, up 12% year-over-year, with the current remaining performance obligation ending at $24.1 billion. We're committed to returning value to our shareholders, with $1.9 billion returned in share repurchases this quarter. For fiscal year '24, we are raising our revenue guidance to $34.7 billion to $34.8 billion, equating to an 11% growth year-over-year, primarily due to strength in subscription revenue, particularly in MuleSoft. We're accelerating our transformation towards profitable growth, raising our non-GAAP operating margin guidance to 30%, a 750 basis point improvement year-over-year. Our fiscal year '24 GAAP diluted EPS is projected to be $3.50 to $3.52. Our fiscal year '24 non-GAAP diluted EPS is expected to be $8.04 to $8.06. In closing, I want to express gratitude to our shareholders for their support. I hope you can attend Dreamforce in person or virtually to learn more about the AI innovation we're delivering. Now, Mike, let's open up the call for questions.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Mike Spencer",
+      "title": "Executive Vice President of Investor Relations",
+      "content": "Thanks, Amy. Emma, we'll now move to the Q&A portion of our call. Out of respect for others on the call, we ask everyone to ask only one question. Emma, please.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Kash Rangan",
+      "title": "Analyst",
+      "content": "Hi. Thank you very much. The team has done a spectacular job executing against the economic backdrop. Congratulations on that. A question for you, Marc: With all this tremendous new product excitement, the environment stabilizing, do you think Salesforce has maximized its customer wallet share? Or is there more share to gain, and can Salesforce grow further when conditions are no longer a constraint?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Marc Benioff",
+      "title": "Chair and CEO",
+      "content": "Kash, thanks so much, and we're looking forward to seeing you at Dreamforce. AI is about to ignite a buying revolution. We\u2019ve noticed this with our customer base and new companies like OpenAI. We\u2019ve witnessed amazing growth in MuleSoft, highlighting isolated success areas. I think Dreamforce will catalyze customers to become excited about growing with us. The future outlook is driven by AI, allowing the revitalization of IT budgets as companies invest to achieve greater productivity. The energy at Dreamforce will showcase the potential for customer growth opportunities and up to tens of millions of dollars of commitment from our best customers.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Brian Millham",
+      "title": "President and Chief Operating Officer",
+      "content": "Thank you, Kash. Our growth strategy is three-pronged, one focusing on expanding multi-cloud customers, so there\u2019s huge opportunity for us to go back to our customers and expand the number of clouds they're using. International acceleration continues to be a big opportunity as well. Furthermore, we'd love to see the economy strengthen. Also, eight of our industry clouds grew at ARR beyond 50%, showcasing our industry products' impact.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Marc Benioff",
+      "title": "Chair and CEO",
+      "content": "I would also like Ariel Kelman to share insights about Dreamforce and the incredible new technologies that will drive Salesforce's growth.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Ariel Kelman",
+      "title": "Chief Marketing Officer",
+      "content": "We are excited about next week\u2019s Dreamforce. It\u2019s going to be the biggest AI event of the year with a lineup of technical speakers to help businesses understand how to leverage AI in the CRM landscape effectively.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Marc Benioff",
+      "title": "Chair and CEO",
+      "content": "Ariel, you\u2019ve been back for a few months now. What\u2019s been your biggest surprise second time around?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Ariel Kelman",
+      "title": "Chief Marketing Officer",
+      "content": "The energy of the people at Salesforce is inspiring and energizing, reminiscent of my first experience here.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Keith Weiss",
+      "title": "Analyst",
+      "content": "Congratulations on a solid quarter. Margins have improved impressively. I want to discuss the balance between investments for the generative AI opportunity versus further margin gains. How should we view this moving forward?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Marc Benioff",
+      "title": "Chair and CEO",
+      "content": "We\u2019re focused on profitable growth while leveraging opportunities in generative AI and data. Our job is to assure trust with our investors while seizing growth opportunities, balancing both commitments.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Amy Weaver",
+      "title": "President and Chief Financial Officer",
+      "content": "Our restructuring was aimed at securing resources for growth. We're focused on investments, especially in AI and data capabilities. Our guidance reflects this strategic approach and reinforces our commitments to you.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Kirk Materne",
+      "title": "Analyst",
+      "content": "I have had questions on the impact of the pricing actions announced earlier. How has this affected the quarter, and how do you view it in guidance for the back half of the year?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Amy Weaver",
+      "title": "President and Chief Financial Officer",
+      "content": "The pricing uplift will have a more significant impact over the next few years. There hasn\u2019t been a material change in this fiscal year.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Karl Keirstead",
+      "title": "Analyst",
+      "content": "With headcount down 11%, do you feel you've right-sized it now? Has it bottomed out?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Marc Benioff",
+      "title": "Chair and CEO",
+      "content": "We're actively growing our headcount in AI and accelerating our core innovations especially with Data Cloud, while facing normalized attrition. We aim for a balanced headcount adjustment with no major restructuring plans currently.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Brad Sills",
+      "title": "Analyst",
+      "content": "I want to ask about the impact of AI across Salesforce. Where do you see the most opportunity?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Marc Benioff",
+      "title": "Chair and CEO",
+      "content": "We're at the beginning of an AI evolution across four major zones. We're excited about generative AI enhancing productivity and automating intelligent systems. We see opportunities across sales, service, and data management enhancing the overall customer experience.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Mike Spencer",
+      "title": "Executive Vice President of Investor Relations",
+      "content": "Thank you, everyone, for joining us today. We look forward to seeing everyone hopefully at Dreamforce in a few weeks.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "This concludes today's conference call. You may now disconnect.",
+      "sentiment": "0.2"
+    }
+  ],
+  "reported_date": "2024-05-29"
+}

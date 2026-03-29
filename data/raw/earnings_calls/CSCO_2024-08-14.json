@@ -1,0 +1,433 @@
+{
+  "symbol": "CSCO",
+  "quarter": "2024Q3",
+  "transcript": [
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Welcome to Cisco's Third Quarter Fiscal Year 2024 Financial Results Conference Call. At the request of Cisco, today's conference is being recorded. If you have any objections, you may disconnect. Now, I would like to introduce Sami Badri, Head of Investor Relations. Sir, you may begin.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Sami Badri",
+      "title": "Head of Investor Relations",
+      "content": "Welcome, everyone, to Cisco's third quarter fiscal year '24 conference call. This is Sami Badri, Cisco's Head of Investor Relations, and I am joined by Chuck Robbins, our Chair and CEO, and Scott Herren, our CFO. Given our recently closed acquisition of Splunk, we are also joined by Gary Steele, the former CEO of Splunk, which is now a Cisco company. By now, you should have seen our earnings press release. A corresponding webcast with slides, including supplemental information will be available on our website in the Investor Relations section following the call. Income statements, full GAAP to non-GAAP reconciliation information, balance sheets, cash flow statements and other financial information can also be found in the Financial Information section of our Investor Relations website. Throughout this conference call, we will be referencing both GAAP and non-GAAP financial results, and we'll discuss product results in terms of revenue and geographic and customer results in terms of product orders unless stated otherwise. All comparisons made throughout this call will be on a year-over-year basis. The matters we will be discussing today include forward-looking statements, including the guidance we will be providing for the fourth quarter and full year of fiscal 2024. They are subject to the risks and uncertainties that we discuss in detail in our documents filed with the SEC, specifically the most recent report on Forms 10-K and 10-Q, which identify important risk factors that could cause actual results to differ materially from those contained in the forward-looking statements. With respect to guidance, please also see the slides and press release that accompany this call for further details. Cisco will not comment on its financial guidance during the quarter unless it is done through an explicit public disclosure. I will now turn it over to Chuck.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Chuck Robbins",
+      "title": "CEO",
+      "content": "Thanks, Sami, and thank you all for joining us today. We delivered a solid performance in Q3 with organic revenue coming in at the high end of our guidance range. Strong operating leverage across our business drove gross margins to exceed the high end of our expectations, resulting in better-than-anticipated earnings per share performance. We once again delivered good growth in annualized recurring revenue, remaining performance obligations and subscription revenue. We have transformed our business model with revenue from subscriptions now accounting for more than half of our total revenue even before the addition of Splunk. With the success of our transformation, we are well positioned to drive long-term growth powered by innovation across the organization. I want to thank the entire Cisco team as it is through their dedicated efforts that our research and development engine has never been stronger across networking and silicon, observability, security, collaboration, and AI. The strength of our core business continues to produce strong cash flows, reinforcing our ongoing commitment to delivering consistent capital returns. In Q3, we returned $2.9 billion in value to our shareholders through share repurchases and cash dividends in the quarter with a total of $8.5 billion in value returned year-to-date. Q3 was significant for us in two important ways. First, I couldn't be more excited about the successful close of our Splunk acquisition, Cisco's largest ever. Our acquisition of Splunk was completed midway through our Q3 on March 18, earlier than initially anticipated. Splunk significantly expands our portfolio of software-based solutions, contributing over $4 billion in annualized recurring revenue and adds to our position as one of the largest software companies in the world. We are thrilled to welcome the Splunk team to Cisco and are very excited about what we can deliver for our customers as we integrate our complementary security and observability capabilities. Our unified platform will revolutionize how customers connect and protect their organizations using data in new ways to enhance their entire digital footprint. Second, we introduced Cisco Hypershield, our most significant new security innovation with a groundbreaking AI-powered approach to highly distributed security, a first-of-its-kind. Combining security and networking in a way only Cisco can, Hypershield is built in the very fabric of the network, bringing the power of hyperscaler security and connectivity to the enterprise. I will talk more about these developments and our innovation momentum in a few moments. But now, I'd like to turn to our performance in Q3 and what we're seeing in terms of customer demand. The breadth of our portfolio, together with our many touch points with partners and customers around the world, provides us with differentiated insight into what's happening in our customer base. Based on activations to the cloud, which we track as well as conversations with our customers and partners, we believe that the products customers have on hand are being steadily deployed in line with the expectations we laid out last quarter, meaning we currently expect customers to complete the installation of the majority of their inventory by the end of our fiscal year in July. At a time where customers are ruthlessly prioritizing their IT investments, we saw product order growth in two of our largest product portfolios, data center switching and campus switching, as well as product order growth in our security and collaboration product categories. Overall, product orders were up 4%, and excluding Splunk, product orders were flat year-on-year. In our customer markets, public sector was strong in EMEA and APJC, but continuing resolution discussions in the U.S. temporarily impacted public sector performance in the Americas. We believe this has since cleared with the subsequent signing of the most recent U.S. Federal Government funding legislation. While our telco and cable customer demand remains muted worldwide, we are encouraged to see early signs of stabilization and improved performance in Webscale in terms of pipeline and orders. Overall, our win rates are stable, and we saw increased strength as we move through the quarter. This reflects our competitive strength and successful execution and gives us confidence in the long term. We also know that the value of our portfolio is greater than ever as evidenced by recent sell-side research IT spending surveys, which show that Cisco is expected to be the only net share gainer within large network budgets over the next 12 months. Now, let's look at our performance in Q3 in more detail. We saw revenue growth in security and double-digit growth in observability year-over-year, excluding Splunk, as customers look to enhance their digital resilience with Cisco's technologies. In the past year, we've accelerated our pace of innovation in security and I'm proud of what our teams have achieved. As I mentioned earlier, last month, we introduced Cisco Hypershield, the first truly distributed AI-native cybersecurity solution, which will be built into our networking fabric. This new innovation leverages the recently closed Isovalent acquisition to facilitate deployment in software and the first shipment is scheduled for August this year. This launch furthers our vision for the Cisco Security Cloud, which is expected to deliver the industry's most comprehensive unified platform with end-to-end solutions, making it easier for our customers to protect against the threats of today and tomorrow. Our newest available security solutions, XDR and Secure Access continue to ramp quickly with strong customer feedback. Just last week at RSA, we also announced the integration of Cisco XDR with Splunk Enterprise Security, which will give our customers even more value and insights. The closing of the Splunk acquisition in Q3 will also enable us to begin driving revenue synergies in our security and observability markets. Upon closing the deal, we identified 5,000 existing Cisco customers who have the potential to become meaningful Splunk customers and our sales teams are already making those connections. We also see significant opportunities for revenue synergies by leveraging Cisco's robust partner and customer ecosystem in markets where Splunk had limited or no presence. Earlier this week, Splunk was ranked as the leader in Gartner's Magic Quadrant for security incident and event management, which is a testament to the strength of the offering and the continued business momentum that Splunk has delivered. We are working on rapid integration, investing in both product integration and go-to-market resources, starting with aligning our Cisco and Splunk sales forces and accelerating channel enablement processes for cross-selling and upselling our combined solutions. We also continue to capitalize on the multi-billion-dollar AI infrastructure opportunity. In Webscale, we continue to see momentum with three of the top-four hyperscalers deploying our Ethernet AI fabric, leveraging Cisco-validated designs for AI infrastructure. In the past two quarters, Cisco has been granted additional design awards based on our 51.2 terabit G200 Silicon One ASIC. We expect these awards to yield orders in fiscal year '25, reinforcing our confidence in our line of sight to $1 billion of AI product orders in fiscal '25. Additionally, for those leading-edge enterprise customers who seek to be the early adopters of AI, our partnership with NVIDIA will offer easy-to-deploy cloud-based and on-prem networking solutions for AI inferencing. We believe we are well-positioned to be the key beneficiary of AI enterprise application proliferation with the breadth of our portfolio and the vast amounts of data we see. Before I turn it over to Scott, I'd like to share one more update. Earlier today, we announced that Jeff Sharritts, our Chief Customer and Partner Officer, is departing Cisco and that Gary Steele, Splunk's former CEO, has been named Cisco's new President of Go-to-Market. Gary is well known for his operational excellence, and in this new role, he will work closely with me to set and execute against our strategic plans and goals for the company. He will continue to lead the Splunk team through the integration process to ensure a seamless integration into Cisco. Gary's operational mindset, combined with his intense focus on simplicity and proven ability to drive growth, position him well in this role and I look forward to working closely with him in this new capacity. I'd also like to take a moment to thank Jeff for all that he's helped Cisco achieve, which is quite a long list of accomplishments in his 24 years here. Moving back to Q3, let me briefly summarize. While our core product portfolio is trending toward normalization as we continue to see customer deployments of shipped equipment progress, we are pleased that our security and observability portfolios have continued to grow and are significantly enhanced by the acquisitions of Splunk and Isovalent. As our customers adopt and deploy AI, they need the infrastructure to power it, the data to develop it and the security to protect it. And we believe only Cisco can deliver and integrate all three. With our unified platform approach, vast global partner ecosystem and ability to support hybrid and multi-cloud environments, we will deliver innovation at an unprecedented pace and scale to organizations around the globe. I'll now turn it over to Scott to provide more detail on the quarter and our outlook.",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "Scott Herren",
+      "title": "CFO",
+      "content": "Thanks, Chuck. Our Q3 results reflect solid execution with strong margins and a stabilization of orders. Both including and excluding Splunk, our revenue, gross margin, and non-GAAP earnings per share were at or above the high end of our Q3 guidance range. Total revenue was $12.7 billion, down 13% year-over-year. Splunk contributed $413 million in revenue in the partial quarter post-close. Non-GAAP net income was $3.6 billion, down 14%. Non-GAAP earnings per share was $0.88, down 12%. The interest cost of financing with the Splunk acquisition slightly more than offset the positive operating impact of Splunk. The net effect was a negative impact of $0.1 on non-GAAP earnings per share. Looking at our Q3 revenue in more detail, total product revenue was $9 billion, down 19% and service revenue was $3.7 billion, up 6%. Networking, our largest product category, was down 27%. We saw declines across almost all geographic segments due to the continued implementation of inventory by our customers. Bear in mind that our Q3 2023 networking revenues benefited from significant shipments of excess backlog. Security was up 36%, including the benefit received from the Splunk acquisition. Excluding Splunk, security grew 3%, driven by growth in SASE and double-digit growth in our Zero Trust offering. Collaboration was flat, driven by growth in our cloud calling and contact center offerings, offset by declines in meetings and devices. And observability was up 27%, driven by growth in ThousandEyes Network Services and the benefit from the Splunk acquisition. Excluding Splunk, observability grew 14% for the quarter. As Chuck said, we have successfully transformed our business model. ARR ended the quarter at $29.2 billion, which increased 22% due to continued strong performance and contribution from Splunk. These factors also drove our product ARR growth of 44%. Without Splunk, ARR was $25 billion, up 5% and product ARR was up 9%. Total subscription revenue increased 12% to $6.9 billion, which now represents 54% of Cisco's total revenue. Without Splunk, total subscription revenue was up 5%, representing 53% of Cisco's total revenue. Total software revenue was up 5% at $4.5 billion, with software subscription revenue up 17%. Without Splunk, total software revenue was down 4% and software subscription revenue was up 6%. 91% of our total software revenue was subscription-based. Total RPO was $38.8 billion, up 21% due to both strong performance and the Splunk acquisition. Product RPO grew 29%. Total short-term RPO was $20.1 billion, up 19%. Without Splunk, RPO was $35.3 billion, up 10% with product RPO also growing at 10%. Q3 product orders were up 4%. Excluding Splunk, product orders were flat year-over-year. We see customer product implementations progressing in line with our expectations and we expect these deployments to be largely complete by the end of our current fiscal year. Looking at our geographic segments year-over-year, the Americas was up 6%, EMEA was up 4%, and APJC was down 1%. In our customer markets, service provider and cloud was up 10%, the public sector was up 6% and enterprise was up 2%. Total non-GAAP gross margin came in at 68.3%, up 310 basis points year-over-year and above the high end of our guidance range. Product gross margin was 66.9%, up 240 basis points, of which Splunk contributed 70 basis points. The remaining improvement was driven primarily by a favorable product mix and lower freight and other costs. Service gross margin was 71.6%, up 430 basis points. Non-GAAP operating margin came in at 34.2%, up 30 basis points, driven by our continued commitment to disciplined spend management. Operating cash flow was $4 billion, down 24%. Shifting to the balance sheet. We ended Q3 with total cash, cash equivalents, and investments of $18.8 billion. Uses of cash during the quarter included a net outflow of $27.4 billion related to our acquisition of Splunk and in line with our capital allocation strategy, we returned $2.9 billion in value to our shareholders, including $1.6 billion for our quarterly cash dividend and $1.3 billion of share repurchases. Year-to-date, we've returned $8.5 billion in capital to our shareholders. To summarize, we successfully completed the acquisition of Splunk, drove strong non-GAAP margins, and increased our operating leverage in the quarter. Turning to our financial guidance that includes our integration of Splunk. For Q4, our guidance is as follows. We expect revenue to be in the range of $13.4 billion to $13.6 billion. We anticipate the non-GAAP gross margin to be in the range of 66.5% to 67.5%. Non-GAAP operating margin is expected to range from 31.5% to 32.5%. Non-GAAP earnings per share is expected to range from $0.84 to $0.86. Our Q4 guidance includes $950 million to $1 billion in revenue from Splunk and non-GAAP EPS of negative $0.03 as the interest impact more than offsets the operating benefit. In Q4, we're assuming a non-GAAP effective tax rate of approximately 18%. For fiscal year '24, our guidance is as follows. We expect revenue to be in the range of $53.6 billion to $53.8 billion. Non-GAAP earnings per share guidance is expected to range from $3.69 to $3.71. We're assuming a non-GAAP effective tax rate of approximately 19%. Looking beyond Q4 and into our fiscal 2025, in addition to the top-line benefits from the Splunk acquisition, there are a few points to bear in mind as you build your models. First, we expect revenue growth to be in the low-to mid-single-digit range next year. Second is the interest impact from the acquisition, which we expect to be a headwind of approximately $350 million per quarter, including both the foregone interest from cash off the balance sheet and the additional interest payments on debt. Third, we're working to quickly integrate Splunk into our product offerings, go-to-market engine, and expect to invest in OpEx in fiscal '25 to drive those revenue synergies. Given these points, we expect fiscal '25 operating margin to be in line with our Q4 guidance. We'll give more formal guidance as we get to the next earnings call, but I want to make sure you have those three thoughts in mind. As we've stated, we expect the deal to be non-GAAP earnings per share accretive in fiscal '26 and beyond.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Sami Badri",
+      "title": "Head of Investor Relations",
+      "content": "Thank you, Scott. Before we start the Q&A portion of the call, I'd like to remind analysts to ask one question and a single follow-up question. Operator, can we move to the first analyst in the queue?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Amit Daryanani with Evercore. You may go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Amit Daryanani",
+      "title": "Analyst",
+      "content": "Thank you for taking my question. I have two, and I'll ask them both together. Chuck, it's great to hear about the progress on inventory digestion and that order growth is stabilizing and increasing in some areas. Some tech companies have mentioned a softer macro-environment that is leading to increased spending. I would like to understand, aside from the inventory situation, what you are noticing regarding the macro-environment and whether it's also improving for your team. Additionally, about the $1 billion in AI orders you anticipate for fiscal '25, can you elaborate on whether these wins are primarily coming from Silicon One, optical solutions, or switching solutions? Any insights on where you expect to achieve these successes would be appreciated. Thank you.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Chuck Robbins",
+      "title": "CEO",
+      "content": "Thank you, Amit. I appreciate the questions. From a macro perspective, I would say that we noticed the quarter actually slowed down but showed slight improvement as we progressed through it. The end of the quarter was a bit stronger than the start. We believe our customers are currently on track with the inventory digestion we mentioned last quarter, which is positive. In the Americas, excluding Splunk, we saw a 2% increase, which is encouraging, while Europe remained flat. This is a good sign, and we observed positive trends in both campus switching and data center switching, with data center switching experiencing mid-teens growth. Customers are investing in private data centers, and collaboration is positive, with security orders seeing high-single-digit increases. However, we did not witness any significant changes in our customers' behavior this quarter; they continue to prioritize their project spending rigorously. As for the $1 billion in AI, it is mainly driven by the Webscale infrastructure. We've achieved three out of four that are utilizing our AI Ethernet fabric, and I believe we had a couple more design wins during the quarter within the back-end networks of these Webscale companies. That's primarily what contributes to this, along with emerging enterprise pipelines, as I mentioned last quarter. It encompasses both systems and optics across those customers.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Sami Badri",
+      "title": "Head of Investor Relations",
+      "content": "Thank you, Amit. Operator, can we move to the next question?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next caller is Simon Leopold with Raymond James. You may go ahead, sir.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Simon Leopold",
+      "title": "Analyst",
+      "content": "Great. Appreciate you taking the question. I wanted to see if you could give us some metrics or some help trying to extrapolate the 5,000-customer opportunity for Splunk. And just give us a better idea of what that could mean from a dollars perspective, if you're able to penetrate it? And my follow-up is really, I'm trying to seek a little bit more clarification on this $1 billion AI pipeline because there's been a lot of debate in the investment community regarding it. So I want to see if we can get some clarification that when we talk about the context of what's in there, it's explicitly in the back-end that there's not some extrapolation to front-end data center applications. So explicitly back-end and I think, Chuck, you are saying that it is mostly switching in the back-end with some optics and some Silicon One. I really would like to clarify this because we're getting a lot of questions. Thank you.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Chuck Robbins",
+      "title": "CEO",
+      "content": "Let me address the second question first. We have clear visibility to $1 billion in orders for the next fiscal year. In a previous call, I mentioned that our pipeline is approximately three times that amount. We believe we have solid visibility to this $1 billion in orders for fiscal year 2025, which is primarily focused on back-end systems. This includes systems based on Silicon One, potentially some standalone Silicon One products, but mostly systems and optics as well. We're also starting to see some enterprise use cases, although the majority remains in the back-end hyperscaler space. Regarding the 5,000 customers, we've conducted an analysis to identify where we have strong relationships at Cisco and where Splunk lacks presence. We have mapped those customers to our sales teams. Gary, would you like to add something to that since you've been closely involved?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Gary Steele",
+      "title": "President of Go-to-Market",
+      "content": "Yes, we are excited that we have identified 5,000 customers where Splunk traditionally has had no presence. Our goal is for the Cisco sellers to open the door for the Splunk team. There is also a financial incentive in place to motivate the Cisco sellers to support this initiative. This is one area where we see significant opportunity. Additionally, there is considerable overlap in our customer base, where the Cisco team may have stronger, more strategic relationships that can help expand our presence within the existing Splunk customer base, and we are already seeing this activity begin. We believe we are off to a very good start and I am really encouraged by the level of collaboration we have experienced so far.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Sami Badri",
+      "title": "Head of Investor Relations",
+      "content": "Thank you, Simon. Operator, can we move to the next question?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next caller is Tal Liani with Bank of America. You may go ahead, sir.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Tal Liani",
+      "title": "Analyst",
+      "content": "Hi, everyone. I have two related questions I'd like to ask. Firstly, your security segment is showing some positive momentum with numerous new products, the introduction of Splunk to the channel, and the AI opportunity for Ethernet. Could you provide us with an estimate of the timeline for these initiatives? Specifically, security has only grown 3%, excluding Splunk. How long will it take to realize the benefits you're discussing in these key areas? Should we expect to see results early in 2025, later in 2025, or even in 2026?  My second question concerns the growth expectations. If we exclude Splunk from the figures you've provided\u2014since you've given enough information to do so for 2024, and I can gather consensus for 2025\u2014your core Cisco growth expectations for 2025 appear to be around 5%, especially after factoring out the backlog contribution for this year. Are you comfortable with Cisco achieving around 5% growth next year, and what would be the main drivers of this growth? Thank you.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Chuck Robbins",
+      "title": "CEO",
+      "content": "Thank you for your question. Regarding the organic Cisco Security aspect, revenue increased by 3%. However, as I mentioned, our demand has reached the highest levels in a couple of years, with growth in the high-single digits. We are experiencing positive traction with these new products, which are in the early stages of adoption as customers begin testing and implementing them. It's important to note that a significant portion of our security portfolio, nearly 80%, is ratable, which influences the timeline for converting orders into revenue. On the security and Splunk front, we announced our first integration last week at RSA. Our focus is on driving innovation, with more announcements expected at Cisco Live. As I have indicated previously regarding our security efforts, we have established a new team that has developed five new products and solutions in the past year, achieving remarkable progress. I have consistently mentioned that I anticipated improvements in the second half of 2024, with further advancements in 2025, and I stand by that expectation. Gary, would you like to add anything about the integration?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Gary Steele",
+      "title": "President of Go-to-Market",
+      "content": "I'm really excited about the progress we've made with integration. For instance, last week at RSA, we announced the integration between the Cisco XDR solution and Splunk's Enterprise Security solution. Bringing high telemetry alerts into Splunk Enterprise Security provides added value for customers in terms of threat detection. This is just the beginning of the integration efforts we can implement, which will foster growth for both our security portfolio and Splunk. As we mentioned before, our integration strategy focuses on making steady, incremental advancements, and we plan to show the industry that we can innovate quickly as a unified entity. We believe we are on a great path to achieve this.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Chuck Robbins",
+      "title": "CEO",
+      "content": "Thanks, Gary. Regarding your AI timing question for '25, I suspect it will start off slow at the beginning of the year and then build momentum as we progress through the year. I anticipate more activity in the latter half, but we'll need to evaluate how the pilots perform. We'll have more insights in the next 90 days on that. For your second question, I appreciate that you acknowledge the significant backlog we cleared last year. 2025 will still present unusual comparisons as we are emerging from the end of the supply chain challenges and the associated inventory and shipping issues. Therefore, 2026 compared to 2025 should provide more accurate year-over-year comparisons. While we are not disclosing the breakdown of the FY '25 contributions from Cisco or Splunk today, we will provide more details during our Analyst Day in June. Scott, do you have anything to add, or is that sufficient?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Scott Herren",
+      "title": "CFO",
+      "content": "No, I think you said it right and Cal, the fact that you've recognized the backlog work off it, it clearly is a headwind on just the core Cisco when you look at year-on-year growth rate into fiscal '25. Bear in mind too, obviously, Q3 was a tough compare. If you remember that we had those three consecutive quarters of revenue growth in the mid-to-upper teens, Q3 of '23 that we're comparing to now, Q4, and then Q1 of this year. And so in addition to doing the year-on-year growth rates the way you're doing it, you need to think of the backlog impact on the year-on-year growth rates in both this quarter, next quarter, and again a tough compare in Q1 of '25.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Sami Badri",
+      "title": "Head of Investor Relations",
+      "content": "Thank you, Tal. Operator, can we move to the next question?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. David Vogt with UBS. You may go ahead, sir.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "David Vogt",
+      "title": "Analyst",
+      "content": "Thank you for taking my question. Scott, I would like to follow up on Tal's previous discussion. I understand that there will be a backlog challenge in 2024. However, if I analyze what Splunk is expected to contribute compared to this year, it seems that the backlog issue will impact numbers negatively next year. I know you mentioned that you are not ready to provide specific figures. Is my understanding correct? Essentially, all of the projected low to mid-single-digit growth appears to stem from Splunk. Additionally, regarding gross margin, since Splunk will represent a greater portion of the business, could you share your expectations for gross margin next year in light of Splunk's strong profile compared to this year? Thank you.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Chuck Robbins",
+      "title": "CEO",
+      "content": "Thank you, David. In the first quarter of fiscal year '24, we experienced significant shipment of excess backlog due to previous supply constraints. When considering the growth rate from '24 to '25, Splunk will clearly contribute positively to that, but it's important to note that fiscal '24 included a non-repeatable excess backlog that was shipped in the first quarter. In that quarter, we reported mid-teen revenue growth. If we adjust for that, the core business is actually growing in the mid-single digits for fiscal '25. We can discuss further, as there are many factors to consider. Regarding gross margins, we saw some benefits this quarter, primarily from Splunk, as well as changes in product mix and some cost savings that may not be sustainable in the long run. I've indicated a guide for Q4 gross margins in the range of 66.5% to 67.5%, which I believe is also relevant when considering fiscal '25.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Sami Badri",
+      "title": "Head of Investor Relations",
+      "content": "Thank you, David. Operator, can we move to the next question?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Meta Marshall with Morgan Stanley. You may go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Meta Marshall",
+      "title": "Analyst",
+      "content": "Great. Thanks. Maybe first question, Chuck, if you could just kind of update where your kind of conversations with customers are around AI, either in kind of desire to invest on-premise or invest in kind of Cisco Security products for preparedness or just impact to budgets? And then maybe second question for Scott. Just as we think about kind of the OpEx investment that you guys noted for Splunk, you know, how should we think of that versus kind of original targets to have Splunk be kind of accretive one year post close? Thanks.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Chuck Robbins",
+      "title": "CEO",
+      "content": "Thanks, Meta. I believe the discussions around the webscalers are fairly well understood, so I will focus on the enterprise side. Many enterprises are still in the pilot phase and are currently exploring some initiatives. We've had a few successes in the enterprise space, specifically in infrastructure that supports AI development, but it is still very much in the early stages. Last week, we held our Global Customer Advisory Board in Canada with around 60 customers, all of whom are still trying to determine their specific use cases and how the architecture will evolve. Therefore, I would say it is still quite early for enterprises.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Gary Steele",
+      "title": "President of Go-to-Market",
+      "content": "Regarding my earlier comment on operating expenses, when we announced the acquisition of Splunk, we emphasized that it is largely driven by revenue synergies rather than cost synergies. While we will see some cost synergies, our focus for fiscal '25 will be on ensuring proper product and organizational integration. This includes enabling channels and training both the Splunk and Cisco sales teams. We anticipate that fiscal '25 will involve significant investment in this integration. We mentioned that we would be cash flow accretive in the first year after the acquisition, and we stand by that. Additionally, we expect to see an increase in gross margin from Splunk, and in the second year, we will be accretive in earnings per share, which we consider to be fiscal '26. The acquisition closed earlier than anticipated, which may affect perceptions of its timing. Initially, we thought it would close toward the end of our fourth quarter, but it actually closed around the middle of the third quarter, slightly over a quarter early. Thus, while we expect EPS to be accretive in fiscal '26, we will still see positive cash flow and gross margin contributions in fiscal '25 as we invest in integration.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Sami Badri",
+      "title": "Head of Investor Relations",
+      "content": "Thank you, Meta. Operator, next question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. James Fish with Piper Sandler. You may go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "James Fish",
+      "title": "Analyst",
+      "content": "Hi, everyone. I want to emphasize Meta's question because there is a significant increase in operating expenses that could lead to earnings dropping again in '25, if my calculations are correct, to about $3.50 a share. Can you provide more details on why it will be that much? Should we anticipate revenue synergies beginning in fiscal '25 with a modest growth rate in the low to mid-single digits, or will it take longer, maybe another year or so? Additionally, is part of the increase in operating expenses due to the shift from stock-based compensation at Splunk to cash compensation, considering that Splunk and Cisco have historically approached compensation very differently?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Chuck Robbins",
+      "title": "CEO",
+      "content": "Thank you, Jim. Regarding the operational expense ramp, although the Splunk team hasn\u2019t provided guidance for this fiscal year, we can observe their OpEx trajectory and compare it to ours. There is some year-on-year growth and investment, but it's not a significant increase in investment for integration. The focus is primarily on uniting the Splunk team with ours. We do anticipate some cost synergies more towards the second half of the year, but this acquisition was primarily driven by revenue synergies. I believe your assessment is accurate. We expect the revenue synergies to start increasing in the latter part of fiscal '25, as the sales cycles are not quick and involve getting our team trained on selling Splunk, the Splunk team trained on selling Cisco, and ensuring our channel is fully equipped to sell both. Therefore, while revenue synergies will develop, they will be more evident in the second half of the year.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Gary Steele",
+      "title": "President of Go-to-Market",
+      "content": "Yes. And I think the revenue synergies that we're focused on really are driven around the 5,000 accounts that we talked about earlier. The sales cycles on those are six to nine months. And so you're not going to see that immediately, but that work is happening. And we're also seeing tremendous collaboration across the organization where sales teams are working together to more broadly penetrate accounts. I think you start to see that in the first half, but it's going to layer in, you're going to see more momentum as we get to the middle part of the year.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Sami Badri",
+      "title": "Head of Investor Relations",
+      "content": "Thank you, Jim. Operator, next question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Samik Chatterjee with JPMorgan. You may go ahead, sir.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Samik Chatterjee",
+      "title": "Analyst",
+      "content": "Hi, thanks for taking my question. I have a couple as well if I may. I know you're talking today about the deployments with your customers, enterprise customers being higher than what you're shipping to and that implies you'll take a step-up in terms of revenue and that inventory digestion ends. I was just curious in sort of the order trends. You had mentioned you'll be back to a normal seasonality of orders, maybe more in fiscal '25, but how close are you seeing sort of order trends return on a sequential or quarterly basis to more normalized sort of seasonal trends? Is that pointing you in any direction in terms of whether that gap between deployment and your orders are starting to sort of compress? And for the second one, just on the quick follow-up on the AI order of $1 billion sort of target here. Just trying to understand if you feel like you need one or two more big wins in terms of customers or the land and expand with the existing ones should be good enough to get you to that $1 billion target that you have? Thank you.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Chuck Robbins",
+      "title": "CEO",
+      "content": "Scott, you want to take the sequential one?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Scott Herren",
+      "title": "CFO",
+      "content": "Yes. Regarding our enterprise deployments, we are observing positive progress, Samik. One encouraging aspect, which we've shared some data on, is that certain areas are advancing more rapidly. We've mentioned our growth in the wireless sector, and as enterprise deployments of all our products pick up pace, we are witnessing a return in demand. Achieving normal seasonality in year-on-year growth rates is more challenging, as we need to reach a point with a standard quarter, which we are approaching now after we finish this quarter's inventory consumption. Additionally, to make an accurate year-on-year comparison, we need to consider the previous year's performance. Therefore, expect the typical seasonality for year-on-year growth rates to become more evident in fiscal '26. From a sequential perspective, you should see this trend begin in the latter half of fiscal '25.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Samik Chatterjee",
+      "title": "Analyst",
+      "content": "Yes.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Scott Herren",
+      "title": "CFO",
+      "content": "And then regarding AI, the $1 billion we discussed represents clearly identified opportunities that our teams are very confident about. This isn't a matter of setting a $1 billion target and asking people to find deals. There are deals behind that figure, and we have either secured some wins or are confident that we will soon. There will be execution needed to complete these deals, including navigating through pilot programs and conducting various tests, such as power consumption testing. A lot of this work is currently in progress. However, based on our current understanding, this is what our teams believe at this time. These are not just aspirations; they are concrete opportunities that have been recognized and that our teams feel positive about.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Sami Badri",
+      "title": "Head of Investor Relations",
+      "content": "Thank you, Samik. Operator, next question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Matt Nicknam with Deutsche Bank. You may go ahead, sir.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Matt Nicknam",
+      "title": "Analyst",
+      "content": "Hi, guys. Thanks so much. One question, one small follow-up, and I think this has been the theme most of the call. On the main question, actually for Scott, you've got leverage now that sits just under one turn, but the business now has a greater mix of recurring revenue, more visibility that that naturally lends itself to. So I'm just wondering how you think about optimal leverage for the business and uses of excess cash from here. And then just on the follow-up, as we think about low-to mid-singles growth next year, well aware of the backlog and the tougher comp that that creates in fiscal 1Q of next year. Just as we unpack the networking assumptions, are you assuming normal demand and purchasing cadence returns next year once inventories have been digested? Or is there any incremental caution that's embedded there from a macro perspective? Thanks.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Chuck Robbins",
+      "title": "CEO",
+      "content": "Scott, you want to take the first one?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Scott Herren",
+      "title": "CFO",
+      "content": "Yes, I'll talk about cash first, Matt. And yes, we moved obviously with the acquisition of Splunk, and this beta is out there. We raised about $13.5 billion of term debt that's out there, and we actually funded a lot of it with some cash off the balance sheet, but also with commercial paper with the expectation that as rates come down, obviously, commercial paper is a more real-time reflection of those lower rates. So it's a way of saving money on that. Moved to a net-debt position for the first time and certainly in my career, probably in the first time in the last two decades here at Cisco. The use of cash though, like we talked about Splunk being cash-flow accretive in its very first year, which is highly unusual for a transaction of this size, it will be. And so our capital allocation process is not going to change. And just to reiterate what it is, first and foremost, it's support growth, right behind that. If that's one, 1A is, of course, continuing to support the dividend and you see we've continued to grow the dividend on a year-on-year basis. Return cash to shareholders through share buybacks. That's been at a steady $1.25 billion per quarter for the last now several quarters. We'll continue to do that. And to the extent that we've met those three, and there still is excess cash, we'll determine whether it makes sense to take that cash and delever or if it makes more sense to return that to shareholders at that time.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Chuck Robbins",
+      "title": "CEO",
+      "content": "And Matt, on the demand normalization, based on what we see today, I think we would expect starting in Q1 and beyond, we should see that normalize. Obviously, with the caveat that there are a lot of hot spots around the world, there are a lot of potential risks out there that are happening. We've got elections all over the world and the most important one perhaps in the United States. So we're certainly going to have to see how all of this plays out. But so far, based on what we see, I think that's a decent assumption for FY '25.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Sami Badri",
+      "title": "Head of Investor Relations",
+      "content": "Thank you, Matt. Operator, next question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. George Notter with Jefferies. You may go ahead, sir.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "George Notter",
+      "title": "Analyst",
+      "content": "Hi, there. Thanks very much. I guess I wanted to ask about gross margin impacts from the inventory digestion. As we look around the space, we've seen companies use tools like stock rotation or rebates to try to push inventory through the channel. Sometimes that can certainly have an impact on margins. Are you guys seeing any of that in the gross margin results right now? Thanks.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Chuck Robbins",
+      "title": "CEO",
+      "content": "No, we're not. There is very little inventory in the channel that we continue to own. When we ship it to the channel, it's sold immediately. There's not much stocking that occurs within our channel, so we aren't experiencing that benefit. What we are seeing is that we have implemented price increases to help counteract the higher costs resulting from supply chain constraints, and we've already adjusted for those. However, when our quarter results are released, you will notice a slight pricing headwind as we return to what was normal before the pandemic. On the positive side, we are benefiting from the product mix of Splunk and some one-time advantages during the quarter.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Sami Badri",
+      "title": "Head of Investor Relations",
+      "content": "Thank you, George. Next question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Ittai Kidron with Oppenheimer. You may go ahead, sir.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Ittai Kidron",
+      "title": "Analyst",
+      "content": "Thanks. I had a question for Gary. I guess, off the press, Palo Alto just announced its acquisition of the SIM business from IBM. Exabeam this morning announced the merger with LogRhythm. So it seems like the market you're operating in is moving at a very fast pace of consolidation. Maybe you can talk about the competitive landscape for your business and why should we not assume that pricing pressures are going to significantly rise in this environment as everybody is trying to fight for footprint?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Gary Steele",
+      "title": "President of Go-to-Market",
+      "content": "Yes, that's a great question. There is indeed a lot of activity in this market. We are very confident about our position in Gartner's Magic Quadrant, where we are recognized as the leader in the SIM market. We have a strong established market position, and our pace of innovation has significantly evolved over the last couple of years. We continue to deliver innovative capabilities that are high in value. For instance, last week at RSA, we introduced Splunk Asset and Risk Intelligence, a crucial capability that helps organizations identify assets in their environment and assess associated risks. Additionally, we benefit from the integration with Cisco's Security product line, including the integration with the XDR solution we also announced. While the market is competitive, we believe we are extremely well-positioned to drive important innovation. Our approach differs from our competitors as we aim to integrate security capabilities on a single platform, spanning all areas of observability, which is hard to find elsewhere in the industry. Regarding pricing, there are no fundamental changes to our strategy. We remain focused on driving strong adoption among our customers and ensuring they perceive ongoing value. The capabilities we offer are challenging to match in the industry, so we are not altering our pricing approach.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Sami Badri",
+      "title": "Head of Investor Relations",
+      "content": "Thank you, Ittai. Next question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you, Ben Reitzes with Melius Research. You may go ahead, sir.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Ben Reitzes",
+      "title": "Analyst",
+      "content": "Yes, hi. Thanks for the question. I wanted to ask if we consider a hit of $1 billion to $2 billion from inventory in 2025. From the previous question, I want to confirm that you believe the real industry growth, or networking growth, is in that mid-single-digit range mentioned earlier. If that's correct, will we hear at your Analyst Day that 2026 could see higher single-digit growth for Cisco overall? Since you're moving towards Splunk and software, the calculations would suggest that after a muted organic growth in 2025, we could see an acceleration to higher single-digits in 2026, if that's the case. I'm happy to repeat any of this if needed, but I hope you were able to follow along. Thank you.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Chuck Robbins",
+      "title": "CEO",
+      "content": "Yes, I understand your question about the fiscal '26 guidance. You are considering the core business of Cisco, excluding the impacts of the Splunk acquisition when looking at fiscal '25. Additionally, if you account for the excess backlog that we shipped early in fiscal '24, primarily in Q1 and a little in Q2, that results in the mid-single-digit growth of the core business we've experienced. I believe you're approaching this correctly. We will provide more information about fiscal '26 and beyond during our Investor Day in June in Las Vegas. I hope to see you there.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Sami Badri",
+      "title": "Head of Investor Relations",
+      "content": "Thank you, Ben. Next question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Atif Malik with Citi. You may go ahead, sir.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Atif Malik",
+      "title": "Analyst",
+      "content": "Hi, thank you for taking my questions. The first one is for Gary. Gary, Splunk has been using AI/ML for the last year and a half with natural language assistant SPL and also event detection and response. Can you big-picture talk about how Cisco data will improve your AI capabilities?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Gary Steele",
+      "title": "President of Go-to-Market",
+      "content": "Absolutely. Looking back at Splunk's history, we were pioneers in integrating machine learning into our offerings. We introduced the MLTK package in 2017, which has seen a wide adoption with a quarter of a million users. Subsequently, we enhanced our capabilities by incorporating Generative AI, launching an SPL assistant that allows users to utilize English with our proprietary search language. Additionally, we are integrating AI into workflows, such as with SOAR, to enhance remediation outcomes. We have been consistently investing across our product line and expect to share more developments at Cisco Live and our upcoming user conference. Partnering with Cisco is advantageous as they have been independently investing in various areas, allowing us to leverage those resources alongside our rich datasets. This collaboration enhances our ability to utilize data from networking, which improves our detection capabilities. The insights we gain together position us uniquely in the competitive landscape and significantly boost our AI initiatives as part of Cisco, leading to important outcomes.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Sami Badri",
+      "title": "Head of Investor Relations",
+      "content": "Thank you, Atif. Michelle, can we move to the last question?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Michael Ng with Goldman Sachs. You may go ahead, sir.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Michael Ng",
+      "title": "Analyst",
+      "content": "Hi, good afternoon. Thanks for squeezing me in. I just have two as well. First, I think that the guidance this year implies 34% EBIT margins. You commented that fiscal '25 can look like the guide for fiscal 4Q. I mean I think it's about $1 billion of OpEx investments. I was just wondering if you could kind of qualitatively talk about where most of those OpEx investments will lie? And then secondly, last quarter, you characterized the fiscal '24 guidance as conservative, I believe. How would you characterize your initial financial outlook for fiscal '25? Thank you.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Chuck Robbins",
+      "title": "CEO",
+      "content": "Thank you for the question, Michael. The year-on-year comparison seems to be challenging due to expectations regarding fiscal '25, particularly if you simply add the expected run rate for Cisco's spending and Splunk's spending. There are a few important points to consider. This year, we experienced some one-time benefits in our operating expenses related to Cisco prior to the Splunk acquisition, especially in our variable compensation plans. It's been a tough year, and we've fallen short of our targets, resulting in some savings in variable compensation for this year, which we do not plan to replicate in fiscal '25. Additionally, we will implement a merit increase, contributing to a small rise in compensation plans. While there will be some investment in the integration, it will not reach the figures implied by your calculations.  Looking at our guidance for next year, I believe there are several positive factors to consider. Firstly, consumption of the inventory we shipped to customers, which they are diligently working to implement, aligns with our expectations. We anticipate overcoming this headwind by the end of our fourth fiscal quarter, setting up a tailwind for next year. Furthermore, the AI opportunity we've discussed, particularly more in the second half of fiscal '25, will also serve as a tailwind for the full year. Our security business is performing as anticipated; we've launched new products even before acquiring Splunk, and these are gaining traction, adding to the positive outlook for next year. Overall, I believe we have a reasonable perspective on fiscal '25 at this stage. This is not a formal guidance, but I wanted to provide some insight into our outlook, and we will offer a more comprehensive view at our Investor Day in June, followed by detailed guidance during our Q4 call in August.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Sami Badri",
+      "title": "Head of Investor Relations",
+      "content": "Thank you, Michael. I now want to hand it over back to Chuck for some closing remarks.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Chuck Robbins",
+      "title": "CEO",
+      "content": "Thanks, Sami, and thanks to all of you for spending time with us today. I guess I'd say I'm pleased that we're getting to the tail end of this supply chain situation that we've been navigating for the last several years, on track to get this consumption issue behind us as we enter FY '25. I feel good about the overall demand environment we saw in Q4, which supports the fact that our customers are getting this digestion done. As we look to the future, we obviously are optimistic about AI, both from an infrastructure perspective, a data perspective as well as a cybersecurity perspective. Security in general, we believe will continue to improve. And obviously, we're super excited about the Splunk integration and we're committed to deliver for both our customers and for you. I also just want to quickly thank Jeff Sharritts for everything he's done at Cisco and also they were very excited to have Gary taking on the new role here and thank you all for being with us today.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Sami Badri",
+      "title": "Head of Investor Relations",
+      "content": "As a reminder, we will be hosting our 2024 Investor Day as part of Cisco Live on June 4, 2024. Cisco's next quarterly call, which will reflect our fiscal year 2024 fourth-quarter and full-year results, will be on Wednesday, August 14th, 2024, at 1:30 p.m. Pacific Time, 4:30 p.m. Eastern Time. This concludes today's call. If you have any further questions, please feel free to contact the Cisco Investor Relations Department. We thank you very much for joining the call today.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And thank you for participating in today's conference call. If you would like to listen to the call in its entirety, you may call 1-800-391-9851. For participants dialing from outside the U.S., please dial 203-369-3268. This concludes today's conference call. You may go ahead and disconnect at this time.",
+      "sentiment": "0.0"
+    }
+  ],
+  "reported_date": "2024-08-14"
+}

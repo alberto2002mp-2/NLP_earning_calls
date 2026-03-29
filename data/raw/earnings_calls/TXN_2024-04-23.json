@@ -1,0 +1,355 @@
+{
+  "symbol": "TXN",
+  "quarter": "2024Q1",
+  "transcript": [
+    {
+      "speaker": "Dave Pahl",
+      "title": "Head of Investor Relations",
+      "content": "Welcome to the Texas Instruments First Quarter 2024 Earnings Conference Call. I'm Dave Pahl, Head of Investor Relations, and I'm joined by our Chief Financial Officer, Rafael Lizardi. For any of you who missed the release, you can find it on our website at ti.com/ir. This call is being broadcast live over the web and can be accessed through our website. In addition, today's call is being recorded and will be available via replay on our website. This call will include forward-looking statements that involve risks and uncertainties that could cause TI's results to differ materially from management's current expectations. We encourage you to review the notice regarding forward-looking statements contained in the earnings release published today, as well as TI's most recent SEC filings, for a more complete description. Today, we'll provide the following updates: First, I'll start with a quick overview of the quarter. Next, I will provide insight into first quarter revenue results, with some details of what we are seeing with respect to our end-markets. Lastly, Rafael will cover the financial results, give an update on capital management, as well as share the guidance for the second quarter of 2024. Starting with a quick overview of the quarter: Revenue in the quarter came in about as expected at $3.7 billion, a decrease of 10% sequentially and 16% year-over-year. Analog revenue declined 14% year-over-year, and Embedded Processing declined 22%. Our Other segment declined 33% from the year-ago quarter. Now I'll provide some insight into our first quarter revenue by end-market. Revenue declined sequentially across all of our end-markets. Our results reflect the current environment, as customers continue to reduce their inventory levels. Similar to last quarter, I'll focus on sequential performance, as it is more informative at this time. First, the industrial market was down upper-single digits. The automotive market was down mid-single digits. Personal electronics was down mid-teens. Next, communications equipment was down about 25%. And lastly, enterprise systems was down mid-teens. Rafael will now review profitability, capital management and our outlook.",
+      "sentiment": "-0.3"
+    },
+    {
+      "speaker": "Rafael Lizardi",
+      "title": "Chief Financial Officer",
+      "content": "Thanks Dave, and good afternoon everyone. As Dave mentioned, first quarter revenue was $3.7 billion. Gross profit in the quarter was $2.1 billion, or 57% of revenue. From a year ago, gross profit decreased primarily due to lower revenue and to a lesser extent, higher manufacturing costs associated with reduced factory loadings and our planned capacity expansions. Gross profit margin decreased 820 basis points. Operating expenses in the quarter were $933 million, flat from a year ago and about as expected. On a trailing 12-month basis, operating expenses were $3.7 billion, or 22% of revenue. Operating profit was $1.3 billion in the quarter, or 35% of revenue, and was down 34% from the year-ago quarter. Net income in the first quarter was $1.1 billion or $1.20 per share. Earnings per share included a $0.10 benefit that was not in our original guidance, primarily due to the sale of a property. Let me now comment on our capital management results, starting with our cash generation. Cash flow from operations was $1 billion in the quarter and $6.3 billion on a trailing 12-month basis. Capital expenditures were $1.2 billion in the quarter and $5.3 billion over the last 12 months. Free cash flow on a trailing 12-month basis was $940 million. In the quarter, we paid $1.2 billion in dividends, and in the past 12 months, we returned $4.8 billion to our owners. Our balance sheet remains strong with $10.4 billion of cash and short-term investments at the end of the first quarter. In first quarter, we issued $3 billion in debt. Total debt outstanding is now $14.3 billion with a weighted average coupon of 3.8%. Inventory at the end of the quarter was $4.1 billion, up $84 million from the prior quarter and days were 235, up 16 days sequentially. For the second quarter we expect TI revenue in the range of $3.65 billion to $3.95 billion and earnings per share to be in the range of $1.05 to $1.25. We continue to expect our effective tax rate to be about 13%. In closing, we will stay focused in the areas that add-value in the long-term. We continue to invest in our competitive advantages, which are manufacturing and technology, a broad-product portfolio, reach of our channels, and diverse and long-lived positions. We will continue to strengthen these advantages through disciplined capital allocation and by focusing on the best opportunities, which we believe will enable us to continue to deliver free cash flow per share growth over the long-term. With that, let me turn it back to Dave.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Dave Pahl",
+      "title": "Head of Investor Relations",
+      "content": "Thanks, Rafael. Operator, you can now open the lines for questions. In order to provide as many of you as possible an opportunity to ask your questions, please limit yourself to a single question. After our response, we'll provide you an opportunity for an additional follow-up.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. We will now begin the question-and-answer session. Our first question is from Timothy Arcuri with UBS. Please go ahead with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Timothy Arcuri",
+      "title": "Analyst",
+      "content": "Thanks a lot. Rafael, I'm wondering if you can give us an update on any CHIPS Act money that you may have gotten. I know, basically all the money for the advanced nodes has been allocated and has been announced, but there is still like $9 billion outstanding for mature nodes. So can you kind of talk about that for us?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Rafael Lizardi",
+      "title": "Chief Financial Officer",
+      "content": "Yes. No, happy to do it. First let me address the grants, which I think is what you're referring to. On that, frankly we don't have an update to give. We're still going through that process. Submitted our application late last year, we are working through the details with the CHIPS Program Office. As we said before, we believe our investments in manufacturing in both Texas and Utah are well-positioned with the objectives of the CHIPS Program Office. Now let me give you an update on the ITC, the Investment Tax Credit. To date, we have accrued about $1.5 billion on that credit, and based on the recently released regulations, we will be receiving the ITC cash benefit throughout the year in 2024 and beyond. And starting next quarter, so in second quarter, we expect to receive about $300 million and a total of $1 billion for all of 2024. Okay, do you have a follow-up?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Timothy Arcuri",
+      "title": "Analyst",
+      "content": "I do, yeah. I wanted to ask about factory loadings and sort of where you think inventory goes for June. If I look at your guidance, the gross margins implied pretty flat ex-depreciation. So it seems like loadings have sort of leveled off in June. Is that right? And kind of what do you expect for inventory in June? It seems like it should start to come down a tick maybe in June. Thanks.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Rafael Lizardi",
+      "title": "Chief Financial Officer",
+      "content": "Yes. Sure. Of course we give guidance. We give a range on revenue, we give a range on EPS, and then 90 days from now, we'll discuss that more or less. But for now, I'll tell you that in first quarter, we adjusted factory loadings, as we neared our desired inventory levels. And as we said during the prepared remarks, we grew inventory about $80-some million. And then for second quarter, we are going to adjust those loadings depending on future demand.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Dave Pahl",
+      "title": "Head of Investor Relations",
+      "content": "Thank you Tim. We\u2019ll go to the next caller please.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question is from Stacy Rasgon with Bernstein Research. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Stacy Rasgon",
+      "title": "Analyst",
+      "content": "Hi guys. Thanks for taking my question. I wanted to follow up on that. If and when revenues begin to recover, how do we think about what that would imply for your factory utilization given your current inventory position, as well as additional capacity coming online, which I guess sort of just naturally gives a downward bias to utilization anyways? Like I guess, how long would you need to take utilizations up? Or how much revenue growth would you need to start taking utilizations up given your positioning on inventories and capacity additions?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Rafael Lizardi",
+      "title": "Chief Financial Officer",
+      "content": "Yes, Stacy, that's a great question, but it is quite complex and ultimately depends on several factors, including our revenue profile over a longer period rather than just one or two quarters. The key takeaway is that we do not anticipate any significant depletion of inventory. Our business model prioritizes keeping lead times short, and the potential benefits of maintaining inventory and capacity far outweigh the risks involved. I hope this provides some clarity on our perspective. Do you have a follow-up?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Stacy Rasgon",
+      "title": "Analyst",
+      "content": "I was wondering if you could discuss pricing a bit. Last quarter, you mentioned that pricing was returning to historical trends, which seemed to indicate it was down, in the low to mid-single digits. Is there any update on what you're observing in the pricing environment? Are we still in that situation? Are conditions improving or worsening? How do you see this evolving in the future?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Dave Pahl",
+      "title": "Head of Investor Relations",
+      "content": "Yes, Stacy, I'll address that. As I mentioned last quarter, we started noticing changes around the middle of last year as we engaged with customers about their demand for the upcoming year and when pricing opportunities would arise. We're essentially returning to trends we've observed over the last 10 to 20 years, prior to the pandemic. I would characterize this as a gradual decline in the low to very low single digits over time, and that's generally the trend we are still experiencing.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Rafael Lizardi",
+      "title": "Chief Financial Officer",
+      "content": "Let me add one more thing, Stacy. I want to give you a bonus answer. You always ask about OpEx. So you are not asking, but I'm going to give you OpEx. Remember that second quarter has a full three months of raises whereas first quarter only had two months of raises. So it's something for your modeling.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Stacy Rasgon",
+      "title": "Analyst",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Dave Pahl",
+      "title": "Head of Investor Relations",
+      "content": "Thank you, Stacy. We will go to the next caller please.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question is from Vivek Arya with Bank of America Securities. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Vivek Arya",
+      "title": "Analyst",
+      "content": "Thank you for taking my question. In your prepared remarks, you mentioned that customers continue to decrease inventory levels, yet you are also projecting a 4% increase in Q2 sales sequentially. Should we view Q2 as a typical seasonal quarter? Can you provide more insight into what you are seeing in real-time? Are we beyond the industry's inventory correction? Are we moving back toward some level of normalcy in demand? Any additional information you could share regarding end-markets or geographical perspectives would be helpful, especially since you are the largest and most influential vendor in the market. Your insights would be valuable to understanding the current inventory situation and the overall demand cycle.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Dave Pahl",
+      "title": "Head of Investor Relations",
+      "content": "Yes, Vivek, let me begin by discussing what we observed in the last quarter because I believe it's important. First, personal electronics was the initial market to enter the correction phase, and it has now shown more seasonal behavior. On the other hand, the industrial sector has been experiencing a decline sequentially for a while. In recent quarters, we have mentioned the asynchronous behavior within the 12 to 13 sectors we monitor. This trend continued in the last quarter. We still see some of the later-cycle sectors experiencing continued declines at double-digit rates, but there are some sectors that are starting to slow their declines and even a few that showed sequential growth. Therefore, I would characterize the situation this quarter as more mixed, which is certainly a departure from last quarter. Historically, the second quarter is strong seasonally for us, so it's typical for us to see sequential growth. Do you have a follow-up?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Vivek Arya",
+      "title": "Analyst",
+      "content": "Thank you, Dave. I want to press a bit on that. Specifically for Q2 in the industrial and automotive sectors, do you believe customers will keep reducing inventory? Or do you think they have mostly finished that process and we are moving back towards normal demand for TI in Q2? What does your guidance suggest about our position? Are we below seasonal expectations, at seasonal levels, or something else entirely?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Dave Pahl",
+      "title": "Head of Investor Relations",
+      "content": "Well, again, we typically do not provide guidance by end-market. However, looking at the last quarter, we noticed that some customers in the industrial sector are approaching the end of their inventory depletion cycle. As you know, we aim to be very cautious and avoid predicting market peaks or troughs. We focus on reporting the data as we observe it and sticking to the facts. Thank you, Vivek. We\u2019ll move on to the next caller, please.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question is from Thomas O'Malley with Barclays. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Thomas O'Malley",
+      "title": "Analyst",
+      "content": "Hi, good afternoon. Thank you for taking my question. I have a question regarding China. The 2023 data recently released shows that some of the larger North American players didn't significantly lose market share despite concerns about increased competition from China. Can you discuss any changes in customer behavior over the past few months? Additionally, what does the competitive environment look like? Are there new players emerging that you haven't seen before? Any insights on China would be greatly appreciated. Thank you.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Dave Pahl",
+      "title": "Head of Investor Relations",
+      "content": "Sure. Thanks, Tom, for the question. I\u2019d say there hasn\u2019t been any significant change over the last couple of months. However, over the past few years, many factors are evolving in China. We have very capable local competitors, and there\u2019s also subsidized capacity being introduced. Comparing that to five or ten years ago, competing there is certainly more challenging. Nevertheless, I wouldn\u2019t say the competitive landscape is shifting dramatically overnight, and we\u2019ve discussed this for several years. China remains an important and growing market for us, and we are prepared to compete there to support our customers. Our competitive advantages, including our manufacturing and technology capabilities, the diversity of our portfolio, and our market reach, continue to serve us very well in China. Do you have a follow-up?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Thomas O'Malley",
+      "title": "Analyst",
+      "content": "Yes. Regarding the auto sector specifically, I understand you're not providing guidance for the upcoming quarter, but have you had any discussions with customers since your last update? I recall you mentioned that inventories are decreasing. During the pandemic, we saw a shift from just-in-time ordering to a just-in-case approach. Do you think this trend will continue, or are we transitioning back to a preference for lower inventory levels on balance sheets? While you have a distinctive supply chain, I'd appreciate any insights you have on the current auto environment, especially over the past few months. Thank you.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Dave Pahl",
+      "title": "Head of Investor Relations",
+      "content": "Thank you, Tom. Many customers, particularly in the automotive sector, have taken a thoughtful approach to understanding their supply sources in light of supply chain disruptions. They recognized a significant reliance on wafers from China and Taiwan and are now seeking more geopolitically reliable capacity. We've mentioned this in our capital management updates, and we believe that this demand will continue to grow, which we are already seeing. We are well-positioned to support our customers and the resulting growth. Thank you, Tom. Let's move on to the next caller.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question is from Ross Seymore with Deutsche Bank. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Ross Seymore",
+      "title": "Analyst",
+      "content": "Hi guys thanks. I'm going to ask a couple of questions. I guess for the first one, Dave, I know you don't want to guide by the segments but you gave the quarter-over-quarters. Could you give us what the year-over-years were by end-market in the first quarter, please?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Dave Pahl",
+      "title": "Head of Investor Relations",
+      "content": "I can do that, yes. So the industrial market was down about 25% from a year ago. Automotive was down lower single digits. Personal electronics was actually up single digits. Communications equipment was down about 50%, and enterprise system was down mid-teens. Do you have a follow-on, Ross?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Ross Seymore",
+      "title": "Analyst",
+      "content": "I do. Rafael, you mentioned the progress of the grant aspect of the CHIPS Act, specifically the ITC side and the timing of cash inflows. Does the timing of that cash have a different effect on the income statement? Or is it simply a timing issue regarding when you receive that $1 billion compared to the $500 million you mentioned earlier?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Rafael Lizardi",
+      "title": "Chief Financial Officer",
+      "content": "There is no direct impact on the income statement, as the lower depreciation is already reflected in the P&L and our depreciation expectations. While having more cash does lead to increased interest income, that's below the operating profit line. Regarding depreciation, we expect it to be between $1.5 billion and $1.8 billion for this year, leaning more towards the lower end of that range. For 2025, we anticipate depreciation will be between $2 billion and $2.5 billion.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Dave Pahl",
+      "title": "Head of Investor Relations",
+      "content": "Thank you Ross. We will go to the next caller please.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question is from Chris Danely with Citibank. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Chris Danely",
+      "title": "Analyst",
+      "content": "Hey, thanks guys. Rafael, just another question on the balance sheet and cash. So you guys have seen the share count kind of flatten out here for the last 4 quarters or 5 quarters and then you're building cash and increasing your debt. I guess what's changed? Traditionally, you've sort of taken the share count down slowly but steadily. Any sort of changes in the long-term thinking there on cash, usage of cash, etc.?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Rafael Lizardi",
+      "title": "Chief Financial Officer",
+      "content": "Yes. Capital management is contingent upon various circumstances. Currently, our goal is to return all cash flow to the company's owners over time. However, there are instances where increasing liquidity and accumulating cash is necessary. You have observed us do this over the past couple of years, steadily increasing the cash on our balance sheet, which stood at $10.4 billion last quarter. We have done this with a purpose, particularly to safeguard our investments, especially the $5 billion per year capital expenditures in manufacturing. This has been the most crucial allocation of capital over the past few years and will remain so for the next three years. Keeping this in mind has influenced our overall capital allocation decisions, including our decisions regarding share repurchases.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Dave Pahl",
+      "title": "Head of Investor Relations",
+      "content": "Do you have a follow-on, Chris?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Chris Danely",
+      "title": "Analyst",
+      "content": "Yes, thanks Dave. Just another question on China but more on the, I guess, the insourcing side. So some of your competitors have talked about this impacting them. Do you guys see an impact of this on TI? Would or will this alter your long-term, I guess growth expectations or thoughts on your China business? Just any color there would be very helpful. Thanks.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Rafael Lizardi",
+      "title": "Chief Financial Officer",
+      "content": "Yes. I will begin, and Dave can add his thoughts. As Dave mentioned earlier, China is a crucial market for us. We are actively competing there and striving to succeed. It is evident that there is a motivation to promote local semiconductor suppliers in China, which you referred to as insourcing. Currently, I estimate that about 10% to 15% of the local semiconductor content is sourced from these suppliers. The specific figure I came across is 12%. This indicates that 88% is sourced from U.S. and European suppliers. Our aim is to continue to engage in this competition, maintaining and increasing our market share while competing against local suppliers as well as U.S. and European semiconductor companies.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Dave Pahl",
+      "title": "Head of Investor Relations",
+      "content": "Yes. In any market, we need to offer the best parts to stay ahead of competitors in terms of performance, support, availability, and cost. Our customers in various regions are considering their product sourcing. Those not based in China are looking at what they call geopolitically dependable capacity, which accounts for about 80% of our revenue. The remaining 20% comes from customers in China who also support global markets. They are recognizing our unique geopolitical dependable capacity and want access to it since we are the only ones building significant capacity outside of China and Taiwan. Customers understand this both in China and beyond. Thank you, Chris. We'll move on to the next caller.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question is from Joe Moore with Morgan Stanley. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Joe Moore",
+      "title": "Analyst",
+      "content": "Great, thank you. I've asked this question before, but it keeps coming up. Can you talk about how you think about pricing kind of more strategically as you contemplate having a decent amount of capacity, more 300 millimeter capacity, more subsidization? Does that change the pricing paradigm at all? Are there markets where you might be more price-aggressive than you wouldn't be, if any of that were different?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Dave Pahl",
+      "title": "Head of Investor Relations",
+      "content": "Yes. Joe, the answer will be amazingly consistent with how you've asked it before. But we haven't changed our strategy on pricing. You know that pricing doesn't move quickly in our industry, and it isn't the primary reason why customers choose our products overall. So we regularly monitor pricing for all of our products. That includes all end markets and all product categories and all regions. And we price to be competitive, and we can do that because we've got a great product portfolio and we've got great access to the markets through our channels. And we've got competitive products because we build it on 300 millimeter. So hopefully, that's amazingly consistent. Do you have a follow-on?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Joe Moore",
+      "title": "Analyst",
+      "content": "Thank you for that. Regarding the embedded business, I understand that you've de-emphasized several vertical markets and are focusing more on a core catalog strategy. Where do you currently stand with that? Do you anticipate that your embedded business will follow the broader microcontroller market trends? How do you view the ongoing transitions in that area?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Dave Pahl",
+      "title": "Head of Investor Relations",
+      "content": "Yes. I think that we continue to make progress overall in our embedded business. The goal there is to have that business growing and contributing to our free cash flow over a long time. We think it's a great business and continue to invest. So we are very happy with that strategic progress. So I think, in the near-term, of course, we're not going to be immune to cycle-related corrections. It is a little bit later because of the constraints that we have due to embedded relying on foundry supply. And as you know, we are investing to put capacity in place. And we'll have control of that in the future and really are in a good position to gain share there. So thank you for that Joe, we will go to the next caller please.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question is from Tore Svanberg with Stifel. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Tore Svanberg",
+      "title": "Analyst",
+      "content": "Yes, thank you. Dave, I had a question about the Q2 outlook. So I know, obviously, you can't guide by market and things like that. But from a bookings perspective, are we starting to see sort of a broad-based recovery in bookings? Or would you still say it's quite selective in all the different applications that you are targeting?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Dave Pahl",
+      "title": "Head of Investor Relations",
+      "content": "Yes. So let me speak to bookings at the top level. We saw bookings increase each month of the quarter. That is very typical that we would see in a first quarter. I don't have bookings by end market. If there's something very unusual going on, of course, that would jump out at us. So that's just not something I have here in front of me. But I would describe it as behaving as we would expect it to. And of course those bookings and other demand signals that we get from our customers are obviously imbued into our guidance. Do you have a follow-on, Tore?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Tore Svanberg",
+      "title": "Analyst",
+      "content": "Yes. That's very helpful. As my follow-up, you mentioned there's a few segments within the industrial category that are starting to grow or perhaps have found the bottom from an inventory correction perspective. Can you talk about which segments those are?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Dave Pahl",
+      "title": "Head of Investor Relations",
+      "content": "Yes. As we have discussed over the past several quarters, there are markets or sectors that have been acting at different rates. Some shorter cycle investment sectors started to decline earlier, while longer-term investment cycles began to decline more recently, particularly in the last couple of quarters. If you were to categorize them, that\u2019s how they would appear. Thank you for that, Tore. We will move on to the next caller, and this will be our last caller.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our last question is from Chris Caso with Wolfe Research. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Chris Caso",
+      "title": "Analyst",
+      "content": "Yes, thanks. Good evening. First question is related to the buybacks, and I think you addressed this in a prior question. But I guess the question is, what would be the trigger for being able to resume some degree of buybacks? We realize that the intention is to return 100% of excess free cash flow. But at what point does the cash in the balance sheet and kind of industry conditions allow you to come back to what you've been doing previously?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Rafael Lizardi",
+      "title": "Chief Financial Officer",
+      "content": "Certainly. Our free cash flow for the last 12 months was $940 million, and during the same period, we returned $4.8 billion. One factor that could lead to a change is moving beyond our current investment phase, which is taking up a significant portion of that free cash flow. Another important factor is revenue performance over the coming years. These are some of the considerations we take into account when deciding how to allocate capital.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Dave Pahl",
+      "title": "Head of Investor Relations",
+      "content": "Do you have a follow-on, Chris?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Chris Caso",
+      "title": "Analyst",
+      "content": "I do. Thanks. And I guess the question is about where TI is allocating the R&D investment going forward and how that may be changing. Over the last year, it looks like auto and industrial are about 70% of your revenue, and I know that's by design. But you've got some segments such as comm equipment that have been down a lot more. As we look out over the next two years or so, do you think that percentage of revenue on the segments kind of stays about where it is right now? Or based on the R&D investments you are making, do you think that changes substantially?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Dave Pahl",
+      "title": "Head of Investor Relations",
+      "content": "Yes, that's a great question, Chris. For those who haven't seen our capital management slide deck, Slide 21 illustrates the percentage of our revenue by end-market. The middle column outlines our directional approach to R&D spending. We believe there will be persistent trends leading to increased semiconductor demand in the industrial and automotive sectors, which is why we've been increasing our investments in those areas. In contrast, our investments in personal electronics and communications equipment have remained steady because we see strong opportunities in those markets. We will maintain those investments. Additionally, we have slightly increased our investments in enterprise systems, as we anticipate good growth potential in that area as well. While it may not see the same dynamics as industrial and automotive, we believe the components within enterprise will likely achieve above-average growth over the next decade and beyond. With that, I\u2019ll turn it over to Rafael to conclude.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Rafael Lizardi",
+      "title": "Chief Financial Officer",
+      "content": "Okay. Thanks, Dave. Let me wrap up by emphasizing what we have said previously. At our core, we are engineers and technology is the foundation of our company. But ultimately, our objective and the best metric to measure progress and generate value for owners is the long-term growth of free cash flow per share. While we strive to achieve our objective, we will continue to pursue our three ambitions. We will act like owners who will own the company for decades. We will adapt and succeed in a world that's ever-changing. And we will be a company that we're personally proud to be a part of and would want as our neighbor. When we're successful, our employees, customers, communities and owners all benefit. Thank you and have a good evening.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "This concludes today's conference. You may disconnect your lines at this time. Thank you for your participation.",
+      "sentiment": "0.0"
+    }
+  ],
+  "reported_date": "2024-04-23"
+}

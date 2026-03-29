@@ -1,0 +1,373 @@
+{
+  "symbol": "INTU",
+  "quarter": "2024Q4",
+  "transcript": [
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Good afternoon, everyone. My name is Bo and I will be your conference operator. I would like to welcome you all to Intuit\u2019s Fourth Quarter and Fiscal Year 2024 Conference Call. All lines have been muted to minimize background noise. After the speaker's remarks, we will have a question-and-answer session. Now, I will turn the call over to Ms. Kim Watkins, Intuit\u2019s Vice President of Investor Relations. Please proceed, Ms. Watkins.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Kim Watkins",
+      "title": "Vice President of Investor Relations",
+      "content": "Thanks, Bo. Good afternoon and welcome to Intuit\u2019s fourth quarter fiscal 2024 conference call. I\u2019m here with Intuit's CEO, Sasan Goodarzi, and our CFO, Sandeep Aujla. Before we start, I\u2019d like to remind everyone that our remarks will include forward-looking statements. There are a number of factors that could cause Intuit\u2019s results to differ materially from our expectations. You can learn more about these risks in the press release we issued earlier this afternoon, our Form 10-K for fiscal 2023 and our other SEC filings. All of those documents are available on the Investor Relations page of Intuit\u2019s website at intuit.com. We assume no obligation to update any forward-looking statement. Some of the numbers in these remarks are presented on a non-GAAP basis. We\u2019ve reconciled the comparable GAAP and non-GAAP numbers in today\u2019s press release. Unless otherwise noted, all growth rates refer to the current period versus the comparable prior-year period, and the business metrics and associated growth rates refer to worldwide business metrics. A copy of our prepared remarks and supplemental financial information will be available on our website after this call ends. With that, I\u2019ll turn the call over to Sasan.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "Thank you, Kim, and thank you all for being here today. We achieved impressive results in the fourth quarter and for the full year, making significant strides in our AI-driven expert platform strategy and key initiatives that set us up for long-term growth. Our revenue for the year increased by 13%, and we saw a notable improvement in our operating margins, reflecting the strength and progress of our investments and innovations. As we move into the new year, we are optimistic about achieving another year of double-digit revenue growth and margin expansion in fiscal year 2025. Intuit stands as a global AI-driven expert platform that promotes prosperity for consumers, as well as small and mid-market businesses. Our strategy and key initiatives position us as a vital platform that offers comprehensive solutions, driving sustainable growth. We recognized the potential of AI early on, tapping into our extensive data, investments in AI technologies like knowledge engineering, machine learning, and GenAI, as well as our vast network of AI-powered virtual experts. This approach is allowing us to transform the categories in which we operate. We are changing how we support our customers by providing done-for-you experiences, where we complete the difficult tasks for them, connecting them with AI-driven human expertise to support their success. With GenAI\u2019s introduction, we are enhancing customer experiences and improving business growth potential while also streamlining our processes within Intuit. This progress has given us confidence, prompting us to advance our investments in five critical areas tied to our key initiatives to achieve greater impact moving forward. I will take a moment to discuss our progress and future investment plans: First, regarding our first key initiative, we are offering done-for-you experiences with Intuit Assist. In fiscal year 2024, we significantly advanced the rollout of Intuit Assist, our GenAI-powered financial assistant, making it accessible to millions of consumers and nearly 1 million small and mid-market businesses. We are ramping up investments to expand the availability of Intuit Assist in the coming year. Second, in our second key initiative, we are boosting platform and market investments for TurboTax Live and QuickBooks Live, integrating AI-powered experts into our business offerings. In fiscal year 2024, TurboTax Live saw a 17% revenue increase, full-service customers doubled, and new TurboTax users tripled. QuickBooks Live customers also more than tripled. We anticipate that our increased investment in these areas will further deepen our presence in very manual, high-cost, and fragmented assisted services. By digitizing service delivery, which is a central aspect of our done-for-you platform experiences, we aim to become the AI-powered financial assistant for consumers, small, and mid-market businesses. Moving on to our fourth initiative, concerning our money solutions, we are investing further to enhance the digital experience for consumers and small and mid-market businesses, covering everything from estimates to invoicing, payment receipt, and bill payments. In fiscal year 2024, the total online payment volume we facilitated grew by 20%. Additionally, we assisted small businesses in securing $2.4 billion in financing through QuickBooks Capital, marking a 28% increase, while also making significant advances in digitizing B2B payments through our bill pay service, which experienced a fourfold increase in monthly processed payment volume over the last six months. In fiscal year 2025, we expect these increased investments to yield top-tier solutions for seamless payments, capital, banking, bill pay, and invoicing. Next, in our fifth key initiative, we are intensifying our focus on mid-market customers with further investments in our platform and market strategies. In fiscal year 2024, QBO Advanced customers rose by 28%. In fiscal year 2025, we plan to accelerate investments to serve customers with more complex requirements, including advanced accounting and reporting needs, business intelligence, money solutions, human capital management, professional services, and solutions for customer acquisition with Mailchimp, all supported by AI-powered human experts. Finally, we are looking to enhance our international growth with Mailchimp and QuickBooks. We have translated the Mailchimp offering into five languages for markets where we see significant potential. Moving forward, we aim to integrate QuickBooks and Mailchimp into a single growth platform, distinguishing ourselves in markets where we fit well, including Canada, the UK, and Australia. In other regions, we will leverage Mailchimp's strong international presence to assist small businesses in acquiring customers as we continue to adapt our offerings to local markets. In conclusion, with the momentum we have generated and the strategic areas for investment I have outlined, we are well-positioned to succeed as an all-encompassing platform, providing experiences that contribute to our customers' success. Intuit is the AI-driven expert platform fostering prosperity for consumers, small, and mid-market businesses. Now, I will hand the call over to Sandeep.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Sandeep Aujla",
+      "title": "CFO",
+      "content": "Thanks, Sasan. We delivered very strong results in fiscal 2024 across the company, including total revenue growth of 13%, GAAP and non-GAAP operating margin expansion of 40 and 100 basis points, respectively, and GAAP and non-GAAP EPS growth of 24% and 18%, respectively. Our fourth quarter results include: Revenue of $3.2 billion, up 17%. GAAP operating loss of $151 million, versus GAAP operating income of $17 million last year, reflecting a restructuring charge of $223 million recognized in the quarter related to the organizational changes we announced in July. Non-GAAP operating income of $730 million, versus $627 million last year, up 16%. GAAP diluted loss per share of $0.07, versus diluted earnings per share of $0.32 a year ago, also reflecting the restructuring charge. And non-GAAP diluted earnings per share of $1.99, versus $1.65 last year, up 21%. Turning to the business segments: In the Small Business and Self-Employed Group, the revenue grew 20% during the quarter, and 19% for the full-year. This momentum demonstrates the power of our small and mid-market business platform and the mission-critical nature of our offerings as customers look to grow their business and improve cash flow in any economic environment. Online ecosystem revenue grew 18% during the quarter and 20% for the full-year, driven by our progress serving customers with more complex needs and adoption of our ecosystem of services. As a result, online ecosystem ARPC grew 11% in fiscal 2024. With the goal of being the source of truth for small businesses, our strategic focus within the Small Business and Self-Employed Group is three-fold: grow the core, connect the ecosystem, and expand globally. First, we continue to focus on growing the core. QuickBooks Online accounting revenue grew 17% in Q4 and 19% in fiscal 2024. Growth for the quarter and year was driven by customer growth, higher effective prices, and mix-shift. We delivered growth in our declared strategic areas this year, with our emphasis on serving customers with more complex needs. This focus drove U.S. QBO customers excluding self-employed up 11%, QBO Advanced customers up 28%, while QBO self-employed customers declined 14%, resulting in total online paying customers up 6%. Second, we continue to focus on connecting the ecosystem. Online services revenue grew 19% in Q4, driven by payments, payroll, capital, and Mailchimp. For the full fiscal year 2024, Online services revenue grew 21%, driven by payroll, payments, Mailchimp and capital. Within payments, revenue growth in the quarter reflects higher effective prices, ongoing customer growth as more customers adopt our payments offerings to manage their cash flow, and an increase in total payment volume per customer. Total online payment volume growth in Q4 was 19%, relatively consistent with the range we\u2019ve seen over the last several quarters. Within payroll, revenue growth in the quarter reflects an increase in customers adopting our payroll solutions, higher effective prices, and a mix-shift towards higher-end offerings. Mailchimp revenue growth was driven by higher effective prices and paid customer growth. Revenue growth continues to be impacted by the lapping of a larger benefit from price and line-up changes that we made last year in Q2 and Q3. Third, we continue to make progress expanding globally, by executing our refreshed international strategy, which includes leading with both QuickBooks Online and Mailchimp in our established markets and leading with Mailchimp in all other markets as we continue to execute on localized product and line-up. On a constant currency basis, total international online ecosystem revenue grew 11% in Q4 and 13% in fiscal 2024. Turning to desktop. We successfully concluded the three-year transition to a subscription model, which contributed to 25% desktop ecosystem revenue growth in Q4 and 16% revenue growth in fiscal 2024. QuickBooks Desktop Enterprise revenue grew in the low-30s in Q4, and in the high-teens for fiscal year 2024. Our Q4 desktop ecosystem revenue growth also reflects the offering changes we made in early fiscal 2024 to complete the transition to a recurring subscription model. These changes resulted in approximately $60 million of desktop revenue recognized in Q4 and approximately $50 million recognized in the first three quarters of fiscal 2024, all of which would have otherwise been recognized in Q1 of fiscal 2025. We also expect approximately $50 million of desktop revenue that would have otherwise been recognized in Q1 fiscal 2025 to shift to later quarters in fiscal 2025. In total, these changes lower Q1 fiscal 2025 revenue by approximately $160 million and are largely related to more frequent product updates, beginning in Q4 of fiscal 2024, to align the customer delivery experience to our subscription model. Accordingly, we expect Q1 desktop ecosystem revenue to decline approximately 20% for Q1, but for desktop ecosystem revenue to return to growth in Q2. Overall, we expect desktop ecosystem revenue to grow in the low-single-digits in fiscal 2025. Turning to Credit Karma. Credit Karma revenue growth improved each quarter during fiscal 2024, from a 5% decline in Q1 to 14% growth in Q4. On a product basis in Q4, auto insurance accounted for 6 points of growth, personal loans accounted for 5 points, credit cards accounted for 2 points, and Credit Karma Money accounted for 1 point. Full-year revenue was $1.7 billion, up 5%. We are pleased with the momentum driven by our relentless focus on what matters most to our members and partners. We made strong progress this year redesigning the Credit Karma app to enable members to see much more of their financial life and find the products right for them. We also introduced Intuit Assist to deliver personalized financial insights using data and AI, increased monetization in the underpenetrated Prime segment, and made it easier than ever for consumers to benefit from the Credit Karma and TurboTax product integration. I\u2019m proud of the progress the team made innovating on behalf of our members and partners. Consumer and ProTax Groups. Consumer Group revenue of $4.4 billion grew 7% in fiscal 2024 as we continue to revolutionize how taxes get done for consumers and small businesses. TurboTax Live revenue grew 17%, and customers grew 11%. Full-service customers doubled, while those new to TurboTax tripled. We are pleased with the momentum we saw with TurboTax Live again this season. Turning to the ProTax Group, revenue was $599 million in fiscal 2024, up 7%. In summary, I\u2019m pleased with our continued momentum this fiscal year and our opportunities ahead. Shifting to our balance sheet and capital allocation. Our financial principles guide our decisions; they remain our long-term commitment and are unchanged. We finished the quarter with approximately $4.1 billion in cash and investments and $6 billion in debt on our balance sheet. We repurchased $255 million of stock during the fourth quarter and $2.0 billion during fiscal 2024. Depending on market conditions and other factors, our aim is to be in the market each quarter. The Board approved a quarterly dividend of $1.04 per share, payable on October 18, 2024. This represents a 16% increase versus last year. Moving on to guidance, our fiscal 2025 guidance includes: Total company revenue of $18.16 billion to $18.347 billion, growth of 12% to 13%. Our guidance includes revenue growth of 16% to 17% for the Small Business and Self-Employed Group, including online ecosystem revenue growth of approximately 20% and desktop ecosystem revenue growth in the low-single-digits. Our guidance also includes revenue growth of 7% to 8% for the Consumer Group, and 5% to 8% for Credit Karma. GAAP diluted earnings per share of $12.34 to $12.54, growth of 18% to 20%; and non-GAAP diluted earnings per share of $19.16 to $19.36, growth of 13% to 14%. We expect a GAAP tax rate of approximately 23% in fiscal 2025. GAAP guidance reflects an expected $24 million restructuring charge related to the reorganization we announced in July. Our guidance for the first quarter of fiscal 2025 includes: Total company revenue growth of 5% to 6%, including: Small Business and Self-Employed group revenue growth of 6% to 7%, reflecting the revenue shift in Q1 resulting from the desktop offering changes that I noted earlier. We expect desktop ecosystem revenue to decline approximately 20% in Q1, and the online ecosystem, which is our growth catalyst, to accelerate to approximately 19% growth in Q1. For Credit Karma, we expect revenue to grow in Q1. And for Consumer Group and ProTax revenue to decline in Q1, as we are lapping the period a year ago that included the extended California tax filing deadline. GAAP earnings per share of $0.61 to $0.66, and non-GAAP earnings per share of $2.33 to $2.38. GAAP guidance reflects an expected $19 million restructuring charge that we expect to incur in Q1 related to the reorganization we announced in July. You can find our full fiscal 2025 and Q1 guidance details in our press release and on our fact sheet. I will now shift to our long-term growth expectations for each of our business segments. First, small business. With the momentum we see in online ecosystem growth, we are reiterating our long-term revenue growth expectations for the Small Business and Self-Employed Group of 15% to 20%. As part of this, we continue to expect online paying ARPC growth of 10% to 20%, and we now expect online paying customer growth of 5% to 10%. This reflects our shift in emphasis towards ARPC as we scale mid-market, drive growth in services, and reshape how we go-to-market as one business platform to significantly increase adoption of all our offerings. While there are relatively fewer mid-market customers, the ARPC of mid-market QuickBooks Online customers is nearly 3 times higher than other QuickBooks Online customers. Turning to Credit Karma, we are excited about the opportunity ahead as we execute our strategy to more deeply penetrate our core verticals, scale in growth verticals and execute our consumer ecosystem strategy. With the learnings from operating in the current business cycle, we are updating our long-term revenue growth expectations to 10% to 15%, reflecting the current size and scale of the business, and as we focus on creating seamless, end-to-end experiences with TurboTax that benefit consumers from year-round. Finally, the Consumer Group. Based on the momentum we saw this season, and the significant runway we have ahead to penetrate our TAM, we expect assisted penetration to be the key driver of future growth. TurboTax Live revenue accounted for approximately 30% of Consumer Group revenue in fiscal 2024, and we expect it to become the majority of Consumer Group revenue in the coming years. With that context, while we are scaling assisted, we are adjusting the Consumer Group long-term revenue growth rate to 6% to 10% in this interim period, with TurboTax Live revenue expected to grow 15% to 20%. One final note before I wrap up. Starting in Q1, we will be changing the name of our Small Business and Self-Employed Group to Global Business Solutions Group. This new name better aligns with the global reach of the Mailchimp and QuickBooks platform, and our focus on serving both small and mid-market businesses, and our vision to become the end-to-end platform that customers use to grow and run their business. With that, I\u2019ll turn it back over to Sasan.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "Thanks, Sandeep. We are confident in our long-term growth strategy, including double-digit revenue growth and operating income growing faster than revenue. We have the strategy to win given the green shoots we're observing, and with less than 5% penetration of our $300 billion in TAM, with a massive runway ahead. We look forward to seeing all of you at our Investor Day next month, where we\u2019ll unpack all of this and more. Let\u2019s now open it up to your questions.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you, Mr. Goodarzi. We'll go first this afternoon to Siti Panigrahi at Mizuho.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Siti Panigrahi",
+      "title": "Analyst",
+      "content": "Thank you. I have a question for Sasan regarding the small business segment. The 19% growth is impressive, especially in the current environment where we are hearing about weakness among SMBs. I want to focus on your growth plans for fiscal '25 and beyond. It appears that your strategy is shifting towards targeting the mid-market, which you've mentioned and renamed. Can you explain how significant the opportunity is for expanding into the mid-market? Why do you believe this is the right time for Intuit to enhance its focus in this area? Are you primarily aiming to attract more of your QuickBooks customers, or are you also looking to gain market share from other competitors?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "Thank you for your question, Siti. First, I want to emphasize our continued focus on Small Businesses because we want to grow alongside them. In this context, we've intensified our efforts on the mid-market, which has been a strategic focus for us over the past five years. Five years later, I can confidently say that we are gaining significant momentum. Now, to address your question, we have developed a business suite that encompasses all the necessary tools for businesses to grow their customer base, manage their clients, control their cash flow, and handle their accounting efficiently, all in one location. With our AI-powered innovations and expertise, we are providing top-notch support and services to our clients.  Currently, we are advancing in two key areas. First, we are presenting a unified platform instead of various components to enhance our service penetration, responding to businesses that prefer to manage everything from a single source. Secondly, we are excited to share at Investor Day a platform that enables us to reach further into the mid-market, allowing us not only to grow with existing customers but also to attract new ones. It's worth noting that many mid-market customers currently do not use our services and are spending significant amounts on various applications and services that do not integrate well with each other. Our comprehensive enterprise suite aims to target and accelerate our approach to these mid-market customers. We aim to extend our reach beyond businesses with 10 to 100 employees. This strategy combines our focus on smaller customers while intensifying our efforts on larger ones, which is key to driving our confidence in achieving substantial online ecosystem revenue growth, as mentioned by Sandeep, alongside our acceleration in Q1.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Siti Panigrahi",
+      "title": "Analyst",
+      "content": "Thank you. I look forward to hearing more at the investors' day.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. We go next now to Alex Zukin at Wolfe Research.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Alex Zukin",
+      "title": "Analyst",
+      "content": "Thank you for the question. I wanted to inquire about the Consumer guidance for the upcoming year and the updated mid-term outlook. Could you explain the reasoning behind starting the annual guidance there and what factors might lead to unexpected positive outcomes as the tax season advances? Additionally, Sasan, could you share your perspective on the broader economic environment that this Consumer guidance is based on?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "Thank you for your question, Alex. I'll address the macro environment first. We have only considered the current conditions and are not factoring in any potential benefits from the macro landscape. Our guidance is based on the trends and momentum we're currently experiencing, focusing primarily on our execution. Regarding the total tax market, it stands at around $35 billion, with $5 billion in do-it-yourself services and approximately $30 billion in assisted services for consumers and businesses. We are seeing strong progress; for instance, TurboTax Live grew 17% last year, with full-service customers doubling and new franchise customers tripling. This gives us confidence that TurboTax Live will grow between 15% to 20%. We have adjusted our long-term expectations to be cautious, as TurboTax Live, which currently represents 30% of our franchise, needs to grow significantly before we can raise those expectations. It's also worth noting that the do-it-yourself segment is crucial for us. We are experiencing fast growth, specifically among complex, higher-income customers, and we are determined to gain more market share. Additionally, we have promising results from our efforts to reach lower-income customers this year, leveraging our Credit Karma platform to provide value beyond tax services. The potential upside to our guidance for TurboTax comes from two areas: exceeding the 15% to 20% growth rate in assisted tax and further accelerating growth among complex, higher-income DIY customers. We are well-positioned for the necessary innovations and strategies to succeed in both areas in the coming years, which is where our confidence is derived.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Alex Zukin",
+      "title": "Analyst",
+      "content": "Okay. Thank you, guys.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. We go next now to Brad Zelnick with Deutsche Bank.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brad Zelnick",
+      "title": "Analyst",
+      "content": "Great. Thanks so much for taking the question. Sasan, I wanted to ask about the restructuring, which I know you take very seriously. We appreciate it wasn't motivated by cost savings, but rather to better position the company ahead. How are you thinking about reinvesting any savings as it takes time to staff back up to prior levels? Are there specific initiatives that dollars get allocated to? Any additional color would be great. Thanks.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "Of course, Brad. I want to begin by emphasizing that we prioritize talent, compassion, and care within our culture. This has been a very difficult decision, and we have taken great care of our teams, both those who remain and those affected, ensuring they're engaged and excited about our future. It is essential for us to handle these situations with care, as we believe positioning the company for the future is vital. As we shared, our plan involves reinvesting all the funds into five specific areas that have shown promising growth over the past few years, particularly toward the end of last fiscal year, which influenced our decision to focus on these areas. We intend to allocate all those funds across marketing, customer success, and additional engineering headcount. It\u2019s important to note that we don't expect these investments to yield immediate returns in the upcoming year. Our guidance does not incorporate the impact of the increased headcount; instead, we are positioning ourselves for the next two to three years. This is crucial for everyone to understand, as it poses no risk to our execution strategy for the coming year. Overall, we are confident in the margin expansion we've discussed, driven both by our platform\u2019s efficiencies and our AI investments aimed at increasing productivity.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Sandeep Aujla",
+      "title": "CFO",
+      "content": "Brad, the only thing I would add is we didn't have a standing start as we made that announcement. We were already contemplating as you probably saw from our open job listings, those had increased over the last quarter. We started building out our mid-market go-to-market function as well as scaling our marketing activities, particularly as we go after the assisted tax category, which has a different marketing timing than the DIY category.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Brad Zelnick",
+      "title": "Analyst",
+      "content": "Thanks, Sandeep. Look forward to seeing you guys at Investor Day.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. We'll go next now to Brent Thill at Jefferies.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brent Thill",
+      "title": "Analyst",
+      "content": "Thanks. Sasan, when you think about the Mailchimp reacceleration, what do you need to put in place to enable that to get to the level you'd like to see?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "Yes. There are really three areas that we've been executing that are worth calling out that we're excited about. One is the integration with the QuickBooks platform. As I mentioned earlier, one of the biggest areas why we're able to accelerate our customer growth with U.S. QBO, customer growth of 11%, the QBO advanced to 28% is really creating a suite where our platform is all in one place. So that's one area that we are aggressively focused on data and tech integration. And of course, workflow integration, and we're making great progress on that front. That's number one. Number two is mid-market. That is an area where it was critical when we declared the acquisition of Mailchimp, we're building momentum. Both, by the way, what we're doing to integrate the offering, but also our go-to-market capabilities. As we announced, I think, last quarter, Greg Johnson is now back with Intuit. He runs all of our go-to-market for all of small business, and we've brought together our sales and marketing and customer success across Mailchimp and QuickBooks to be able to be better positioned for mid-market. And then last is international. Those are the three areas that we're very focused on. And when we look at our KPIs, we're making solid progress against those three areas, and that's one of the reasons why it leaves us excited about the coming year and the future.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. We go next now to Keith Weiss at Morgan Stanley.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Keith Weiss",
+      "title": "Analyst",
+      "content": "Excellent. Thank you guys for taking the questions and congratulations on a really solid quarter. I wanted to ask about the acceleration in QBO into Q1. We've seen two quarters of deceleration in both QuickBooks online subscriptions and the online services. The confidence in the acceleration, is that based upon like price increases? Or is there something you're seeing in units or other parts of the business that are giving you guys confidence in guiding towards an acceleration for Q1? And then as a follow-up, talked a lot about where the reinvestment of the dollars or the heads from the headcount reduction came from. Can you give us a little bit of visibility of where those heads came out of? Like what are the parts of the business that you guys are paring back investment in?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "Thank you for your question, Keith. I'll address your first question. Our acceleration comes from three main areas. First, there's an increase in services, including payments, payroll, our live platform, and what we anticipate from Mailchimp. The second area is mid-market, where we've seen good traction with QBO events and are building our go-to-market efforts based on our platform capabilities. This is reflected in our Q1 outlook, and we expect our online ecosystem revenue to align with last year's growth of 20%. The third area is pricing. These three factors have significantly contributed to our acceleration. Notably, our customers have shared that having a comprehensive business suite in one place saves them time and reduces their labor needs. This enables them to grow their customer base more effectively and manage their cash flow better due to our digitization efforts, which enhances our pricing power, particularly with our premium products. These factors provide us with confidence going into Q1 and beyond. Most of our business is subscription-based, making it very predictable.  Regarding your second question about the restructuring, there are several key areas to highlight. The largest segment involved identifying opportunities for improved performance among about 8% of our workforce. These are skilled individuals who will find great opportunities elsewhere. This reduction was not focused on a specific area, which mitigates any execution risk since it was a company-wide decision aimed at upgrading talent. Additionally, we consolidated some of our technology teams by closing locations in Boise and Edmonton and centralizing our technology talent in key regions like Tel Aviv, Bangalore, Atlanta, and Toronto. These were the main factors driving the restructuring, and we are reallocating all resources to the five areas I mentioned earlier.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Sandeep Aujla",
+      "title": "CFO",
+      "content": "The only thing I would add, Keith, to Sasan's first part of that question. If you recall in my prepared remarks, I talked about QBO U.S. growing 11%, advance growing 28%. These larger customers tend to adopt and use services at a higher rate than the self-employed that decline, so that's an important attribute to keep in mind. And secondly, on pricing, we look at pricing very carefully, our price volume mix and well over half of our growth comes from volume and mix. And at the company level, the contributions for price are relatively consistent year-over-year while they are slightly higher in the Small Business group. So that's the second component to keep into mind as we look at the trajectory heading into Q1.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Keith Weiss",
+      "title": "Analyst",
+      "content": "Super helpful. Thank you guys.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "We'll go next now to Kash Rangan at Goldman Sachs.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Kash Rangan",
+      "title": "Analyst",
+      "content": "Thank you very much, team. It's great to see a positive conclusion to the fiscal year along with encouraging guidance. I couldn't help but notice that your Small Business Self-Employed Group is now operating at a rate of around $10 billion as of this latest quarter. Very few companies in the enterprise software space reach that $10 billion mark, and congratulations on achieving that milestone, primarily driven by finance, along with payments and payroll. This positions you alongside ServiceNow, which is also growing at a slightly faster rate, and you're moving upmarket with a more advanced SKU mix, reducing the presence of lower-value units. From my perspective, this has been a significant success, positioning your revenue among the largest enterprise software companies globally. You've come a long way; what other heights can you reach with this business? And I'm relieved I\u2019m not the one asking about taxes. Thank you.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "Thank you for your question, Kash. As you saw in our guidance, we're projecting our Global Business Solutions Group to exceed $11 billion, with an anticipated growth of 16% to 17% in the coming year, especially with online growth at 20%. It's important to note that this has been achieved without significant contributions from mid-market. The best is yet to come as we continue our progress. Looking back at where we were three years ago, we now have a comprehensive business suite equipped with all the essential capabilities necessary for companies to grow and manage their operations. Over the past five years, we've been investing to strategically pursue the mid-market segment. Our ultimate aim is to have all major brand names on our mid-market platform, and we plan to share something exciting at our Investor Day that will enable us to better serve these larger clients. When we envision the future, we are genuinely thrilled about our position as we have built a strong foundation without substantial mid-market contributions thus far. We aim to continue supporting smaller businesses, but now we see a real chance to excel in the mid-market space. I want to emphasize a crucial point: the mid-market segment for financial management platforms is not overly crowded, giving us a significant opportunity to succeed. This aligns with the feedback we receive from accountants and mid-market companies. We are eagerly looking forward to the next phase of growing our business from our current $10 billion to even larger figures over the next three to five years.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Kash Rangan",
+      "title": "Analyst",
+      "content": "Thank you, Sir. $10 onto $20. Thank you.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. We'll go next now to Kirk Materne at Evercore ISI.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Kirk Materne",
+      "title": "Analyst",
+      "content": "Yes, thanks. I\u2019ll echo my congrats on the quarter and upbeat guidance in the next year. I guess, Sasan, my question comes around sort of the Global Business Solutions Group. How are you thinking about Intuit Assist impact on that in the coming year. Where is that sort of in the integration process? I'd just be curious about how you see that empowering your customers, maybe growing, helping in areas like mid-market or attach rates on some of your other products in that area. So why don't you just answer that, discuss Intuit Assist on the small business side.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "Yes, thank you for the question. First, I want to clarify that we haven't included anything about Intuit Assist in our guidance for the upcoming year. We have significant momentum with Intuit Assist, which you'll see more about at Investor Day. As I mentioned earlier, around 1 million businesses are currently engaging with Intuit Assist, and it will play a crucial role in our future. This initiative is grounded in what we committed to six years ago regarding data and AI, with a focus on providing experiences where we handle tasks for our customers. Our customers are utilizing various features, such as launching marketing campaigns and generating proposed revenue that we can help execute. They can take pictures of estimates while on the go, and we'll digitize those into estimates or invoices, including payment schedules, all within our platform. We also remind them about overdue invoices and provide access to capital. Our main focus right now is on managing cash flow, which is critical for our customers. Ultimately, our goal, leveraging our strengths in data and AI, is to handle all the work for our clients. The examples I've shared illustrate our path towards that objective. We believe this will positively impact new customer growth, especially among smaller businesses, and increase service adoption. For instance, customers can simply take a picture of a scribbled note or upload a PDF, and we will convert that into estimates, invoices, and progress payments, generating revenue for us. Furthermore, our platform will incorporate AI-powered live expertise, which will create monetizable opportunities with the aim of providing comprehensive support for our customers. This will significantly enhance our growth and customer experience in the future, and we'll showcase this progress at Investor Day. To reiterate, none of this is included in our guidance, but it's an important part of our future, and we're excited about it.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Kirk Materne",
+      "title": "Analyst",
+      "content": "Super. Thank you so much.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. We'll go next now to Kartik Mehta at Northcoast Research.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Kartik Mehta",
+      "title": "Analyst",
+      "content": "Good evening, Sansa and Sandeep. Just a question on tax. Sasan, it seems as though you're executing on the live products, you're starting to execute on the full service. I'm just wondering what was the thought of maybe lowering guidance now, considering the momentum you're building in the business?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "Thank you for the question. First, I want to emphasize that we operate on a single platform, which is a significant advantage for us. Customers have the option to handle their taxes independently, seek assistance, or let us manage it for them, all using the TurboTax platform. Our virtual experts utilize customer data and AI capabilities to assist with their tax needs. It's essential to understand that we are not offering numerous products but rather one cohesive platform, which is crucial for achieving the scale we desire.  When it comes to setting long-term expectations, we approach these decisions with great care. Approximately 5.5 years ago, when I assumed the role of CEO, we adjusted our long-term tax expectations, and we take these matters very seriously. This is something we've contemplated for a while. It boils down to a straightforward calculation. The total addressable market is $35 billion, broken down into $5 billion for do-it-yourself and $30 billion for assisted services across both consumer and business segments. This area offers our most substantial growth potential, currently seeing growth figures of 17% with an 11% increase in customers. It constitutes 30% of our franchise today, and we plan to aggressively target do-it-yourself options, especially for complex, higher-income customers. Additionally, based on encouraging trends observed this year, we will be proactive in addressing lower-income individuals within the do-it-yourself segment.  Given these circumstances, we believed it was the right moment to prudently guide for the upcoming year while also revising our long-term expectations. As Sandeep mentioned, this is a temporary adjustment. Once we achieve sustained double-digit growth, we will reevaluate our long-term projections. Until that point, this informs the decision we made.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Kartik Mehta",
+      "title": "Analyst",
+      "content": "And just one follow-up, Sasan, as you look at the health of the Small Business, any change as you look throughout the quarter? Any changes that may be give you concern or hope what's happening to your customers?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "The headline I would give you, Kartik, is stable. Across our small businesses, we generally, differs by the way, by sector, by state, by country. But at an Uber level, we see revenue and profitability up in this fiscal year for businesses that we serve. We see cash reserves still down 6% to 7% compared to last year, but it's way up compared to pre-pandemic levels. We also see hours worked higher. So headline is stable. And by the way, we see the same thing on the consumer side, which is stable.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Kartik Mehta",
+      "title": "Analyst",
+      "content": "Okay, thank you very much. Appreciate it.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. We'll go next now to Daniel Jester with BMO Capital Markets.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Daniel Jester",
+      "title": "Analyst",
+      "content": "Great. Thanks for taking my question. It was great to hear about QBO Live, the number of clients more than tripling. Can you maybe spend a moment talking about what's resonating there? And as you sort of move more into the middle market, what's the opportunity for QBO Live to accelerate that more upmarket push?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "Thank you for the question. Let me address what has resonated with smaller businesses. We have achieved product market fit, meaning our platform experts are effectively assisting businesses with bookkeeping and accounting. The primary challenge we've faced over the past year is understanding how to communicate the value of our offerings and how to market them. The good news is that every business interacts with a bookkeeper or accountant at some point each year. We are not trying to create demand; the demand exists. However, it is often manual, fragmented, and costly. Our focus has been on helping customers recognize that this service is now integrated into our platform, and we can assist with their key challenges. We've made significant progress in this area, yet we acknowledge that there's still more to do. We are excited about our decision to integrate AI-powered experts into our offerings as we look forward. Furthermore, there's a much larger opportunity with bigger clients, as they expect services such as rental CFOs and HR support. At our upcoming Investor Day, we'll discuss how we are intensifying our focus on the mid-market and providing a comprehensive suite of capabilities that businesses require. A significant part of this includes the expertise we offer. Our differentiator is that our platform includes AI-powered experts who can deliver a variety of services for our customers. We believe the opportunity becomes even larger as we move into the upmarket space. Lastly, although our sample sizes are still small, those clients utilizing live experts show higher engagement and usage of services like payments and payroll, which is beneficial for both customers and us.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Daniel Jester",
+      "title": "Analyst",
+      "content": "Great, thank you very much.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. We go next now to Arvind Ramnani at Piper Sandler.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Arvind Ramnani",
+      "title": "Analyst",
+      "content": "Hi, this is Arvind. Thank you for taking my questions. I have a couple of inquiries. In some previous calls, you shared more details about the benefits you're experiencing with AI.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "In and out. We can now, please go ahead and continue.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Arvind Ramnani",
+      "title": "Analyst",
+      "content": "I'm trying to get more information on the impact of AI that you've observed, both regarding revenue growth and cost savings in your business. Can you provide any details on the quantifiable benefits you are beginning to notice?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "Yes, thank you for your question. I want to highlight a couple of points. First, we're noticing the effects of our usage and innovation across all our platforms. For instance, Credit Karma is driving a significant amount of automation in TurboTax, where we are handling much of the work for our customers, including those using TurboTax full service, allowing experts to assist more clients. Additionally, the examples I shared earlier illustrate how this applies to our broader business platform. It's important to emphasize that this impact is widespread across our entire platform. We're also very focused on how AI is transforming our internal operations at Intuit. Right now, the revenue impact is not significant, and we haven't included any projections for the upcoming year, but we anticipate it will be a major growth driver in the coming years. Growth will stem from increased service usage, improved conversion rates, and better customer retention. We're already seeing promising signs with a million businesses utilizing these services. Regarding our cost structure, keep in mind that data and AI have been central to our investment strategy over the past five to six years. Our operations are not capital intensive, and we are deliberate about the investments required to succeed in the AI landscape, which have already been factored into the guidance you heard from Sandeep. Sandeep, would you like to add anything?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Sandeep Aujla",
+      "title": "CFO",
+      "content": "No, I think that covers. 1 thing to keep in mind as we compare us to possibly other companies in your portfolio, one point, AI sort of really been in our run rate. So I wouldn't expect any meaningful change in our cost structure. Secondly, we use AWS for a lot of the processing. So it's not like we're building up our own data centers. So that's also very asset light for us. And the other factor, as Sasan alluded to, we are quite frankly also seeing improvements in our own productivity. We are seeing improvements in our developer productivity. We're seeing improvements in our overall G&A productivity. So just factors to keep in mind that AI should not be not getting in the way of our commitment to continue to find operating leverage and continue to scale our margin over time.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Arvind Ramnani",
+      "title": "Analyst",
+      "content": "Perfect. And just one quick follow-up. Just on TurboTax Live, as you're thinking of kind of directing questions or your customers to having kind of AI sort of answer it versus QuickBooks Live or sort of the kind of accountant or CPA. Obviously, the AI is going to be like a lower ARPU versus like directing someone who is basically like more like service-oriented. How do you balance that? Because does come at like a higher ARPU, but lower margin. And of course, AI is lower revenue, lower ARPU but higher margins. How do you balance it out?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "Yes. I think the premise of what you're articulating is not what we're seeing. We actually believe that based on all of our investments with data and AI, it's actually higher ARPU because it drives better attach of our services. It actually drives more attach of our human-powered expertise. And by the way, when our human-powered experts or AI-powered human experts get involved, they're actually quite effective and productive because they're sitting on our data and AI platform. So we're actually seeing two things. One, higher ARPU over time because of what I articulated, but also more effective and efficiency on our platform because we are as aggressive as we are in applying AI externally we are as aggressive internally based on what you just heard Sandeep talk about. So it's actually the reverse of the premise that you talked about in terms of what we see. I don't know, Sandeep, if you would add anything.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Sandeep Aujla",
+      "title": "CFO",
+      "content": "Yes. It's important to remember that the key aspect of AI is building confidence and reducing fear, uncertainty, and doubt. By utilizing AI and our AI-powered experts, we are achieving this on a large scale. This approach is also enabling us to expand the range of customers we can serve and effectively target a larger total addressable market. This is a major factor behind the success seen in the assisted category. Some customers fully outsource to us, while others collaborate with us. It's worth considering the strategic opportunities this creates for us.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Arvind Ramnani",
+      "title": "Analyst",
+      "content": "That's been really helpful, Thank you very much.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. We go next now to Brad Sills with Bank of America.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brad Sills",
+      "title": "Analyst",
+      "content": "Okay, wonderful. I wanted to ask a question around the platform for AI, the GenOS and the studio that you've outlined in the past, I know it's a little further out to start thinking about separate SKUs, and it sounds like this is more of a conversion and a retention play in the near term. But what were some of the learnings that you had over the course of the year in building out that platform for AI, harnessing the data and some of the platform components that you've outlined at the Analyst Day last year that are underpinning that.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "Sure. First of all, let me start with your question around the SKUs. This is a progression, and this is a really important element to call out. What you heard us talk about is that we believe, and we're seeing this in our proof points. And the green shoots that we're seeing is that, one, this will drive new customer growth because we will just make it far easier and simpler for a new customer to use our digital platform that comes with AI-powered experts. Two, we believe that it's an opportunity for the adoption of our services, which also includes Live. Services like payments, payroll, Mailchimp and our live platform, which is our AI-powered human experts. And those are significant customer and growth drivers for us. The progression is as we are focused on the innovation that we articulated earlier, things such as literally a customer being able to take a picture of a scribble note, upload a PDF document for us to be able to put together an estimate all the way to getting them paid following up with their customers, putting marketing campaigns together for them. The progression is we'll get to a place where we'll actually test stand-alone SKUs where the AI agent is doing everything for the customer. And that could be a stand-alone SKU that we could test sometime in the future, but you have to progress your way to that. And that's really what the element of progression talks to. The last thing, which I think was the other element of your question, what we're doing is really hard, which we love because it's hard to replicate. And what's hard about it is, first, you have to have the data. And we have a lot of data. It's our customers' data. But when you look at for every business, we have 500,000 data points. That means we are uniquely positioned to be able to help them with managing their cash flow because it's about their cash flow. It's not about something generic because we see all of their money coming in, money going out, the creditworthiness of their vendors, the employees that they have. And so the investments that we've made in the data has been more than ever crucial because then it allows us to leverage our GenOS platform, which is our GenAI capabilities and train the Intuit LLM on the customer's data to be able to then deliver the experiences that I was just articulating and our LLMS have agency and authority to be able to use other LLMs that could enhance the experience. So the biggest thing that we've learned to sort of punchline answer your question is the combination of the data investments, the investments we've made in knowledge engineering, machine learning and our LLM that really delivers accuracy performance cost effectively is extremely hard to copy because we live in a world of financial management, and that's really our biggest advantage going forward and really our biggest growth opportunity as we look ahead.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Brad Sills",
+      "title": "Analyst",
+      "content": "That's exciting. Thanks, Sasan.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. And ladies and gentlemen, that is all the time we have for questions this afternoon. At this time, Mr. Goodarzi, I'd like to turn things back to you for any closing comments, sir.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Sasan Goodarzi",
+      "title": "CEO",
+      "content": "Well, listen, everybody, thank you for your time. Thank you for all of your questions, and we hope to see all of you at Investor Day. Be safe. We'll see you soon. Bye-bye.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Ladies and gentlemen, that does conclude Intuit's Fourth quarter and fiscal year 2024 conference call. Again, thanks so much for joining us, everyone. We wish you all a great evening. Good-bye.",
+      "sentiment": "0.0"
+    }
+  ],
+  "reported_date": "2024-11-21"
+}
