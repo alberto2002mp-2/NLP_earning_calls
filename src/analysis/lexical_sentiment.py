@@ -79,24 +79,40 @@ FALLBACK_NEGATIVE_STEMS = {
 }
 
 OUTLOOK_START_PATTERN = re.compile(
-    r"(outlook|guidance|looking\s+ahead|looking\s+forward|move\s+ahead\s+into\s+the\s+\w+\s+quarter)",
+    r"(outlook|guidance|forecast|projection|looking\s+(ahead|forward)|move\s+ahead\s+into\s+the\s+\w+\s+quarter)",
     re.IGNORECASE,
 )
 
 OUTLOOK_CONTEXT_PATTERN = re.compile(
-    r"(for\s+the\s+(next|first|second|third|fourth)\s+quarter|for\s+fiscal\s+\d{4}|we\s+expect|we\s+anticipate)",
+    r"(for\s+the\s+(next|first|second|third|fourth)\s+quarter|fiscal\s+\d{4}|we\s+expect|we\s+anticipate|between\s+\d+\s+and\s+\d+)",
     re.IGNORECASE,
 )
 
 QNA_BOUNDARY_PATTERN = re.compile(
-    r"(question\s*-?\s*and\s*-?\s*answer|q\s*&\s*a|question\s+and\s+answer\s+session|operator.*first\s+question|open\s+.*questions)",
+    r"(question\s*-?\s*and\s*-?\s*answer|q\s*&\s*a|operator.*first\s+question|open\s+the\s+call\s+to\s+questions)",
     re.IGNORECASE,
 )
 
-QNA_OPERATOR_PROMPT_PATTERN = re.compile(
-    r"(your\s+(first|next|last)\s+question|question\s+comes\s+from|we\s+will\s+now\s+take\s+questions)",
-    re.IGNORECASE,
-)
+
+def _is_cfo_title(title: str) -> bool:
+    """Return True if speaker title indicates CFO role."""
+    t = title.lower()
+    # Match acronym and common long-form variants.
+    if re.search(r"\bcfo\b", t):
+        return True
+    if "chief financial officer" in t:
+        return True
+    if "cfo" in t:
+        return True
+    if "finance chief" in t:
+        return True
+    return False
+
+
+def _is_ceo_title(title: str) -> bool:
+    """Return True if speaker title indicates CEO role."""
+    t = title.lower()
+    return "ceo" in t or "chief executive officer" in t
 
 
 def load_stems() -> tuple[set[str], set[str]]:
@@ -143,54 +159,169 @@ def parse_symbol_and_date(path: Path) -> tuple[str, str] | None:
     return m.group(1), m.group(2)
 
 
-def isolate_outlook_paragraphs(transcript: list[dict]) -> list[tuple[int, str, str, str]]:
-    """Extract outlook paragraphs using marker-based start and Q&A boundary end.
+def _collect_outlook_for_role(
+    transcript: list[dict],
+    role: str,
+    context_grace_paragraphs: int,
+) -> dict:
+    """Collect outlook paragraphs with robust confirmation and boundary slicing.
 
-    Returns list of tuples: (paragraph_idx, speaker, title, content)
+    States:
+    - WAITING: wait for role speaker
+    - DISCOVERING_CONFIRMATION: start found; wait for context within grace window
+    - COLLECTING: include paragraphs until analyst/Q&A boundary
+    - STOPPED: terminate
     """
     selected: list[tuple[int, str, str, str]] = []
-    in_outlook = False
+    pending: list[tuple[int, str, str, str]] = []
+
+    state = "WAITING"
+    confirmation_deadline = -1
+
+    has_role_speaker = False
+    start_matched = False
+    context_confirmed = False
+    boundary_collision = False
 
     for idx, para in enumerate(transcript):
         content = str(para.get("content", "")).strip()
         speaker = str(para.get("speaker", "Unknown")).strip() or "Unknown"
         title = str(para.get("title", "")).strip()
         title_lower = title.lower()
-        speaker_lower = speaker.lower()
 
         if not content:
             continue
 
-        # Once outlook has started, stop when Q&A begins.
-        if in_outlook:
-            if QNA_BOUNDARY_PATTERN.search(content):
-                break
-            if speaker_lower == "operator" and QNA_OPERATOR_PROMPT_PATTERN.search(content):
-                break
-            if "analyst" in title_lower:
+        is_role = _is_cfo_title(title) if role == "CFO" else _is_ceo_title(title)
+        has_role_speaker = has_role_speaker or is_role
+
+        start_match = OUTLOOK_START_PATTERN.search(content)
+        context_matches = len(list(OUTLOOK_CONTEXT_PATTERN.finditer(content)))
+        boundary_match = QNA_BOUNDARY_PATTERN.search(content)
+        is_analyst = "analyst" in title_lower
+
+        # Resilient slicing: if a role paragraph has both start and boundary,
+        # collect only text before boundary and stop immediately.
+        if is_role and start_match and boundary_match:
+            prefix = content[: boundary_match.start()].strip()
+            if prefix:
+                start_matched = True
+                context_confirmed = context_confirmed or context_matches >= 1
+                selected.append((idx, speaker, title, prefix))
+                state = "STOPPED"
                 break
 
-        if QNA_BOUNDARY_PATTERN.search(content):
+        if state == "WAITING":
+            if is_role and start_match:
+                start_matched = True
+                pending.append((idx, speaker, title, content))
+                confirmation_deadline = idx + context_grace_paragraphs
+
+                # CEO fallback rule: confirm when context appears in same paragraph
+                # or the immediate subsequent paragraph.
+                if role == "CEO" and context_matches >= 1:
+                    context_confirmed = True
+                    selected.extend(pending)
+                    pending.clear()
+                    state = "COLLECTING"
+                elif role == "CFO" and context_matches >= 1:
+                    context_confirmed = True
+                    selected.extend(pending)
+                    pending.clear()
+                    state = "COLLECTING"
+                else:
+                    state = "DISCOVERING_CONFIRMATION"
             continue
 
-        is_start = bool(OUTLOOK_START_PATTERN.search(content))
-        has_context = bool(OUTLOOK_CONTEXT_PATTERN.search(content))
+        if state == "DISCOVERING_CONFIRMATION":
+            # Boundary before confirmation means collision only if we cannot slice.
+            if is_analyst or boundary_match:
+                # Recall safeguard: preserve pending start paragraphs even if
+                # Q&A begins before explicit context confirmation.
+                if pending:
+                    selected.extend(pending)
+                    pending.clear()
+                else:
+                    boundary_collision = start_matched and not context_confirmed
+                state = "STOPPED"
+                break
 
-        if is_start:
-            in_outlook = True
+            pending.append((idx, speaker, title, content))
+
+            if context_matches >= 1:
+                context_confirmed = True
+                selected.extend(pending)
+                pending.clear()
+                state = "COLLECTING"
+                continue
+
+            if idx >= confirmation_deadline:
+                # Context not confirmed in grace window, reset.
+                pending.clear()
+                state = "WAITING"
+                continue
+
+        if state == "COLLECTING":
+            if is_analyst or boundary_match:
+                state = "STOPPED"
+                break
             selected.append((idx, speaker, title, content))
             continue
 
-        if in_outlook:
-            selected.append((idx, speaker, title, content))
-            continue
+    return {
+        "selected": selected,
+        "has_role_speaker": has_role_speaker,
+        "start_matched": start_matched,
+        "context_confirmed": context_confirmed,
+        "boundary_collision": boundary_collision,
+    }
 
-        # Also allow high-confidence CFO guidance context lines to begin outlook.
-        if has_context and ("cfo" in title.lower() or "chief financial officer" in title.lower()):
-            in_outlook = True
-            selected.append((idx, speaker, title, content))
 
-    return selected
+def isolate_outlook_paragraphs(
+    transcript: list[dict],
+) -> tuple[list[tuple[int, str, str, str]], str, str]:
+    """Hierarchical outlook isolation with CFO-first and CEO fallback.
+
+    Returns:
+        (outlook_paragraphs, source_speaker_title, status_note)
+        source_speaker_title in {"CFO", "CEO", "None"}
+    """
+    cfo_result = _collect_outlook_for_role(
+        transcript,
+        role="CFO",
+        context_grace_paragraphs=3,
+    )
+    if cfo_result["selected"]:
+        return cfo_result["selected"], "CFO", "Success_CFO"
+
+    # CEO fallback: require start and context in same or subsequent paragraph.
+    ceo_result = _collect_outlook_for_role(
+        transcript,
+        role="CEO",
+        context_grace_paragraphs=1,
+    )
+    if ceo_result["selected"]:
+        return ceo_result["selected"], "CEO", "Success_CEO"
+
+    any_speaker = cfo_result["has_role_speaker"] or ceo_result["has_role_speaker"]
+    any_start = cfo_result["start_matched"] or ceo_result["start_matched"]
+    any_context = cfo_result["context_confirmed"] or ceo_result["context_confirmed"]
+    any_boundary_collision = (
+        cfo_result["boundary_collision"] or ceo_result["boundary_collision"]
+    )
+
+    if not any_speaker:
+        status_note = "Fail_No_Speaker"
+    elif any_boundary_collision:
+        status_note = "Fail_Boundary_Collision"
+    elif not any_start:
+        status_note = "Fail_No_Start"
+    elif not any_context:
+        status_note = "Fail_No_Context"
+    else:
+        status_note = "Fail_No_Context"
+
+    return [], "None", status_note
 
 
 def score_outlook_text(
@@ -224,7 +355,52 @@ def score_outlook_text(
     return score, pos_count, neg_count, total_words
 
 
-def append_result(symbol: str, reported_date: str, score: float) -> None:
+def _ensure_output_header() -> None:
+    """Ensure CSV header contains source_speaker_title and status_note."""
+    expected_header = [
+        "symbol",
+        "reported_date",
+        "methodology",
+        "outlook_sentiment_score",
+        "source_speaker_title",
+        "status_note",
+    ]
+
+    if not OUT_CSV.exists():
+        return
+
+    rows = list(csv.reader(OUT_CSV.read_text(encoding="utf-8").splitlines()))
+    if not rows:
+        return
+
+    header = rows[0]
+    if header == expected_header:
+        return
+
+    migrated_rows = []
+    for row in rows[1:]:
+        if len(row) >= 6:
+            migrated_rows.append(row[:6])
+        elif len(row) == 5:
+            migrated_rows.append(row + ["Unknown"])
+        elif len(row) == 4:
+            migrated_rows.append(row + ["Unknown", "Unknown"])
+        else:
+            continue
+
+    with OUT_CSV.open("w", newline="", encoding="utf-8") as f:
+        writer = csv.writer(f)
+        writer.writerow(expected_header)
+        writer.writerows(migrated_rows)
+
+
+def append_result(
+    symbol: str,
+    reported_date: str,
+    score: float,
+    source_speaker_title: str,
+    status_note: str,
+) -> None:
     """Append one sentiment result row to the central CSV file."""
     PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -232,12 +408,31 @@ def append_result(symbol: str, reported_date: str, score: float) -> None:
     with OUT_CSV.open("a", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
         if not file_exists:
-            writer.writerow(["symbol", "reported_date", "methodology", "outlook_sentiment_score"])
-        writer.writerow([symbol, reported_date, METHOD, f"{score:.8f}"])
+            writer.writerow(
+                [
+                    "symbol",
+                    "reported_date",
+                    "methodology",
+                    "outlook_sentiment_score",
+                    "source_speaker_title",
+                    "status_note",
+                ]
+            )
+        writer.writerow(
+            [
+                symbol,
+                reported_date,
+                METHOD,
+                f"{score:.8f}",
+                source_speaker_title,
+                status_note,
+            ]
+        )
 
 
 def main() -> None:
     positive_stems, negative_stems = load_stems()
+    _ensure_output_header()
 
     json_files = sorted(RAW_DIR.glob("*.json"))
     if not json_files:
@@ -266,7 +461,9 @@ def main() -> None:
             print(f"Skipping {path.name}: transcript is not a list")
             continue
 
-        outlook_paragraphs = isolate_outlook_paragraphs(transcript)
+        outlook_paragraphs, source_title, status_note = isolate_outlook_paragraphs(transcript)
+
+        print(f"Company {symbol} - Outlook found via {source_title} ({status_note})")
 
         print(f"\n[{path.name}] Outlook paragraph candidates: {len(outlook_paragraphs)}")
         for idx, speaker, title, content in outlook_paragraphs:
@@ -279,7 +476,7 @@ def main() -> None:
             negative_stems,
         )
 
-        append_result(symbol, reported_date, score)
+        append_result(symbol, reported_date, score, source_title, status_note)
         processed += 1
         print(
             f"  => Score={score:.8f} | Pos={pos_count} Neg={neg_count} TotalWords={total_words}"
