@@ -31,10 +31,84 @@ RAW_DIR = Path(__file__).resolve().parents[2] / "data" / "raw" / "earnings_calls
 PROCESSED_DIR = Path(__file__).resolve().parents[2] / "data" / "processed"
 OUT_CSV = PROCESSED_DIR / "finbert_sentiment_results.csv"
 OUT_STANDARDIZED_CSV = PROCESSED_DIR / "finbert_sentiment_standardized.csv"
+OUT_TECH_CSV = PROCESSED_DIR / "finbert_sentiment_results_tech.csv"
+OUT_INDUSTRIALS_CSV = PROCESSED_DIR / "finbert_sentiment_results_industrials_transport.csv"
+OUT_TECH_STANDARDIZED_CSV = (
+    PROCESSED_DIR / "finbert_sentiment_standardized_tech.csv"
+)
+OUT_INDUSTRIALS_STANDARDIZED_CSV = (
+    PROCESSED_DIR / "finbert_sentiment_standardized_industrials_transport.csv"
+)
 
 METHOD = "FinBERT"
 MODEL_NAME = "ProsusAI/finbert"
 DEFAULT_SEED = 42
+
+TECH_SYMBOLS = {
+    "ACN",
+    "ADBE",
+    "AMD",
+    "AAPL",
+    "AMAT",
+    "AVGO",
+    "CSCO",
+    "INTC",
+    "IBM",
+    "INTU",
+    "MU",
+    "MSFT",
+    "NVDA",
+    "ORCL",
+    "PLTR",
+    "QCOM",
+    "CRM",
+    "NOW",
+    "TXN",
+}
+
+INDUSTRIALS_TRANSPORT_SYMBOLS = {
+    "MMM",
+    "AME",
+    "ADP",
+    "AXON",
+    "BA",
+    "CARR",
+    "CAT",
+    "CTAS",
+    "CPRT",
+    "CSX",
+    "CMI",
+    "DE",
+    "ETN",
+    "EMR",
+    "FAST",
+    "FDX",
+    "GEV",
+    "GD",
+    "GE",
+    "HON",
+    "HWM",
+    "ITW",
+    "JCI",
+    "LHX",
+    "LMT",
+    "NSC",
+    "NOC",
+    "PCAR",
+    "PH",
+    "PAYX",
+    "PWR",
+    "RSG",
+    "RTX",
+    "TT",
+    "TDG",
+    "UBER",
+    "UNP",
+    "UPS",
+    "URI",
+    "WM",
+    "GWW",
+}
 
 OUTLOOK_START_PATTERN = re.compile(
     r"(outlook|guidance|forecast|projection|looking\s+(ahead|forward)|move\s+ahead\s+into\s+the\s+\w+\s+quarter)",
@@ -355,6 +429,50 @@ def standardize_scores(df: pd.DataFrame) -> pd.Series:
     return (series - mean) / std
 
 
+def assign_sector(symbol: str) -> str:
+    """Map ticker symbol to sector bucket used by this project."""
+    if symbol in TECH_SYMBOLS:
+        return "Tech"
+    if symbol in INDUSTRIALS_TRANSPORT_SYMBOLS:
+        return "Industrials_Transport"
+    return "Other"
+
+
+def standardize_scores_by_sector(df: pd.DataFrame) -> pd.Series:
+    """Compute sector-wise z-scores excluding source_speaker=None rows.
+
+    Rules:
+    - Mean/std are computed separately for each sector.
+    - Rows with source_speaker == "None" are excluded from fit.
+    - Excluded rows are assigned z-score = 0.0.
+    """
+    z = pd.Series(0.0, index=df.index, dtype=float)
+
+    for sector in ["Tech", "Industrials_Transport", "Other"]:
+        sector_mask = df["sector"] == sector
+        fit_mask = sector_mask & (df["source_speaker"] != "None")
+        fit_values = pd.to_numeric(
+            df.loc[fit_mask, "outlook_sentiment_score"], errors="coerce"
+        ).dropna()
+
+        if fit_values.empty:
+            continue
+
+        mean = float(fit_values.mean())
+        std = float(fit_values.std(ddof=0))
+
+        if std == 0.0:
+            z.loc[fit_mask] = 0.0
+            continue
+
+        raw_values = pd.to_numeric(
+            df.loc[fit_mask, "outlook_sentiment_score"], errors="coerce"
+        )
+        z.loc[fit_mask] = (raw_values - mean) / std
+
+    return z.fillna(0.0)
+
+
 def _build_arg_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         description="Run FinBERT sentiment analysis over isolated outlook sections."
@@ -464,6 +582,7 @@ def main() -> None:
                 "outlook_sentiment_score": score,
                 "source_speaker": source_speaker,
                 "sentence_count": len(sentences),
+                "sector": assign_sector(symbol),
             }
         )
 
@@ -476,14 +595,22 @@ def main() -> None:
             "outlook_sentiment_score",
             "source_speaker",
             "sentence_count",
+            "sector",
         ],
     )
 
-    # Compute standardized values for downstream index aggregation workflows.
-    standardized_scores = standardize_scores(result_df)
+    # Compute standardized values with sector-specific fit.
+    standardized_scores = standardize_scores_by_sector(result_df)
 
     PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
     result_df.to_csv(OUT_CSV, index=False)
+
+    tech_df = result_df[result_df["sector"] == "Tech"].copy()
+    industrials_df = result_df[
+        result_df["sector"] == "Industrials_Transport"
+    ].copy()
+    tech_df.to_csv(OUT_TECH_CSV, index=False)
+    industrials_df.to_csv(OUT_INDUSTRIALS_CSV, index=False)
 
     if args.write_standardized:
         standardized_df = result_df.copy()
@@ -492,7 +619,22 @@ def main() -> None:
         standardized_df.to_csv(args.standardized_csv, index=False)
         print(f"Saved standardized scores to {args.standardized_csv}")
 
+        standardized_tech_df = standardized_df[standardized_df["sector"] == "Tech"].copy()
+        standardized_industrials_df = standardized_df[
+            standardized_df["sector"] == "Industrials_Transport"
+        ].copy()
+        standardized_tech_df.to_csv(OUT_TECH_STANDARDIZED_CSV, index=False)
+        standardized_industrials_df.to_csv(
+            OUT_INDUSTRIALS_STANDARDIZED_CSV, index=False
+        )
+        print(f"Saved sector standardized scores to {OUT_TECH_STANDARDIZED_CSV}")
+        print(
+            f"Saved sector standardized scores to {OUT_INDUSTRIALS_STANDARDIZED_CSV}"
+        )
+
     print(f"Saved {len(result_df)} rows to {OUT_CSV}")
+    print(f"Saved {len(tech_df)} rows to {OUT_TECH_CSV}")
+    print(f"Saved {len(industrials_df)} rows to {OUT_INDUSTRIALS_CSV}")
     _print_run_summary(result_df, source_counts, status_counts)
 
 
