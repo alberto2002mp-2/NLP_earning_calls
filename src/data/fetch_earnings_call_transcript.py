@@ -18,6 +18,30 @@ import requests
 
 BASE_URL = "https://www.alphavantage.co/query"
 OUTPUT_DIR = Path(__file__).resolve().parents[2] / "data" / "raw" / "earnings_calls"
+TECH_OUTPUT_DIR = OUTPUT_DIR / "tech"
+INDUSTRAILS_OUTPUT_DIR = OUTPUT_DIR / "industrails"
+
+TECH_SYMBOLS = {
+    "ACN",
+    "ADBE",
+    "AMD",
+    "AAPL",
+    "AMAT",
+    "AVGO",
+    "CSCO",
+    "INTC",
+    "IBM",
+    "INTU",
+    "MU",
+    "MSFT",
+    "NVDA",
+    "ORCL",
+    "PLTR",
+    "QCOM",
+    "CRM",
+    "NOW",
+    "TXN",
+}
 
 
 def _is_rate_limited_payload(data: dict) -> bool:
@@ -113,10 +137,18 @@ def get_reported_dates_for_year(symbol: str, year: int, api_key: str) -> list[tu
     return results
 
 
+def _resolve_output_dir(symbol: str) -> Path:
+    """Return tech/industrails output folder based on ticker symbol."""
+    if symbol.upper() in TECH_SYMBOLS:
+        return TECH_OUTPUT_DIR
+    return INDUSTRAILS_OUTPUT_DIR
+
+
 def save_transcript_json(data: dict, symbol: str, reported_date: str) -> Path:
-    """Persist API response to data/raw/earnings_calls/SYMBOL_YYYY-MM-DD.json."""
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    output_path = OUTPUT_DIR / f"{symbol.upper()}_{reported_date}.json"
+    """Persist API response to sector folder as SYMBOL_YYYY-MM-DD.json."""
+    output_dir = _resolve_output_dir(symbol)
+    output_dir.mkdir(parents=True, exist_ok=True)
+    output_path = output_dir / f"{symbol.upper()}_{reported_date}.json"
 
     with output_path.open("w", encoding="utf-8") as f:
         json.dump(data, f, indent=2)
@@ -230,7 +262,7 @@ def main() -> None:
                 try:
                     fiscal_dt = datetime.strptime(fiscal_date, "%Y-%m-%d")
                 except ValueError:
-                    print(f"  ✗ Invalid fiscal date format: {fiscal_date}")
+                    print(f"  [FAIL] Invalid fiscal date format: {fiscal_date}")
                     failed += 1
                     continue
 

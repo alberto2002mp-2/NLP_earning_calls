@@ -1,6 +1,6 @@
 """Transformer-based sentiment analysis (Methodology B) for earnings call outlook sections.
 
-This script scans JSON transcripts in data/raw/earnings_calls/, isolates outlook-related
+This script scans JSON transcripts in data/raw/earnings_calls/**, isolates outlook-related
 paragraphs using the same high-precision logic as lexical_sentiment.py, scores each
 sentence with ProsusAI/finbert, and writes results to:
     data/processed/finbert_sentiment_results.csv
@@ -540,9 +540,9 @@ def main() -> None:
     model.to(device)
     model.eval()
 
-    files = sorted(RAW_DIR.glob("*.json"))
+    files = sorted(RAW_DIR.rglob("*.json"))
     if not files:
-        print("No transcript JSON files found in data/raw/earnings_calls")
+        print("No transcript JSON files found in data/raw/earnings_calls/**")
         return
 
     rows: list[dict] = []

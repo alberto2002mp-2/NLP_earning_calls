@@ -1,6 +1,6 @@
 """Lexicon-based sentiment analysis (Methodology A) for earnings call outlook sections.
 
-This script scans JSON transcripts in data/raw/earnings_calls/, isolates outlook-related
+This script scans JSON transcripts in data/raw/earnings_calls/**, isolates outlook-related
 paragraphs, computes a Loughran-McDonald style bullishness score, and appends results to:
     data/processed/lexical_sentiment_results.csv
 
@@ -434,12 +434,12 @@ def main() -> None:
     positive_stems, negative_stems = load_stems()
     _ensure_output_header()
 
-    json_files = sorted(RAW_DIR.glob("*.json"))
+    json_files = sorted(RAW_DIR.rglob("*.json"))
     if not json_files:
         print(f"No JSON files found in: {RAW_DIR}")
         return
 
-    print(f"Processing {len(json_files)} transcript files from: {RAW_DIR}")
+    print(f"Processing {len(json_files)} transcript files from: {RAW_DIR} (recursive)")
 
     processed = 0
     for path in json_files:
