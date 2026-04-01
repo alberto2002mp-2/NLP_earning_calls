@@ -1,0 +1,529 @@
+{
+  "symbol": "ADP",
+  "quarter": "2024Q1",
+  "transcript": [
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Good morning. My name is Michelle, and I'll be your conference operator. At this time, I would like to welcome everyone to ADP's First Quarter Fiscal 2024 Earnings Call. I would like to inform you that this conference is being recorded. After the prepared remarks, we will conduct a question-and-answer session, instructions will be given at that time. I will now turn the conference over to Mr. Danny Hussain, Vice President, Investor Relations. Please go ahead.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Danyal Hussain",
+      "title": "Vice President, Investor Relations",
+      "content": "Thank you, Michelle, and welcome everyone to ADP's first quarter fiscal 2024 earnings call. Participating today are Maria Black, our President and CEO; and Don McGuire, our CFO. Earlier this morning, we released our results for the quarter. Our earnings materials are available on the SEC's website and our Investor Relations website at investors.adp.com where you will also find the investor presentation that accompanies today's call. During our call, we will reference non-GAAP financial measures, which we believe to be useful to investors and that exclude the impact of certain items. A description of these items along with a reconciliation of non-GAAP measures to the most comparable GAAP measures can be found in our earnings release. Today's call will also contain forward-looking statements that refer to future events and involve some risk. We encourage you to review our filings with the SEC for additional information on factors that could cause actual results to differ materially from our current expectations. I'll now turn it over to Maria.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "CEO",
+      "content": "Thank you, Danny, and thank you, everyone for joining us. This morning, we reported strong first quarter results, including 7% revenue growth and 12% adjusted EPS growth, and we made significant progress on the three strategic priorities we shared with you last quarter. Let me begin by quickly reviewing some of our financial highlights from the first quarter. We had a solid start to the year in Employer Services new business bookings with record-level volume for the first quarter, which was supported by a particularly strong September. Among our best performers were our small business portfolio and our compliance-oriented solutions. Overall demand in HCM has remained steady, and we maintained a healthy new business pipeline at the end of the quarter across our business. Our Employer Services retention rate once again exceeded our expectations. Although retention declined slightly versus the prior year, including in our small business portfolio, we continued to see resilience among our clients. More importantly, our overall NPS scores reached a new all-time high, positioning us to stay near these historically high retention levels. Our Employer Services pays per control growth was 2% for the first quarter as our clients continued to add employees at a pace that is gradually slowing. And our PEO revenue growth of 3% in the quarter was relatively stable versus last quarter, reflecting solid PEO bookings performance offset by deceleration in PEO pays per control growth. Don will speak to our updated guidance in a moment, but the demand environment for PEO as well as our other outsourcing services remains healthy. Moving on, we made meaningful progress across all three of our strategic priorities that we outlined last quarter. Let me start with an update on some actions we took in Q1 to lead with best-in-class HCM technology. First, we began embedding Gen AI features into our products. In Q1, we integrated Gen AI into Roll to further enhance its conversational UI and make it even easier for small business owners to quickly obtain customized Payroll and HR guidance. We also began rolling out ADP Assist, which delivers insights and recommendations to make complex HR work simple. We've enabled ADP Assist for select Workforce Now clients, beginning with a Report Assist feature that allows practitioners to easily extract the insights they're looking for. We look forward to continuing to build on the live feature set of ADP Assist to further enhance the experiences of both HR practitioners and employees. We also had some exciting product developments beyond AI. Our clients tell us they need personalized experiences and deep integrations to help them manage the complexity of running a business today. To help address this, we recently launched a new product called API Central, which enables businesses to easily and securely connect their ADP workforce data across systems using pre-populated APIs and tools. This is a feature our clients have increasingly asked for and we have already seen a strong uptake. In Q1, we complemented the launch of API Central with the acquisition of Sora, an intelligent workflow automation and data integration tool. Sora's unique capabilities will allow our clients to automate people processes by unifying various applications such as HR, IT, CRM, and more, creating a smarter and easier-to-use experience for our clients. In Q1, we also launched ADP Workforce Now for construction, a comprehensive offering designed to help clients with the unique payroll and HCM needs of the construction industry. This verticalized offering combines tailored Workforce Now capabilities and reporting with a team of dedicated specialists for the construction industry. While ADP has always served clients across the full spectrum of industries, construction stood out to us as a vertical with enough complexity to warrant a more tailored solution, and we're excited to further strengthen our offering in the mid-market. We also announced the launch of our corporate venture capital fund earlier this month, leading with best-in-class HCM technology requires that we stay attuned to the frontier of HCM innovation. And now, in addition to the organic efforts we are developing in ADP Ventures, we will invest in and partner with early-stage startups to strengthen our core business and to extend into natural adjacencies. Two of our early investments focus on improving lifestyle benefits to drive associate engagement in simplifying the incredibly complex leave management process that businesses and their workers have to address. We're excited to build on these partnerships and develop new ones. Overall, Q1 was a very busy quarter on the product front with much of the work we're doing representing seeds of innovation that will position us to continue shaping the future of work. Our second strategic priority is to provide unmatched expertise and outsourcing solutions. In addition to launching the pilot of ADP Assist for our clients, we also launched the pilot of our new Agent Assist embedding Gen AI in the flow of work for ADP Associates. So far, we have enabled our call summarization capability to select associates. Thanks to this Agent Assist feature, those service associates no longer need to spend time writing up case notes after client calls, which should make our associates more effective and also allow us to quickly aggregate real-time client feedback to continuously improve our products. We are also piloting Agent Assist real-time guidance for our associates, to help them with support content and guided workflows and to more easily share their accumulated knowledge in a way that's customized to individual client cases. We are excited to continue working toward additional Agent Assist features to help our implementation and service associates deliver better, faster service and to help our client satisfaction scores continue to reach new record levels. Our third strategic priority is to benefit our clients through our global scale, and in Q1, we expanded on this advantage. In August, we extended our leading global footprint by acquiring the payroll business of BTR, our longtime partner in Sweden. Acquisitions like this strengthen our multi-country payroll ecosystem while also positioning us to grow a local HCM business in countries with attractive growth prospects. In Q1, we launched Roll in Ireland, representing the beginning of an expansion into the European market, where we believe an AI-based payroll app coupled with our existing on-the-ground ecosystem will allow us to expand our SMB business outside the U.S. And during Q1, we also announced plans to deepen our existing partnership with Workday to deliver enhanced global payroll compliance and HR for the many clients we jointly serve around the world. Partnerships like this reflect our long-standing commitment to provide the personalization and overall experience our clients desire. Before turning it over to Don, I wanted to highlight a couple milestones in two of our businesses. Our suite of workforce management solutions, sometimes referred to as time and labor management, reached more than 125,000 clients in the first quarter, benefiting from a double-digit growth rate these last few years. Scheduling and precisely tracking time has become more important for employers over recent years in order to meet evolving legislative requirements, and we look forward to continuing to invest in our workforce management solutions to drive higher client attach rates. We also now serve more than 150,000 retirement services clients, which is up more than 20% from the 125,000 clients we served at the end of fiscal 2022. We anticipate growth for our retirement services business will remain strong in the years ahead as the provisions of the SECURE Act 2.0 and additional state mandates continue to phase in and as companies of all sizes continue to recognize the importance of positioning their workers well for their eventual retirement. I'm proud of our start to fiscal 2024 with both strong financial results and meaningful strategic progress. Our roadmap for the months ahead is keeping us incredibly busy. And with this in mind, I'd like to take a moment to recognize our associates across sales, service, implementation and technology whose efforts and outstanding performance are positioning us to consistently deliver for our clients and our shareholders. Thank you, all. With that, I'll turn it over to Don.",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "Don McGuire",
+      "title": "CFO",
+      "content": "Thank you, Maria, and good morning, everyone. I'll provide some more color on our results for the quarter and update you on our fiscal '24 outlook. Overall, we had a solid Q1 and are not making changes to our consolidated outlook, but there are some moving pieces I'll cover. Let me start with Employer Services. ES segment revenue increased 9% on a reported basis and 8% on an organic constant currency basis, ahead of our expectations. As Maria shared, ES new business bookings had a solid start with especially strong growth in September. The demand environment is stable, our pipelines are healthy, and we are on track for our 4% to 7% growth guidance. Our ES retention did decline slightly in Q1 versus the prior year, but that was slightly better than we expected. At this point, we are maintaining our outlook for a 50 basis point to 70 basis point decline in full year retention, which continues to embed an expectation for small business losses to increase due to higher out of business rates. But if recent trends continue, then we would hope to outperform that range. ES pays per control growth was in line with our expectation in Q1. It decelerated modestly to 2%, and we expect this very gradual deceleration to continue in the coming quarters and are maintaining our outlook for 1% to 2% growth for the full year. Client funds interest revenue increased in line with our expectation in Q1, but we're raising our full year outlook based on the latest forward yield curve, which results in a modest increase in average yield to 2.9% from our prior expectation of 2.8%. We now expect client funds interest revenue as well as the net impact from our client funds extended strategy to be up $35 million from our prior outlook. Meanwhile, the U.S. dollar strengthened, representing a drag relative to our prior fiscal '24 revenue outlook. In total, our strong Q1 ES revenue growth combined with higher than expected client's funds revenue for the rest of the year effectively offset the adverse FX movement and we're maintaining our fiscal '24 ES revenue growth range of 7% to 8%. Our ES margin increased 220 basis points in Q1, driven by both operating leverage and contribution from client's funds interest revenue. For the full year, we are raising our fiscal '24 outlook to now anticipate an increase of 150 basis points to 170 basis points, which reflects the benefit of higher yields, partially offset by higher spend on Gen AI projects and usage, as well as a small amount of dilution from our recent acquisitions. Moving on to the PEO, we had 3% revenue growth driven by 2% growth in average worksite employees in Q1. As Maria mentioned earlier, our PEO bookings growth was solid, but pays for control growth continued to slow and was lower than expected, particularly for clients in the professional services and tech industries. This resulted in a slightly softer Q1 worksite employee count than we were anticipating. As a result, we now expect fiscal 2024 PEO revenue growth of 3% to 4% with growth in average worksite employees of 2% to 3%. Our PEO sales pipelines are healthy and we continue to forecast their worksite employee growth gradually ramping in the back half of fiscal '24. PEO margin decreased 90 basis points in Q1 which is more than we had planned. The decline was primarily driven by a lower workers' compensation reserve release benefit as well as higher selling expenses. We now expect PEO margin to be down between 50 basis points and 100 basis points in fiscal '24 with the continued assumption for higher selling expenses as well as year-over-year headwind from a lower workers' compensation reserve release benefit than we experienced in fiscal '23. Putting it all together, there is no change to our consolidated outlook, but I would like to share some color on cadence. In Q2, our client funds balance growth will lightly impact the payroll tax deferral that we had in our average balance for the past two years, which creates some growth over pressure on our client funds balance and will result in more modest ES margin expansion in Q2 than other quarters this year as well as a modest revenue impact. As a result, we expect consolidated revenue growth to moderate before accelerating slightly in the back half. And we expect adjusted EBIT margin to be down slightly before ramping in the back half of the year. This was already contemplated in our guidance at the outset of the year. So again, no change to our consolidated guidance. We continue to forecast fiscal '24 consolidated revenue growth of 6% to 7% with our adjusted EBIT margin expanding by 60 basis points to 80 basis points. We still expect our effective tax rate for fiscal '24 to be around 23%, and we anticipate adjusted EPS growth of 10% to 12%. Thank you. And I'll now turn it back to Michelle for Q&A.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. We will take our first question from Samad Samana with Jefferies. Please go ahead.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Samad Samana",
+      "title": "Analyst",
+      "content": "Hi. Good morning. Thanks for taking my questions. Maybe first just want to double-click on the PEO side. I think that the information you gave helps to understand some of what happened in the revised guidance, but maybe just help us understand what's giving that back half ramp confidence, especially as you expect pays per control in the kind of broader macro to continue to decelerate. Where should we get the acceleration in the PEO WSEs? Is it purely based on bookings ramping? Is it based on an expectation that the base will stabilize? Maybe just dig into that a little bit further because they're moving in different directions.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "CEO",
+      "content": "You bet. So, good morning, Samad. It's Maria here. I thought I'd kind of break down your question with respect to the PEO, call it, double-click. So I'll start by commenting on the first quarter. So, I've mentioned, we did see deceleration in PEO pays per control. So as Don mentioned in the opening comments, that is a byproduct of what we're seeing in the pressure with respect to, as you know, that business tends to skew more into professional services technology. The pays per control deceleration is happening at a faster clip in those cohorts than the broader base. And so said differently, the pays per control growth in the PEO is decelerating faster than we expected and faster specifically in those cohorts. So in terms of the contributions, that is the contribution to the deceleration or the new guide to worksite employee growth that we're seeing in the first quarter. We did have strong bookings in PEO in the first quarter. That said, it did come in slightly below where we had hoped for, so it was still higher than overall employer services. It was a good quarter for the PEO and this is now the third quarter in a row that we've seen strength in bookings in the PEO. And that's important to note because really the strength in PEO bookings is what ultimately will yield the reacceleration that you're asking about in the back half. That coupled with kind of what we're seeing in retention. So while retention is stable and stabilizing inside the PEO, it isn't back to the high growth levels that we saw, call it, a couple of years ago in the last year or so, and as such as those compares continue to lap coupled with retention continuing to accelerate, if you will versus stabilize. We will see contributions from retention, we'll see more contributions from bookings and that's really why we anticipate the worksite employee guide for the year that we've given.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Samad Samana",
+      "title": "Analyst",
+      "content": "Great. And Maria, I actually had a follow-up for you as well on the international side.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "CEO",
+      "content": "Yeah.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Samad Samana",
+      "title": "Analyst",
+      "content": "After seeing the rollout of the product into Ireland. And I'm just curious, how should we think about the expansion beyond the U.S.? I know ADP already has a presence and it's a meaningful contributor to revenue, but just should we think about international maybe being an offset to some of the slowdown that we're seeing in U.S. revenue? Just how should we think about the cadence and impact as you move more international with your core HCM solutions versus just helping U.S. employers that already had an international presence?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "CEO",
+      "content": "Yeah. Absolutely. So I'll speak to Roll, which is what I commented on in the opening comments. So we did roll out, no pun intended, our roll offering into Ireland. And it is an exciting bit for us, albeit it's very early days, right? It's actually only been a couple of weeks. But we're excited about it because it's the first of many countries where we intend on taking the, call it, very down market offering into our various countries throughout international. And it's really about marrying that product with what we see as still potentially greenfield opportunity within our international space and really leveraging the ecosystem that we have, that's everything from distribution to all the services, call it, around, the offers in various countries. So we're very excited about that. Now, in terms of the overall growth contributions in the short term of rolling out Roll into Ireland, I would say they're negligible. I would say even Roll over time this year, I think it would be, not a meaningful contributor to bookings. To me, I think this is really about a long-term investment that we're making across international and what we see as a continued opportunity for us. So you kind of mentioned is this companies that have a presence in Europe, that exist in the U.S. with folks working in or, call it in international? And the answer is, this is both of that coupled also with a lot of our, what I would say, best-of-breed offerings in international. So we see growth opportunity really across the board in international and that's everything from the down market, which we're going after now with this new product offering of Roll. So we see it in the SMB space, we see it in our best-of-breed space and we also see it in our global MNC space. So really excited about the long-term growth opportunity that continues to be international. And while on international, I thought I would just mention because it's important to note, we did have a very strong quarter with respect to international, albeit that quarter is obviously off of a compare Q1 of last year that was less favorable, but it is on the heels of what was a very strong fourth quarter finish in international. And so, all the way around, I continue to be incredibly excited and optimistic about what it is that we can go accomplish and continue to build in our international offering.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Samad Samana",
+      "title": "Analyst",
+      "content": "Great. Thanks so much for taking my questions.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next question comes from Bryan Bergin with TD Cowen. Please go ahead.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Bryan Bergin",
+      "title": "Analyst",
+      "content": "Hi. Good morning. Thank you. So, Maria, I was hoping if you can comment on just how you're seeing the overall macro situation evolve and maybe how that may affect demand? And if you can specifically unpack that within the ES segment, maybe talk about some of the areas that came in better than you expected versus any areas that may have been lighter or downtick versus the prior quarter.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "CEO",
+      "content": "Absolutely. Good morning, Bryan. So happy to comment on what we saw in the first quarter with respect to the overall performance of bookings, but also the demand. So I'll kind of start with the overall performance. I mentioned in the opening comments, we did see strength, continued strength in our down market, so really excited about that. Also saw tremendous strength in our compliance solutions offering. So think of it as all the stuff that hits compliance tax, things of that nature. So we're pleased with what we saw with respect to new business bookings. Those are the two that really outperformed. And it's exciting to see because really that entire down market offering and that's everything from our run offering to retirement services, insurance services, we continue to see tremendous strength there. We saw that all of last year and definitely the finish last year, and it makes me happy because it's a lot of the places that, well, good performance makes me happy regardless, but it's a lot of the places where we've been making meaningful investments both in the product as well as the distribution. So excited to see the continued performance there and the outperformance. The overall results do keep us in line with our full year guide. So excited to confirm that again here today. In terms of the overall demand environment and I feel like I've been saying this quarter-to-quarter, but we're not really seeing any major changes in demand. Demand is still strong, demand is still healthy. We see that in our bookings results. There are all sorts of other indicators that we look at in terms of pipelines, in the up-market, in the mid-market, certainly in the down-market. We're looking at things such as new appointments and kind of activity measures to really give us a guide on whether demand is strong. And I would tell you pipelines are healthy year-on-year and certainly activity is healthy. And so we don't see a big demand change again this quarter. In fact, it\u2019s kind of the opposite stepping into the quarter on the heels of a strong September. We feel really good about where our pipeline sit year-on-year, which again is giving us the confidence in the full year guide. As always though, Bryan, we continue to keep an eye on the macro. We continue to keep an eye on our global space and international and making sure that we're understanding both any macroeconomic changes coupled with any demand environment that could shift given everything kind of going on in the world, if you will. So that's the current story on kind of pipelines demand in the quarter.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Don McGuire",
+      "title": "CFO",
+      "content": "Yeah, maybe..",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Bryan Bergin",
+      "title": "Analyst",
+      "content": "Okay.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Don McGuire",
+      "title": "CFO",
+      "content": "If I could add a couple of comments on the macro, certainly macro continues to be pretty positive. Unemployment rates continue to be near decade lows here in the United States. Unemployment rates around the world continue to be quite low. The discussion about whether or not we're going to be in a recession, I think the odds are now not for a recession. So soft landing is pretty much what is being anticipated. Interest rates are expected to have peaked here in the US. So I think all things considered, things are pretty positive. I think the one area that we put in our original guidance for the year and that we continue to look at is our guidance had in fact contemplated a slowing in pays per control growth. Maria mentioned that and talked about that in the PEO business, but we are confident. We are still seeing growth, albeit, we are seeing growth at a slower pace than we had previously. But once again, that was fully contemplated in our original guide for the year.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Bryan Bergin",
+      "title": "Analyst",
+      "content": "Okay, that's helpful. Thanks, Don. My follow-up on the PEO. I understand that the bookings are a bit lighter than expected to start, but you're also noting that higher selling expenses are affecting the PEO margins year-over-year. Can you discuss the factors driving that situation?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "CEO",
+      "content": "Specifically on PEO margins? I will let Don\u2026",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Don McGuire",
+      "title": "CFO",
+      "content": "No. But I think originally, Bryan, you mentioned bookings were lighter than expected. I think our bookings came in \u2013 our bookings came in pretty good, as Maria has mentioned.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "CEO",
+      "content": "Yeah. I think he's referencing the comment I made around PEO bookings was slightly lighter than expected. By the way, still higher than ES, which we expect to be the case throughout the balance of the year. So that's the kind of nuanced.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Bryan Bergin",
+      "title": "Analyst",
+      "content": "So the question there, you're also citing higher selling expenses impacting the PEO margin. So it seems like there's a bit of a disconnect there. Just trying to understand that.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Don McGuire",
+      "title": "CFO",
+      "content": "Yeah. So we had planned the year, we talked about the growth being stronger in the second half in bookings, sorry, in margins than in the first half. And certainly we have seen some investment and some higher selling expenses and we'll see in the first half than we will in the second half, but nothing really surprising. A little bit off, but certainly we're in line with what we expected.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Bryan Bergin",
+      "title": "Analyst",
+      "content": "Okay. Thanks.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next question comes from James Faucette with Morgan Stanley. Please go ahead.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "James Faucette",
+      "title": "Analyst",
+      "content": "Great. Thanks. I wanted to ask just a couple of quick follow-up questions. First, I think the comment was made that you're still anticipating a bit worse performance in terms of out of business rates on a go-forward basis, but to-date those have been a little bit better than you had anticipated. Can you help provide some detail as to what you're seeing, why you think we're seeing better survival rates, and kind of the things you may be looking at as indicators that could get worse on a go-forward basis.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Don McGuire",
+      "title": "CFO",
+      "content": "Yeah. Demand continues to be strong in the economy overall, and I think that's supporting what tends to be this view that we're not going to enter into a recession. At best, there's going to be a soft landing. So I think that strong demand environment, particularly consumer demand is keeping small business afloat. So when you also look at what we're seeing in terms of new business formations, there seems to be continued strength in new business formations. So generally I would say that the environment, irrespective of the higher interest rates, the environment continues to be favorable for small business, and I think that's translating itself into what looks to be lower out of business than contemplated now. We have continued, as we said in our original guide, and as we will reiterate or update here today, we have continued to think that we will see a little bit more normalization in out of business. So we'd have contemplated that, but we think we are getting closer to where we think we're going to plateau or hit the bottom there. So I think we're very close, and once again, I think it just comes back to demand environment. It tends to be supporting the economy more broadly and more generally and small businesses benefiting from that as well.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "CEO",
+      "content": "Yeah. And I think if I may, I think the only thing I would add is that it's still very early in the year, right? So when I think about retention, we did have a record level in fiscal '23. We were near that record level a year before, we were at that record level the year before that. And so we've had this tremendous strength. And I think Don is spot on in terms of all the reasons from a macro perspective that we've had that strength in terms of client retention. And so as that normalizes, we believe it's still prudent for us to have the retention guide that we have, which is really a byproduct of how we planned the year in the back half. So I think I got the question last quarter and so I'll answer it proactively this quarter, which is, are we just being conservative? And I think the answer to that question is, it's still early in the year. And so, if we do continue to outperform retention in the way that we outperformed in the first quarter, we hope that we will outperform for the full year. It's just early to take away that conservatism sitting here just, three short months into a very long year.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "James Faucette",
+      "title": "Analyst",
+      "content": "I want to revisit a key question. You mentioned a sequential improvement of 25,000 in retirement services, and you referenced some state mandates, especially in relation to SECURE Act 2.0. Can you elaborate on the state mandates you have observed that might be affecting this business, and how long it might take before we start to notice the benefits in retirement services following the implementation of new state mandates? This information could help us monitor developments and gauge the potential impact of any new requirements.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "CEO",
+      "content": "Absolutely. So I think I've spoken quite a bit to retirement services as well as the SECURE Act over the last year or so. And I will tell you, I was excited to report the new milestone today in part because that business continues to show strength, but also because it's a business that I know is adding tremendous value into the world of work. And so, it is an exciting time. It does come as a byproduct of the offering, the investments we've made into the offering, and also these state mandates, some of which are anchored into the SECURE Act at the federal level, some of which are anchored state by state. Candidly, I could probably spend an hour with you and go state by state in terms of all the various mandates. What we see over the next year or so is the threshold of companies that need to comply with the state mandates starts to creep into, call it, the further down market, if not the micro market. And so, as all these states, a lot of them being on the West Coast, if you're looking for headlines tracking states like California, as they continue to pull down at what level do you need to comply with the state mandates and/or the SECURE Act, the more opportunity we will have to ensure that we're helping our clients to solve for this piece, keep them compliant. But again, back to doing good in the world, it's also something that's bringing the value to each one of these employees that are engaging with these clients, so.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "James Faucette",
+      "title": "Analyst",
+      "content": "Great. Appreciate that color.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next question comes from Bryan Keane with Deutsche Bank. Your line is open.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Bryan Keane",
+      "title": "Analyst",
+      "content": "Hi, guys. Good morning. Just want to ask about the decline in PEO. Looking at the employee base of PEO declining versus not necessarily the case, looks like almost the opposite in the employer services. So just trying to think about the trends. And does typically the trend you see in PEO bleed into employer services and why maybe it's been a little bit weaker for pays per control there in PEO versus employer?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "CEO",
+      "content": "The pays per control in PEO is actually higher than in employer services, although we don't disclose that number. It's important to note that the bases are different. Looking at the pays per control across ADP as a whole, it reflects a mix of industries. The PEO offering tends to cater to professional services and tech-oriented companies that provide their employees with a range of benefits to attract talent. This causes a slight skew in the PEO base compared to the overall figures. Within the PEO base, there's a noticeable difference as professional services and tech are experiencing a faster decline than other segments. There are already indications in the market and our ADP Research Institute data that hiring in professional services and tech is lagging behind other areas. This trend has been evident over the past few quarters, consistent with BLS data that shows similar patterns in wages. Thus, the trends in the PEO are reflective of broader market dynamics, but the differences in the bases may lead to a more pronounced impact in PEO pays per control compared to the broader context.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Bryan Keane",
+      "title": "Analyst",
+      "content": "Thank you for that clarification; it was helpful. I also wanted to ask about the strength you observed in the ES new bookings, particularly in September, and how the pipeline looks. However, you are maintaining your total outlook of 4% to 7%. Do you think that, if trends continue, you might be on track to exceed the guidance range for bookings given the strength in September and the performance in the SMB sector this quarter?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "CEO",
+      "content": "I'm very happy with the first quarter results, particularly following a strong finish last year. The pattern we observed in the first quarter, along with the strength in September, is unusual after a robust fourth quarter. I'm enthusiastic about the first quarter outcomes and what we see in September. However, my excitement is more focused on the year-on-year demand environment and our activity as we approach the next quarter. This gives us confidence in our full-year guidance of 4% to 7%. It's important to remember that the business booking contributions are typically skewed towards the third and fourth quarters, which tend to be larger than the first and second quarters. Given what we know today, just one quarter in, we believe it's wise to maintain our outlook, but we are confident in our guidance and look forward to how we will perform in the second quarter, keeping in mind the entire year is still ahead of us.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Bryan Keane",
+      "title": "Analyst",
+      "content": "Got it. Thanks for taking the questions.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "CEO",
+      "content": "You bet. Thank you.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next question comes from Ramsey El-Assal with Barclays. Please go ahead.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Ramsey El-Assal",
+      "title": "Analyst",
+      "content": "Hi. Thanks for taking my question. Could you give us your latest thoughts on the competitive environment in PEO and how that's sort of evolving over time? I think there's somewhat slower than historical growth across the industry. Are there any signs that the market is, saturated with providers or is there any competitive overlay to PEO performance?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "CEO",
+      "content": "I think the conversation around PEO ASO and PEO HR outsourcing continues, and there's not much new to report. From my perspective, it has always been a highly competitive environment, with each PEO having slightly different offerings. We've discussed our focus on professional services and technology, while others cater to different industries or serve a more down-market client base. We tend to target a more upmarket segment compared to some of our competitors. The models vary as well, especially in how we approach the market, with ADP's client base providing about 50% of our upgrades. This diversity in go-to-market strategies and models, including fully insured versus self-insured options, also extends to ASO offerings, which some refer to as HRO offerings. Competitors may show more flexibility in transitioning between ASO and PEO than we have noted before. Overall, I think the competitive environment remains consistent, and I am optimistic about growth in both our PEO bookings and our HRO and ASO offerings for the remainder of the year. We are very excited and hopeful about the growth potential of all our HR outsourcing services, both this year and in the long term.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Ramsey El-Assal",
+      "title": "Analyst",
+      "content": "Got it. Okay. And a follow-up for me. Could I ask you to revisit those comments you made about higher selling expenses in PEO? What does that mean exactly? And also just I wanted to make sure I understood that, Don mentioned that there's some expectations those may continue, but they're still, in essence, sort of a non-recurring step up in expenses. It's not a permanent step up in, in expenses in the segment.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Don McGuire",
+      "title": "CFO",
+      "content": "Yeah. We saw higher selling expenses in Q1 for the PEO, and we expect to see higher selling expenses year-over-year in the first half, but we do think that that's going to settle down into the second half. So we're not looking at the kind of growth that we saw last year. I think we commented quite extensively on the many, many salespeople we added into the business last year and had great success and allowed us to finish the year the way we did. So those folks are in place. So we are continuing to add some sellers. We will add though, most of those sellers in the first half and it's important to also, I think, call out here that what we are seeing with our sellers is that we are getting much better retention within the seller community. So we are hoping and expecting to benefit from the improved tenure that we should see from the selling organization as we go through the balance of this year.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Ramsey El-Assal",
+      "title": "Analyst",
+      "content": "I got it. So it's headcount-related primarily. That makes a lot of sense. Thanks so much.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "CEO",
+      "content": "Yeah. I think it's a timing thing. I think that's the\u2026",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next question comes from Jason Kupferberg with Bank of America. Please go ahead.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Jason Kupferberg",
+      "title": "Analyst",
+      "content": "Good morning, guys. Just staying on PEO for a second and maybe if we can just refresh a little bit here. I'm just thinking back to the Analyst Day two years ago, we thought it was a medium-term 10% to 12% grower. Now it's 2% to 3% at the moment. There was definitely some post-COVID normalization. But maybe just, Maria, if you want to take us back through the dynamics in terms of just how the business has evolved from your perspective? And is there a potential path back to double-digit growth for this business if the macro is a little bit more cooperative?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "CEO",
+      "content": "I'll let Don discuss the medium-term targets and the path forward. From my perspective, the first step is the continued reacceleration of bookings. This is the third quarter where we are pleased to see a solid contribution from PEO bookings to our overall bookings. This has been a trend for the last few quarters. The reason I emphasize this is that it will drive growth and help us reach our long-term goals and medium-term targets for that business. It also reflects the demand environment and the value proposition of our offerings in the market.  The second step is to continue reaccelerating retention. Retention has remained stable, and as we enhance it, this will also positively impact revenue. Lastly, as Jason noted, we are facing macro headwinds, which I've discussed over the past quarters, related to the post-pandemic landscape affecting our business. We've talked a lot about renewals recently, and we are now observing trends in PPC. In my opinion, the various post-pandemic waves continue to influence the PEO, including the shifts we are seeing now compared to the previous hiring boom in professional services and tech. These changes are ongoing and will have an impact on the PEO. A favorable change in the macro environment would certainly assist in reaccelerating that business. For details on the path back, I'll let Don share the medium-term targets.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Don McGuire",
+      "title": "CFO",
+      "content": "I believe Maria explained it very thoroughly. When we set the mid-term targets, a lot has changed since then, especially regarding inflation. As Maria highlighted, we've witnessed significant growth in professional services and technology, exceeding our predictions. Currently, we are seeing some retraction in those areas. However, we remain very optimistic about that business and believe it has a strong future. We expect to rebound, but as Maria mentioned, it's still too early to predict when we will return to the mid-term growth targets we previously discussed.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Jason Kupferberg",
+      "title": "Analyst",
+      "content": "Understood. That's good color. Just a follow-up on float yield. It looks like it was actually a tick down slightly quarter-over-quarter here in Q1, amid a higher rate environment. But just curious what the callouts might be there.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Danyal Hussain",
+      "title": "Vice President, Investor Relations",
+      "content": "Hey, Jason. That just relates to the mix between short-term and extended in long. So in Q4, we were a little more levered to overnight partly because of this debt ceiling issue. We had to be deliberately skewed shorter duration. But in a typical Q1, we would generally have a lower short portfolio. And so there is seasonality in the average balance wouldn't read much into it. The year-over-year number is a much more relevant metric.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Jason Kupferberg",
+      "title": "Analyst",
+      "content": "Thanks, guys.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next question comes from Tien-Tsin Huang with JP Morgan. Your line is open.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Tien-Tsin Huang",
+      "title": "Analyst",
+      "content": "Hi. Good morning. Could you please clarify whether the slight decrease in bookings on the PEO side is related to the professional services and tech sectors, and if the issues with pay per control in PEO are more about healthcare participation or the general weakness in labor within those sectors?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "CEO",
+      "content": "I apologize, but I didn't catch the beginning of your question. Could you please repeat it?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Tien-Tsin Huang",
+      "title": "Analyst",
+      "content": "No, I probably didn't ask it very well. Just wanted to make sure the bookings softness on the PEO side, was that also in the professional services and tech sectors. And then also just on the pays of control, was it a labor weakness or health care participation?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "CEO",
+      "content": "I'm glad you asked this question because I want to emphasize that we were very pleased with our PEO bookings. There wasn't any weakness; instead, we experienced strong growth in our PEO quarterly bookings. While the year was slightly lighter than what we had planned, it still contributes positively to employee growth. The slowdown in worksite employee growth is primarily related to the PPC area. I want to stress that we were actually very satisfied with the quarter in terms of PEO bookings. Regarding the industries, it's a mixed picture. We continue to see the PEO perform effectively in our target industries. Specifically, the deceleration within the PEO is occurring more rapidly in professional services and technology compared to the broader PEO base. I won't disclose specific numbers, but it's important to note that not the entire base is in professional services; it's just a subset. This trend aligns with the macroeconomic data we are observing, particularly from the ADP Research Institute and the BLS, and it's really about hiring trends. The situation is less about layoffs and more about the reduced hiring we see in professional services and tech, which were hiring significantly about a year ago but are currently experiencing a slowdown in hiring. Did I address your question?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Tien-Tsin Huang",
+      "title": "Analyst",
+      "content": "Yes.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Danyal Hussain",
+      "title": "Vice President, Investor Relations",
+      "content": "Tien-Tsin, just on the participation piece of it, the pay per control wouldn't be impacted by participation rate, but the reported revenue would be. So to the extent, workers are taking plans, cheaper plans or fewer plans. And there's a little bit of that. You do see it in the revenue per WSE, but the WSEs themselves wouldn't be impacted.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Tien-Tsin Huang",
+      "title": "Analyst",
+      "content": "Thank you, Danny. I didn't phrase my question well, but that's exactly what I was looking for. We also receive questions about pricing, which is why I was curious about the participation aspect and whether there's a difference. It seems there isn't. Regarding international operations, as a quick follow-up, I believe Sweden was mentioned in relation to acquisitions. Why is it important to establish a presence in Sweden? I'm not very familiar with some of the specific countries you are targeting, and I'm interested to know if this is part of a larger strategy to consolidate international payrolls.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "CEO",
+      "content": "Absolutely. I need to address this question because I was born and partially raised in Sweden, so I thought it made sense to announce it as the first country. I'm joking, of course; this was planned well before my time. It seems I might be closer to Sweden than you are. It's an exciting time for us as we have had a partnership with BTR for quite a while, and acquiring their payroll business is thrilling because the Nordics are experiencing growth. This acquisition gives us a physical presence in Sweden, allowing us to expand further into the Nordics and take advantage of the growth in those economies. It's not just about payroll; there are also opportunities beyond payroll that we will explore in the coming years. I'm really excited about this acquisition, not just because of my personal connection but also because the Nordics represent growth, and it's thrilling to think about having a physical presence there.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Tien-Tsin Huang",
+      "title": "Analyst",
+      "content": "Thank you.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next question comes from David Togut with Evercore ISI. Your line is open.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "David Togut",
+      "title": "Analyst",
+      "content": "Thank you. Good morning. You called out strength in ES bookings, particularly in the small business market with RUN. Could you provide some texture into the bookings trends you saw in mid-market with Workforce Now and then up-market with enterprise? And any insights you have into international bookings in the quarter would also be appreciated.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "CEO",
+      "content": "Absolutely. We experienced significant strength in the down markets and continued solid demand in the mid-market, including our Workforce Now platform and HR outsourcing offerings. The ASO and HRO models we discussed earlier also support the PEO, indicating ongoing demand from the mid-market. Navigating employer challenges is tough for mid-market companies, so we anticipate continued strong growth in this area.  Regarding the enterprise space, as highlighted last quarter, our next-generation HCM offering has shown strength, which continued into this quarter. The year-on-year pipeline in that area is also robust, and we're pleased with the feedback from clients about our enterprise offerings.  Additionally, our international business showed strong growth in the first quarter, benefiting from a favorable year-on-year comparison. We had an impressive finish in fiscal '23 for our international business, and looking forward, our international pipeline is significantly stronger than last year, giving us confidence in maintaining healthy international bookings throughout fiscal '24.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "David Togut",
+      "title": "Analyst",
+      "content": "Thanks for that. Just as a quick follow-up, Don, you called out part of the 90 basis point margin decline in PEO being traced to a difficult comparison on workers' compensation reserve adjustments a year ago. Can you quantify for us how large those were as we think through the margin comparisons for Q2, Q3 and Q4 of FY \u201824 in PEO?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Don McGuire",
+      "title": "CFO",
+      "content": "We have experienced favorable reserve releases over the past several years, as noted last year in our K. To clarify, we are still observing favorable reserve releases, but this year's release is not as significant compared to the same quarter last year. Specifically, it's approximately $6.2 million less than the previous year. In terms of margin impact, this accounts for about 60 to 90 basis points, with 60 basis points of the 90 basis point decline attributed to the reduced reserve release. We remain optimistic about continued favorable reserve releases as our actuaries provide updates, and we are not detecting any significant underlying changes that would lead us to feel less confident about future releases.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Danyal Hussain",
+      "title": "Vice President, Investor Relations",
+      "content": "And David, sorry, just to clarify, it was a $6 million benefit in Q1, which is about $8 million less than the prior year.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "David Togut",
+      "title": "Analyst",
+      "content": "Got it. Thank you very much.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next question comes from Mark Marcon with Baird. Your line is open.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Mark Marcon",
+      "title": "Analyst",
+      "content": "Good morning, and thank you for taking my question. At HR Tech, you showcased many of your new solutions, especially the AI Assisted solutions. Maria, could you share your thoughts on which solutions you plan to charge extra for and your approach to monetization? I have a follow-up regarding process improvement as well.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "CEO",
+      "content": "Good morning, Mark. I'm excited about our new solutions showcased at HR tech. I'd like to share my thoughts on Generative AI and its implications for monetization, which should clarify things. I believe Generative AI will have a widespread impact across all aspects of our client life cycle. It will influence our product development with tools like developer co-pilots, its integration into our products, and our go-to-market strategies. This technology will also enhance our ability to acquire clients and improve our service delivery, increasing productivity for both us and our clients. Many see Generative AI as akin to software or the Internet, and I believe it will be a fundamental part of everything we do. Regarding monetization, we won't charge separately for specific Generative AI features. For instance, tasks like report writing or creating job descriptions, which might not seem exciting, actually symbolize our innovative potential and illustrate how Gen AI will enhance our offerings. Rather than introducing separate charges for writing job descriptions or reports, our focus is on continuing our innovation journey to boost productivity and solve client challenges. The real benefits are reflected in new business bookings and client retention, rather than negligible price differences. This innovation accelerates our progress, and I\u2019m optimistic about the opportunities ahead. We've engaged the entire organization in utilizing these tools, setting goals for the year to increase participation among our associates across sales, implementation, service, and technology. Currently, over 10% of our associates who can access these tools are actively using them. Our sales team is seeing improved performance thanks to the modern sales tools we've deployed, leading to increased productivity and engagement with prospects. I could elaborate further, but to summarize, Generative AI will be present throughout our entire client life cycle, and I\u2019m very excited about its long-term impact on our key business metrics.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Mark Marcon",
+      "title": "Analyst",
+      "content": "That's terrific. And then with regards to just the productivity enhancement. I mean, particularly when we think about service and implementation, from a longer-term perspective, can you describe how much more efficient you think your service personnel could become? And how much efficiency you could end up gaining there and the implications from continuous margin improvement as you continue to go along that journey? I know it's early days, but just how are you thinking about that?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "CEO",
+      "content": "It\u2019s still early in our journey, and we have been actively exploring ways to become more productive for quite some time. We\u2019ve had machine learning and AI capabilities for years, and this new technology presents a significant opportunity for innovation. However, I\u2019m cautious about committing to specific numbers at this point. Internally, we have identified some exciting goals to pursue, many of which have been on our radar for a while. Now, with the right technology in place, I believe we can finally achieve some substantial enhancements.  One area I want to highlight is Agent Assist and its call summarization feature. It may not sound thrilling, but for those of us on the sales side, having a prospect or client call summarized efficiently saves considerable time. We're also launching a tool called rapid pre-call planning, which I remember needing when I spent countless hours preparing for client meetings 27 years ago. This tool aims to enhance productivity by equipping our sellers with the information they need quickly. While it\u2019s too early to quantify potential financial impacts in the hundreds of millions, we are carefully evaluating each case to focus on initiatives that will drive maximum productivity and value for both our shareholders and clients.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Mark Marcon",
+      "title": "Analyst",
+      "content": "Terrific. Thank you.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. We have time for one more question and that question comes from Scott Wurtzel with Wolfe Research. Your line is open.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Scott Wurtzel",
+      "title": "Analyst",
+      "content": "Great. Good morning, guys, and thanks for squeezing me in here. Just on the launch of the construction vertical software. I'm just wondering, is this sort of part of a bigger shift to develop more vertical specific HCM solutions for your clients? I understand, construction may be a more complex vertical, but wondering if there's more of a vertical specific strategy that could develop beyond the construction vertical. Thanks.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "CEO",
+      "content": "I appreciate your question, and I think the answer could be yes. Reflecting on my experience from 27 years ago selling construction companies, the complexity in that sector has always been present. Many features and functionalities we have now, which we are integrating into a cohesive solution for that vertical, have existed for quite some time. This includes aspects like job costing, compliance, and reporting, such as certified compliance reports for payroll. The key is combining these elements with a service organization that understands the complexities of the construction industry. This integration marks a significant change. While we've added new features, many have been in our toolkit, and we've connected them with a dedicated service organization that can address the intricacies of the construction sector. I believe this is an exciting moment for the construction industry, particularly for our Workforce Now clients. As you pointed out, there are additional opportunities where we can leverage our existing technology alongside a specialized service model to tackle real business challenges across various verticals.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Scott Wurtzel",
+      "title": "Analyst",
+      "content": "Got it. That's helpful. And just a quick follow-up. Just wondering if you can give an update on sort of Next Gen HCM and Next Gen Payroll, attach rates and how we're sort of trending there, relative to expectations?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "CEO",
+      "content": "So Next Gen Payroll. That was the question?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Scott Wurtzel",
+      "title": "Analyst",
+      "content": "Both.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "CEO",
+      "content": "Okay, just making sure I heard it right. So I think I touched base really quickly on Next Gen HCM. And I think I noted to the excitement that we have that we continue to see the strength in the Next Gen HCM offering into Q1. So we had a strong fourth quarter. What I would suggest is that we actually brought in more Next Gen HCM in the first quarter than we saw all of last fiscal year. But again, one quarter these things can sometimes be lumpy. But I think for me, it's really about the sentiment. And so we recently had an Analyst Day. We had a handful of our clients up on stage that, shared with us the impact, the platform is making for them. And as you would remember, we spent a lot of our discussions over the last year talking about scaling implementation, onboarding the backlog. So pretty exciting to see some of that backlog that's no longer backlog on stage, speaking to the value proposition, and that's supported by continued strength which means our sellers are excited to continue to sell the Next Gen HCM offering. So I think that's all very, very positive. Similarly, we have continued focus in the Next Gen Payroll. And so what I would offer there is we continue to make headway. So as it's not deployed across the entire mid-market. We continue to make headway to solve for more complex features, things of that nature, that will pull it further into the upmarket of the mid-market. But as you know, that Next Gen Payroll engine is also what's attached to the Roll offer. So the other exciting part about that engine is it is the thing that's taking us into the SMB space internationally. So I feel really excited about the road map for that offering and the contributions that it's making into the mid-market today, but also into the long-term growth of the company internationally.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Scott Wurtzel",
+      "title": "Analyst",
+      "content": "Awesome. I appreciate the color. Thank you.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. This concludes our question-and-answer portion for today. I'm pleased to hand the program over to Maria Black for closing remarks.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "CEO",
+      "content": "Thank you, Michelle. It's hard not to reflect on a year ago. This morning, I felt a bit nostalgic because it marks exactly one year since Carlos and I announced my transition to CEO of this wonderful company. I'm feeling incredibly proud today, especially of our first quarter results and the team's execution. We've made remarkable progress on our strategic priorities. I am truly humbled by the over 60,000 associates I've engaged with this past year, who make this company truly exceptional. I want to thank each of them for inspiring me every day. That concludes our call, and I look forward to our next meeting.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you for your participation. This does conclude the program and you may now disconnect. Everyone, have a great day.",
+      "sentiment": "0.1"
+    }
+  ],
+  "reported_date": "2024-05-01"
+}

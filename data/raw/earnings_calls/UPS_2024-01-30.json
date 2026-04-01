@@ -1,0 +1,313 @@
+{
+  "symbol": "UPS",
+  "quarter": "2023Q4",
+  "transcript": [
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Good morning. My name is Steven and I will be your conference facilitator today. And I would like to welcome everyone to the UPS Investor Relations Fourth Quarter 2023 Earnings Conference Call. All lines have been placed on mute to prevent any background noise and after the speakers' remarks, there will be a question-and-answer period. It is now my pleasure to turn the floor over to your host Mr. PJ Guido, Investor Relations Officer. Sir, the floor is yours.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "PJ Guido",
+      "title": "Investor Relations Officer",
+      "content": "Good morning, and welcome to the UPS Fourth Quarter 2023 Earnings Call. Joining me today are Carol Tom\u00e9, our CEO; Brian Newman, our CFO, and a few additional members of our executive leadership team. Before we begin, I want to remind you that some of the comments we'll make today are forward-looking statements within the federal securities laws and address our expectations for the future performance or operating results of our company. These statements are subject to risks and uncertainties, which are described in our 2022 Form 10-K and other reports we filed with or furnished to the Securities and Exchange Commission. These reports, when filed, are available on the UPS Investor Relations website and from the SEC. Unless stated otherwise, our discussion refers to adjusted results. For the fourth quarter of 2023, GAAP results include a non-cash after-tax mark-to-market pension charge of $274 million, after-tax transformation and other charges of $154 million, and a non-cash after-tax impairment charge of $84 million relating to our Coyote trade name in our truckload brokerage unit. The after-tax total for these items is $512 million or $0.60 per diluted share. Additional details regarding year-end pension charges are included in the appendix of our fourth quarter 2023 Earnings Presentation that will be posted to the UPS Investor Relations website following this call. A reconciliation to GAAP financial result is available on the UPS Investor Relations website, and also available in the webcast of today's call. Following our prepared remarks, we will take questions from those joining us via the teleconference. And now, I'll turn the call over to Carol.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Carol Tom\u00e9",
+      "title": "CEO",
+      "content": "Thank you, PJ, and good morning. Let me begin by thanking UPSers for their hard work and effort. I'm proud of our team for their commitment to customer service, and for once again making UPS the industry leader in on-time performance, not only during peak, but throughout 2023. Looking at our volume trends for the fourth quarter, while total average daily volume or ADV declined 7.5% from last year, our performance was a marked improvement from what we reported in the third quarter. During the fourth quarter, our salespeople did an outstanding job of winning back diverted volume and pulling through new volumes. In fact, US Domestic ADV surged 30% from the third quarter to the fourth, which was our highest sequential volume ramp ever. By the end of December, we had won back and pulled through nearly 60% of the volume diverted during our labor negotiations. Winning back and winning new volume is part of a program we call Project Brown. This program will continue into 2024. You will recall that at the end of the third quarter, we provided a range of expected revenue and operating profit for the fourth quarter. Looking at our fourth quarter results versus last year, consolidated revenue declined 7.8% to $24.9 billion, which was slightly below the low end of our expectation. Operating profit was $2.8 billion, a decrease of 27.1% from last year, but slightly higher than the low end of our expectations. As a result, our consolidated operating margin was 11.2%, which was well within our expectation. For the year, consolidated revenue was $91 billion, a decrease of 9.3%. Consolidated operating profit totaled $9.9 billion, 28.7% lower than last year. And consolidated operating margin was 10.9%. We generated $5.3 billion in free cash flow during 2023 and we returned $7.6 billion to shareholders in the form of dividends and share repurchases. Brian will provide more detail about our financial results in a moment. 2023 was a unique, and quite frankly, a difficult and disappointing year. We experienced declines in volume, revenue, and operating profit in all three of our business segments. Some of this performance was due to the macro environment and some of it was due to the disruption associated with our labor contract negotiations, as well as higher costs associated with the new contract. However, through the year, we controlled what we could control and in many areas, we delivered the highest productivity results in our company history. Most importantly, we stayed true to our strategy of being customer first, people-led, and innovation-driven. Let me share a few examples of how our strategy is establishing a foundation for future growth. Starting with customer first. In 2023, our healthcare portfolio achieved our target of $10 billion in revenue. Here we've made strong progress towards our goal of becoming the number one complex healthcare provider in the growing $130 billion global healthcare logistics market. Our global network of healthcare-compliant distribution space topped 17 million square feet in 2023. And our acquisitions of Bomi Group and MNX Global Logistics have expanded our cold-chain capabilities and are enabling us to reach new markets and customers. To support growth in our international small package business, in December, we announced plans to build a new air hub at Hong Kong International Airport. This new air hub supports our plans to grow in the best parts of the market, including highly profitable Asia trade lines, and will enable us to expand our export and import business in the region. During the year, we continued to grow our SMB penetration. In 2023, SMBs made up 28.6% of our total US volume, an increase of 60 basis points from last year. Part of this growth came from DAP, our Digital Access Program. DAP has transformed how small companies do business with UPS, and in 2023, we generated $2.9 billion in DAP revenue, an increase of 22% year-over-year. Transitioning to People Led. In 2023, we delivered a labor agreement that provides certainty for the next five years. As a believer in the power of One UPS, this year, we are returning to a policy of everyone back in the office five days a week. In terms of our culture, we are a network company, not just of logistics capabilities, but personal relationships too, which brings me to innovation-driven. On our busiest peak days, we sort over 50 million packages in the US and deliver more than 30 million packages worldwide. How do we do it? By leveraging the agility of our integrated network powered by UPS technologies and the skills of our engineers and operating team. Our network planning tools enabled us to quickly match capacity with volume across the network and drive productivity. Technology also enabled improvements to drivers, helped our route planning, and dispatch, resulting in improvements in density and fewer seasonal support drivers than in the prior year. It might surprise you to learn that we typically see an increase in returns volume before Christmas. In the fourth quarter, we moved quickly to integrate Happy Returns. We made box-free, label-free returns available in over 5,000 UPS store locations just eight days after the acquisition closed. Happy Returns' digital experience helped drive returns volume in the fourth quarter, with momentum extending into the first quarter of 2024. Finally, we continue to deploy transformative technology to increase efficiency within our warehousing facilities. The latest example is our state-of-the-art pick, pack, and ship center in Louisville, Kentucky, called UPS Velocity. We named it Velocity because it leverages robotics, automation, machine learning, and artificial intelligence to streamline fulfillment operations. This facility is capable of processing over 350,000 units per day, enabling a best-in-class experience for our customers and their customers. Our customer first, people-led innovation-driven strategy is the foundation of our business. Our continued execution of the strategy enables us to exit 2023 with momentum. However, momentum is not enough. We have decided to take some bold moves to right-size our company for the future and to focus on the key enablers of growth. So today, we are announcing two actions. First, we plan to explore strategic alternatives for our truckload brokerage business known as Coyote. Coyote is part of Supply Chain Solutions, and it's a business that's highly cyclical with considerable earnings volatility. We will keep you apprised as we move forward with this analysis. Second, we are going to fit our organization to our strategy and align our resources against what\u2019s critically important. This will result in a workforce reduction of approximately 12,000 positions and around $1 billion in costs out this year. We've identified new ways of working and are calling this fit to serve. Let me end by sharing our 2024 outlook. In 2024, the small package market in the US, excluding Amazon, is expected to grow by less than 1%. The projected market growth rates for the rest of our business segments showed some improvement, but not until the latter part of the year. In building our 2024 financial targets, we assumed the low end of our guidance on market growth, and for the high end of our guidance, we included growth we should experience if we capture market share. In 2024, we expect to generate consolidated revenue ranging from approximately $92 billion to $94.5 billion and a consolidated operating margin ranging from approximately 10% to 10.6%. Given the nuances of our new labor contract, there will be stark contrasts between our first-half and second-half performance. First-half earnings will be compressed and second-half earnings will expand. In both the low and high ends of our guidance range, we expect to exit the year with a US operating margin of 10%. Brian will provide more details in a moment. UPS remains rock-solid strong. While our dividend payout is currently higher than our targeted payout of 50% of our prior year's adjusted earnings per share, we are confident in our future. As a result, the UPS Board approved a $0.01 increase in the quarterly dividend from $1.62 per share to $1.63 per share. This is the 15th consecutive year we have increased the UPS dividend. Now that 2023 is behind us, we look forward to seeing you at our upcoming Investor and Analyst Day on March 26th. At that time, we will share our three-year plans to grow and drive shareowner value. With that, thank you for listening. Now I will turn the call over to Brian.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Brian Newman",
+      "title": "CFO",
+      "content": "Thanks, Carol, and good morning. In my comments, I'll cover three areas, starting with the macro environment and our fourth-quarter results, then I'll review our full-year 2023 results, including cash and shareholder returns. Lastly, I'll provide comments on expectations for the markets and our financial outlook for 2024. The macro environment in the fourth quarter showed improvements. However, in the transportation and logistics sector, conditions remained under pressure, both in the US and internationally due to soft demand and overcapacity in the market. Throughout the quarter, we leveraged the agility of our integrated network to match capacity with demand, and we were recognized by an independent third party for providing industry-leading service for the sixth peak in a row. Looking at our financial results, in the fourth quarter, consolidated revenue was $24.9 billion, down 7.8% from the fourth quarter of 2022. All three of our segments demonstrated agility and on a combined basis drove down total expenses by $1.1 billion in the fourth quarter year-over-year. This enabled us to deliver operating profit within the range we communicated to you last quarter. Consolidated operating margin was 11.2% for the quarter and in line with our expectations. For the fourth quarter, diluted earnings per share was $2.47, down 31.8% from the fourth quarter of 2022. Now, let's look at our business segments. In US Domestic, we knew going into the fourth quarter that volume would be ramping up from an exceptionally low third quarter. Our efforts to win back diverted volume and pull through new volume resulted in a record sequential volume surge. Throughout peak, we delivered excellent service to our customers while managing expenses. In the fourth quarter, average daily volume came in at the low end of our range and was down 7.4% year-over-year. B2B average daily volume in the fourth quarter was down 6.8% year-over-year, driven by declines in the retail, manufacturing, and high-tech sectors. In the fourth quarter, B2B represented 35.5% of our volume, which was up slightly from 35.3% in the same period last year. Also in the fourth quarter, continued macro pressures drove customers to seek economy products as we saw customers shift volumes from air to ground. Total air average daily volume was down 15% year-over-year, and ground average daily volume was down 5.8% versus the fourth quarter of last year. For the quarter, US Domestic generated revenue of $16.9 billion, down 7.3%. Revenue per piece was slightly positive year-over-year with a number of moving parts. A combination of strong base rates and customer mix increased the revenue per piece growth rates by about 390 basis points. This was offset by a few factors. First, changes in product mix and package characteristics decreased the revenue per piece growth rate by 140 basis points. Second, reflecting the lower volume in the quarter, peak season surcharge revenue declined, which reduced the revenue per piece growth rate by about 120 basis points. Lastly, changes in fuel prices decreased the revenue per piece growth rate by 110 basis points. Turning to costs, total expenses were down 3.6%. In the face of a 12.1% increase in union wage rates, which was driven by the contractual increase that went into effect last August, we pulled several levers to more than offset the higher expenses. First, we leveraged our network planning tools and total service plan to reduce total hours in the fourth quarter by 10.2%, which was more than the decline in average daily volume. This enabled us to decrease compensation and benefits, driving down the total expense growth rate by around 30 basis points. Second, lower purchase transportation expenditures reduced the expense growth rate by around 70 basis points, primarily from lower volume levels and our continued optimization efforts. Next, lower fuel costs contributed 160 basis points to the decrease in the total expense growth rate. Lastly, the net of all other expense items and allocations reduced the expense growth rate by 100 basis points. Pulling it all together, these actions helped us reduce US Domestic expenses in the fourth quarter by $578 million, which was our largest fourth quarter dollar cost reduction ever. Looking specifically at peak, as volume returned to the network and our biggest customers drove a surge in peak volume, we ran our integrated network with agility. In fact, in 2023, we closed over 30 sorts and they remained closed during peak. By leveraging our network planning tools, we took advantage of the flexibility of our integrated networks and flowed more volumes into our automated buildings. With smart package and smart facility in over 1,000 buildings, the misload frequency improved 67%, contributing to the superior service we deliver to our customers. The US Domestic segment delivered $1.6 billion in operating profit, down 32.6% compared to the fourth quarter of 2022. However, compared to the third quarter of 2023, operating profit in US Domestic increased $904 million and was our highest sequential operating profit increase ever. Operating margin in the fourth quarter was 9.3%, a 440 basis point improvement over the third quarter of 2023. As for the International segment, soft demand continued to pressure volumes out of Asia. In Europe, several key economies remain in recession, pressuring demand and driving shifts away from Express Services. In response, we focused on revenue quality and adjusted our global network to match geographic demand changes. Looking at volume in the fourth quarter, International total average daily volume was down 8.3% year-over-year. The decline was primarily due to lower domestic average daily volume, which was down 10.8% driven by declines in Europe and Canada\u2014areas facing persistent inflationary pressures. On the export side, total average daily volume declined 5.9% on a year-over-year basis, driven by declines in Europe due to weak macro conditions. Within Asia, export average daily volume was down 8.9% driven by soft demand in retail and high-tech sectors. However, export volume on the China to US lane, our most profitable lane, increased 2.7% driven by SMBs, nearly offsetting the decline in Asia. Over in the Americas region, export average daily volume grew 11.9%, led by customers in Canada and Mexico leveraging our cross-border ground service. In the fourth quarter, International revenue was $4.6 billion, which was down 6.9% from last year, primarily due to the decline in volumes. Revenue per piece increased 3.1%. Strong base pricing and a change in customer mix drove a 420 basis-point increase in the revenue per piece growth rate. However, a reduction in fuel surcharge revenue negatively impacted the revenue per piece growth rate by 60 basis points, and lower demand-related surcharge revenue\u2014partially offset by the impact of a weaker US dollar\u2014decreased the revenue per piece growth rate by 50 basis points. Moving to expenses, in the fourth quarter, total international expenses were down $152 million, primarily driven by lower fuel expenses. Additionally, in response to the lower demand environment, we managed our network to match capacity with demand, which included reducing international block hours by 9.4%. Operating profit in the International segment was $899 million, down $192 million year-over-year, with an operating margin in the fourth quarter of 19.5%. Now, looking at Supply Chain Solutions, in the fourth quarter, revenue was $3.4 billion, down $435 million year-over-year. Looking at the key drivers, in international air freight, overall volumes were down despite a mid-quarter spike in e-commerce. Market rates continued to be pressured, resulting in lower revenue and operating profit. On the ocean side, volume increased, driven by the retail sector, but excess market capacity pressured revenue and operating profit. Within forwarding, our truckload brokerage unit, known as Coyote, continued to face pressure from excess capacity in the market, which drove revenue and operating profit down. In the fourth quarter, Supply Chain Solutions generated operating profit of $319 million and an operating margin of 9.4%. Walking through the rest of the income statements, we had $207 million of interest expense. Our other pension income was $66 million, and our effective tax rate for the fourth quarter was 22.5%. Now, let me comment on our full-year 2023 results. For the full-year 2023, revenue declined 9.3% to $91 billion, and we generated operating profit of $9.9 billion, a decrease of 28.7% compared to full-year 2022. Consolidated operating margin was 10.9%. We generated $10.2 billion in cash from operations and continued to follow our capital allocation priorities. We invested $5.2 billion in CapEx. Additionally, we acquired MNX Global Logistics and Happy Returns. We distributed $5.4 billion in dividends, reflecting a 6.6% increase on a per-share basis over 2022. We repaid $2.4 billion in debt that matured during the year, and at the end of the year, our debt-to-EBITDA ratio was 2.2 turns. Lastly, we completed $2.25 billion in share buybacks in 2023. In the segments for the full year, in US Domestic, operating profit was $5.4 billion and operating margin was 9%. The International segment generated $3.3 billion in operating profit with an operating margin of 18.4%. And Supply Chain Solutions delivered operating profit of $1.2 billion with an operating margin of 9%. With 2023 behind us, let us move to our outlook for 2024. S&P Global is forecasting an improvement in global macro conditions as the year progresses. Outside the US, real exports in Europe are expected to improve each quarter throughout the year. Looking at Asia, we saw positive momentum on the China to US lane exiting the year and remain cautious on the outlook for 2024. In the US, the projected small package market growth rate is just under 1% excluding Amazon. A slight improvement is expected in US manufacturing, and the consumer is expected to remain resilient despite lingering inflationary pressures. We've built a plan that reflects the current environment and potential risks that we see. This includes getting our organization to align with our strategy and executing our wildly important initiatives under what we call fit to serve. As Carol mentioned, we are exploring strategic alternatives for Coyote, our truckload brokerage business, which will enable us to address some of the cyclical impacts in our forwarding business. Additionally, we are reducing our workforce by approximately 12,000 positions, which will cut around $1 billion in costs in 2024. Moving to our 2024 financial outlook, we are providing a range based on volume growth. The low end of the range has UPS growing at market rate and the high end of the range assumes us gaining share. For full year 2024, on a consolidated basis, revenues are expected to range from approximately $92 billion to $94.5 billion, with operating margin expected to range from approximately 10% to 10.6%. In the range provided, we expect to move total average daily volume from negative growth in the first half of the year to positive growth in the back half. This is primarily driven by lapping the volume diversion we experienced in the US last year during our labor negotiations. Additionally, costs will weigh on us in the first half of the year, primarily due to the higher labor cost inflation associated with the new contract. Looking at consolidated revenue in the first half of the year, we expect the growth rate to decline within a range of approximately 1% to 2%, with the first quarter driving the decline. And in the back half of the year, revenue growth is anticipated to be within a range of mid-to-high single digits. Looking at consolidated operating profit, we expect material improvement as the year progresses, with the second half of the year outperforming the first half. Lastly, we expect to generate our lowest consolidated operating margin of the year in the first quarter. Now let me give you a little color on the segments. Looking at US Domestic, average daily volume growth is expected to be within a range of approximately flat to up 2% for the full year. At both the low and high ends of the range, we expect the revenue per piece growth rate to outpace the cost per piece growth rate beginning in the third quarter, and we expect to exit the year with a 10% operating margin. Moving to the International segment, we expect 2024 average daily volume to be within a range of approximately flat to up around 3%. At both ends of the guidance range, operating margin is anticipated to be in the high teens. In Supply Chain Solutions, for the full year in 2024, we expect revenue to be within a range of approximately $13 billion to $13.5 billion. At both ends of the guidance range, operating margin for SCS is expected to be high single digits. For modeling purposes, below the line, we expect approximately $400 million in expenses in 2024, net of $262 million in pension income. We included a slide in the appendix of today's webcast deck to provide you more detail on pension. The webcast deck will be posted to the UPS Investor Relations website following this call. Now, let's turn to full year 2024 capital allocation. Our capital allocation priorities have not changed. We are staying on strategy and will make the best long-term decisions to capture growth, improve efficiency, and deliver value to our shareholders. We expect 2024 capital expenditures to be within our target of around 5% of revenue or $4.5 billion. Now, let's turn to our expectations for cash and the balance sheet. We expect free cash flow to be within a range of approximately $4.5 billion to $5.3 billion including our annual pension contributions of $1.4 billion, which are equal to our expected service costs. As Carol mentioned, the Board has approved a dividend per share of $1.63 for the first quarter. We plan to pay out around $5.4 billion in dividends in 2024 subject to Board approval. Lastly, our effective tax rate in 2024 is expected to be approximately 23.5%. In closing, we view 2024 as a year to pivot away from negative volume to positive volume growth and from high labor cost inflation to a much lower growth rate. We are laser-focused on executing our strategy, controlling what we can control, and improving our financial performance. We look forward to sharing our multi-year targets in detail on our strategy at our Investor Day event on March 26th. Thank you.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. We will now conduct a question-and-answer session. Our first question will come from the line of Chris Wetherbee of Citigroup. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Chris Wetherbee",
+      "title": "Analyst",
+      "content": "Yeah. Hey, thanks. Good morning, guys. I guess I wanted to start on maybe some of the cost out. You mentioned the 12,000 positions that you're reducing and the $1 billion of cost in 2024. I was hoping maybe you could help us sort of understand the timing of that. Based on a 10% kind of run rate exiting '24, it would imply that the first quarter is fairly low. So I just want to make sure I understand some of those moving pieces and when that $1 billion is going to start to accrue?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brian Newman",
+      "title": "CFO",
+      "content": "Sure. Happy to give you some color. So we talked about 12,000 heads out. Seventy-five percent of the reductions will come in the first half, which drive the $1 billion in the 2024 calendar year. But you're absolutely right in terms of the timing and announcement; it will be back-end weighted. The change I\u2019d like to point out is a change in the way we work. So as volume returns to the system, we don't expect these jobs to come back. It's about changing the effective way that we operate.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Carol Tom\u00e9",
+      "title": "CEO",
+      "content": "And I might just add a little more color, if I could, Chris. Today, we have about 495,000 UPSers around the world. A few years ago, when the COVID demand was peaking, we had 540,000 UPSers. So Kate and Nando have done a masterful job of managing our operational headcount to meet the volume in our company. They achieved this by managing turnover and attrition, closing sorts, and reducing block hours, etc. We have about 85,000 UPSers who are management; this can include both full-time and part-time management. The targeted headcount falls really within that group as well as some contractors that will be leaving us. To Brian's point, this is really about a new way of working. So it\u2019s a $1 billion of cost out now, but there will be even more cost out to come as we have a full-year benefit in 2025.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Chris Wetherbee",
+      "title": "Analyst",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "David Vernon",
+      "title": "Analyst",
+      "content": "Hey, good morning, guys, and thanks for taking the question. So, I just wanted to ask, on the productivity side, obviously hours down more than volume. We've had a couple of quarters of that, obviously not in the third quarter this year. Is there a point where volume declines become more difficult to offset? I'm just trying to understand the downside risk, right, if volumes continue to remain flat or weaker than you expect, how should we be thinking about the downside risk on the margin side?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Carol Tom\u00e9",
+      "title": "CEO",
+      "content": "So we believe that productivity is a virtuous cycle here at UPS. And I'll give you one example, then I'm going to throw it over to Nando to address this. But if I look at just one metric, cube utilization, we reached the highest cube utilization in our company history at 60%. That's the equivalent of reducing 1,500 loads per day. So that\u2019s not measured in hours, but it reflects a cost reduction. We\u2019ve got productivity across the operations. And Nando, why don\u2019t you talk about what you\u2019re going to do in 2024?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Nando Cesarone",
+      "title": "Executive",
+      "content": "Yeah. Thank you for the question. For us, it is a virtuous cycle. We're working ahead of any type of volume variability. So whether it goes up or down, we've got some of our best engineers, operations folks, and finance folks identifying additional cost-outs as we move forward, while executing the ones we have in front of us. So we feel good that there's a solid pipeline of opportunity no matter what the volume does. As Carol mentioned, we leverage our hourly headcount and match that to the volume and the activity. So far, so good, but there\u2019s still a lot in front of us, and they're quite significant. We feel really positive about those initiatives.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Carol Tom\u00e9",
+      "title": "CEO",
+      "content": "At our Investor Day in March, we're going to discuss our network of the future. We've got an integrated network. We don\u2019t have to integrate, but we can transform our network with some exciting ideas. So we\u2019re going to share that with you in March.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "David Vernon",
+      "title": "Analyst",
+      "content": "And the rate at which resource needs will need to be added back on the other side. If we get some volume expansion, can you talk to the expectations for operating leverage on the upside?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brian Newman",
+      "title": "CFO",
+      "content": "Yeah, I think as we look to the back end of the year. Certainly the volume projections that are in there, specifically the volume growth for the back end of the year, within that 2% to 4% range domestically, we start to see costs per package growing slower than the revenue per package. That balance will create the operating margin. With the sorts we closed over 30 sorts, we're not reopening them during peak. So we've changed the way we operate. Nando's doing an effective job of managing more volume with less. So we'll continue to drive that.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Amit Mehrotra",
+      "title": "Analyst",
+      "content": "Thanks, everyone. I just wanted to, Brian, on the guidance. I guess the guidance implies $9.6 billion in operating profits. You've been pretty helpful historically about giving us kind of the first-half, second-half cadence of that. And then just related to that, I want to make sure, the $1 billion is included in the guidance. Can you just expand on that a little bit? Because if I take out the $1 billion, the implied change in profits relative to the improvement in revenue is quite a bit worse. So I'm just trying to understand what's actually included in the guidance from the $1 billion and how that translates to the change in profit relative to the change in revenue?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brian Newman",
+      "title": "CFO",
+      "content": "Sure. Happy to. From a year-to-year perspective, we've forecasted revenue at 1% to 4%. Based on inclusion of volume laps and the contract overlap, we would expect revenue to be flat to down 2% in the first half, up 4% to 8% in the back half. From a profit perspective, as I mentioned, it's a tale of two cities in terms of halves of the year. For the second half, we expect profits to grow about 20% to 30%. The first quarter will be the biggest challenge due to volume comparison issues and the contract. But for the full year, we're looking at an operating margin of 10% to 10.6%. The second half of the year should be in the range of 11% to 12%, and you can work backwards into the first half. Regarding your question about backing out the $1 billion in costs, the cost is incorporated into our outlook for 2024. In the past, we indicated it would take 12 months to digest the new labor costs. We are confident in getting back to expanding US margins consistently while addressing the first year of the contract, ultimately depending on pricing and productivity. So, net, it\u2019s about managing through that contract and then reaping the benefits.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Amit Mehrotra",
+      "title": "Analyst",
+      "content": "And are we done there on the $1 billion or is there more to come? I mean, are we just getting started or what's the opportunity there beyond the $1 billion?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brian Newman",
+      "title": "CFO",
+      "content": "So Carol discussed the differences with respect to both management headcount and operating costs. If you segment the two, I think you're going to hear more at Investor Day regarding things like the future-oriented network, how we go after additional headcount in that area. This would represent a roughly 14% reduction in that group of 85,000 individuals.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Carol Tom\u00e9",
+      "title": "CEO",
+      "content": "We\u2019re never done. We continue to drive productivity. It\u2019s a virtuous cycle here, and technology has changed significantly in the past year. With the emergence of Generative AI and its applications, we\u2019re just getting started, and I\u2019m excited about the future impact it will have on driving productivity and enhancing the customer experience.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Amit Mehrotra",
+      "title": "Analyst",
+      "content": "Thank you very much.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Conor Cunningham",
+      "title": "Analyst",
+      "content": "Hi, everyone. Just to stick with the productivity side, you've been pretty dynamic with your network, and you mentioned, I think, 30 sort closures and whatnot. Can you talk about the consolidation opportunity in 2024 and how that may drive further efficiencies in the business? Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Carol Tom\u00e9",
+      "title": "CEO",
+      "content": "We'd be happy to address that question in March's conference. We have a thorough presentation regarding the future network that we want to share, which would take too much time today. We want to spend ample time discussing that on the upcoming March call. Thank you for your understanding.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brian Newman",
+      "title": "CFO",
+      "content": "Thanks, Conor.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Allison Poliniak",
+      "title": "Analyst",
+      "content": "Hi, good morning. I want to turn to the growth aspect, specifically market share capture. Could you walk through the different levers in terms of Project Brown, your ability to recapture diverted volume, and opportunities on the SMB and healthcare side? Any color in terms of where those levers can be pulled for market share growth in '24? Thanks.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Carol Tom\u00e9",
+      "title": "CEO",
+      "content": "I will start with a few comments about Project Brown. Project Brown really is a new approach to acquiring business and has many elements to it. First, we examined ourselves and asked what's inhibiting our speed. Our response times to customers were excessive. We discovered that we hadn\u2019t declared service level agreements across the various teams involved in providing offers to customers. We shortened the responses. This will now be a standard practice. I can give you a concrete example. Outside the United States, it used to take 22 days; we reduced that to six days and are now at two days. That\u2019s best in class. We\u2019ve made similar improvements in the United States too. Project Brown also involved introducing a new tool, Deal Manager, that uses artificial intelligence and machine learning to evaluate deals and remove the need for our salespeople to consult with pricing people for adjustments; they can view the score for their deals directly. This tool has now seen great acceptance and win rates of 79%. However, we found that we weren\u2019t offering all our products through this tool, one being SurePost, a valuable product. We\u2019ve now introduced SurePost into Deal Manager, and the returns have been favorable, especially for our smaller and medium-sized customers. We also improved and expanded weekend pickups in key markets this year. This demonstrates our dedication to operational excellence to drive the business and capture market share. Where will we capture share? We will keep focusing on small and medium-sized segments, where we see success. Our healthcare revenue has grown from $6 billion to $10 billion, and we aim to grow even further. We will continue to market our unmatched integrated network. For more detailed plans for capturing market share, we will provide an overview at our March Investor Day. To put the market size into perspective, the addressable market in the US is just over 52 million packages daily. Our international market also has potential for growth as we remain underpenetrated. Our new air hub at Hong Kong International Airport is crucial to tapping into that high-value market; the Greater China Bay area is a significant economic power center and currently has overcapacity issues with sky-high lease rates. Therefore, we are building a 20,000 square meter facility that will make us the second-largest air hub in that critical market, contributing to our growth over time.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Allison Poliniak",
+      "title": "Analyst",
+      "content": "Great, thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Tom Wadewitz",
+      "title": "Analyst",
+      "content": "Good morning. I wanted to see if you could discuss the competitive dynamics in the market. While you had share losses associated with the Teamster contract, there seem to be indications that other competitors may be gaining traction. For example, the postal service reported an increase in volume. Is there a risk the competitive landscape has become more challenging? How do we expect to improve volume outcomes in 2024? Are there more pressures on pricing, or is there something else at play to achieve better volume outcomes in '24? Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Carol Tom\u00e9",
+      "title": "CEO",
+      "content": "I would say that the pricing environment is very rational. You can see that reflected in Brian's discussion on revenue per piece performance in the fourth quarter, which exhibited robust base rate results. Although the revenue per piece number was muted due to lower fuel costs and product characteristics alongside shifts in product mix and reduced demand surcharges, the base remained strong. We expect this base to continue into 2024, with a General Rate Increase (GRI) of 5.9%. Will we retain all of it? No. But will we keep a significant portion? Yes, just like we kept about 60% of the GRI in 2023. Therefore, the pricing environment remains rational. Regarding competitive products, it is our responsibility to ensure we remain at the forefront, addressing our customers' needs. That\u2019s one incentive to provide a hyper-local product starting last quarter, which is tailored for short-distance deliveries\u2014a product we did not have previously. Additionally, we have identified new offerings that are worth discussing, although they aren\u2019t ready yet. Our CCO, Matt Guffey, might be able to share more at our March investor conference, and he's nodding his head.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Tom Wadewitz",
+      "title": "Analyst",
+      "content": "Okay, thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jeff Kauffman",
+      "title": "Analyst",
+      "content": "Thank you very much. I'm going to defer the big-picture stuff to March. I\u2019m curious about how your global perspective has changed since we discussed the labor deal back in August/September to now. You mentioned softness in Europe and a shift from air to ground, but what were the significant changes to your outlook over that four- to five-month period?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Carol Tom\u00e9",
+      "title": "CEO",
+      "content": "Well, the primary factor that softened was Europe. In our volume decline, both domestic and export, it was heavily weighted in Europe. In fact, export declines saw a dip of 94%, attributed to the weakness in Europe. This highlights the struggles in industrial manufacturing there. So that was a major alteration in our outlook. We've also seen fluctuations in air and ocean freight, especially due to external factors like the issues in the Red Sea and the low water levels in the Panama Canal that have created chaos in both freight modes. Interestingly, air rates and volumes have decreased while ocean-side volumes have risen, but the rates there have dropped significantly. As we assess the current landscape, it is indeed dynamic and in flux. Currently, we are witnessing shippers with higher-value goods moving from ocean to air due to concerns regarding ocean conditions.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Kate Gutmann",
+      "title": "Executive",
+      "content": "The market remains volatile, particularly in Europe where inflationary concerns are fading. We managed to reduce costs effectively to optimize our margins, which is our commitment. We remain vigilant on the forwarding side, ensuring we stay sharp and responsive to market trends, and I am proud of our team for pursuing high-value customers, particularly in international air freight.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Jeff Kauffman",
+      "title": "Analyst",
+      "content": "And to follow up, given the global events with significant disruptions, are we looking at a more substantial opportunity in Europe or a larger opportunity for air transport out of Asia?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Kate Gutmann",
+      "title": "Executive",
+      "content": "The most immediate opportunity is reflecting from Asia to Europe. However, this will be a global challenge; we expect ramifications across the board. Our sales teams are globally distributed, and our portfolio reaches worldwide, leaving UPS in a solid position to capitalize on it.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Brian Newman",
+      "title": "CFO",
+      "content": "Thanks, Jeff.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brandon Oglenski",
+      "title": "Analyst",
+      "content": "Hey, good morning, and thank you for taking my question. Can you discuss your enterprise customers and the volume trends seen in the fourth quarter, as well as expectations for 2024 compared to B2B and your small/medium business mix?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brian Newman",
+      "title": "CFO",
+      "content": "Absolutely, Brandon. We were delighted with the volume momentum. We experienced a low watermark in August of last year at down 15%, but we witnessed sequential monthly improvement that culminated in mid-single-digit declines in December. This positive trend continued. Although we will face difficult comparisons in the first quarter, positive volume growth should resume in the second quarter and extend into the latter half of the year as the comparisons adjust. Regarding the SMB segment, as Carol noted, we have focused on the penetration and specific attention toward medium-sized SMB customers. As we reported, our aim was to elevate that mix to over 30%, finishing the year at 28%, thus we're well on our way.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Carol Tom\u00e9",
+      "title": "CEO",
+      "content": "It\u2019s interesting to note the dynamics among our top five volume decliners in this quarter. One of them is our largest customer, and there was an intentional decline in that relationship. The other competitors, only one customer has diverted some volume, choosing to dual-source. The others have either experienced significant business downturns or have focused intently on enhancing in-store customer experience, promoting online buys for in-store pickup. Consequently, there\u2019s some fascinating movement among large enterprise customers. For us all, we are pleased to see that the extraordinary demand levels experienced during COVID are now behind us, and the volume in the small package market is reverting to normalcy, presenting an opportunity for growth.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Brandon Oglenski",
+      "title": "Analyst",
+      "content": "Thank you both.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Helane Becker",
+      "title": "Analyst",
+      "content": "Thank you very much, everyone, and I really appreciate your time. Regarding Coyote, what benefits did you envision from the acquisition that made it a significant purchase? Additionally, what outcomes prompted you to rethink its fit within your operational network? As a follow-up, I noticed you recently acquired two 747-8 freighters. Did you procure those off-lease or is there another source, considering Boeing no longer manufactures the 747?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Carol Tom\u00e9",
+      "title": "CEO",
+      "content": "I'm happy to address the Coyote question to the best of my ability. I was on the Board in 2015 when we acquired the company. The strategic rationale was truly about expanding our portfolio, a thoughtful move intended to enrich our service array. However, we did not fully grasp the cyclical nature of this business until much later. To illustrate, when we acquired Coyote in 2015, their previous year's revenue was $2.1 billion. During the pandemic, Coyote revenue peaked at over $4 billion, but it has since receded significantly. For context, our Supply Chain Solutions revenue faced a $3 billion year-on-year drop, contributing a third to our overall company decline. Coyote accounted for 38% of that decline and 48% of the drop in the fourth quarter. This shows the revenue volatility translates to even greater earnings volatility. Hence, we\u2019re questioning if there are alternative strategies for providing our service without the overhead. Alternatively, perhaps this business holds more value for someone else than for us. We're still exploring these strategic alternatives, and once we have insights, we\u2019ll share them. Regarding the freighters, Brian?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Brian Newman",
+      "title": "CFO",
+      "content": "The two aircraft were secured from Qatar and form part of a broader airline strategy aimed at retiring our MD11s for improved efficiency and sustainability.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Helane Becker",
+      "title": "Analyst",
+      "content": "Understood. Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Scott Group",
+      "title": "Analyst",
+      "content": "Hey, thanks. Good morning. I wanted to follow up on a couple of things regarding the guidance. Brian, I know you indicated a 10% US margin at year-end. Can you provide clarity on the timetable for the upcoming year? Additionally, you\u2019ve discussed the challenges in Q1. Are there specifics you can share about Q1 margins? Lastly, each year you usually update us on your biggest customer exposure; could you provide insights on that as well? Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brian Newman",
+      "title": "CFO",
+      "content": "I'd be happy to, Scott. From a domestic margin standpoint, we\u2019re anticipating a robust back half of the year, projecting profits to grow between 20% to 30%. The margins for the fourth quarter will be above 10%. However, the challenge remains with the first quarter, which is expected to be down. While we won\u2019t hit our lowest point in Q3 of last year, the first quarter margins won't improve significantly. Regarding Amazon, we concluded the year with an 11.8% exposure, which is not due to an increase in their business but reflects our comprehensive strategy to mitigate dependence on them.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "PJ Guido",
+      "title": "Investor Relations Officer",
+      "content": "Thank you. We have time for one more question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jordan Alliger",
+      "title": "Analyst",
+      "content": "Hi, good morning. I was thinking about the small package growth that you targeted at less than 1% this year. It appears quite conservative after a couple of years of probably negative industry growth. So, could you clarify the rationale behind that? Is it based on your economic outlook or forecast? Finally, regarding a longer-term outlook, what kind of small package domestic growth should we expect on a normalized basis? Thanks.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Carol Tom\u00e9",
+      "title": "CEO",
+      "content": "Certainly. We have a solid long-term view expectating growth around 3%. This is encouraging growth. We take into account a variety of external factors to guide our market growth perspective, triangulating from numerous sources to arrive at our best estimate. This represents our best judgment.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Brian Newman",
+      "title": "CFO",
+      "content": "Thanks, Jordan.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "PJ Guido",
+      "title": "Investor Relations Officer",
+      "content": "Thank you, Steven. This concludes our call. Thank you for joining, and have a good day.",
+      "sentiment": "0.0"
+    }
+  ],
+  "reported_date": "2024-01-30"
+}

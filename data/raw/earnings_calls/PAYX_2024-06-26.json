@@ -1,0 +1,601 @@
+{
+  "symbol": "PAYX",
+  "quarter": "2024Q2",
+  "transcript": [
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Good day, everyone, and welcome to today's Paychex Second Quarter Earnings Conference Call. At this time, all participants are in a listen-only mode. Later, you will have an opportunity to ask questions during the question-and-answer session. Please note, this call is being recorded, and that I will be standing by should you need any assistance. It is now my pleasure to turn today's program over to John Gibson.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "Thanks, Chelsea. Thank you, everyone, for joining us for our discussion of the Paychex second quarter fiscal 2024 earnings release. Joining me today is Bob Schrader, our Chief Financial Officer. This morning, before the market opened, we released our financial results for the second quarter. You can access our earnings release on our Investor Relations website, and our Form 10-Q will be filed with the SEC within the next day. This teleconference is being broadcast over the Internet and will be archived and available on our website for approximately 90 days. I'm going to start today with a brief update on the business highlights for the second quarter, and then I'll turn it over to Bob for a financial update, and then, of course, we'll take your questions. We had solid results in the second quarter and for the first half of the fiscal year with particularly strong performance in the PEO, mid-market HCM, and retirement. Revenue for the first half was up 6% year-over-year and our adjusted diluted earnings per share was up 10%, double digits. The demand for our HR technology and advisory solutions remained strong as business leaders continue to face a very challenging small and mid-sized business environment. The tight labor market and rising healthcare and benefits costs are forcing many to rethink their HR and benefit strategies, and they can turn to Paychex as a trusted business partner in these times. As we sit here today, the selling season for our mid-market HCM and our PEO teams are in their final phases, and our insurance open enrollment is underway. All are going well and in line with our expectations. Our pipelines for these solutions are strong and up from this time last year. In the small business market, selling season is just ramping up. We still have a critical third quarter to go both in terms of selling and delivering for our clients during year-end, but we are fully staffed and well positioned at this critical time of year. Our revenue retention remains above pre-pandemic levels as we continue to focus our resources on acquiring and retaining high value clients. Client retention has improved over last year and retention in our HR outsourcing solutions remains at record levels. I'd like to highlight the success specifically in our PEO business, which we've talked about on prior calls. It has continued to gain momentum with strong results during the first half of the fiscal year. We have seen a shift back towards the PEO offering, both outside and inside our client base. This shift in mix has a long-term positive impact on customer lifetime value in our business model, particularly as clients attach insurance benefits. We previously discussed actions we took to help the PEO recover after last year's challenges including: one, redesigning our health offerings; second, leveraging AI to revamp our sales and marketing models and to identify and attract high-value prospects; three, putting more focus on upgrading existing HCM and ASO clients to the PEO model; and finally, improved sales execution. As mentioned earlier, our insurance enrollment is underway and the tax rates are up after a challenging year last year. I want to specifically thank and congratulate our PEO team for all the hard work and success the past year so far. The macro environment and labor environment continue to be challenging for small and mid-sized businesses. Our Small Business Employment Watch continues to show moderation in both job growth and wage inflation, which is indicative of a stable macro environment and that the actions taken by the Fed are having their desired impact. While we haven't seen any signs of a recession in our data, we started to see some softening in seasonal hiring in the quarter, particularly in our large client segments, including our HR outsourcing businesses, many of which typically add seasonal employees at this time of the year. SMBs are still challenged with access to capital, the high cost of capital, inflation, and macro uncertainty. While we certainly don't see any signs of economic downturn, we are ready to take the required actions if such trends emerge. As one of the best operators in the business, we have demonstrated that we are able to respond and successfully navigate changes in any economic environment. I know that AI and related technology advancements remain a hot topic in our industry. As I've noted in past calls, AI at Paychex is nothing new. We have hundreds of growing AI models that are actively working in our business today, designed to provide valuable insights fueled by our vast data assets. The exciting transformation that is now occurring around generative AI opens up the opportunity for us to bring AI solutions to our employees so that they can be more effective and efficient, and to our clients. We are actively investing in GenAI in exploring how it can be used to improve efficiency and the customer experience and provide actual insights to us and our clients to help them succeed. Currently, we recently partnered with Visier, a global leader in people analytics and workforce solutions, to offer new benchmarking reports in AI-powered HR analytics solutions to our customers. This enhances our current reporting and analytics available in Paychex Flex and will perfectly complement our industry-leading HR advisory services. The partnership provides core HR and compensation analytics and salary benchmarking, an AI-driven model with benchmarks against 750 million market data points. This offering, in addition to our AI-driven Retention Insights Solution that we launched over a year ago, is just the beginning of how we will leverage AI to help businesses succeed. Partnerships with Visier, like our recruiting and onboarding partnership with Indeed, is another example of how Paychex is bringing together the power of partnerships, our large data assets, and integration to improve the customer experience and deliver real value and business outcomes for our clients. We are also pleased that for the seventh consecutive year, we have been positioned in the Leader quadrant as part of the NelsonHall's 2023 Vendor Evaluation report for payroll service providers. This provides further evidence of our leadership position based upon our robust technology and customer support. We're also very proud to be recognized in the Sapient Insights Group Voice of the Customer Top Five Vendor Survey for 2023 and 2024, receiving top five ratings in six categories spanning payroll, HR, time and attendance, learning, and performance. And really what I'm most proud of is that the Sapient report is based on the actual voices of our customers and customers from across the competitors, which demonstrates our leadership position across the industry. As we head into the selling season in calendar year-end, I'm confident in our global Paychex team and that they will constantly deliver and consistently deliver for our clients. We remain driven to be the trusted partner for small and mid-sized businesses that deliver industry-leading HCM technology and advisory solutions that help our clients succeed. I'll now turn it over to Bob to give you a brief update on our financial results in the quarter.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Bob Schrader",
+      "title": "CFO",
+      "content": "Thanks, John, and good morning, everyone. I'd like to remind everyone that today's commentary will contain forward-looking statements that refer to future events and involve some level of risks. I'll refer you to our customary disclosures in our press release as well as our Investor Relations presentation that should be on our website. I will start by providing a summary of our second quarter financial results. Total revenue for the quarter increased 6% to $1.3 billion. Management Solutions revenue increased 4% to $931 million; that was primarily driven by growth in a number of our clients served across our suite of HCM solutions, price realization, increased product penetration, and growth in ancillary services. PEO and Insurance Solutions revenue increased 8% to $296 million; that was driven primarily by higher revenue per client, including higher insurance revenues and average worksite employees. As John mentioned, our PEO saw continued momentum in sales activity and medical plan purchase volumes during the second quarter. Interest on funds held for clients increased 44% to $31 million; that was primarily due to higher average interest rates. Total expenses increased 5% to $752 million. Expense growth was largely attributable to higher compensation costs, PEO direct insurance costs, and continued investments in sales, marketing, and technology. Operating income increased 7% to $506 million for the quarter, with an operating margin of 40.2%; that's a 50 basis point expansion over the prior-year period. And both diluted earnings per share and adjusted diluted earnings per share increased 9% to $1.08 per share. I will now quickly touch on the results for the first six months of the year. Total revenue grew 6% to $2.5 billion. Management Solutions revenue in the first half of the year increased 5% to $1.9 billion. PEO and Insurance Solutions was up 7% to $593 million. And interest on funds held for clients increased 62% to $64 million. Our total expenses for the first half of the year were up 5% to $1.5 billion. And our operating margins for the first six months were 41%, and that was a 60 basis point improvement over the prior year. Diluted earnings per share and adjusted diluted earnings per share both increased 10% to $2.24 and $2.23, respectively. I'll take you through a quick overview of the company's financial position. As you all know, we maintain a strong financial position with high-quality cash flows and earnings. Our balance for cash, restricted cash, and total corporate investments was more than $1.4 billion, and our total borrowings were approximately $812 million as of the end of November. Cash flow for operations for the first six months of the year was $1 billion, and that's up 40% compared to the same period last year. This was primarily driven by higher net income and fluctuations in working capital. I do want to call out, similar to last quarter, there were some timing differences there based on where the quarter ended, which ended on a collection day, and that's why you see the 40% level. That will moderate as we move through the year. We returned a total of $811 million to shareholders during the first six months; that includes $642 million of dividends and $169 million of share repurchases. Our 12-month rolling return on equity remains strong at 47%. I'll now turn to our guidance for the fiscal year ended May 31, 2024. We've raised guidance on certain measures based on performance this past quarter. For other measures, I will also provide some color on where we now expect to be within the ranges, and certainly we can provide some more detail during the Q&A. The outlook assumes the current macro and competitive environment, which had some uncertainty, particularly as it relates to future interest rate changes in the economy. So, our current outlook is as follows: Management Solutions is unchanged with growth in the range of 5% to 6%, although we do anticipate it will now be at the low end of the range. PEO and Insurance Solutions is now expected to grow in the range of 7% to 9%, that's up from our previous guidance, which was 6% to 9% expectation. Interest on funds held for clients is not changed; we still expect that to be in the range of $140 million to $150 million. Total revenue is expected to grow in the range of 6% to 7%, but we now expect it to be more in the middle of the range. I know last quarter we thought that might be a bit stronger. We now expect the total revenue guidance to be more aligned with our original guidance of 6% to 7%. Operating income margin is expected to be in the range of 41% to 42%. Although we now anticipate that will probably be toward the upper end of that range. Other income net is expected to be income in the range of $35 million to $40 million, and that's raised from our previous guidance of $30 million to $35 million. No change to the effective income tax rate; we still expect that to be between 24% and 25%. And then, adjusted diluted earnings per share is now expected to grow in the range of 10% to 11%. We raised that last quarter to 9% to 11% just based on what we're seeing. We expect that to be a bit stronger and we're raising that guidance to 10% to 11%. Now, I'm going to turn to the third quarter to give you a little color on the third quarter. We are currently anticipating total revenue growth for the third quarter to be in the range of 5% to 6%, and operating margins to be in the range of 44% to 45%. As it stands right now, we would expect to be pretty much in the middle of those two ranges. And I'd like to remind everyone that we've talked about this in the past that ERTC becomes a headwind in the back half of the year. If I go back and look over the last two-and-a-half years that we've been selling ERTC, Q3 of last year was the largest quarter that we had with ERTC. And so that's a bit more of a headwind in Q3 than Q4, but will be a headwind in the back half of the year. Of course, all of this is based on our current assumptions, which are subject to change. We'll come back and update you again on the third quarter call. As I mentioned, our investor slides are posted on the website, so I'll refer you there for additional information. And with that, I will turn it back over to John.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "Okay. Thank you, Bob. We will now open the call for questions. Chelsea?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our first question will come from Kevin McVeigh with UBS.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Kevin McVeigh",
+      "title": "Analyst",
+      "content": "Thank you very much, and congratulations as you wrap up the year. John, Bob, and I want to express our gratitude to Efrain, as I believe this will be his last quarter on the call as well. John or Bob, you mentioned that revenue retention is at record levels and client retention is improving. Could you elaborate on that a bit? It seems like things are getting better, but the revenue appears to be more in the middle of the range. What is driving this improvement, and could you also provide an update on the overall revenue expectations?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "Yeah. Kevin, I'll start off on retention, and we can talk a little bit about the revenue expectations. Bob will add some color on that, then I'll jump in. Look, we continue to be very pleased with where we are on revenue retention. I think as we continually talked about, we've really been highly focused on having an impact in those critical areas where it counts, and that's our high-value segments, and that's what we've seen. Our HR outsourcing business, both ASO and PEO, at record levels of retention. And we're very pleased with that. Client retention across the business was actually better in the first half of this fiscal year than it was last fiscal year. And that's really attributable to the team's great job of really managing the controllables. We're continuing to see on the lower end of the market, the bankruptcies out of businesses and non-controllable losses being higher year-over-year. That's not surprising to me when you see the level of business starts that we've seen during the COVID period really at elevated levels. And we just know, out of those small companies that started out two years ago, most of those have trouble financially. And so, overall revenue retention continues to be at pre-pandemic levels, which I would remind you was at near historic highs for the company.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Bob Schrader",
+      "title": "CFO",
+      "content": "Yeah, Kevin, I'll just add on the guide. As you guys remember, at the end of Q1, I think where we ended the quarter, we had said we expected to be towards the high end of the range. I think there were a couple of reasons at that time why we felt confident in saying that. I would say, one, the positive trends that we were seeing in the PEO business. I think we wanted to wait another quarter before we raised the PEO guidance. But we definitely saw some positive trends, really going back to the end of last year. That continued into Q1. I'd say that gave us a little bit of confidence. And as you guys know, we did do a small acquisition at the end of Q1; not a big contributor to growth. But I think those two things combined really gave us a bit of confidence that we thought we might be towards the upper end of the range. I'd say, as we got through Q2, the one thing that I'll highlight, I think John made reference to it, although we didn't have big growth assumptions in the plan related to employment growth, particularly in our larger employee sizes across both Management Solutions and the PEO. We typically get some seasonal hiring. We expected to see some growth there that didn't materialize to the level that we expected and certainly what we've seen in the past. And so that's given us a little bit of pause. And as I mentioned, that was across both categories, Management Solutions and PEO and Insurance. The PEO and Insurance, for the most part, they've been able to outrun that, I would say, just given the strength of the business. John talked about the strong demand there. And some of the action plans that we've taken have really paid off there. But on the Management Solutions side, it's been a little bit of a headwind. And that is kind of what you see in the quarter as well as kind of the fine-tuning of the guidance ranges that I just provided.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Kevin McVeigh",
+      "title": "Analyst",
+      "content": "Very helpful. Thank you so much.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next question will come from Andrew Nicholas with William Blair.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Andrew Nicholas",
+      "title": "Analyst",
+      "content": "Hi, good morning, thanks for taking my question. Really strong quarter on the PEO front. I wanted to ask about pricing dynamics there. And in health insurance, more specifically, we've heard from some competitors within the space that there are certain players that are being more aggressive on the health side during this year's renewal cycle. I'm just kind of wondering if you've seen that. How Paychex is navigating that environment stacking up in terms of rate increases relative to those peers and maybe just how you're faring broadly on the pricing side?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "Thank you for your question, Andrew. I can tell you that the PEO has shown consistent improvement in growth as the year has progressed. Our pipeline remains very strong compared to last year, indicating that our value proposition is making an impact, regardless of what competitors are doing. I want to emphasize that we do not rely on low-cost health options within our value offering; instead, we focus on providing a comprehensive HR outsourcing solution. If clients are strictly looking for low-cost health options, we likely won\u2019t engage with them for too long. As you know, we can also utilize our insurance agency within our PEO. Overall, I am very pleased with the current state of the PEO; we're seeing strong performance and a solid pipeline. We're in the final stages of our sales efforts, and as you know, the mid-market selling season tends to occur earlier, so we are in the closing phases. Both aspects of the pipeline for the PEO, in terms of insurance attachment and sales, are looking very strong.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Andrew Nicholas",
+      "title": "Analyst",
+      "content": "Great. And if you don't mind, just a follow-up on ERTC. It sounds like that's trending towards your expectation that the comp in the fiscal third quarter is a bit tougher. I just wanted to confirm that. And then also, it looks like the IRS has taken a stance with respect to ERTC and potentially making PEOs liable for that. Just wondering if that presents any risk or how you are kind of thinking about that dynamic in that part of the business. Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Bob Schrader",
+      "title": "CFO",
+      "content": "I'll start on just kind of the financials. I'd say for the most part, ERTC, we finally got it right from a forecasting standpoint after three years. It's been a little challenging to forecast that. But for the most part, it has lined up with our expectations. Most of that was assumed to be in the front half of the year. That's behind us. There still is a little bit in the back half of the year; but for the most part, it has lined up. I've gotten this question a lot. I promise to provide an update on ERTC. So, I'm going to stick to my word, which was essentially we had said prior that we expected it to be a slight tailwind in the front half of the year. That's where the front half landed, it was a slight tailwind. We expected it to be a headwind in the back half of the year. It will be a headwind in the back half of the year. But I wanted to provide a little bit more color, and you guys can kind of do the math and back into it. But on a full-year basis, with the tailwind in the front half and the headwind in the back half, we would expect it to be about a 1% headwind on a full-year basis to growth. And then, I don't know if, John, you want to address the PEO?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "Yeah. I think relative to your question on the PEO and ERTC and the IRS stance on it, I would say, the IRS has been trying to look for bad actors in both parts of that equation and tighten rules. As you can imagine, we've been very diligent with our compliance teams in setting up our process. In fact, we were a little slower going out on ERTC products in the PEO because we wanted to work through all of those compliances and the way we approach the contracting with our clients for those services. So, I would tell you, Andrew, we feel very good about our position of where we are in terms of managing that risk.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Andrew Nicholas",
+      "title": "Analyst",
+      "content": "Perfect. Thanks so much.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next question will come from Ramsey El-Assal with Barclays.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Ramsey El-Assal",
+      "title": "Analyst",
+      "content": "Hi, thank you for taking my question. I wanted to follow up on the ERTC. It seems there is a backlog because processing has been paused. Should we consider this a challenge for the second half of the year, but anticipate that as the IRS resumes processing, revenue could eventually start coming in again? Is this more about shifting revenue to the future? I understand there are complicated aspects and some deadlines rolling into 2024. I'm interested in understanding how we should approach ERTC revenue, not just for the upcoming quarters, but possibly beyond that.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Bob Schrader",
+      "title": "CFO",
+      "content": "Yeah, not really, Ramsey, because what we're basically doing is we're amending the returns and filing the submissions for our clients, which the IRS continues to accept. And so, we're recognizing the revenue as we do that, and they're still accepting submission. So, there's really not a timing shift there. The change at the IRS made at the end of Q1 really hasn't impacted our ability to continue to go into our base and sell it, really hasn't impacted our forecast from a revenue standpoint. The big difference is that you have the deadline; you are approaching a deadline here at the end of this fiscal year. And we're three years into it, and we've been through our base and really have identified all the clients that qualify for the opportunity. We've talked to them. And if we haven't talked to them, you can turn on the radio; everyone else has talked to them. So, it just, hey, we're through eight years into it. I think most small businesses that were qualified for this benefit have taken advantage of the opportunity. And there may be some a little bit flows into next year, but nothing of significance. I'm hoping at some point in time, I can stop talking about ERTC, but there's really no timing shift there related to what the IRS did.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Ramsey El-Assal",
+      "title": "Analyst",
+      "content": "Great. That's very helpful. And a quick follow-up. SECURE Act 2.0, is that in any of your conversations in the selling season? Give us kind of your latest view about how that opportunity is framing up for Paychex?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "Yeah. I think we highlighted and mentioned in first half, 401(k), a very solid continued performance. So, we're very pleased with that offering. I think as you know, we probably go out to the market with the most comprehensive retirement offerings for small businesses, anywhere from simple IRAs to our SEP plan that we are one of the largest providers, if not the largest provider, of PEP plans. So, very pleased with that. It is part of our selling season campaigns. I think as I said, one of the things we've learned a lot about the retirement business from some of the state mandates, I continue to try to pound this in is this is one of the things you still have a lot of education to do for the small business owner. Even though there are a lot of benefits to it, there are costs involved, and there's compliance issues. So, this is not something that people just sign up for. So, there's a lot of education and pre-marketing that has to be done, but we're certainly leveraging the SECURE Act as a means to entice clients into a conversation and are finding it successful once we do in getting them to understand the benefits of our offerings.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Ramsey El-Assal",
+      "title": "Analyst",
+      "content": "Got it. All right, thank you so much. Happy holidays, by the way.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "Happy holidays.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Bob Schrader",
+      "title": "CFO",
+      "content": "Same to you.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next question will come from Bryan Bergin with TD Cowen.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Bryan Bergin",
+      "title": "Analyst",
+      "content": "Hi, guys. Good morning. Thank you. So, I wanted to start on Management Solutions. The late seasonal hiring that you've called out here that drives the weaker view, can you just dig in more on that client profile? And is this more so a pullback in demand for employees or issues in hiring? So, I'm curious what you might be seeing as it relates to clients' talent acquisition funnels, job openings, background checks, things like that.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "That's a very good and insightful question, Bryan. We are also trying to understand this situation. What I can tell you is that small and mid-sized businesses are facing a tough environment. They continue to struggle, especially in HR advising, with a difficult labor market when it comes to finding qualified workers. That's definitely a concern. Additionally, with the high cost and limited access to capital, these businesses are being cautious about investing for growth, trying to do more with less. This has created some hesitancy. However, many businesses still want to hire qualified individuals. Some have reported paying higher rates for less qualified candidates. We're also seeing various HR issues, like disciplinary problems and no-shows, which leads many business owners to think that if they can't find qualified talent, they might be better off maximizing the skills of their existing employees. Overall, the macro environment isn't indicating mass layoffs or reductions in employment; instead, we're noticing some rightsizing within higher-end enterprises. In the mid-market, hiring is more inconsistent across different sectors, particularly in the up-market. While traditionally we would see seasonal hiring, this time it's not occurring to the usual extent. Interestingly, our PEO team's impressive results come despite experiencing less seasonal hiring, particularly in Florida. We also observed similar trends in our ASO business and to a lesser extent in our HCM mid-market business. In the small market, we see continued moderation, not necessarily in downsizing or clients taking employment actions, but rather a challenge in filling open positions or hesitancy in increasing headcount right now. I'm not sure if this provides you with the clarity you were looking for.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Bob Schrader",
+      "title": "CFO",
+      "content": "Hey, Bryan. I just want to add a little bit. You didn't specifically ask this, but just regarding the weaker Management Solutions. Beyond the softer hiring compared to what we expected, another aspect is the strong performance in PEO as well. We have discussed the PEO business extensively and have received many questions about our ability to reignite growth there. One of our strategies was recognizing the ASO's strong performance last year. We formulated a plan to revisit our client base, utilize our data, and apply our AI models to identify clients that would be suitable fits for PEO, and we have been implementing that plan over the past six months with results that have actually exceeded our expectations. Now, the situation has shifted a bit. We might as well combine these two businesses into one category, which would simplify things for both me and John. We have experienced significant success with PEO, which is reflected in the recent increase, and this also has some impact on the somewhat weaker performance in Management Solutions.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Bryan Bergin",
+      "title": "Analyst",
+      "content": "Okay. That's all helpful color. And I fully understand the ASO versus kind of PEO shift there. And maybe just a follow-up here on the PEO, can you just dig in a bit more around the expectations of at-risk health insurance attachment participation rates as you go towards the 1/1 go-live period? And specifically, did PEO bookings accelerate in the quarter relative to last quarter?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "Let me address the last point first. Yes, we discussed the PEO in the fourth quarter of the previous fiscal year and mentioned the numerous changes we were implementing across that business. We started to observe acceleration, which continued into the first and second quarters, both outside and within our existing client base. As Bob noted, the conversion from ASO to PEO has been significant. Our pipeline appears very healthy, not just in the PEO segment but also in the mid-market. In summary, as we are currently in the selling season for our mid-market HCM and PEO, these initiatives are well advanced and in their final phases, supported by a strong pipeline. The insurance enrollment also showed solid performance, aligning once again with our historical trends after a slight decline previously. Notably, we experienced a single-digit increase in penetration within our existing customer base. Last year, we had new employees signing up for plans, and we made various adjustments to our plan offerings and educational efforts concerning open enrollment. The team's performance has greatly enhanced our attach rate within the existing client base during this enrollment period.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Bryan Bergin",
+      "title": "Analyst",
+      "content": "All right, thank you. Happy holidays.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "Happy holidays.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Bob Schrader",
+      "title": "CFO",
+      "content": "Same to you.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next question comes from Jason Kupferberg with Bank of America.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jason Kupferberg",
+      "title": "Analyst",
+      "content": "Good morning, guys. I wanted to ask a follow-up just on Management Solutions. I mean, I know we're talking about the lower end of the 5% to 6% for the year. So, you basically need to maintain the 5% growth rate that you saw in the first half, in the second half, despite the fact you're lapping ERTC. And it sounds like maybe the tone on the overall health of SMBs is down-ticking a little bit. So, just wanted to get your perspective on the visibility of Paychex's ability to maintain that 5% growth in the second half given some of those moving parts out there? Thank you.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Bob Schrader",
+      "title": "CFO",
+      "content": "I can start, and then John can add on. There is certainly a challenge with ERTC, but there are other areas of the business. Despite the hiring challenges and improved performance in PEO that John mentioned, ASO continues to strongly contribute to our growth, and we expect this to continue in the second half of the year. Retirement has been a significant growth driver for us, and we anticipate further product penetration in that area. This will help counterbalance some of the ERTC challenges. Additionally, we made a small acquisition that won't greatly impact growth for the full year but will help alleviate some of the headwinds as we move into the second half. When we consider all these factors together, we expect Management Solutions to maintain a similar growth rate in the second half as in the first half.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "Yeah. Jason, I just think the other thing I would add on commentary, relative to the SMB market, we're not even in really the key selling season. So, we're just in the selling season. That's just beginning to kick off, and we have a lot of execution during January, as you know, to go out in the marketplace. So that's just starting. So, the areas where we are nearly complete with the selling season, the mid-market, the PEO, the high end of ASO, those pipelines are full, much better than last year. And really in that small market, we're just beginning to enter the selling season with a lot of execution to go in the next 60 days.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Jason Kupferberg",
+      "title": "Analyst",
+      "content": "Okay. That's good color. I know you talked about how you're thinking about overall revenue growth for Q3 versus Q4, but can you just parse out maybe your segment level growth expectations for Q3 versus Q4, just so we get our models tuned properly? Thank you, guys. Have a great holiday.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Bob Schrader",
+      "title": "CFO",
+      "content": "I'm looking at that, Jason. Management Solutions will likely be a bit lower in Q3 compared to Q4 due to the greater challenges we discussed regarding ERTC in Q3. The growth rates for PEO and Insurance are expected to be similar to what they were in Q2. When you consider the full-year guidance, the estimate I provided for Q3 should help you get a clearer picture.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "The geography shift that we observed over the past year has influenced the ASO from the PEO offering when we are providing both services; there has been more movement in that direction. Currently, we are witnessing a shift from Management Solutions to PEO and Insurance, as the trend is leaning the other way. Additionally, it's worth noting that the conversions from ASO to PEO do not adhere to a specific selling season; we handle these migrations throughout the year. We continue to see strong progress in this area and have no plans to slow down, as it offers higher revenue and lifetime value within our business model. Regarding forecasting between these two areas, Bob has a model that he can discuss with you. However, I want to emphasize that if we can migrate more of our clients from HCM and ASO to PEO in the latter half of the year, we will pursue that.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Jason Kupferberg",
+      "title": "Analyst",
+      "content": "Okay. Thanks again.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next question will come from Peter Christiansen with Citi.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Peter Christiansen",
+      "title": "Analyst",
+      "content": "Good morning. I appreciate the question. There's been nice execution here. John and Bob, could you discuss the balance of trade and any trends you're observing, especially in the Management Solutions area? Also, John, you mentioned AI's role in sales; could you elaborate on that and share any progress you're making in that area? Thank you for the insights. Happy holidays.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "Thank you very much. I am quite pleased with the growth we have in the mid-market across our platforms. We have already discussed the PEO, and I am satisfied with our position there. The small business sector remains competitive, and I wouldn't point to any significant changes. As I mentioned in the previous call, our balance of trade metrics continue to be strong. We're entering the selling season, and the next 60 days will be crucial in this competitive environment. For now, I am very happy with our progress in the mid-market HCM, our position in PEO, and the upper end of the ASO market. Additionally, I remain content with our balance of trade in other areas. There was another question I missed...",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Peter Christiansen",
+      "title": "Analyst",
+      "content": "On the AI front, I think you mentioned it...",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "I can't believe I missed the chance to discuss AI. We've been working on this for decades, and now it's finally gaining public attention. It's impressive how we're applying it in sales, PEO, underwriting, targeting, and mining our data. The productivity boost from understanding where we can add value is significant; it's almost like having a pre-proposal because we can predict client preferences. We're leveraging AI models and data analysis extensively. Regarding pricing, all our major sales teams are now on a unified platform for proposal and pricing management. We're developing AI models for the mid-market that provide our sales reps with real-time pricing and discounting strategies based on client value and competitive landscape, helping us enhance both volume and rates. We're committed to refining these models and implementing them across teams. The sales productivity improvements, marketing targeting enhancements, and optimal pricing strategies provide a strong competitive edge. Additionally, we're utilizing voice analytics from our interactions with prospects to offer real-time coaching to our sales teams on effective phrases and messages, allowing us to adjust our marketing and sales scripts dynamically. We\u2019ve started piloting these changes in the PEO sector during the last quarter when we faced challenges, and we've observed positive outcomes as a direct result of these strategies.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Peter Christiansen",
+      "title": "Analyst",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next question will come from Kartik Mehta with Northcoast Research.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Kartik Mehta",
+      "title": "Analyst",
+      "content": "Hey, good morning, John and Bob.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "Kartik, good morning.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Kartik Mehta",
+      "title": "Analyst",
+      "content": "Thanks. John, you talked about a little bit about the key selling season, obviously, in the SMB. And I'm wondering if you've seen any kind of change in price competition or if you're seeing anything that is a little different this time than last year?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "Kartik, it's a competitive market, and it has been for the 27 years I've been in the industry. There are various marketing strategies being implemented, and there are many offers out there that, when examined closely, often have conditions attached. It's fundamentally the same environment regarding discounting, which remains very aggressive. However, we maintain solid pricing power both in our existing customer base and in the broader market, which has been notably strong over the last two years. We have effectively utilized programs like the PPP and ERTC to enhance our pricing power. That being said, we have consistently held this position for decades; we have never been the lowest-cost provider. Our retention levels with existing clients are at record highs, which speaks to our value proposition. Ultimately, I believe that small and medium-sized business owners make decisions based on value rather than just price. We will remain competitive and responsive, but we won't compromise sensibly. We are currently winning in the market and have a strong pipeline with a proven track record of success. Our margins indicate that we are not undercutting our offerings.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Kartik Mehta",
+      "title": "Analyst",
+      "content": "Bob, regarding Management Solutions and the seasonal employees, is it just that your pay per control expectations were X, but they came in slightly lower due to the current situation?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Bob Schrader",
+      "title": "CFO",
+      "content": "I would say it's more than just that, Kartik. As we've discussed, our expectations for client employee additions over the full year were moderate and did not significantly contribute to overall growth. This was particularly true for both Management Solutions and PEO, which were slightly softer than expected. What we're really observing is not from the lower end of the market but rather from our larger clients, especially in ASO and PEO models. These clients tend to have larger employee counts, and we usually see some seasonal hiring every year. We had certain expectations for what that would look like in Q2, but it hasn't turned out as projected compared to previous years. Overall, things are a bit softer than we anticipated. However, as John mentioned earlier, small businesses aren't eliminating employees; they're just not adding them at the rate we had assumed in our planning.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Kartik Mehta",
+      "title": "Analyst",
+      "content": "Thank you both. Appreciate it.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Bob Schrader",
+      "title": "CFO",
+      "content": "You're welcome.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next question will come from Samad Samana with Jefferies.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Samad Samana",
+      "title": "Analyst",
+      "content": "Hey, good morning. Thanks for taking my questions. Maybe just stepping back, since the last time you guys reported, the company put out midterm financial goals. And I was wondering if maybe you could just provide us some context on the assumptions in that upper single-digit growth target for revenue, just especially as we think about employment maybe peaking and rates doing what they are. Just what was in that assumption, especially given that it was put out there between the last time you guys reported and now? Just maybe help us understand what the building blocks are?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Bob Schrader",
+      "title": "CFO",
+      "content": "Sure, would you like me to address that?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "No, go ahead. Go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Bob Schrader",
+      "title": "CFO",
+      "content": "I've received this question frequently. Looking back at our revenue growth over the past five to ten years, it aligns well with the midterm guidance we've provided. The guidance we have for this year also fits comfortably within that range. As you're aware, we have a structured approach to achieve this growth, which combines client-based expansion and maintains a performance similar to what we've experienced in the past. We excel at increasing the share of wallet from our clients, especially regarding our high-value offerings like ASO, PEO, and retirement solutions. There's significant opportunity within our existing client base, particularly since the penetration rates for many of our key solutions are relatively low. We believe we can drive further growth in these areas. As John noted, we have pricing power due to our strong value proposition. While we might not be capturing prices to the extent we did in previous years when inflation was high, we are confident in our ability to maintain pricing in the future. Additionally, historically, we've used mergers and acquisitions as a means to foster business growth, and this will continue to be part of our strategy moving forward. Considering all these factors gives us confidence in sustaining upper single-digit growth, though it may fluctuate from year to year, we expect to remain within that range.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Samad Samana",
+      "title": "Analyst",
+      "content": "Understood. Thanks for that. And then, maybe just a follow-up. Based on the trends that you guys have called out so far or what you observed in this most recent quarter, how should we think that maybe your own near-term hiring plans for quota-carrying sales reps or just in your own sales organization, any change to that plan based on what you just observed in the prior quarter?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "No. We're fully staffed, and our intent is to continue to grow sales. Look, the business starts are up. We feel like the opportunity in the marketplace is strong. Now, I will tell you, the thing we are trying to balance is the productivity gains that we can get out of some of the go-to-market strategies. As I said, we did some testing learns in the PEO that showed some really good lift. And so, quite frankly, I think we're going to apply those in the mid-market and upper end of the SMB market. And I think those could also be a lift as well, but we have no plans of pulling back on investing in growth.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Samad Samana",
+      "title": "Analyst",
+      "content": "Great. Thank you. Enjoy the holiday season.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "Thank you.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next question will come from Bryan Keane with Deutsche Bank.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Bryan Keane",
+      "title": "Analyst",
+      "content": "Hi, everyone. Good morning. I have a couple of clarifications to ask. When you mentioned that small and medium-sized businesses are investing for growth, there seems to be some hesitation. Does this affect their willingness to purchase additional services and has it also impacted the growth in management services?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "We haven't really observed that, Bryan. What we actually see is that there are instances where a strong business owner, who has successfully opened a few franchises, might consider adding another franchise location. However, due to limited access to capital and the high cost of capital, they are hesitant to proceed because they can't meet the required return on investment. This situation reflects more a cautious approach rather than a complete withdrawal from investing. Often, when we assess the products and services we offer, they are generally aimed at increasing efficiency or assisting in the retention and attraction of quality employees, whether through enhanced benefits or an HCM solution. Therefore, I believe that most of our clients recognize the value in our offerings and genuinely think these will contribute positively to their business success. As a result, they do not necessarily regard these as mere expenditures.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Bryan Keane",
+      "title": "Analyst",
+      "content": "Got it. And then, the other clarification I had is, the shift to ASO the PEO, did that surprise you guys or was that all part of the plan and pretty typical?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "No, I mean, it's something we've always historically done. What I would say is that it turned out better than we expected. Now, let's keep in mind, last year when we were out in the market with the PEO and ASO offering, we saw a shift; we had great HR outsourcing sales last year and we have great HR outsourcing sales this year. They're just in different locations on the reporting structure. Last year, we knew we had a lot of clients that we typically would have considered great candidates for PEO, but for various reasons, they opted for the ASO offering. We mentioned in our calls that we felt this would be a good opportunity to reconnect with them once they experienced our human capital management system, the benefits of our HR advisory solutions, and our HRGs, and reintroduce them to the comprehensive outsourcing of the PEO model. That's exactly what we did. As a result, we had a larger pool of clients to approach because of the success of ASO last year. Additionally, as I mentioned, we're working on analytics to identify clients with a high likelihood of benefiting from the co-employment relationship that a PEO provides, enabling us to better select from our extensive customer base who we should target.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Bryan Keane",
+      "title": "Analyst",
+      "content": "Got it. That's helpful. And then, just a quick one for Bob. Just to quantify the small acquisition, does that add about 1 point to 2 points of revenue for the third quarter, or how do we think about that?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Bob Schrader",
+      "title": "CFO",
+      "content": "No, it's small. I don't have the exact number, Bryan. On a full-year basis, we said it's not a material contributor to revenue growth at all. I mean, way less than 1%. I don't have the split in front of me by quarter.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Bryan Keane",
+      "title": "Analyst",
+      "content": "Yeah, I was just thinking maybe it could offset some of the ERTC...",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Bob Schrader",
+      "title": "CFO",
+      "content": "Yeah, I mean, it certainly is, and that's assumed in the guide, and it certainly is offsetting it, but ERTC was so large in the back half of last year, particularly in Q3, and unfortunately, it comes nowhere near close enough to offset the full thing, but it does minimize it a little bit, the headwind.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Bryan Keane",
+      "title": "Analyst",
+      "content": "Great. Happy holidays.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Bob Schrader",
+      "title": "CFO",
+      "content": "Yeah, same to you.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "Happy holidays.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our last question will come from James Faucette with Morgan Stanley.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "James Faucette",
+      "title": "Analyst",
+      "content": "Great. Good morning, guys. Just a couple of quick follow-up questions. In terms of back to this point on seasonal hiring, maybe being a little bit weaker, I'm just wondering from your perspective if there's been any impact or truth even before now to this narrative that we've heard a lot around labor hoarding, and that smaller businesses in particular were keeping people on payroll or employed that they maybe otherwise wouldn't have just because they were concerned about shortages. And just wondering if you'd seen any evidence of that actually in your customers and if that could be impacting the seasonal hiring at all.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "Well, James, I would say that in the small business sector, there has not been hoarding at all; instead, it has been a deficit. To be fair, in the index we closely monitor, small businesses probably returned to a level playing field about nine months ago. The hoarding was mainly observed in the upper end and enterprise side of the market. You might have noticed that there. In those cases, there was hiring of employees that might not have been necessary. Regarding the larger downsizings we've seen, I believe small and mid-sized business owners have been hesitant to let employees go because they've been focused on retention. That's why we relaunched the Retention Insights AI offering over a year ago, as small business owners want to maintain their valuable employees. Currently, these owners are focused on ensuring they have high-quality workforces. Discussions with our HR generalists indicate that business owners are more concerned with how to lead and support their employees. They might not have the workforce they anticipated because they were compelled to hire during a time when it was hard to find people. Now, there\u2019s a greater opportunity to upskill their workforce, which is what we are observing, and I wouldn't describe it as hoarding.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "James Faucette",
+      "title": "Analyst",
+      "content": "I just wanted to ensure I understood that correctly, thank you. You mentioned that we are still experiencing strong business starts. What about the other side? There's been a belief in the economy that failure rates or business closures haven't returned to pre-pandemic levels yet. Could you provide an update on the current business closure rates and how they relate to the continued strong business starts? I'm particularly curious about that aspect of the customer segment.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "Yeah, I would tell you that bankruptcies are up, and have been on the rise probably over the last year. You're still seeing births outpacing deaths. Now, deaths typically report a little lag. I would just tell you in our data that bankruptcies continue to accelerate this year over last year in terms of out-of-business reasons. Again, what I always want to warn people here because I think people read into that data, other concerns on a macro basis, I don't view it that way. The fact of the matter is we had such high levels of new business bursts two years ago during the pandemic that if you just do the math of survivability rates of those businesses that most of them are gone after five years, and 50% of them are gone in the first two years. So, what you're seeing is that shedding of that big bulk that started two years ago; the first group of those are going out of business. So, I think it's not a sign that there's an abnormal level of bankruptcies given the level of business starts that we had over the last three years, if that makes sense. Did I say that properly?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "James Faucette",
+      "title": "Analyst",
+      "content": "It does. Yeah, on that point, clearly bankruptcies have been rising, but in your customer sets, have they surpassed pre-COVID levels or not yet? Given that large number of bursts, we should probably expect them to surpass pre-COVID levels at some point if they haven't, right?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "Bankruptcies are definitely up and have surpassed the fiscal year '20 levels, which was the first year of the pandemic.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "James Faucette",
+      "title": "Analyst",
+      "content": "Got it. Fantastic. Thank you so much for that.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "Yeah.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next question will come from Mark Marcon with Baird.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Mark Marcon",
+      "title": "Analyst",
+      "content": "Good morning, and thank you for taking my questions. Regarding Management Solutions, John and Bob, you mentioned that the mid and upper end is performing a bit stronger. I\u2019m curious about how much of this improvement is being influenced by the new tools you've recently introduced. Specifically, what is the performance breakdown between acquiring new clients and upselling to existing ones?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Bob Schrader",
+      "title": "CFO",
+      "content": "Yeah, I mean, as John mentioned, I think we've seen a lot of strength in the mid-market. And from a sales performance standpoint, our unit performance that we had in Q2, I think you mentioned in the prepared remarks, John, was above where we were at this time last year. We continue to see strong penetration within the existing client base, upsells into the base, whether that's ASO, PEO, retirement, but I would say, Mark, there's strength across the board, both from a new logo standpoint, particularly in the mid-market as well as upsells into the base.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Mark Marcon",
+      "title": "Analyst",
+      "content": "Great. Despite the strong growth, we're anticipating a slightly slower pace, particularly on the SMB side, and you've pointed out an increase in bankruptcies. Regarding the selling season, are there any differences you're noticing between Paychex and SurePayroll? Any insights you can share beyond what you've already mentioned, considering it is still early in the selling season?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "What we're experiencing is consistent with our usual trends, particularly with SurePayroll focused more on the micro segment. In this micro sector, we're observing a lot of new business starts, which presents significant growth opportunities. For small businesses, we're still at the beginning of the key selling season, and the next 60 days will be crucial in determining how this unfolds. Regarding your initial question about Management Solutions, it\u2019s important to note that we are also facing geographic challenges. Although we are increasing sales within our human capital management and ASO sectors, some of our upselling is related to PEO, which is now appearing in a different geography on the P&L \u2014 a positive sign for the long term. Additionally, the seasonal hiring trends in the upper market have affected both the PEO and insurance segments, as well as the ASO market within the Management Solutions area.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Mark Marcon",
+      "title": "Analyst",
+      "content": "That's a great point. And then, on the PEO side, just one question with regards to the insurance costs. On an apples-for-apples basis, what sort of price increase are you seeing for similar plans relative to what was offered last year through your various health insurance partners for this coming enrollment season?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "Yeah, look, you're pointing to an item which I think is a tailwind that I think will continue to evolve, and that is healthcare inflation. And really, I think you'll see that evolve in the future post-pandemic. Pushing costs through the health system is a slow process. It starts with more expenses at the hospital. They have to negotiate with carriers. They have contracts that take years to do. In our local community, there's unionization and strikes going on at the local hospital for more pay. Then that has to get approved by state legislature. So, the cost increase that we saw inflationary in healthcare last two years is going to start making its way to health plan costs in the future. We're certainly aware of that, and we're doing things to prepare for that. And when we talked about that last year, we did a lot of changes in our healthcare lineups to give more choices to people, making sure that we have the right plans. And I would say that our apples-to-apples was actually highly competitive to what the general inflation was, and we're keeping our MLRs in line to where they've historically been at the same time. And so, through some plan designs and some other ways in which our teams have been creative in coming up with some creative health solutions, I think we've got a good portfolio of products and services that our clients are finding very competitive to alternatives that they have. I don't know if that helps.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Mark Marcon",
+      "title": "Analyst",
+      "content": "It does. But would you say, John, that you would expect increases this year compared to last year? What impact does that have? Does it make your PEO offering more or less appealing to small business owners trying to navigate that situation?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "Given the results and the pipeline that I see, we have become more successful. Those are the results I focus on. We are in a highly competitive environment, so most of the deals we engage in involve other competitors as well. Our lineup is quite comparable. I believe we manage our plans in a way that allows us to surpass standard health inflation, and we have expanded our portfolio of offerings to ensure there is something for every client. They can find options that meet their needs in our plans. I think the variety of services and options is one factor that sets us apart from others.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Mark Marcon",
+      "title": "Analyst",
+      "content": "Great. Thank you, and happy holidays.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "Happy holidays.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Bob Schrader",
+      "title": "CFO",
+      "content": "Same to you.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Ladies and gentlemen, this concludes today's program, and we appreciate your participation. You may disconnect at any time.",
+      "sentiment": "0.0"
+    }
+  ],
+  "reported_date": "2024-06-26"
+}

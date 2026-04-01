@@ -1,0 +1,361 @@
+{
+  "symbol": "LHX",
+  "quarter": "2023Q4",
+  "transcript": [
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Greetings. Welcome to the L3Harris Technologies' Fourth Quarter 2023 Earnings Call. At this time, all participants are in listen-only mode. A brief question-and-answer session will follow the opening remarks. As a reminder, this conference call is being recorded. It is now my pleasure to introduce your host, Mark Kratz, Vice President of Investor Relations. You may begin.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Mark Kratz",
+      "title": "VP of Investor Relations",
+      "content": "Thank you, Rob. Good morning, everyone, and welcome to our Fourth Quarter 2023 Earnings Call. Joining me this morning are Chris Kubasik, our CEO, and Ken Bedingfield, our CFO. We've updated our quarterly earnings approach based on feedback, and yesterday evening, we published our fourth quarter earnings release detailing our financial results and guidance. We've also provided a supplemental earnings presentation on our website. As a reminder, today's discussion will include certain matters that constitute forward-looking statements. These statements involve risks, assumptions, and uncertainties that could cause actual results to differ materially. For more information, please reference our earnings release and SEC filings. We also discuss non-GAAP financial measures which are reconciled to GAAP measures in the earnings release. Specifically, I would like to note segment operating income, which excludes items such as impairments to goodwill and other assets reported at the business segment level. I would now like to turn it over to Chris and Ken for some opening remarks.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Christopher Kubasik",
+      "title": "CEO",
+      "content": "Okay. Thanks, Mark, and welcome, Ken, to your first L3Harris earnings call. We're excited to have you on the team. I want to start by thanking our investors and analysts for attending our Investor Day last month. We had a great turnout and appreciate the strong positive feedback from the event. 2023 marked the fourth full year since the merger and served as an inflection point in many respects. We met our financial commitments. We closed our integrations and are seeing the benefits of two acquisitions that are focused on national security and aligned with defense spending priorities. We announced the sale of a non-core business further aligning our portfolio, and we returned to growth following a few years of macroeconomic disruptions. This past year, we also strengthened our leadership team and Board of Directors, adding key talent that will help drive future value for our investors, customers, and employees. This year's progress gives us confidence that we have set the foundation to achieve the financial outlook that we laid out at our Investor Day and are reaffirming today with segment-level detail. Globally, the threat environment remains elevated, emphasizing the importance of our mission. With the national security-focused portfolio, we continue to support the US and its allies, providing vital solutions for our customers' most critical missions. Domestically, we await Congress to pass all 12 appropriation bills by the end of April, including the pending vote for an $842 billion topline defense budget which has solid support for our programs, most notably, in the areas of space, missiles, intelligence, and resilient communications. In 2023, demand remained strong. We reported a record $23 billion in orders, including key awards for the US Army's Manpack and Leader Radios, Compass Call missionized business jets, and rocket motors for the Army's Guided Multiple Launch Rocket System. The orders we received in 2023 contributed to a record backlog of $33 billion, more than doubling the $16 billion backlog at the time of the merger. This positive momentum continued into early 2024, underscored by the recent award for 18 satellites from the Space Development Agency for more than $900 million. Internationally, orders were up 24%, including tactical radios, VAMPIRE systems for Ukraine, and an international space award that leverages our 55-year trusted heritage to build and deliver advanced payloads for Japan's next-generation weather satellite. We are maintaining our international growth strategy and aim to improve that mix over the medium term. Operationally, our Performance First culture has been a driving factor in meeting our financial commitments, and we are gaining momentum as we focus on profitable growth. We're about six months into the Aerojet Rocketdyne integration and we have captured the $50 million in cost synergies that we were targeting. The team is using the savings to deploy resources from across L3Harris to help improve operational performance and ultimately increase capacity. In our short time owning this business, we are seeing improvements, and we are progressing towards returning to contracted production levels. As highlighted at our Investor Day, we are executing on our LHX NeXt initiative aimed at delivering $1 billion in gross cost savings over the next three years. These efficiencies will optimize our infrastructure and leverage our scale, which enables us to achieve margin expansion moving forward. We executed a number of projects included in exiting facility leases to reduce cost and overall square footage. We continue with our ERP consolidation with 10 reporting units being consolidated into one reporting unit earlier this month. And at the program level, our continued focus on program excellence has helped drive better EAC performance. However, we have more work to do in this area. In 2024, we are prioritizing our focus on execution, margin expansions, and growing free cash flow. Additionally, we will continue to evaluate parts of our portfolio against strategic alternatives for non-core assets. It should be clear that we have made significant progress on the journey to transform the company. Our core businesses are aligned with our customers' priorities and provide many levers to enable us to create shareholder value. Ken will discuss our capital deployment strategy in more detail, but it is unchanged from what we discussed at Investor Day. We will invest to grow organically to delever the balance sheet and then to return excess cash to shareholders. Our strategy is backed by our diverse and talented team, and we continue to invest in our workforce, both financially and professionally. This gives me confidence that we have the right leaders in place to execute our imperatives and drive long-term shareholder value. With that, let me turn it over to Ken for some financial details including our 2024 guidance.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Kenneth Bedingfield",
+      "title": "CFO",
+      "content": "Thanks and good morning, everyone. It's great to be part of the L3Harris team and working alongside Chris. Over the last six weeks, I've been actively engaged with the team, reviewing the business and our financial plan. I'm all in on our approach and grow more confident with each day. We'll be on the road meeting with investors next week and attending a few conferences during the quarter, so I look forward to re-engaging with you all over the coming months. Let's start with consolidated results, which were all in line with our latest guidance. We reported full-year revenue of $19.4 billion at the high end of our guidance, up 14% year-over-year and 6% organically, which was primarily from growth in our Space and Airborne Systems and Communication Systems segments. We delivered segment operating margin of 14.8%, earnings of $12.36 a share and free cash flow was just over $2 billion. For the fourth quarter, revenue was $5.3 billion, up 17%, largely driven by the Aerojet Rocketdyne and Tactical Data Links acquisitions and continued strong growth in space systems and resilient communications. Fourth quarter segment margin was 15.1%, up 50 basis points from higher volume and favorable product mix, and better program performance, which all resulted in net positive EAC adjustments. The first net positive quarter since mid-2022. Fourth quarter earnings per share grew 2% to $3.35. Let me hit on segment results before turning to 2024 guidance. SAS reported revenue of $6.8 billion for the year, up 7% as we continue to see strong growth in Space, Mission Networks, and Intel & Cyber programs. I've been impressed with what we're doing in Space. To me, this demonstrates how we are thinking differently, responding quickly, making targeted investments, and seeing them pay off and growing in enduring markets. It's exciting to see how much progress we have made in responsive space where we are taking share. Segment operating margin was 11.4% for the year, down 30 basis points, driven by growth in those early phase Space programs. We are now beginning to move into the more mature production phase of these programs as we look to improve margin in 2024. In IMS, revenue was $6.6 billion for the year, which was roughly flat. Segment operating margin was 11.2%, down 180 basis points from program challenges and lower international mix. I've looked at the changes the team has implemented throughout the year to address these operational challenges and believe that the multipronged approach, including leadership changes, training, and maturing programmatic risk management processes will improve the business going forward. We've already seen sequential improvements within the business and expect greater financial stability in 2024. CS revenue was $5.1 billion, up 20% year-over-year, with 12% organic growth. Beyond the acquisition of TDL, revenue growth was driven by higher volume of Tactical Communication equipment. Segment operating margin was 24.2%, flat year-over-year as higher volumes were offset by lower international mix. I will note that CS had a great Q4 with record operating margin since the merger at 26.1%. Lastly, Aerojet Rocketdyne revenue was over $1 billion and operating margin was 11.6% for the post-acquisition period. The new leadership team Aerojet Rocketdyne is working to drive operational improvements to increase throughput of its critical products. Expanding on Chris' comments, early actions the team has taken include investing in critical suppliers, deploying resources to their sites, improving processes, and co-investing in supplier infrastructure. We look forward to sharing more data with you as we progress on these efforts in 2024. Turning now to 2024 guidance, which is consistent with the framework that we presented at Investor Day. We expect $20.7 billion to $21.3 billion in revenue with organic growth in all segments. As you fill out your models, I would note that with strong fourth quarter results at CS and some favorable SAS timing, we expect a slower top line growth rate to start the year. IMS and total company guidance also contemplates the sale of CAS in 2024, with any potential timing impact within the revenue and margin guidance ranges. Consolidated segment operating margin is anticipated to be approximately 15% from efficiencies gained with increased volume, operational improvements, and LHX NeXt cost savings. This is partially offset by a full year of Aerojet Rocketdyne. Throughout the year, margins should gain momentum driven by program ramps, international product mix, and accelerating LHX NeXt cost savings. We do have two non-operational headwinds totaling more than $200 million. First is lower pension income, which we anticipate netting to about $300 million this year, and second is an anticipated $650 million in interest expense. With taxes and share count, we anticipate non-GAAP EPS to grow to a range of $12.40 to $12.80. We should see it grow ratably across the quarters, ultimately reflecting a sequential build much like we saw in 2023. We closed out 2023 with solid working capital improvement coming down from elevated levels during the pandemic. The team and I are keenly focused on this as we aim to grow free cash flow over the next several years. For 2024, we expect free cash flow of approximately $2.2 billion, up 10%, driven by earnings growth and continued balance sheet efficiency. At a segment level, we expect SAS revenue of $6.9 billion to $7.1 billion, with operating margin in the mid to high 11% range. IMS revenue is anticipated to be $6.4 billion to $6.6 billion, with operating margin in the low to mid-11% range, driven by lower-than-historical international mix. We expect CS revenue of $5.3 billion to $5.4 billion, with operating margin in the low to mid 24% range. And for Aerojet Rocketdyne, we anticipate revenue of $2.4 billion to $2.5 billion and operating margin in the high 11% range. As Chris mentioned, our capital allocation priority remains focused on first, paying down debt to achieve a leverage ratio of less than 3.0, and then a shift to returning all excess cash to shareholders through dividends and share repurchases. On the dividend, we continue to target a payout ratio of 35% to 40% of free cash flow. For share repurchases, I will note that we returned over $0.5 billion in 2023, we are targeting a similar amount in 2024, and we look to accelerate buyback in '25 and 2026. To close out, one of the reasons I joined L3Harris was my belief that there is tremendous value potential. In my time here, I have gained more confidence that we can deliver on our 2024 and future commitments.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. We'll now be conducting a question-and-answer session. Thank you. And our first question is from the line of Scott Deuschle with Deutsche Bank. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Scott Deuschle",
+      "title": "Analyst",
+      "content": "Hey, good morning.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Christopher Kubasik",
+      "title": "CEO",
+      "content": "Hey, good morning, Scott.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Scott Deuschle",
+      "title": "Analyst",
+      "content": "Chris, can you give us an update on attrition and program performance at IMS? And then for Ken, the IMS margin guide implies '24 segment margins. I think will be down relative to the second half of '23. So I'd like to hear a bit more on the thinking there. And then also for Ken, just maybe you can comment on your philosophy on guidance and where you sit on the spectrum in terms of viewing guidance as an aspiration and operational plan or closer to a promise? Thank you.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Christopher Kubasik",
+      "title": "CEO",
+      "content": "All right. Thanks, Scott. Yeah, talking about IMS, if we look at 2023, you'll see that we did improve margins in the second half compared to the first half. And as we've talked about, it is a little bit of a lumpy business based on the timing of aircraft purchases. We laid out at Investor Day that our strategy in the near term here was really to continue to have stability, especially with the program performance and focus on margin improvement. So to answer your question specifically, here in the short-term, we are seeing better program performance and I think that's what gives us confidence and opportunities not only for 2024 but the next several years. The attrition is definitely slowing down. We've been successful in hiring new people, training new employees, and I think that's starting to be reflected in our performance. And equally as important, the suppliers, and maybe more specifically in this case our subcontractors' performance is starting to improve as we got through those macroeconomic disruptions. The bidding rigor is improving, we've lowered the delegations of authority, so more bids are being reviewed. Not only at the segment level but the corporate level and we have at least one instance in the fourth quarter where we no-bid a fixed-price development program, and I've been talking about this for at least a year. We will continue to no-bid programs where the contract type does not appropriate for the risks we're assuming and I said it in December and I'll say it again: I will sacrifice revenue for earnings and cash every day of the year and we will continue to do so until that changes. And of course, we're making structural changes to the business. In the midterm, I see upside to the margins as we're going to grow internationally at IMS. We're looking at about 25% international this year. I see that getting into the 30% range in a couple of years, driven by WESCAM and international business jets. In fact, this quarter already a European customer has awarded a $300 million contract to us for aircraft missionization, and that will be accretive to our margins. And then when we, sure, we will talk more about LHX NeXt in the time that remains but I think this segment is clearly ripe for opportunities. We laid out the fact that despite all the good work we've done in the last four years, we still have 100 facilities. We still have eight different ERP vendors and we have 24 reporting units. I did mention that 10 of those in my comments were migrated into one. So we're making progress and the team has taken action, taking some investment on our part, but I like the momentum and the path that we\u2019re on. So maybe with that, Ken, you want to?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Kenneth Bedingfield",
+      "title": "CFO",
+      "content": "Sure. Thanks for the question, Scott, and I think Chris hit it well. I'll just add a couple of points. One, the guidance for IMS does assume the CAS divestiture during 2024. CAS does have higher average margins than IMS as a segment. So that's a little bit of a headwind at a margin level for IMS. In terms of timing, we did have some large aircraft procurements in the first half of '23. Nothing in the second half of 2023. So that helped the margin pick up a little bit in the second half of '24, as well as solid program performance. We do see again it's stabilizing as we look forward and we look forward to the team delivering on that. And then thirdly, I guess what I would say is the EO product line tends to build throughout the year that, Scott, solid commercial-like margins. And so we'll see that more likely contributing in the second half as well. With respect to the second part of your question on guidance philosophy, I'll just say, look, again, I'm excited to be a part of the team. We've spent a lot of time thinking about kind of where we are and what this business can do. I think we've laid out guidance that is something that we can meet and work to build to deliver confidence on during the year. And this is something we're putting out there and that's something that we intend to deliver on.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Doug Harned with Bernstein. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Douglas Harned",
+      "title": "Analyst",
+      "content": "Good morning and thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Christopher Kubasik",
+      "title": "CEO",
+      "content": "Hi. Good morning, Doug.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Douglas Harned",
+      "title": "Analyst",
+      "content": "At the investor conference, you talked about looking to 2026 and basically there was a 100 basis point upside guide to each of the segments. But when you look across them, the opportunity there, it can't be uniform. So perhaps you can help us think through when you look at each of the segments where there is opportunity for more? And maybe in some cases, it might be more difficult to get to that number.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Christopher Kubasik",
+      "title": "CEO",
+      "content": "Sure, Doug. Let me start by discussing our margins. We have noted that our margins have decreased over the past couple of years. We recognize that there have been some performance challenges across the portfolio. However, I want to highlight that we have intentionally invested in several high-growth programs and businesses, which have affected our margins in the short term, but we believe will drive long-term value. Space is a prime example of this. At Investor Day, we increased our cost savings goal to $1 billion in gross run-rate savings by the end of 2026 across the entire enterprise, referred to as the LHX NeXt program. I agree that there are differences among the segments for various reasons, and we are establishing a framework for the next three years. We set the 100 basis points target as a minimum.  If I go through the segments regarding the potential to achieve or exceed the 100 basis points, I would start with Communication Systems. This segment has a commercial business model with significant international growth potential, which will be key drivers. We treat it like a commercial factory that produces radios, focusing on quality, cost issues, and throughput yield. We're investing in equipment and training for potential upside, and nearly every dollar increase impacts the bottom line. We are also evaluating how we can aggressively boost our software sales alongside hardware sales. So, Communication Systems is at the top of my list. Regarding Aerojet Rocketdyne, we have only owned it for five months, but we are already seeing improvements, including a substantial increase in volume, significant capacity investments, and new contract negotiations. Since acquiring them, we have submitted 200 proposals worth over $13 billion. While we need to secure and negotiate these proposals, there is clear demand that surpasses supply, and we feel positive about the potential to return to their historical margins or even better. Scott inquired about IMS. As I mentioned, I see potential there as we shift toward international markets. Our WESCAM business designs, builds, and delivers turrets, cameras, and gimbals. This has a commercial business model that contributes positively to margins. Ultimately, it will depend on stabilizing program performance, and with some leadership changes and improved contract negotiations, we should be better positioned. Finally, in the Space or SAS segment, we have the highest proportion of cost-plus contracts, so most savings are passed on to the customer. However, the investments we've made in new markets like Space have already started to reduce costs. I hope this gives you more detail. As we approach 2026, we will provide more specific information, but our target of 100 basis points stands as a baseline, and that\u2019s how I would prioritize them. Ken, do you agree or have any different perspectives?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Kenneth Bedingfield",
+      "title": "CFO",
+      "content": "No, I think you hit it well.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Ron Epstein with Bank of America. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Ronald Epstein",
+      "title": "Analyst",
+      "content": "Yeah. Good morning, guys. One of the big focuses at the Investor Day was the Space business. And maybe if you can give us a deeper dive into how that's going, work on the SDA transport and tracking layers, and maybe continued opportunities for growth in that business.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Christopher Kubasik",
+      "title": "CEO",
+      "content": "We continue to emphasize our focus on Space as a key element of our trusted disruptor strategy. We've made significant progress with the SDA program, having secured tranche zero, tranche one, and just recently, tranche two. This has allowed us to increase our number of satellites from four to eight and now to 18, with more tranches expected in the future. Notably, we've seen our margins improve with each contract, which aligns with our strategic approach. Our team is executing well, and we have satellites ready for launch. We're exploring long-cycle constellations, as we've observed a shift from air to space missions. These satellites will have limited operational lifespans and will require replenishment over time. Looking ahead, as the tranche zero satellites reach the end of their life, new satellites will need to be launched, creating ongoing opportunities. I'm proud of our team's achievements, and I believe our customer is satisfied with our results. Additionally, we've found success in the weather satellite sector with new international business prospects, which is not always common in the Space industry. We maintain a healthy backlog and are also supporting classified programs as a subcontractor. Furthermore, we are excited about our new satellite factory in Florida, which is under construction and will enhance our ability to produce satellites rapidly in the near future.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. The next question is from the line of David Strauss with Barclays. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "David Strauss",
+      "title": "Analyst",
+      "content": "Thanks. Good morning.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Christopher Kubasik",
+      "title": "CEO",
+      "content": "Good morning, David.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "David Strauss",
+      "title": "Analyst",
+      "content": "So, Chris, I guess following up on Ron's question, SAS, I think in '23 you did something like 8% organic growth. It looks like your guidance for this year is only 2% organic growth. So if you could touch on the slowdown there that you're anticipating, I guess, broken out between Space and maybe the Avionics piece of the business. And then could you also touch on the forecast for Aerojet this year? It looks like if you just kind of annualize the run rate of sales, you're not really anticipating any growth at all out of Aerojet this year. Thanks.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Christopher Kubasik",
+      "title": "CEO",
+      "content": "All right, David. Those are good questions. Looking at SAS, we have several sectors, two of which are relatively large and flat. The air domain we mentioned is a flat business with good margins. This includes our work on mission systems for F-35, F-16, F-18, and some classified platforms, but the market is relatively flat. As I mentioned, some of these missions are shifting into space. Mission Networks, which works extensively with the FAA, is also a solid business with good margins, but it has traditionally been flat due to budget pressures at the FAA. Space is growing, and both Intel and Cyber sectors are expanding as well. Interestingly, a significant portion of this business is cost-plus. As we work to reduce costs, it can slightly impact revenue. The upside of cost-cutting is higher margins, and while revenue is important, I prioritize margins, cash, and EBIT. This is a bit of a headwind for SAS. Regarding your second question about Aerojet Rocketdyne, it's noteworthy that no one really knows their revenue for 2023. We will disclose that in the 10-K; they only reported for the first quarter while we reported for five months. When you review those numbers, you will see we are around 5% top-line growth for 2024 compared to the pro-forma 2023. Aerojet reported for three months, and we reported for five, leaving four months unaccounted for due to accounting practices. We will include everything, and you will see the 5% growth.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Michael Ciarmoli with Truist Securities. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Michael Ciarmoli",
+      "title": "Analyst",
+      "content": "Hey, good morning, guys. Thanks for taking the question. Maybe, Chris, just to stay on Aerojet, looks like, I think, you said you got all $50 million of cost synergies achieved. I mean, it sounds like that was a lot of low-hanging fruit, public company cost. Is there more there? I mean, is that layered into the next initiative? And then I guess just on NeXt, what flowed through in the quarter? I mean, we saw the $47 million in cost. What did you net out in savings? I think the goal was $175 million for the year. And does one segment maybe benefit disproportionately as you progress through NeXt?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Christopher Kubasik",
+      "title": "CEO",
+      "content": "Yeah, I'll take the first part. Ask Ken to chime in on the second part. Yeah, the $50 million, we did go quickly to realize it. It obviously was a little more lower-hanging fruit than not, but it still takes a lot of time and effort, and we executed it, and we absolutely expect to get a little more out relative to what I'd call the integration. I mean, there's more work to do on the IT systems and tools. We have already aligned them on policies and procedures. All the personnel are already on our payroll systems, our benefit plans, and that type of stuff. So, yeah, we think there's probably an additional $20 million or $30 million that we can get that I would call integration. That will just roll into LHX NeXt. But Ken?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Kenneth Bedingfield",
+      "title": "CFO",
+      "content": "Yeah, no, I agree on that front. I would say the team did a great job of working aggressively to get on top of the initial integration cost savings. We did hit that target. We're continuing to drive for more, but at this point, the primary focus is really around some of the operational efficiencies working to drive the throughput through the business and getting what were some bottlenecks to increased production out of the way so that we can deliver these critical capabilities to our customers at Aerojet. So, great work by the team, certainly continues. And as Chris mentioned, we'll continue to drive opportunity for further, not only integration, but I would say at this point, more importantly, operational efficiencies, again, to drive volume. In terms of LHX NeXt, what I would say is we are very consistent at this point with what we discussed at Investor Day, the gross run rate of a $1 billion savings. We talked about, to your question, $175 million of margin improvement exiting 2024. And I think we see that across the business. I don't necessarily see any individual sector that will benefit first from that. I think Chris talked about the margin opportunity at the sectors through 2026 in getting to our 16% margin framework, but in terms of LHX NeXt, a lot of confidence in the program, confidence in the team. We had set an initial target out there. As we started to work through it, we saw the ability to drive further savings out of that. I've got confidence that we're working to drive at least to that level of savings. And I think, again, all of the segments should see the benefits of that here in 2024.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "The next question is from the line of Peter Arment with Baird. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Peter Arment",
+      "title": "Analyst",
+      "content": "Yeah, thanks. Good morning, Chris and Ken. And welcome, Ken. Hey, Ken, maybe just on guidance, if there is, could you maybe level set us just on cadence if first half versus second half, anything to really call out? And then also it was highlighted at the Investor Day that working capital would certainly be a positive contributor in cash over the kind of the guidance period. How are you thinking and seeing any opportunities from a working capital perspective, and maybe just working capital profile going forward? Thanks.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Kenneth Bedingfield",
+      "title": "CFO",
+      "content": "Sure, thanks, Peter. I appreciate the question. As we look at 2024, we expect revenue growth to remain steady throughout the year, likely divided equally between the first and second halves in terms of growth from 2023, with a slight acceleration in revenue starting in the second quarter. Regarding EPS, we anticipate it will follow the margin trend. We expect margins to grow more slowly in the first half of the year after strong performance in the fourth quarter across all segments. We foresee that momentum building as we progress through the year, positively impacting EPS, which we expect to increase sequentially from quarter to quarter throughout 2023. In terms of free cash flow, we believe it will be more heavily weighted towards the second half of the year. Our team did well to reduce working capital by the end of 2023, but there is always more to be done, and we aim to continue improving that in 2024. We have strong confidence in our increasing free cash flow, which we expect to grow by 10%, driven by margin improvement on rising revenues and disciplined management of our balance sheet.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Christopher Kubasik",
+      "title": "CEO",
+      "content": "And I'll just chime in, Peter, the continuing resolution. While we've had one every year since 2010, and I think we in the industry know how to deal with it, it does tend to slow things down, really, from a customer perspective. So as I mentioned, we are under a CR through March. Hopefully, we'll get a defense budget and eleven other appropriation bills passed so we can get back to normal. But that causes a little bit of the slow start, unfortunately, like it does pretty much every year for the last 13.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next question comes from the line of Seth Seifman with JPMorgan. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Seth Seifman",
+      "title": "Analyst",
+      "content": "Hey, thanks very much, and good morning, everyone.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Christopher Kubasik",
+      "title": "CEO",
+      "content": "Hey, Seth.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Seth Seifman",
+      "title": "Analyst",
+      "content": "I wonder if you could talk in the Communications business where 2023 ended up on tactical radio sales and what you expect in 2024 for domestic and international and kind of the trajectory for each of those?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Christopher Kubasik",
+      "title": "CEO",
+      "content": "Sure, let me address that. We had a fantastic year in the Communications sector, particularly with tactical radios. The key point regarding margins is the balance between the Department of Defense and international sales. In the first half of the year, our sales were predominantly international compared to domestic, but that shifted in the third and fourth quarters. We will start 2024 with more domestic deliveries than international, with that trend reversing in the latter half of the year. We achieved record revenue in TCOM, and the business is progressing well. We've managed to resolve most of the supply chain issues we faced previously, where we were monitoring hundreds of key suppliers, and now that number has decreased significantly. This improvement is leading to better results, with dual sourcing becoming more prevalent. Additionally, we have recently secured some new contracts in emerging markets that we can't disclose yet, but there is promising news ahead for TCOM.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question is from the line of Robert Spingarn with Melius Research. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Robert Spingarn",
+      "title": "Analyst",
+      "content": "Good morning, Chris. Welcome, Ken.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Christopher Kubasik",
+      "title": "CEO",
+      "content": "Good morning.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Kenneth Bedingfield",
+      "title": "CFO",
+      "content": "Thanks, Rob.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Robert Spingarn",
+      "title": "Analyst",
+      "content": "So Chris, Ken touched on this, but maybe a quick operational update on Aerojet, but more in the context of some of these supply chain bottlenecks that are still there. Now obviously, this started well before your acquisition and part of the value proposition there is getting it back on pace, but a couple of things. Does it make any sense to bring any of the problem suppliers in-house? And then Lockheed's talking about standing up a third supplier, Anduril is building a business. So I wanted to see how you think about the longer-term market share implications if others come in.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Christopher Kubasik",
+      "title": "CEO",
+      "content": "Yes. Thanks, Rob. Let me start by addressing a few points specifically related to your question. There is currently more demand than supply, which is promising when reflecting on the acquisition. To reiterate, receiving 200 proposals worth $13 billion in just six months is something we could have never anticipated. We have made great strides in infrastructure, securing $50 million, establishing policies, and building our personnel. The IT systems are in progress. On the talent side, attrition at Aerojet Rocketdyne has decreased by one-third overall and by 50% among engineers. Our regular surveys show considerable enthusiasm and excitement regarding the acquisition and our strategy. This is a testament to our team\u2019s efforts in integrating and welcoming them into L3Harris.  Regarding demand, it\u2019s all about capacity. We've previously discussed our $216 million DPA investment focused on GMLRS, Javelin, and Stinger. We've even acquired a building in Huntsville, Alabama, which will significantly expand our capacity and ultimately serve as our inert center of excellence. However, we are facing challenges primarily with sub-tier suppliers. I believe that bringing them in-house doesn\u2019t seem practical. We have invested in some of these suppliers by assisting them with tooling and capital rather than acquiring them outright. Our end customers and immediate prime customers have also made investments. As we mentioned, there is a bottleneck at the sub-tier level.  In my opinion, introducing a third solid rocket motor provider is acceptable. We welcome competition, but it doesn't really address the underlying issue since everyone will still rely on the same sub-tiers for components like cases, igniters, and nozzles. We need to support the sub-tier suppliers to improve their capacity, and we are taking steps to assist them financially by providing equipment. We are starting to see progress. We have a well-documented backlog of undelivered motors, and we are gradually reducing that backlog. Once we get our facilities and equipment fully operational, I believe the outlook will be positive. There is notable interest in this market now, which is encouraging. It indicates strong growth potential and reinforces the value proposition of this acquisition.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "The next question comes from the line of Myles Walton with Wolfe Research. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Myles Walton",
+      "title": "Analyst",
+      "content": "Ken, I'm hoping you can provide a few of the cash details on the surface, the Section 174 impact for '23 and '24, maybe what the benefit would be if they retroactively reversed it, what you've paid and what you could get back. And then maybe just also as it relates to stripping out from the cash numbers, is it just the $220 million for LHX NeXt that you laid out at Investor Day? Or are there other adjustments we should consider? Thanks.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Kenneth Bedingfield",
+      "title": "CFO",
+      "content": "Thank you, Myles. I'll start by discussing Section 174 and then address the second part of your question. First, I want to highlight that we have an excellent tax team that works diligently to create value for the business. One of their strengths is being closely integrated with our operations, which ensures we collect all necessary data to support our R&D deductions and credits. We collaborate closely with the IRS team to validate our processes and ensure compliance. I believe we've been effective in this area. Our business heavily invests in R&D to foster future capabilities and growth, and we will maintain that focus and continue to reap the benefits. Regarding our cash profile, in 2023, we managed to align some tax payments from a timing standpoint. With the new amortization rules under Section 174, we've caught up on the cash impact through the end of 2023. We're also carefully monitoring the new legislation that is in progress; if it passes, it would positively impact our cash flow. While I won't specify an amount, the proposed changes could retroactively affect tax years 2022 and 2023, which would be favorable for our cash situation. Looking ahead, there may be a slight headwind in terms of rates, but we're willing to exchange a minor rate disadvantage for the expected cash benefits. In terms of our 2024 free cash flow guidance and adjustments, the primary consideration for adjustments will be the one-time implementation costs associated with LHX NeXt. I believe that should be the main item to keep in mind.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Sheila Kahyaoglu with Jefferies. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Sheila Kahyaoglu",
+      "title": "Analyst",
+      "content": "Good morning, Chris and Ken.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Christopher Kubasik",
+      "title": "CEO",
+      "content": "Hi, Sheila.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Sheila Kahyaoglu",
+      "title": "Analyst",
+      "content": "Chris, One for you, please. You mentioned international mix within IMS. More broadly, what are you seeing in the international pipeline? And how are you thinking about the timing of that conversion? And just thinking about the overall 3% organic growth guidance for '24, how does internal track relative to domestic, and what are the broader margin implications?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Christopher Kubasik",
+      "title": "CEO",
+      "content": "Yes, thank you for your question. The implication of our broader margins is that we typically achieve higher margins internationally than domestically, similar to our commercial operations. I expect a slight increase year-over-year, with around 22% to 23% of our revenue coming from international sources, and a potential uptick in 2024, 2025, and 2026. Every percentage point matters. The area that could significantly impact our margins is the supplemental funding. We haven\u2019t discussed the budget regarding defense contracts much, but there\u2019s a supplemental request related to Ukraine, Taiwan, and Israel from last year totaling $110 billion, with about $58 billion earmarked for the Department of Defense. This situation is currently entangled in political discussions about border security. Ultimately, we need to resolve these issues because they are essential for replenishing the stockpiles we\u2019ve already provided to several of the mentioned countries. Once we address this, it should enhance our growth potential in those specific areas.  Examining our segments, with Aerojet, most of our sales go through a few prime contractors, and we don\u2019t disclose international revenue for Aerojet specifically, though many of these products are deployed internationally. We primarily sell to two or three prime contractors, who then determine where the products go, so we classify that as domestic. For IMS, I mentioned WESCAM and business jets, where I see potential growth. SAS, due to the classified nature of many of their projects, occasionally involves international sales, such as some components going to Japan. However, CS has the highest international sales percentage, particularly from our tactical radio business. Based on our efforts in Ukraine and the requirements in Europe, the Middle East, and the Far East, the outlook appears quite positive. I hope that provides clarity, Sheila.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Mark Kratz",
+      "title": "VP of Investor Relations",
+      "content": "Rob, we're coming up on the hour, so maybe we'll take our last question this morning.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Sure. Our last question comes from Robert Stallard with Vertical Research Partners. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Robert Stallard",
+      "title": "Analyst",
+      "content": "Thanks so much. Good morning.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Christopher Kubasik",
+      "title": "CEO",
+      "content": "Good morning.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Kenneth Bedingfield",
+      "title": "CFO",
+      "content": "Hey, Rob.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Robert Stallard",
+      "title": "Analyst",
+      "content": "And Chris, probably a question for you. Your counterpart at Lockheed Martin, Jim Taiclet was kind of talking about structural problems in the defense industry with regard to pricing and contracting and whether that could change in the future. I was wondering if you have any issues lingering in the L3Harris portfolio that maybe fits that criteria. But on the flip side, do you see the opportunity to grow more sort of commercial terms contracts in the future?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Christopher Kubasik",
+      "title": "CEO",
+      "content": "Yes. Good question, Robert. Look, we've all been in this industry for decades, and it kind of goes in cycles where everybody thought fixed-price development programs was a good idea in the '70s and '80s, and then it migrates back to cost-plus and goes the other way. Just kind of have to understand where the customer is and figure out where they're going. There's lots of opportunities to interface with them. We've been successful with our commercial business models that I've mentioned. I think there's more that we can look at in that regard. I think more and more things are moving towards software, and I think it's a new area. I think the DoD has to figure out how to buy software and we have to figure out how to sell software. There have been some cases where it's done. But again, that's probably a different business model than your traditional cost-plus, truth in negotiation type regulations may not make sense. And I think that's what a lot of the new entrants are also struggling with, to figure out how to get into those markets. So look, we all get to draft RFPs. We review them, we push back and sometimes you just have to no-bid. And one of these days, the entire industry is not going to bid on a fixed-price development contract and the DoD will change. But when you get one or two bids, they're going to make the award, and we're doing our best to balance the risk with the financial upside that we have, so probably a little more disciplined. But this has been an ongoing debate probably for decades, and we continue to engage with the customer, and I think they appreciate and understand where the industry is coming from. So we'll see what happens in the months and years ahead. So look, before I sign off, I really would like to take a moment and thank our 50,000 employees for their focus on performance and execution throughout the year. Clearly, this is impossible without them, and they're critical to our success in meeting not only our shareholders but our customer commitments. So I really appreciate everybody joining the call. Ken, again, welcome to the team. And we'll be talking to you all soon. Thanks.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "This concludes today's teleconference. You may disconnect your lines at this time. Thank you for your participation and have a wonderful day.",
+      "sentiment": "0.0"
+    }
+  ],
+  "reported_date": "2024-01-25"
+}

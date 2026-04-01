@@ -1,0 +1,325 @@
+{
+  "symbol": "AXON",
+  "quarter": "2024Q1",
+  "transcript": [
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Hello, everyone. Thank you for joining Axon's executive team today. I hope you all had a chance to read our shareholder letter, which was released after the market closed. You can find it at investor.axon.com. Our prepared remarks today are meant to build upon the information and financial tables in that letter. During this call, we will discuss our business outlook and make forward-looking statements. Any forward-looking statements made today are pursuant to and within the meaning of the safe harbor provision of the Private Securities Litigation Reform Act of 1995. These comments are based on our predictions and expectations as of today and are not guarantees of future performance. All forward-looking statements are subject to risks and uncertainties that could cause actual results to differ materially. We discuss these risks in our SEC filings. We will also discuss certain non-GAAP financial measures. A description of each non-GAAP measure and a reconciliation of each non-GAAP measure to the most directly comparable GAAP measure can be found in our shareholder letter as well as in the Investor Relations section of our website. Now turning to our quarterly update. We like to start off every quarter with a video because we think it's a great way to show you more about our business, and there's no shortage of pilots to share from our teams. We've got a good one this quarter. It's about 5 minutes. Let's pull it up.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Patrick Smith",
+      "title": "CEO",
+      "content": "Thank you, Eric, and thank you all for joining us here today. I want to welcome you all to our first quarter 2024 earnings call. We have kicked off what is shaping up to be another incredible year at Axon. You saw me talk about my vision in the video we just showed you, and I'm energized by the updates we're bringing you today. First, one of the areas I'm obviously very excited about is drones, robotics, and aerospace security. I believe drone as a first responder or DFR, is a massive opportunity ahead of us. We anticipate that it will drive faster response times and improve decision-making, giving us extra seconds and more information before we act in critical situations. As we push forward into this new era of aerial innovation, drones are not just helpful tools; they're becoming indispensable. At the same time, drone tracking and countermeasures become equally, if not even more important, and we believe a critical element to enable widespread drone is the first responder programs. DFR programs are designed to deploy drones to an emergency in advance of human first responders, enhancing situational awareness to improve response strategies, optimizing the allocation of already limited resources, and reducing the risk of harm to first responders and communities. But limitations exist that to date have hindered the use of DFR at scale, namely current FAA requirements mandate the presence of a human virtual observer standing on a rooftop to ensure each drone remains in a direct line of sight. That means operators must be positioned in relatively close proximity to the scene, usually on rooftops and operating primarily in clear daytime conditions. That's one of the reasons I am so thrilled about our planned and announced acquisition of Dedrone. We believe Dedrone's technology addresses these limitations, allowing law enforcement to operate in low visibility conditions and at times of day without the need to maintain a human observer with a line of sight. The planned combination of Dedrone with Axon is a natural extension of our strategy with several tangential applications already deployed in the field, including stadium, aerospace security, along with robust military critical infrastructure and other civilian protection applications. Another area I'm very passionate about is the realm of artificial intelligence. I believe that we will one day look back on these times as the beginning of the AI era. AI has applications across every element of what we do and offers the potential to unlock our human capital resources to accomplish more than we've ever been able to in the past. In the video we showed, you briefly saw us introduce our most recent innovation here, born from our visionary initiative 7 years ago, Draft One leverages AI to produce police reports from body camera audio and video. Our studies have found that officers in the U.S. spend about 40% of their time or 15 hours per week on what is essentially data entry, writing reports. This is valuable time they could be spending in their communities, with their families, in training, or on their own well-being. With Draft One, we're giving them a new lifeline that we expect will save them critical hours each and every day. And while these two developments are massive in their potential, there are just two examples of where we're focusing our innovation, and we are not slowing down in several other areas that we believe will also be critical to achieving our moonshot goal. We've introduced real-time operation solutions that bring situational awareness into the modern age, expanding our ecosystem to ingest networks of cameras and sensors, infusing and raising the bar for communications beyond monolithic audio to include live streaming video and two-way voice communications through video and audio feeds. We introduced our new mobile application, which allows our customers to seamlessly work together on evidence management and report writing while they're on the go. And we're giving agencies new capabilities and next-level training to improve human performance under pressure in the most high-stakes events with our continuously improving and expanding VR portfolio. As I reflect on what we've delivered to the market and where we're investing, I think we are still in the early chapters of an epic story. And before I pass it over, I want to take a minute to acknowledge that our mission is more important than ever. We've seen a number of truly unfortunate and devastating tragedies between the police and the public over just the last few months. Our thoughts are with the families and departments who are experiencing these difficult times that we are out to end. We're innovating for a better future and remain dedicated to our mission to protect life. And with that, I'll turn it over to Josh.",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "Joshua Isner",
+      "title": "CFO",
+      "content": "Thank you, Rick, and good afternoon to everybody. I'm humbled to share more about another excellent quarter at Axon. While we continue to build out the operating system of public safety, the team has not lost focus on the importance of execution. There's no doubt in my mind we have the best and most well-equipped team in our industry, and our first quarter results are further proof of that. I feel really good about our momentum to start 2024. We started the year running at full speed as the team closed out 2023 with our strongest bookings quarter in company history. In Q1, we worked hard to set the stage for the remainder of the year. Since it is the only quarter in which very few budgets close, we focused on pipeline development and key customer-facing hiring initiatives. I am happy to report that our pipeline is the strongest and healthiest it has ever been across all major customer segments. This is a testament to our outstanding R&D teams that continue to zero in on strong product market fit across our entire portfolio, driving this type of record demand. Whether it's TASER 10, now being more directly linked to VR training within our TASER platform, or our on-body cameras, changing the game for real-time operations, or Draft One revolutionizing the RMS category, there's so much for us to bring to the market, and we are just at the beginning of what we think will be a deep increase in the ways we leverage technology and public safety for the better over the next decade. Looking ahead, I see many opportunities for continued growth. We believe our domestic state and local law enforcement customers are eager to adopt the new products that we have brought to the market, and we are seeing our emerging markets become more meaningful contributors to our results. One of the many things that gets me excited about Dedrone is their strong international presence, which could accelerate our international channel expansion. On that note, I'd like to share our excitement in welcoming Cameron Brooks as our new Chief Revenue Officer. Cameron came to us from Amazon Web Services, where he most recently led their Europe, Middle East, and Africa business for the public sector. As we look to drive more cloud adoption across the world, Cameron's wealth of experience in spurring international cloud adoption will be a powerful asset to our team. Cameron joining Axon is a perfect example of how our mission and our unique approach to the market helps us attract the best talent from some of the most successful companies in tech. Before I pass it over to Brittany, I want to briefly highlight how grateful I am for my teammates at Axon. We have spent the last 2 years fortifying and rebuilding our leadership team, and we are ready to move faster than ever. We are focused on the right areas to continue delivering in the quarters and years to come, both on our financial commitments and on our mission. We just recorded our ninth consecutive quarter of greater than 25% revenue growth, and our business has approximately quadrupled over the last 5 years. We're also delivering our strongest adjusted EBITDA margins in more than 3 years as promised. This kind of compounding does not happen without the best people, the best products, and without a lot of things going right behind the scenes. While it's always encouraging to deliver such strong results, we continue to embrace our next play mindset and put our collective organizational energy behind the most important metric of all, and that is lives saved. And with that, I'll pass it over to you, Brittany.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Brittany Bagley",
+      "title": "CFO",
+      "content": "Thank you, Josh. We're very proud of the results again this quarter for both revenue and adjusted EBITDA. We had 34% top-line growth on top of 34% growth in Q1 last year, supported by our cloud and services revenue, which grew 51.5% year-over-year. This came from growth in both users and premium product add-ons driving upsell. Demand for TASER 10 also remained robust and drove 33% growth year-over-year in our TASER segment, supported by increasing supply availability. Sensors and other revenue grew 14% year-over-year with the adoption of Axon Body 4 driving camera revenue, somewhat offset by lapping the big catch-up in fleet revenue from Q1 last year as we're now at more normalized deployment levels. In addition to healthy growth across all our categories, we see strength across our end markets. In Q1, over 25% of our revenue came from outside domestic law enforcement, including international, federal, and other adjacent markets like corrections in justice and enterprise. Our ARR for the quarter is $825 million, up almost 50% year-over-year, and it now includes Fusus and our TASER warranty revenue. We continue to maintain a net revenue retention of 122%. In Q1, we introduced adjusted gross margin to normalize for increased stock-based compensation resulting from the grants we made to employees whose compensation was under a specified threshold, many of whom are in manufacturing. As a reminder, we've committed to keeping our stock-based compensation at or below an average annual dilution of 3% for 2025 and beyond, and this is in keeping with that commitment. Adjusted gross margin for the quarter was 63.2%, up from 61.5% in Q4. This improvement was from product mix benefits as well as the fact we didn't have any one-time reserves hit this quarter. We do expect some pressure on gross margin for the rest of the year as we continue to balance mix shift and ramping TASER 10 capacity. Q1 adjusted EBITDA margin increased year-over-year from 19% to 23.6%, representing a 460 basis point improvement. In addition to the benefit of strong gross margins, we saw operating leverage contribute approximately 110 basis points year-over-year. As Josh mentioned, this is our strongest adjusted EBITDA margin quarter in 3 years since COVID. We continue to balance driving strong top-line growth with investing in the business. We're pleased to be able to do this both organically and inorganically and are thrilled about our plans to welcome the Dedrone team to Axon. Rick did a great job talking through the strategic rationale. From a financial standpoint, we expect to close the deal sometime over the summer and to have approximately one full quarter of financials included in our 2024 results. This timing is subject to customary closing conditions. We expect that the potential acquisition of Dedrone would increase our total addressable market by $14 billion, bringing our overall addressable market to $77 billion. Dedrone is still investing for growth, and we expect incremental costs from their business and from integration that would have a slight impact to our core adjusted EBITDA margin. We've tried to factor this into our updated guidance and should be able to further refine these assumptions next quarter. Today, Dedrone is small relative to our overall business, and once closed, you will see them incorporated into our Software and Sensors segment. Dedrone highlights another step in our M&A strategy of acquiring talent and technology that complements our roadmap and expands our addressable market. In total, our acquisitions of Sky-Hero and Fusus and our planned acquisition of Dedrone have expanded our TAM by more than 50% over the last year from $50 billion to $77 billion. The acquisitions also increased our capabilities in robotic security and real-time operations, both areas we view as critical to the future of policing and our other markets, and we are excited to continue delivering on our product vision. Finally, I'll turn to our guidance. We are increasing our full year 2024 expected revenue guidance to $1.94 billion to $1.99 billion, which represents approximately 26% annual growth at the midpoint, above the prior high end of our guidance range of 20% to 24%. This incorporates both our outperformance in Q1 and our increased expectations for the year. While future contracted revenue was down slightly quarter-over-quarter to $7 billion in Q1, we have a strong pipeline for the year to underpin our forecast. We have also included an immaterial amount of revenue we expect to come from Dedrone this year, reflecting everything we currently know. We expect adjusted EBITDA of $430 million to $445 million, which implies an adjusted EBITDA margin of approximately 22% up year-over-year and approximately in line with our prior guidance on margin. This includes our best estimate of integration costs and impact from M&A on the year. Finally, we've also increased our expected investment in CapEx to $80 million to $95 million for the year as we are continuing to ramp our capacity investments to meet the strong demand for TASER 10. We're very pleased with these results and think the quarter demonstrates continued execution on our business across both the top and bottom line as well as strong investments for the future so we can continue to deliver outsized performance. And with that, I would like to open it up to questions.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thanks, Brittany. I think we're all in agreement with you. We'll take our first question from Meta Marshall at Morgan Stanley.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Meta Marshall",
+      "title": "Analyst",
+      "content": "Congrats on the quarter, guys. I wanted to dig into Draft One and just get a sense of how long you foresee departments needing for approval processes and whether you see that once a couple of major departments sign off that the approval processes can go much quicker. And then maybe just a second question for Brittany that I'll include this upfront. Just the contribution of Fusus to the year? Or just what you're accounting for between Fusus and Dedrone for the inorganic contribution to the year?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Joshua Isner",
+      "title": "CFO",
+      "content": "Yes. Thank you very much for the question. Rick, did you want to lead us off? I saw you speaking there.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Patrick Smith",
+      "title": "CEO",
+      "content": "Yes, I had myself on mute there. Yes, I would start by telling you, we've introduced a lot of exciting products over the years. This is probably the most enthusiasm I've seen for any product we've ever introduced. I mean, police officers did not get into this career to be writing reports, and we've done a lot of background work with our Epics and Equity Advisory Council as well as district attorneys and others looking at what the risks are and testing against those. We do make sure that we're putting speed bumps in there. So it's clear that we are reviewing the final report. It's really important that it's theirs. But what we're seeing is pretty rapidly they're realizing the agencies and their partners, again, district attorneys and others are telling us the reports they're getting when officers are using Draft One are better than the reports that they're writing on their own. And so while it's pretty early for us to make any exact predictions, the overall friction to adoption is low. This doesn't require a lot of professional services and integration. It's pretty easy for us to turn it on. It's very simple for officers to figure out how to use. And we're finding, again, as soon as they get experience with it, their feedback is pretty fantastic.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Joshua Isner",
+      "title": "CFO",
+      "content": "Yes. Just to add to that, ultimately, there will be a sales cycle associated with it, just like anything in selling to the government, but I think we're already seeing some early orders come in and the pipeline is building. We think in the second half of this year and especially going into next year, we'll see this start to really contribute to in-quarter revenue and ultimately at a high margin as well. So we're very excited about what this will entail for our results, but most excited about the fact that in a climate where it's very hard to add police officers to police forces, that we have the opportunity to put police officers back on the street instead of behind the computer without having to make any incremental hires from the outside. So very excited about what this product entails.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Brittany Bagley",
+      "title": "CFO",
+      "content": "I'll take your second question. Great question. I would say both Fusus and Dedrone are small. They are growing fast but they're immaterial to our top line and really immaterial to our overall growth rate. So we've incorporated that all into the guidance we're giving for the year. Where you see a little bit more of an impact is us being cautious on EBITDA, just given absorbing those businesses and having integration costs to really make sure we pull them in and do a good job. And so as you see us not pulling the Q1 EBITDA margin through to the rest of the year, you really see us accounting for some of those impacts and where we need to invest.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "We'll take our next question from Alyssa Shreves at Barclays. Alyssa are you on? Might be muted on your phone. We'll skip for now. We'll go to Will Power at Baird.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "William Power",
+      "title": "Analyst",
+      "content": "Congratulations on the strong Q1 results. I guess first question really probably for whoever wants to take it. Obviously, strong mid-30s percent revenue growth in Q1. If you look at the full year guide, while raised, it does imply some deceleration. So just love to get a perspective on any level of pull forward into Q1 versus conservatism for the remainder of the year? Any broader thoughts on that front would be great.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Joshua Isner",
+      "title": "CFO",
+      "content": "Thank you, Will. It's great to see you. As usual, we prefer to have more visibility into the year before making any forecasts about total revenue. We\u2019ve had a solid start, and our pipeline looks very promising. We are eager to see how Q2 and the subsequent quarters unfold. It\u2019s important to mention that the year-over-year comparison for Q1 is typically easier because Q1 is usually our slowest revenue quarter. We are not feeling pessimistic or have any doubts about having another successful year. We\u2019re just waiting to see how things develop throughout the sales cycle, and we will keep updating you on our progress as we typically do.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Brittany Bagley",
+      "title": "CFO",
+      "content": "Yes, I would just add, nothing is embedded in there other than the fact that we're lapping a very, very strong year last year.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "William Power",
+      "title": "Analyst",
+      "content": "Yes, that all makes sense. If I can just ask a quick second question on TASER. Can you update me on how the automation process is progressing? Where do we stand in terms of having enough supply to meet demand? Also, any additional insights on the gross margin commentary would be helpful. As you automate over time, that should benefit gross margins, but it seems like the initial investment might be affecting them. I would appreciate any insights on that front.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Brittany Bagley",
+      "title": "CFO",
+      "content": "Yes. I think you sort of summarized that really well, which is we're in this balance between focusing on ramping capacity and really working on cost-down initiatives, and we continue to see better demand than we've even expected for TASER 10. And so we continue to be in that area where we're really ramping capacity. You saw that come through in 33% growth in Q1. I mean that was because we had more supply available. So I think the team is doing a really nice job getting that capacity online and supporting that customer demand. It might take us a little bit longer to hit some of those cost-down initiatives as we hit that balance. But ultimately, that's just a matter of timing, one quarter to the next as we figure out how to slot that in. I would say overall, it's going nicely and is on track. And then as you look at our gross margins for the rest of the year, you also have a general mix shift balance that we do our best to look into our crystal ball and try and figure out software versus our devices versus our TASER business. And I would say devices were a little bit lighter, and software was pretty strong in this Q1. And so as we go through the year, I'd expect some health and devices to balance that down a bit. So that's all that's embedded in us trying to say that that gross margin guidance is probably not going to get better for the year than it was in Q1.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "We'll go to Keith Housum at Northcoast.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Keith Housum",
+      "title": "Analyst",
+      "content": "Question for you, Josh here. In terms of the seasonality of your business, you've experienced significant growth over the years. Looking at last year's fourth quarter, it was an outstanding bookings quarter, while this quarter has not shown the same performance. This seems to be the first instance of a sequential decline that I can recall. Can you discuss your thoughts on the seasonality of your bookings as we look ahead to this year and the next several years?",
+      "sentiment": "-0.2"
+    },
+    {
+      "speaker": "Joshua Isner",
+      "title": "CFO",
+      "content": "Yes, great question, and I appreciate it. I think it's a very similar situation as Q1 last year, where bookings were at a low point. This quarter is challenging for bookings for a couple of reasons. First, we had a particularly strong fourth quarter where we capitalized on opportunities. Then we enter a phase where we add salespeople, which changes the dynamics of the regions and requires time for everyone to adjust to the business landscape. Customers also don't feel much urgency since Q1 is the only quarter without major fiscal budgets, and only the U.K. ends its fiscal year then. So, Q1 is primarily about building the foundation and refreshing the pipeline. However, I see no red flags in bookings for the rest of the year, and I expect the team to respond strongly. We have a great sales team, and when we motivate them after a so-so quarter, it typically leads to solid results in the subsequent quarters. Therefore, I consider Q1 to be a seasonal low point for bookings but not indicative of future performance.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Keith Housum",
+      "title": "Analyst",
+      "content": "Okay. And a follow-up question regarding federal. Federal had a great year for bookings last year. Are we starting to see loans deploy, or is there going to be a longer deployment schedule? How should we think about that contributing to your overall revenue growth?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Joshua Isner",
+      "title": "CFO",
+      "content": "Many of the significant federal contracts are spread out over several years. We typically recognize revenue when the product is deployed or shipped on the TASER side. With these phased deployments from earlier bookings, there is some variation in timing regarding when shipments occur and when deployments take place. However, federal contracts are part of what I described as a very healthy pipeline for the remainder of the year. We feel positive about the trajectory of our federal business and anticipate several large opportunities in the coming quarters, expecting federal to achieve another outstanding year.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thanks, Keith. Next, we have Josh Reilly at Needham.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Joshua Reilly",
+      "title": "Analyst",
+      "content": "So following this body cam issue with the New York Department of Corrections from a competitor solution, the NYPD, as we know, is a customer for you guys in other areas of their police force with body cameras. Can you just speak to how quickly you could move in if asked with the replacement product there? And maybe just from a higher level, like what have you done from an engineering perspective to ensure that your cameras don't catch on fire from battery malfunctions?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Joshua Isner",
+      "title": "CFO",
+      "content": "Yes, Josh. Thank you. First, I want to mention that a captain was injured in this situation, and our thoughts are with him. It's unfortunate when incidents like this occur. You mentioned there could be a business opportunity arising from this, and we'll see how that develops. We feel confident in our ability to deploy our products, as we have made significant investments in them. We are prepared to act if the opportunity arises. For now, our focus remains on building outstanding products. As you pointed out, we have dedicated a lot of resources to our hardware and devices, and we have skilled teams considering various edge cases that may arise with our hardware. While we won't reveal specific details, I can assure you that we have anticipated many potential challenges and are confident in our products' performance in those scenarios. In the meantime, we will concentrate on what we can control, and if an opportunity comes up, we will be ready.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Joshua Reilly",
+      "title": "Analyst",
+      "content": "Got it. And then just a quick follow-up on the TASER revenue strength in the quarter here. Is there anything to call out in terms of TASER 10 domestic strength versus international being stronger? I know you had some big opportunities there for the 7 in Australia. And then just balancing that versus the automation coming on. Was the automation of benefit in Q1? Because I was thinking that was a little bit more tilted for the automation equipment taking hold in the second half.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Joshua Isner",
+      "title": "CFO",
+      "content": "Yes. I'll discuss demand first and then we can address automation. The TASER 10 is exceptionally popular; it's the best TASER device we've ever released. Demand for it is double that of the TASER 7. We're seeing strong indicators globally that this product represents a significant advancement over firearms, and it aligns with our ambitious goals we've discussed. This success is thanks to Rick and the entire TASER team for their dedication to bringing this product to market with high quality. Given the demand, we need to scale up production more quickly to deliver this device to our customers because we genuinely believe it will save lives. We're actively working on that. Additionally, we need to invest more in automation to enhance our production capacity each quarter, which we are currently undertaking. The future looks very promising for the TASER 10.",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "We'll go to Jeremy Hamblin at Craig-Hallum.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jeremy Hamblin",
+      "title": "Analyst",
+      "content": "I wanted to discuss the acquisition and the new product opportunities in greater detail. You've seen a substantial increase in your total addressable market over the past six or seven years, but this recent growth is among the most significant. I'm interested in hearing about Dedrone, especially given the community's sensitivity around how it will be utilized and the potential for pushback. Can you share your expectations for its deployment across your customer segments as they currently exist? Although it may seem minor now, do you believe it could become a significant contributor in the next two to three years?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Patrick Smith",
+      "title": "CEO",
+      "content": "Yes. Let me take that one to get started. A few years ago, when we were standing up Axon Air, our business leader there had an important insight that as important as drones are, probably even more important is going to be how public safety can deal with the new threats that drones pose. And that was before what we've seen recently in world events, where in modern warfare, it turns out these small consumer-level drones are a real game changer, but they're also presenting new threats to everyone from stadiums to critical infrastructure to major events. And so actually, with Dedrone, we don't see a lot of pushback because Dedrone is really about monitoring drones in the aerospace. And again, especially given the new threat vector that that represents, we're seeing pretty widespread support that people expect their local government, their public safety to be able to protect them, and aerial threats are just an entirely new vector. Now the drone is a first responder, which can be enabled by Dedrone. So Dedrone both helps control aerial threats. And then if you want to deploy your own drones, having really great visibility of the aerospace is a key part of that. Now DFR does present some concerns people may have about the government flying drones. But we find it gets most people comfortable if those drones are really being used to respond to 911 calls, and people can understand that gets police eyes on the scene much more quickly and can help them make better resourcing decisions, but these are not being flown just hovering over the population. They're really being used to respond to calls for help. That, combined with good transparency about drone missions that are being flown and how they're being used, in publicizing their policy helps most agencies, I think, really gain a lot of public support. So to finish out, we see this as being very material to the future. We think drones are already proving to be transformative and will only become more so.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Brittany Bagley",
+      "title": "CFO",
+      "content": "I would just say from a timing standpoint, echo Rick fully. I think there's a question of, is it from a financial standpoint, is it 2 to 3 years from now? Is it longer? I mean it will certainly be a really big pillar of our business, and you can see us investing heavily behind robotic security. I think we are really seeding a long-term growth trajectory, though a business that's going to be material for many years in the future, more than targeting a year or 2 years from now.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Jeremy Hamblin",
+      "title": "Analyst",
+      "content": "Got it. Helpful color. And then just following up here on Draft One, which the demand for this sounds incredible. In terms of thinking about the competitive set, there are lots of other solutions out there, although maybe not quite rolled out in the way that law enforcement is looking for just yet. Wanted to get a sense of how challenging you see that market in terms of entering it? Or is it that your ecosystem is such where there's a natural fit and it's giving you a competitive advantage simply because of the other product lines that you already have out there?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Patrick Smith",
+      "title": "CEO",
+      "content": "Well, this is the entire reason that we invested in a record management system 6, 7 years ago was entirely because we saw this coming, but the ability to not only have your video evidence and your written records in one system, but to be able to extract one from the other would be critical. And I think we're really seeing that come to bear. So we always want to stay a little paranoid about competition. It's a very competitive market. But we think between the combination of the ecosystem just really providing a great user experience and what we invest in earning customer trust and support and the rigor with which we've evaluated the risks and really dealt with all of the critical players, whether it's from community concerns through district attorneys and legal concerns across the board. I think we've done this in a way that our customers can know that this is a pretty well-vetted approach. And obviously, AI can be a bit controversial. And we intentionally chose an area that is very high payback for our customers with very minimal risk compared to some other areas where using AI today may introduce more risk. Here we think, especially because it's derived from the body camera video, it's derived directly from the evidentiary record, which we think leads to actually even better, more detailed, and more accurate police reports.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Jeffrey Kunins",
+      "title": "COO",
+      "content": "Just building on what Rick said, as always, we obsess about our customers, while being healthily self-aware about the competitive landscape. And that's one of the reasons we talk about the ecosystem so much, as you were talking about. We've had transcription of the audio from body camera video at scale with a very large number of customers building up and up for several years now. We've got the footprint of both our body cameras themselves and them and the growing momentum in records. And all that together is sort of the perfect tee-up that makes Draft One possible. And then the second thing, as Rick was saying, a lot of people talk about the concepts of responsible AI and using these techniques in ways that combine effective results for customers with doing it in a principled and appropriate way, and Draft One really is that actually put into action. And it's why we're so proud of it and why we believe customers are showing the early excitement for it.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Next, we have Trevor Walsh with JMP.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Trevor Walsh",
+      "title": "Analyst",
+      "content": "Rick, I have a question for you. It was encouraging to hear the discussion about the opportunities related to AI emerging from Axon Fleet. Could you share your thoughts on the relationship between data and AI, especially in relation to the sensors that support this technology? Are there any concerns about products like Fusus, which depend not only on Axon's proprietary data but also on information from other vendors who may not collaborate effectively? I've come to see that data for AI is becoming increasingly valuable, which raises concerns about the long-term sharing of this data.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Patrick Smith",
+      "title": "CEO",
+      "content": "Well, we certainly haven't seen it yet. And most of the partners that are sharing through Fusus, I mean those are really members of the community, businesses, other enterprises, churches, schools, partner government agencies that are sharing that data primarily because they want to be safer, and they want to be able to have that data put to use to help police do their jobs better and identify whether it's criminal activity or solve crimes. So we haven't seen people sort of pushing back against using that data responsibly to protect them better. Jeff, I don't know if you have any color you might want to add on that?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Jeffrey Kunins",
+      "title": "COO",
+      "content": "Sure, thank you for the question. You're correct on both points. Having access to large amounts of aggregated data is indeed a significant advantage, and it's one of the factors that allows us to continue to innovate in unique ways. Additionally, a crucial reason we don't need to be overly concerned about the issue you mentioned is that, generally speaking, this data belongs to our customers. They have the freedom to work with various vendors and partners, including us, and other service providers in their community. Ultimately, they decide how they want the different tools, including ours, to collaborate. This gives them a strong voice that encourages all of us to cooperate while striving to enhance our individual products' uniqueness.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Trevor Walsh",
+      "title": "Analyst",
+      "content": "That's great. I really appreciate the insights there. Perhaps a quick follow-up regarding some of the Dedrone comments. How much do you plan to focus on the counter UAS-driven use cases, whether for safety or the non-public safety customers?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Patrick Smith",
+      "title": "CEO",
+      "content": "Yes. I would say we intend to lean in pretty hard. So our goal is to protect life. And to the degree that drones are being used to threaten lives, we see that as 100% in our mission set to try to create new ways to protect against those risks. So we see this could end up being a real opportunity where Dedrone not only is useful to our existing customers, but Dedrone is interesting to a new set of customers, for example, major sporting stadiums, critical infrastructure, and indeed, military, both U.S. and internationally have a customer set that is new for us and can bring our ecosystem into those customers as well.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Up next, we have Joe Cardoso at JPMorgan.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Joseph Cardoso",
+      "title": "Analyst",
+      "content": "I wanted to follow up on the questions about Dedrone. You've been collaborating with them for some time, and this isn't the first partner you've chosen to acquire because you see value in owning them. I'm curious why you believe this is the right time to acquire them. Has there been any change that we might not fully understand? Additionally, could you discuss if there have been any changes in your approach to participating in certain aspects of the technology stack related to the drone opportunity compared to your current work with TASER and body cameras?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Patrick Smith",
+      "title": "CEO",
+      "content": "So Jeff, do you want to take first crack at that one?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Brittany Bagley",
+      "title": "CFO",
+      "content": "Maybe I'll do the timing of why now, and then Jeff can talk about the technology pieces. So I think there's a couple of things. One, we knew we were going to get a bit more active from an M&A standpoint, which is why we opportunistically strengthened our balance sheet and did our capital raise back in the fall of 2022. And so that was really so that we could go out and be methodical and pick up some of these pieces of the puzzle where we really wanted to strengthen the roadmap, and Rick has consistently been talking about the importance of robotic security. And so both Sky-Hero and Dedrone fit squarely into his vision for what robotic security for us in the future, everything from the indoor tactical drones of Sky-Hero to having Dedrone help support DFR and help support counter-drone in all of those markets. That just goes back to the timing of when does it feel right for them, given everything else they have on their plate and what they're thinking about as an independent company versus when it makes sense to come together with us. And so I think nothing big out there that we're not talking about other than the fact that it felt right timing-wise for them and for us. They were a partner of ours. We had invested in them before; we very much knew when we made that investment that we might make an acquisition, and this is the timing that sort of worked out for both sides from an acquisition standpoint.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Jeffrey Kunins",
+      "title": "COO",
+      "content": "Yes. And then just building from there, again, great question about the ecosystem. I've personally spent my sort of 3 decades across lots of the businesses I worked in on these kinds of ecosystems that are always this delicate balance between thinking about where do you build by partner, et cetera. And those things evolve over time and you're always trying to decide at each layer of the stack where the best opportunities to really, really partner well with other fantastic teams and other fantastic providers and where, over time, can you get the most leverage by self-building or by growing organically. And as you can see, for example, with drones, we made a very surgical and key decision with Sky-Hero in bringing in this very focused tactical drone hardware provider. You see the work we've done with PSS and then all of the organic build you see us do everywhere. And we'll continue to evaluate that stuff carefully and be as smart as we can as we go.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Joseph Cardoso",
+      "title": "Analyst",
+      "content": "I appreciate the insight there. For my second question, regarding the CapEx raised today, could you explain what is driving the confidence to accelerate your investment plans so early in the year? You mentioned that it's a slower bookings quarter, but the pipeline is growing, so could you elaborate on the decision to make these investments now instead of 90 days from now? Additionally, as we consider these upcoming investments, should we anticipate a gradual increase over time, with more automation leading to a slow ramp-up in capacity? Or should we expect a more significant change in a later quarter? Any information on the timing of the capacity investment acceleration would be helpful.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Brittany Bagley",
+      "title": "CFO",
+      "content": "Yes, sure. So I would focus you on the part of Josh's commentary when he said it's the best pipeline we've ever had coming out of Q1 and really drive you there. I think what you're hearing from us is like, yes, we had slightly softer future contracted revenue in Q1, but that is not at all indicative of how we see the year going, which I think you can see from our guidance and our commentary. And so as we look out at pipeline, as we look at the demand for TASER 10, as we look at the 33% growth in Q1, we basically said that in order to keep meeting that demand, and we don't want our customers to have to wait too long for our products, that we needed to invest in more capacity. And then the way we invest in capacity is we're buying pretty specialized equipment to run our lines and do our manufacturing, and so there's lead times associated with that. So right now, we have to start making investments to support capacity increases in 2025, basically at this point. So there's no inflection point; you just see us slowly ramping our capacity increases, maybe not fully, but steadily ramping our capacity increases to meet that demand. And trying to get out in front of it so that we don't get caught in 2025, saying we don't have the ability to meet demand, and we're going to have to backlog our customers for a significant amount of time. So that's really just what we're seeing is making sure we're getting ahead and being prepared for 2025. If we waited 90 days, that would just mean we were bringing it on 90 days later in 2025 when we got ramped up, and I think we have enough confidence. I'm telling you we have enough confidence in the pipeline and the demand that it's prudent for us to bring that online.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "We'll take our last question from Mike Ng at Goldman Sachs.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Michael Ng",
+      "title": "Analyst",
+      "content": "I have two as well. First, just on Axon and Cloud Services, it was up $12 million quarter-over-quarter. Can you talk a little bit about how we should think about the sequential growth in this line? Is this low double-digit dollar growth sequentially still a good way to think about it? Qualitatively, is this more user base driven with the growth in the installed base across body and fleet? Or are we beginning to see more software and, I'll call it, ARPU uplift from records and standards in dispatch? And then I have a quick follow-up.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Brittany Bagley",
+      "title": "CFO",
+      "content": "Yes, so our step-up quarter-over-quarter was almost $13 million. I would say part of that was in Q4 last year. We had a really big step up. Part of that was from revenue recognition. We've talked particularly about how with records coming online, some of that revenue recognition is going to be a little bit lumpy. So we had a particularly large quarter in Q4, and then that leads to a slightly smaller step Q4 to Q1. But I also think $13 million continues to be a pretty healthy step and sort of in line with what we've indicated is, like if you average out our quarter, that feels like a pretty normal step up each quarter.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Michael Ng",
+      "title": "Analyst",
+      "content": "Great. I was wondering if you could provide an update on some of the Axon wins reported in the media. How is the RCMP field testing progressing? Are there any common themes in the wins in Cornelius, North Carolina, or Puerto Rico? I understand some of these were against a large competitor, so are there any insights regarding product or cost factors that contributed to those wins?",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Mike Garnreiter",
+      "title": "COO",
+      "content": "Yes. Thanks, Mike. Great question. I'm going to give you a little bit more of a general answer on them. I think we've said this a lot about our international business that we aren't going to be, and we're not aspiring to be the kind of low-cost vendor in the space. We believe what we've built is really, really valuable. And we believe that we can perform, and our products can perform in the field just as we say they will in the written solicitations. And that's not always the case for other vendors in this space. And so at times, a customer upfront might focus on cost and say, hey, this is the lowest price point. And then when they start to use the products and test them out and see what they do well and where the shortcomings are, they might feel like, hey, the ROI is such that we should look at a product that's priced differently even if it's higher. And oftentimes, that's where we've come in internationally. And while it takes a little bit of discipline on the front end, we think it's the right long-term winning strategy because we do really have a lot of conviction that what we've built a police officer is lesser served with something else in their hands or on their chest or on their belt. And so we've got a lot of conviction that's the right strategy, and we're starting to see that play out in international markets.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thanks Mike. I think that's it for questions today. We'll turn it over to Rick to close this out.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Patrick Smith",
+      "title": "CEO",
+      "content": "Awesome right. Well, thanks, Eric, and thanks again to all of you for joining. I'm really proud of our entire team and the incredible execution they continue to show. We'll be really excited to come to you with more updates later this year, and we look forward to seeing you all again in August.",
+      "sentiment": "0.8"
+    }
+  ],
+  "reported_date": "2024-05-06"
+}

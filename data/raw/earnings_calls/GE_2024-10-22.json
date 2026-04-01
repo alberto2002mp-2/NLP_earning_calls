@@ -1,0 +1,433 @@
+{
+  "symbol": "GE",
+  "quarter": "2024Q3",
+  "transcript": [
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Good day, ladies and gentlemen, and welcome to the GE Aerospace Third Quarter 2024 Earnings Conference Call. At this time, all participants are in a listen-only mode. My name is Liz, and I will be your conference coordinator today. As a reminder, this conference is being recorded. I would now like to turn the program over to your host for today's conference, Blaire Shoor, from the GE Aerospace Investor Relations team. Please proceed.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Blaire Shoor",
+      "title": "Investor Relations",
+      "content": "Thanks, Liz. Welcome to GE Aerospace's third quarter 2024 earnings call. I'm joined by Chairman and CEO, Larry Culp; and CFO, Rahul Ghai. Many of the statements we're making are forward-looking and based on our best view of the world and our businesses as we see them today. As described in our SEC filings and website, those elements may change as the world changes. Now over to Larry.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Lawrence Culp",
+      "title": "CEO",
+      "content": "Blaire, thank you, and good morning. We're pleased to be joining you from GE Aerospace's headquarters in Evendale, Ohio. For more than a century, GE Aerospace employees have been inventing the future of flight, lifting people up and bringing them home safely. Those last four words, bringing them home safely, are an incredible responsibility and will always be our top priority and core to our culture. We're motivated each day by our purpose and guided by FLIGHT DECK, our proprietary lean operating model. Our team is dedicated to safety, quality, delivery, and cost in that order. That focus will enable us to meet the significant demand of today, while building the innovative solutions of tomorrow. It is because of the shared commitment of our 52,000 employees around the world that we have the privilege to continue to advance flight for today, tomorrow, and the future. Turning to our third quarter performance. Orders were up 28%, driven by robust demand, and we delivered strong earnings and cash. Revenue was up 6% from growth in services and equipment, while operating profit was up 14% and adjusted EPS up 25%. Free cash flow was $1.8 billion, with conversion of more than 140%. In Commercial Engines & Services, or CES, orders were up 29%, with more than 20% growth in both services and equipment. Our recent wins in widebodies and narrowbodies build on our considerable backlog of $149 billion, greater than 90% of which is in services. Services revenue grew 10% and supported total operating profit, which was up 16% year-over-year. Our priority continues to be servicing and growing the industry's most extensive commercial installed base. We made progress with the step-up in OE deliveries quarter-over-quarter, with higher spare part sales to support our external MRO network, while also expanding aftermarket capacity. Progress to be sure, but more work lies ahead. In Defense & Propulsion Technologies, or DPT, orders increased 19%, while profit declined. Engine deliveries were up sequentially, but down year-over-year. We're focused on improving delivery of our leading defense programs, while developing mission-critical technology for the future. Many thanks to our team for their work and dedication this quarter, and a specific thank you this morning goes out to our teams impacted by Hurricanes Helene and Milton. You worked around the clock to support each other and minimize the impact on our customers. Your GE Aerospace at its finest. Given the strength of our results, growing both profit and cash more than $1 billion year-to-date, combined with our fourth quarter expectations, we're raising our full-year guidance. We also continue to coordinate closely with Boeing and are committed to supporting them as they navigate their current dynamics. Moving to Slide 5. Demand for our services and products remains robust, highlighted by departures up high-single digits year-to-date and LEAP share of global narrowbody departures increasing over 20%. We're taking steps with our suppliers to increase inputs, and within our operations to expand capacity, ensuring we're positioned to meet this historic demand. We're making progress with engine output increasing 22% quarter-over-quarter, including commercial up 25% and defense up 8%. We also grew spare parts sales sequentially, supporting shop visits completed by our third-party network. As we've discussed over the last nine months, we're using FLIGHT DECK to unlock key constraints, increase material inputs, and drive sustainable improvements. We're working hand-in-hand with suppliers, and we're grateful for their strengthening partnerships. As a result of that work, a key subset of priority supplier sites increased output 18% in the third quarter, supporting our deliveries. As one example, a joint Kaizen with one supplier in the second quarter led to a double-digit improvement in material receipts in the third quarter, demonstrating that these efforts are yielding results. We expect inputs to increase again in the fourth quarter, supporting a sequential step-up in output. We're also making progress on LEAP durability with the 1A durability kit, including our upgraded HPT blade, and we're expecting it to be certified in the coming weeks. The new HPT blade is easier to manufacture, which will also help increase output. Combined with the three durability enhancements that are currently performing well in the field, we expect this will give LEAP a 2.5x improvement in time on wing, in line with current CFM56 levels. With LEAP's fleet size projected to double by 2030, we're expanding capacity to support aftermarket growth. We're preparing for this growth in three complementary ways to improve shop visit output and reduce turnaround times. First, we're leveraging FLIGHT DECK to eliminate waste, to increase capacity and reduce turnaround time. At our MRO facility in Selma, Brazil, we use value stream mapping and problem-solving to reduce LEAP test cycle time, a key constraint in shop visit output. We identified waste and improved standard work, reducing lead times there by nearly 50%. Actions like this enabled over 20% more LEAP shop visits in the third quarter year-over-year. Second, we're expanding internal capacity. We're investing $1 billion in MRO over the next five years to create that capacity, add enhanced inspection techniques, and expand repair capabilities. We've partnered with Lufthansa Technik to add a dedicated LEAP MRO shop in Poland, and we'll induct the first engine there in the fourth quarter. And third, we're developing our third-party network, which provides customers flexibility and competitive options to ensure the best cost of ownership. Third-party MROs inducted a record number of LEAP shop visits in the third quarter. We're also pleased that Akasa Airlines recently announced the selection of ST Engineering to provide exclusive performance restoration shop visits for their fleet over the next 15 years. While there's more work to do, we're focused on servicing and delivering our engines faster without compromising safety and quality. I'm confident our actions will enable us to increase output meaningfully into the fourth quarter and 2025. We're also growing our installed base with airlines and defense customers expanding and modernizing their fleets with our engines under wing. During the quarter, we won multiple services contracts for our customers' growing fleets. Avalon will add 75 new LEAP-1A-powered A320 aircraft to their existing fleet of over 300 CFM-powered aircraft. In widebodies, we secured commitments from Eva Air for GEnx engines and Qatar Airways for GE9X engines. In Defense, the Polish Ministry of National Defense will add over 200 of our T700 engines to power their anticipated acquisition of 96 Boeing Apache, Guardian helicopters. We were also selected to overhaul and upgrade the GEnx 2B engines powering the U.S. Air Force's SAOC, the Survivable Airborne Operations Center, Boeing 747-8. Turning to the future. RISE accelerates the development of new technologies that will pave the way for the next generation of aircraft and a more sustainable future. We recently began planning for dust ingestion tests on the open fan design earlier than ever before. This reflects key durability learnings from our engines operating in higher temperature environments. We're also advancing a new era of turboprop technology with a catalyst engine, completing engine level testing and certification expected in the coming months. Our defense products remain in demand for critical platforms globally. Our T901 engine is key to the modernization of Blackhawk and Apaches and has been progressing towards the next milestone of power-on and ground runs. The maturity of our digital backbone for Bell's Future Long Range Assault Aircraft was critical for the U.S. Army to pass Milestone B and enter the next phase of development. We're also delivering continued success with our advanced technologies. Our XA100 engine completed a fourth round of testing, and we are nearing completion of the detailed design for the U.S. Air Force's NGAD program. Stepping back, our path forward is clear, and we're confident we'll meet our customers' expectations today while developing the technologies of the future. Rahul, over to you.",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "Rahul Ghai",
+      "title": "CFO",
+      "content": "Thank you, Larry, and good morning, everyone. GE Aerospace delivered another strong quarter with double-digit orders and profit growth, improving delivery and over 140% free cash flow conversion. Revenue was up 6%, with growth in both segments. Services growth, combined with price more than offset the impact of lower engine shipments year-over-year. Operating profit was $1.8 billion, up 14%. Services volume, favorable mix, and price were partially offset by higher inflation and investments. Operating margins expanded 150 basis points to 20.3%. Adjusted EPS was $1.15, up 25% from increased operating profit and the benefit of preferred equity redemption. Free cash flow was $1.8 billion, up 5% from higher earnings. Working capital was roughly a $600 million use. Billings on higher sequential engine deliveries were partially offset with favorable AD&A. Given the ongoing material availability challenges, inventory increased, although at a lower rate than prior quarters. Cash inflows from long-term service contracts continued to be favorable. These results build on the momentum we had from the first half, with year-to-date revenue up 8% and operating profit up more than $1 billion or 25% from commercial services strength. We have delivered $4.6 billion of free cash flow, also up more than $1 billion year-over-year at nearly 130% conversion. This sets us up well to close out a strong year. Turning to CES. In the third quarter, revenue was up 8%. Services were up 10% from higher spare part sales, increasing shop visit work scopes, and improved pricing. Internal shop visits were roughly flat year-over-year. Equipment revenue grew 5% with customer mix and price more than offsetting lower units. Supply chain constraints impacted shipments across narrowbody and widebody with total engine deliveries down 4%, including LEAP, down 6%. Profit was $1.8 billion, up 16%, with margins expanding 180 basis points from higher services, volume, and price. Equipment losses increased year-over-year from lower spare engine deliveries and higher investments, partially offset by improved pricing. Overall, CES has delivered solid year-to-date results with double-digit revenue growth, $4.9 billion of profit, up about $750 million year-over-year, and 170 basis points of margin expansion. Moving to DPT. Orders were up 19% from strong demand at Defense & Systems. Defense book-to-bill was 1.6% in the quarter and 1.2% year-to-date. Our total DPT backlog is now $18 billion, up $1 billion year-over-year. Revenue grew 2% in the quarter. Defense & Systems revenue was down 2%. Improved pricing was more than offset by engine deliveries, down 1%, and unfavorable engine mix. Propulsion and Additive Technologies grew 9%, primarily driven by Avio Aero. Profit of $220 million was down 18% year-over-year on a tough compare. Inflation, adverse engine mix, and investments to support next-gen products more than offset price improvement. While we had a challenging quarter, year-to-date revenue and profit are up 6% and 22%, respectively, with margins expanding 150 basis points. We continue to work towards improving delivery while providing solutions that meet the evolving needs of our military and allies. Spending a movement on corporate. Since becoming an independent company, we made considerable progress to ensure our operations reflect the needs of GE Aerospace. Year-to-date, total corporate cost is down about 25% or $150 million. We are also on track with our post-spin separation and restructuring plans. Additionally, this quarter, we had non-GAAP adjustments from the gain on sale of our licensing business, agreement to settle a legacy lawsuit, and impairment of Colibrium Additive goodwill. Colibrium Additive is a critical business for us as it is utilized on several key components for LEAP and 9X, and it will be a key enabler for a future of flight as we continue to focus on where it can create the most value. Given the strong year-to-date performance and the trajectory entering the fourth quarter, we are raising our earnings and cash guidance. Revenue remains the same across our businesses. At CES, we continue to expect low-double digits to mid-teens growth. This includes continued sequential growth in LEAP deliveries in the fourth quarter, but the full year will now be down approximately 10% year-over-year. This guidance assumes ongoing deliveries to Boeing. We also continue to expect DPT growth of mid-to-high single digits, in line with the year-to-date performance of 6% growth. Operating profit is now expected to be in a range of $6.7 billion to $6.9 billion, up $150 million at the midpoint in the prior guide, implying over 200 basis points of margin expansion year-over-year. CES operating profit is now expected to be $6.6 billion to $6.8 billion, up $300 million at the midpoint from the prior guide, reflecting improved services mix. Internal shop visit growth will be lower than our prior estimate, offset by higher spare part sales, work scope, and mix. We expect DPT to be at the lower end of the current profit range of $1 billion to $1.3 billion. This reflects 3Q performance, increased investment in next-gen programs, and some pressure in P&AT. Corporate costs and eliminations are now expected to be around $850 million, down from below $900 million previously and $150 million reduction year-over-year. We now expect a tax rate of around 20%, lower than our prior expectation of low 20s. Interest expense is unchanged. We are raising our adjusted EPS guidance to $4.20 to $4.35, up $0.20 at the midpoint from the prior guide from improved profit and lower tax rate. We are also raising our free cash flow guidance to $5.6 billion to $5.8 billion, up $250 million at the midpoint, primarily from higher earnings. All in, we are positioned to deliver significant revenue, profit, and free cash flow growth in 2024, and that provides us a solid foundation for 2025. Larry, back to you.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Lawrence Culp",
+      "title": "CEO",
+      "content": "Rahul, thanks. GE Aerospace is positioned to deliver a solid year in our first as a stand-alone company with enhanced profitability and cash supporting over $4 billion that we've returned to shareholders year-to-date. This performance is underpinned by our sustainable competitive advantages. Our platforms are preferred by customers across the narrowbody, widebody, and defense sectors. Our focus is on providing industry-leading services and technology with safety, quality, delivery, and cost in that order at the core of everything we do. We support our customers, and we will deliver greater efficiency, reliability, and time on wing as well as faster turnaround times to them. We continue to keep an eye towards the future to deliver breakthrough technologies in commercial and defense to pave the way with innovation for a more sustainable flight and FLIGHT DECK connects our strategy to our results, enabling GE Aerospace to deliver for our customers, create exceptional value for shareholders, and to define our culture. Looking ahead, we're poised to continue to deliver meaningful profit and free cash flow growth in 2025 and beyond, combined with our capital allocation strategy, including returning approximately $25 billion of available cash to shareholders will drive compounding shareholder returns. Now we'll go to questions. Blaire?",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "Blaire Shoor",
+      "title": "Investor Relations",
+      "content": "Before we open the line, I'd ask everyone in the queue to consider your fellow analysts and ask one question, so we can get to as many as possible. Liz, can you please open the line?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our first question comes from David Strauss with Barclays.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "David Strauss",
+      "title": "Analyst",
+      "content": "Thanks. Good morning.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Lawrence Culp",
+      "title": "CEO",
+      "content": "Good morning, David.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "David Strauss",
+      "title": "Analyst",
+      "content": "So I wanted to ask, Larry, about 2025. So back at the Investor Day, you talked about $1 billion in profit growth in 2025 relative to 2024. Obviously, the 2024 EBIT guidance has come up, I think, about $550 million. So how should we think about the walk to 2025. Are we still looking at roughly $1 billion in EBIT growth off of a higher baseline now? Thanks.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Lawrence Culp",
+      "title": "CEO",
+      "content": "David, we're really working through the updated '25 outlook. We're in the midst of our annual strategic planning reviews. A good bit of our time actually here in the third quarter was dedicated to that work. And that really transitions us now to the budget prep process. We will have a more defined look at '25 as we get closer. We'll review that with the Board at the end of the year. And then I think when we're together in January, we'll go through that in detail. Rahul may want to just frame up how we are thinking about that vis-\u00e0-vis where we were back in March.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Rahul Ghai",
+      "title": "CFO",
+      "content": "Yes. No, sure. Larry and David, thanks for the question. As you said, we are sitting at about $500 million, $550 million higher than where we were in March. So that is a higher starting point. And just as we kind of take through the segments here a little bit, we expect commercial services to stay strong, grow low-double digits given the significant backlog of shop visits that we have and the price increases that we've implemented. And the two other trends that are kind of working in our favor are the CFM56 and GE90 kind of holding their share of departures with extremely low levels of retirement. On CFM56, the retirements this year have been lower than even where they were in 2023. And then LEAP services is trending nicely. So that all those things are going to help support the 2025 outlook. On the equipment side, the equipment's growth is slower in '24 than we had expected. So some of that volume will move to 2025. We are working those volume assumptions as we sit here today with the airframers to say that equipment growth will be faster than that of services and will include higher 9X shipments. So that'll likely put some pressure on margins, but it is important to keep this flywheel going over the longer term. On the DPT side, the book-to-bill, as we just shared, has been very strong. So we're entering '25 with a very strong backlog, mid-to-high single-digit growth for next year and with profit growing faster than margins. And on the corporate side, we've done a really good job this year taking cost out, 25% to 30% cost reduction based on the guide. And that has accelerated some of these actions from next year into this year, but still plenty of opportunity in front of us. So all in, we'll work through our guidance here and provide the detail in Jan. But we see continued strong earnings and free cash flow outlook, which should stay above 100% for next year. And we continue to work for shareholder returns through what we're doing on dividend and share buyback.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Doug Harned with Bernstein.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Douglas Harned",
+      "title": "Analyst",
+      "content": "Yes, good morning. Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Lawrence Culp",
+      "title": "CEO",
+      "content": "Good morning, Doug.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Douglas Harned",
+      "title": "Analyst",
+      "content": "I wanted to continue a little bit on 2025, though, and specifically around your expectations for LEAP output. You're up quarter-over-quarter in Q3, but you've got the Boeing strike. You've got the supply chain constraints that you've talked before about HPT blades in particular, and then you've got to transition to the new HPT blades. So when you're trying to project those numbers for next year on LEAP output, how do you trade those different things off? And where do you see yourself in terms of mitigating some of these issues?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Lawrence Culp",
+      "title": "CEO",
+      "content": "Well, Doug, I would just expand it a little bit more broadly than all of the items that you touched on there, because in addition to thinking about the LEAP ramp, right, hand-in-hand with both Airbus and Boeing, we've got growing demand in the aftermarket. And we want to make sure we're taking care of the airlines and the airframers, and that's what the operating challenge is about. It's not one of demand. We know we've got an incredible backlog here. Airbus, obviously, aiming to hit rate 75 down the road. We want to be with them each step of the way. Boeing in a different situation, but they're going to be ramping on the other side of resolving the work stoppage as well. And fortunately, they're both going to do that with our engines under wing. I think that what we saw in the third quarter, what we saw in the second quarter in terms of the work we are doing with FLIGHT DECK with the supply base really is what will determine how much of that aftermarket activity we can support, and what we're going to be able to do in terms of new engines as well. I'm encouraged by what we saw in the third quarter. I think in the prepared remarks, you saw that we had an 18% increase sequentially. And I think sequentially is really where it is operationally on the handful of critical suppliers that paced us a bit in the second quarter, paced us a bit here in the third, but I really like not only the underlying collaboration but the on-site problem-solving that we're doing. I think we're unlocking capacity as a result, and that helps us deliver more to all of our customers. That's what we're geared up to do here in the fourth quarter as well. As we said, LEAP will be down, unfortunately, year-over-year in terms of new engine deliveries. But I think we're poised, I think, as Rahul just touched on to deliver good growth going into 2025. That's the goal. You mentioned the new HPT blade. That, Doug, as you know, is really the fourth of four durability enhancements that we're excited about. We expect approval for the 1A version of that here shortly. That will be a real step function improvement in the field performance of the engine, and it's a twofer because we also know that it's an easier blade to make. That will unlock capacity, which will help us in 2025 in earnest as well. So still work to do. I like the travel that we're seeing, and our team and our supplier teams know that we're fortunate to have this incredible backlog to service for the airframers and for the airlines, and that's what 2025 will largely be about.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Robert Stallard with Vertical Research.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Robert Stallard",
+      "title": "Analyst",
+      "content": "Thanks so much. Good morning.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Lawrence Culp",
+      "title": "CEO",
+      "content": "Good morning.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Robert Stallard",
+      "title": "Analyst",
+      "content": "I'm not sure if there's a question for, but since we last spoke, Boeing announced another delay on the 777X program, I was wondering what sort of financial and practical implications this might have for GE Aerospace? Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Lawrence Culp",
+      "title": "CEO",
+      "content": "Well, maybe I'll speak to the operation, Rahul can touch on the financial. We heard what you heard. I'm sure Kelly and company will talk a little bit more about that tomorrow. But from an operational perspective, really no change whatsoever at GE Aerospace with respect to what we're doing to continue to test the engine and prepare for a production ramp going forward. And I think it's really that simple. We're excited about that engine. We know that aircraft is late, but every customer that I talk to and have the opportunity to spend time with a few of them just this past weekend, they love the airplane. They want the airplane. It's really, at this point, a matter of time.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Rahul Ghai",
+      "title": "CFO",
+      "content": "And Rob, from our guidance perspective, we do have a few rev rec units here in the fourth quarter. We've already started delivering the engines to Boeing. Some of them are already gone, more will go out here in the remaining two months of the quarter. For '25, we're working with Boeing on exactly how many engines they would need based on their demand profile. So that is work that we need to do in the next couple of months. But we expect that the program will obviously ramp here over the decade. And the key for us is just to continue to work the cost out. And as we shared at Investor Day, we expect about 30% of the cost to come out by the 50th engine, an additional 30% as we get to the 250th engine. So that's what's in our plan. And we'll move past the peak losses towards later in the decade and the program should be profitable by 2030. So that's what we built in into both our near-term and long-term outlook.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from Myles Walton with Wolfe Research.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Myles Walton",
+      "title": "Analyst",
+      "content": "Thanks, good morning.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Lawrence Culp",
+      "title": "CEO",
+      "content": "Good morning, Myles.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Myles Walton",
+      "title": "Analyst",
+      "content": "I was hoping you can comment on the customer concessions or penalties that might be associated with delinquency of deliveries, both on the commercial side and the military side, which are obviously below your plan and expectation. We get asked the question a lot, how do the financials that GE keep getting better if the underlying deliveries keep getting worse? I'm just curious if you can elucidate some of the penalties you might be absorbing under the surface for the delinquencies? Thanks.",
+      "sentiment": "-0.2"
+    },
+    {
+      "speaker": "Rahul Ghai",
+      "title": "CFO",
+      "content": "Myles, let me start and Larry jump in here. Myles, as you know, kind of typical contracts with the customers. But everything that we need to accrue for we're obviously accruing for, and that's kind of built into the guidance. But I want to say that it's not been a material number for us here as we sit here in 2024. So we're working through and trying to support the customers as best as we know how. And as you saw, the deliveries are sequentially better in the third quarter. They'll get better in the fourth quarter, and will continue to improve as we work past these supply chain challenges, but nothing major on the liquidity damages or penalty side on either side on either commercial or military.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Sheila Kahyaoglu with Jefferies.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Sheila Kahyaoglu",
+      "title": "Analyst",
+      "content": "Good morning guys. Thank you very much, Larry, Rahul.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Lawrence Culp",
+      "title": "CEO",
+      "content": "Good morning.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Sheila Kahyaoglu",
+      "title": "Analyst",
+      "content": "Maybe we could talk about DPT. Orders and backlog continue to be very strong despite the softness in profitability. I assume some of that is coming from the combat engine shortfalls, but you also mentioned pressure across propulsion and additive plus the charge today. So when we think about the low end of 2024 guide, it would suggest Q4 margins step down again sequentially. How do we think about what happens into 2025 and what's driving some of that margin pressure?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Rahul Ghai",
+      "title": "CFO",
+      "content": "So Sheila, I think you touched on it. The biggest pressure point here in the fourth quarter is our investment in R&D to support the next-gen programs. So that is the biggest driver here. Given the budget uncertainty, we are continuing to invest from our side to make sure that we meet the timelines that the customers need from us. So that's the biggest point. There's a little bit of product mix in Avio Aero that is putting a little bit of pressure on propulsion and additive technologies that we referenced. But the biggest driver here is the R&D increase in the fourth quarter. Now as you go into '25, as you mentioned, the backlog is strong, it's $18 billion, up about $1 billion year-over-year for the segment. So that supports the mid- to high-single-digit growth that I mentioned earlier in response to David's question. And we do expect that, as we get into '25, our profit should grow faster than revenue, and that should drive continued margin expansion on the DPT segment. And keep in mind, the results on a year-to-date basis have been very strong as well. So we'll continue that into '25.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Ronald Epstein with Bank of America.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Ronald Epstein",
+      "title": "Analyst",
+      "content": "Hey, good morning, Larry and Rahul.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Lawrence Culp",
+      "title": "CEO",
+      "content": "Good morning, Ron.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Ronald Epstein",
+      "title": "Analyst",
+      "content": "Can you maybe peel back the onion a little bit more on shop visits in the quarter. LEAP was up, but other things were down. If you can go into that in a little more detail that might be helpful for everybody.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Lawrence Culp",
+      "title": "CEO",
+      "content": "Ron, I think it's very much what we have been touching on here this morning, what we've talked about previously just in terms of the various supply chain challenges that we're seeing really across the board. We talk a lot about LEAP, given the ramp there and what's happening in the aftermarket. But these same suppliers support us across virtually every one of our programs. So what we're trying to do is make sure that the FLIGHT DECK improvements that we're seeing, that we've highlighted here this morning are broad-based. That's why we've got over 550 engineers in the field working with the supply base to really enable us to have more flow into our facilities, whether they support new make of an engine, let alone the aftermarket. When that flow is not constant, when that flow is not improving, that's when things are delayed. And depending on where we are in a particular facility or a particular product line, you may see that present itself in one area in one quarter, perhaps in another elsewhere. It's not something we're particularly pleased with, but I think we're focused on the problem solving, not the finger-pointing. And on balance, are encouraged by what we have seen here in the third quarter. You saw the results of it, I think, more pronounced in new engine deliveries and in spare parts growth than necessarily in our internal shop visits, which were lower sequentially. But I think on balance, what we need to do in concert with our suppliers is underway. I think we're developing momentum with them that I think is what gives us the optimism embedded in the guidance raise here for the fourth quarter and some of the commentary that Rahul provided with respect to next year. That's the financial framing operationally. We know we have customers, airlines, and airframers that want more from us, and that's job one.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Rahul Ghai",
+      "title": "CFO",
+      "content": "Ron, I want to highlight that spare part sales have increased this quarter. As Larry mentioned regarding material availability challenges, we continuously manage the demands of both our external and internal network, prioritizing the delivery of parts to minimize turnaround time for our airline customers, regardless of whether it's within our network or external. There\u2019s some flexibility in using the same parts for both spare part sales and shop visits. This quarter, spare part sales were higher while shop visits remained steady compared to last year. However, as we enter the fourth quarter, we have more inductions for shop visits than we can complete, resulting in a significant backlog. Moreover, over 80% of our projected spare part sales are already in the backlog. We\u2019re seeing positive momentum in both spare parts and shop visits, and with the price increases we implemented in the third quarter, we feel confident in maintaining our service growth outlook for the year.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from Seth Seifman with JPMorgan.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Seth Seifman",
+      "title": "Analyst",
+      "content": "Thanks very much and good morning.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Lawrence Culp",
+      "title": "CEO",
+      "content": "Good morning, Seth.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Rahul Ghai",
+      "title": "CFO",
+      "content": "Good morning, Seth.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Seth Seifman",
+      "title": "Analyst",
+      "content": "I want to explore further some of your comments regarding 2025. Looking at next year compared to what you mentioned about 2025 in March, I\u2019m assuming that engine deliveries will face challenges year-on-year. However, considering our current position, it seems that the engines might not meet the previously expected delivery levels. Thus, relative to the financial figures from that time, the original equipment losses may not be as significant. Is that the right way to interpret this? Additionally, when considering the volume of work on LEAP in the aftermarket, should we anticipate an improvement in LEAP's profitability next year?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Rahul Ghai",
+      "title": "CFO",
+      "content": "I think you're right on both points, Seth. Our engine output may not be at the level we anticipated in March, which should help reduce our engine losses. However, there are other factors to consider, such as the number of spare engines we need to deliver and our R&D investments. So that's just one aspect, and you're correct about that. We'll provide more guidance as we approach 2025. On the LEAP side, things are definitely looking better than we expected at the year's start. Larry mentioned the improvements in durability, and we anticipate LEAP durability will reach CFM56 levels by 2025, which is a significant advantage. Moreover, we've noticed growth in our spare parts sales to our external network. This year, over 10% of the shop visits we completed were for external third-party clients, and that's a very profitable segment for us. Looking at sold data, about 25% of the shop visits that were sold involved an external network. This is an important consideration since it indicates that LEAP spare part sales should increase over time, creating a positive outlook for 2025 that we'll reflect in our guidance in January.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Lawrence Culp",
+      "title": "CEO",
+      "content": "Seth, two other things I would just add that we want to keep in mind. One, the 9X delay in EIS is important to understand. But as I said earlier, we really haven't changed what we're doing. We'll be ramping deliveries of that engine next year, maybe at a slower rate than was anticipated. But nonetheless, we'll be ramping. That will create a bit of a headwind, but also perhaps there's a bit of an offset, maybe and then some. Recall what we said last quarter relative to the CFM56 utilization, it will be higher for longer. That obviously helps us as it's helping us this year.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from Scott Deuschle with Deutsche Bank.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Scott Deuschle",
+      "title": "Analyst",
+      "content": "Hey, good morning.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Lawrence Culp",
+      "title": "CEO",
+      "content": "Good morning, Scott.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Scott Deuschle",
+      "title": "Analyst",
+      "content": "Larry, has CES already received a large quantity of these new HPT blades for the LEAP 1A ahead of the certification? And then just to clarify, is that specific certification event, is it that event, which allows the company to drive this improvement in LEAP output in the fourth quarter? Or is it more multifaceted than that alone? Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Lawrence Culp",
+      "title": "CEO",
+      "content": "The new blade is currently in production, so we won't immediately initiate the supply chain once we receive it. That process is ongoing. If we have the certified component, we can start deliveries, but we cannot do that prematurely. We believe this will happen in the near future. While this is a significant development, it is not the sole solution. Its impact is important primarily because it is part of the durability kit, which plays a larger role in safety and quality than in delivery. However, the easier manufacturing process for the blade will assist us. Most of what we deliver in the fourth quarter will rely on our existing designs and aftermarket supplies. Several factors are involved, and progress is being made. If there were a simple solution, we would have implemented it sooner. The situation is complex, but I am optimistic about the advancements we are witnessing. The certification of the new blade adds further support to this progress.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from Gautam Khanna with TD Cowen.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Gautam Khanna",
+      "title": "Analyst",
+      "content": "Hey, good morning guys.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Lawrence Culp",
+      "title": "CEO",
+      "content": "Good morning.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Rahul Ghai",
+      "title": "CFO",
+      "content": "Good morning.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Gautam Khanna",
+      "title": "Analyst",
+      "content": "I was wondering if you could frame up for us your expectations now for CFM shop visits over the next couple of years versus maybe that widebody, maybe if you could just tease that out a bit.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Rahul Ghai",
+      "title": "CFO",
+      "content": "So Gautam, as we said, I think, on the last earnings call, we had expected the peak of shop visits to be in 2025 and then start declining in '26 and '27, right? Given what we are seeing now, we still expect the peak of shop visits in '25, but now to stay at that level to '27 and then start declining from that point on, again, at a gradual pace, right? So that's what our expectation is. Now keep in mind that our revenue growth will continue to grow for longer just given as we go into the second and third shop visits with price increases, everything else, so revenue still continues to grow. On the widebody side, GE90 is getting into the second shop visit. Keep in mind that 75% of that fleet has not seen the second shop visit. So that's what we are beginning to see now. And that spoke to the heavier work scopes that we've also previously discussed, which helped our revenue here in 2024 and will continue to grow over time as we transition to the second shop visits for GE90. So again, no change in outlook on GE90, I think the engine is performing well, things are coming in well. On the NX side, the shop visits are roughly, on a volume basis, we're expecting that to be flat over the next three to four years. And the primary reason for that is, even as the installed base is growing, the time on wing is doing a lot better than what you had initially expected. So the shop visits that were in the '25 to '28 time frame have now moved out later in the decade. Again, that's good news for us. As you know, about 60% north of that portfolio is serviced by us and is in a long-term service contract. So fewer shop visits on the NX side improves the profitability of that program. So that's what our expectation is on NX. The shop visits are all going to happen. But given the time on wing improvement, they've kind of moved out of the '25 to the '28 time frame to more '28 to '31.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from Ken Herbert with RBC Capital Markets.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Ken Herbert",
+      "title": "Analyst",
+      "content": "Yes, hi. Good morning, Larry and Rahul.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Lawrence Culp",
+      "title": "CEO",
+      "content": "Good morning.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Ken Herbert",
+      "title": "Analyst",
+      "content": "I wanted to just follow-up, Larry, specifically on your comment around the subset of priority sites grew material output or input, I guess, 18% sequentially, was that in line with your expectations? And I'm just curious, as you think about sort of applying FLIGHT DECK to the situation, how should that maybe improve as we think about fourth quarter and into 2025?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Lawrence Culp",
+      "title": "CEO",
+      "content": "Ken, I think we were very pleased with the 18%, but we could have used more, right? Again, just in light of where demand is in the aftermarket and from a new make, from a ramp perspective. But I think the underlying approach is exactly what we're doing broadly. You've heard us talk before about the larger set of suppliers where we're particularly focused, our so-called top 15. And it goes beyond that over time, ultimately, to all of our suppliers. I think what we're finding is by really collaborating, again, not finger-pointing, but going in, putting our best technical, our best operational people at the store face to identify the constraints, really understand root cause and drive corrective actions, both permanent and temporary where appropriate, we're able to unlock capacity. Now given what we need to do between here and 2030 to support the aftermarket, to support new make, we're going to need to do more than that. But that FLIGHT DECK effort, I think is what will help us deliver a better fourth quarter here and is really the foundation for 2025. We're clearly going to also need to complement that with fixed capacity investments. You've heard us talk about the $1 billion, for example, over the next five years that we intend to invest in our MRO network. That will be part of improving these deliveries. In turn, the development of the third-party network is also an important part of satisfying customer demand. But by going in and really understanding these issues, not arguing about them, not negotiating, but solving the problems, we know we're going to unlock that capacity. We're going to be better partners and, in turn, that will allow us to serve our customers ultimately.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our last question comes from Noah Poponak with Goldman Sachs.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Noah Poponak",
+      "title": "Analyst",
+      "content": "Hey, good morning everyone.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Rahul Ghai",
+      "title": "CFO",
+      "content": "Good morning, Noah.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Lawrence Culp",
+      "title": "CEO",
+      "content": "Good morning, Noah.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Noah Poponak",
+      "title": "Analyst",
+      "content": "Rahul, is there a specific headwind for the 777X 9X that we should consider moving beyond 2025, or is it more distributed? Can you provide some quantifiable numbers on that? Additionally, regarding the total margin for CES, if I look at the upper end of your new EBIT range for 2024, the fourth quarter margin would be about the same as the third quarter. This is somewhat surprising considering the mix, but perhaps there is more service catch-up than I initially thought, and the mix headwind isn't as significant.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Rahul Ghai",
+      "title": "CFO",
+      "content": "Let me address that in reverse order, Noah, and let me know if I miss anything. As we consider the transition from the third quarter to the fourth quarter in CES, there are several points to note. First, we anticipate significant growth in services for the fourth quarter, with a year-to-date growth of 12% and a projection of 15% for the full year. We expect similar growth in OE as well, though the 9X shipments in the fourth quarter may put some pressure on CES margins. Additionally, we will see an increase in R&D expenses for CES. These factors are what we\u2019re taking into account for the fourth quarter of 2024. Regarding your query about the 9X impact, there was a specific challenge reflected in the 7.1 to 7.5 number we shared. As mentioned by Larry earlier, we anticipate a 9X headwind in 2025, but we cannot quantify that yet since we need to finalize the volume assumptions with Boeing for that year. We'll provide more details in January. Furthermore, this 9X headwind is expected to increase over time as engine deliveries ramp up. We foresee the program experiencing peak losses later in this decade and anticipate it becoming profitable by 2030. However, this is just one aspect, and there are various factors to consider in the overall business outlook, including the robust expectations for services that we've discussed.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Blaire Shoor",
+      "title": "Investor Relations",
+      "content": "Larry, any final comments?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Lawrence Culp",
+      "title": "CEO",
+      "content": "Blaire, thank you. And just to close here, thanks to everybody for being with us here the last hour. We take great pride at GE Aerospace in our heritage of innovation, and I'm confident the team is ready to deliver for our customers and rise to the challenge of creating a more sustainable future flight. Again, we appreciate your time today and your interest in GE Aerospace.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you, ladies and gentlemen. This concludes today's conference. Thank you for participating. You may now disconnect.",
+      "sentiment": "0.0"
+    }
+  ],
+  "reported_date": "2024-10-22"
+}

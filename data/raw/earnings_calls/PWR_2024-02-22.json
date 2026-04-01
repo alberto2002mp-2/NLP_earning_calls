@@ -1,0 +1,421 @@
+{
+  "symbol": "PWR",
+  "quarter": "2023Q4",
+  "transcript": [
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Greetings and welcome to Quanta Services' Fourth Quarter 2023 Earnings Conference Call. At this time, all participants are in a listen-only mode. A question-and-answer session will follow the formal presentation. As a reminder, this conference is being recorded. It is now my pleasure to introduce Kip Rupp, Vice President, Investor Relations. Thank you. You may begin.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Kip Rupp",
+      "title": "Vice President, Investor Relations",
+      "content": "Thank you and welcome everyone to the Quanta Services fourth quarter and full year 2023 earnings conference call. This morning, we issued a press release announcing our fourth quarter and full year 2023 results, which can be found in the Investor Relations' section of our website at quantaservices.com. As highlighted in our earnings release this morning, as well as in the earnings press release announcing our earnings call schedule a couple of weeks ago, we've updated our earnings call format and supplemental materials. As a result, shortly after the release of our financial results this morning, we posted our fourth quarter and full year 2023 operational and financial commentary and our 2024 outlook expectation summary on Quanta's Investor Relations website. While management will make brief introductory remarks during this morning's call, the operational and financial commentary is intended to largely replace management's prepared remarks, allowing additional time for questions from the institutional investment community. Additionally, we no longer have a slide presentation to accompany this call, as the information that has historically been included in the presentation can now be found in our operational and financial commentary. Please remember that information reported on this call speaks only as of today, February 22nd, 2024, and therefore, you are advised that any time-sensitive information may no longer be accurate as of any replay of this call. This call will include forward-looking statements intended to qualify under the Safe Harbor from liability, established by the Private Securities Litigation Reform Act of 1995, including all statements reflecting expectations, intentions, assumptions or beliefs about future events or performance that do not solely relate to historical or current facts. You should not place undue reliance on these statements as they involve certain risks, uncertainties, and assumptions that are difficult to predict or beyond Quanta's control, and actual results may differ materially from those expressed or implied. We will also present certain historical and forecasted non-GAAP financial measures. Reconciliations of these financial measures to their most directly comparable GAAP financial measures are included in our earnings release and operational and financial commentary. Please refer to these documents for additional information regarding our forward-looking statements and non-GAAP financial measures. Lastly, if you would like to be notified when Quanta publishes news releases and other information, please sign up for email alerts through the Investor Relations section of quantaservices.com. We also encourage investors and others interested in our company to follow Quanta IR and Quanta Services on the social media channels, listed on our website. With that, I would like to now turn the call over to Mr. Duke Austin, Quanta's President and CEO. Duke?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "Thanks Kip. Good morning everyone and welcome to the Quanta Services fourth quarter and full year 2023 earnings conference call. This morning, we reported fourth quarter and full year 2023 results, which included double-digit growth in revenues and earnings and included a number of record financial metrics, which we believe reflects robust demand for our services and solid execution. Total backlog at year-end was $30.1 billion, which we believe reflects the value of our collaborative client relationships, and evidences the momentum we see for 2024. Of note, Quanta has delivered record revenue six of the last seven years. Six consecutive years of record adjusted EBITDA and seven consecutive years of record adjusted diluted earnings per share. These results were built off an industry-leading operational and financial platform, and made possible by our more than 50,000 dedicated Quanta employees, whom we believe are the very best in our industry. As outlined in our operational and financial commentary, 2023 was a significant year for Quanta strategically, operationally, and financially. And though we are proud of our many accomplishments during the year, we continue to look forward with excitement towards the multiyear strategic initiatives, we are working on and the goals we expect to achieve in this and the coming years. We are positioning Quanta for decades of expected necessary infrastructure investment and believe our service line diversity creates platforms for growth that expand our total addressable market. Our portfolio approach and focus on craft skill labor is a strategic advantage that provides us the ability to manage risk and shift resources across service lines and geographies, which we believe will become increasingly important, as the energy transition accelerates. We believe our portfolio approach positions us well to allocate resources to the opportunities we find the most economically attractive and to achieve operating efficiencies and consistent financial results. I will now turn the call over to Jayshree Desai, Quanta's CFO, to provide a few remarks about our results and 2024 guidance, and then we will take your questions.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Jayshree Desai",
+      "title": "CFO",
+      "content": "Thanks Duke and good morning everyone. Quanta completed the year with fourth quarter revenues of $5.8 billion, net income attributable to common stock of $210.9 million or $1.42 per diluted share, and adjusted diluted earnings per share of $2.04. Adjusted EBITDA was $550.2 million or 9.5% of revenue. Of note, our cash flow in the fourth quarter and for the full year was very strong with both setting period records. For the fourth quarter and full year of 2023, we had free cash flow of $915.5 million and $1.2 billion, respectively, which exceeded the upper end of our free cash flow guidance expectations. We ended the year with liquidity and a balance sheet that will position us to support our organic growth expectations in 2024, annually increase our dividend, and opportunistically invest capital. To that end, in January, we acquired two companies for aggregate consideration of approximately $425 million. This morning, we also provided our full year 2024 financial expectations, which calls for another year of profitable growth with record revenues, improved margins, and opportunity for double-digit growth in adjusted EBITDA, adjusted earnings per share, and free cash flow. We believe our expectations demonstrate the strength of our portfolio approach to the business, our commitment to our long-term strategy, our favorable end market trends, and our competitive position in the marketplace. Additional details and commentary about our 2024 financial guidance can be found in our operational and financial commentary and outlook expectation summary, both of which are posted on our IR website. With that, we are happy to answer your questions.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Ladies and gentlemen, at this time, we will be conducting a question-and-answer session. Our first question comes from the line of Chad Dillard with Bernstein. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Chad Dillard",
+      "title": "Analyst",
+      "content": "Hi, good morning everyone.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "Good morning.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jayshree Desai",
+      "title": "CFO",
+      "content": "Morning.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Chad Dillard",
+      "title": "Analyst",
+      "content": "So, I want to spend some time on margins, particularly in Electric Power. So, I think in some of the prepared remarks or it sounds like there is some pressure happening in Canada. So, I just wanted to know whether you plan to right-size the business? Or is there no future work out there to continue at the current footprint? Just trying to think through how you think about the trade-off there?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "Thank you, Chad. Regarding margins, we've consistently mentioned around 10% for the Electric segment, with a slight increase to 10.5% when considering the effects of Puerto Rico. We continue to hold this view. Is there potential for higher margins in the Electric segment? Yes, we believe there is. This is influenced by factors like storms and utilization rates. As we embark on larger projects in both the Renewable and Electric segments, including initiatives like SunZia, we are still in the early phases of these broader dynamics. As we establish a solid rhythm and secure more significant projects in the future, we will manage contingencies based on our operational execution. There are typically opportunities for upside in both segments. Historically, we've achieved double-digit margins in both areas, and we are confident that we can reach that level again. While we've faced challenges related to panels and other aspects in the renewable sector, we are beginning to see improvements. It's still early, and we'll assess our progress by year-end, but we believe we can return to our historic performance in double digits, especially when considering both segments together, if crews transition between them. Therefore, I see both the Renewable and Electric segments together as capable of operating in double digits.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Chad Dillard",
+      "title": "Analyst",
+      "content": "Okay, that's helpful. And so in your prepared commentary, you mentioned that visibility of high-voltage transmission projects is improving. Can you give a little more on this, what's changed? And how much more visibility do you have?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "We have consistently stated that the nation's grid is lacking investment in transmission. It's clear that our transmission infrastructure is significantly smaller compared to what exists in Europe. Our investments in this area have been minimal. To achieve our goals for the transition, whether related to electric vehicles, batteries, or fuel switching, improving transmission is the most cost-effective way to deliver energy to customers. This is crucial for both the country's infrastructure and our aim for a carbon-free environment, which will require extensive expansion of our transmission network. We're just beginning to see larger projects come to fruition, and there's growing momentum towards clean, affordable energy. We are optimistic about our capacity to engage with these projects and achieve success.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Chad Dillard",
+      "title": "Analyst",
+      "content": "Great. Thanks. I'll leave it there.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Ati Modak with Goldman Sachs. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Ati Modak",
+      "title": "Analyst",
+      "content": "Good morning, team. Thank you for answering my questions. I wanted to discuss the acquisitions you mentioned earlier. It seemed you were mainly focused on developing your internal capabilities. Could you elaborate on the two acquisitions you've made and the reasoning behind your approach to the industrial solutions sector as you move forward?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "Yes, regarding the acquisitions, we believe the industrial business within the UUI segment is resilient and valuable. It operates similarly to our MSAs in other sectors. We are confident that our environmental solutions for the industrial base will remain important for decades, with continued demand for plastics and related materials on the Gulf Coast. The assets that keep these plants operational will likely be valuable over time. We also have a presence in the cable business, including high voltage, and are pleased with our environmental solutions ventures. There is minimal overlap in these businesses, which helps us build a solid customer base. While we don't calculate synergies in our model, we do see opportunities to identify them moving forward, and we expect to see them reflected in our numbers. We have confidence in the management team on the industrial side and see a great opportunity for growth in environmental services. Overall, while we continuously assess our portfolio, we are excited about the industrial sector, especially coming off a record performance. Additionally, we believe maintaining an internal supply chain is crucial for cost management, and we self-perform a significant majority of our work, ensuring that we have what we need to prevent bottlenecks. We are committed to having a steady supply chain to support our growth.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Ati Modak",
+      "title": "Analyst",
+      "content": "Thanks for that. And then I think there has been a lot of market concerns around how your customers are thinking of projects. And I know you've mentioned the requirement around transmission and guide came in a lot better than what I think a lot of the Street was expecting. But maybe you can touch on how your customers are thinking of this year and the sensitivity around this potential regulatory changes, anything that's latest in your conversations?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "Yes, I'm not seeing that. I'm not hearing that, I'm not hearing our customers back off anything. I've heard some switching from distribution and transmission, but their capital continues to grow. You have data centers, you have load growth, that's pushing in every jurisdiction we're in. The data centers are not going away, that load is not going away. The onboarding of manufacturing is not going away. EV penetration may stall a bit. We've always said we think that this is a longer build, not shorter. So, they were saying 2030, maybe it's 2040, maybe it's 2050 for all EV penetration. But that's something on the distribution system that is not impacting as bad yet. We do need to plan as an industry. We do need to get in front of that, but we also have to be cognizant of the state regulators as well as affordability at the customer level, ultimate customers. So, yes, we're concerned with that as an industry. So, distribution is something that you may see slip a little. The demand and what needs to be done to the system in order to electrify it, securitize it, is there, and it remains. Data center push is now in generation switching is now. So, you'll see probably some switch into transmission. It does not affect our portfolio whatsoever. The numbers you can see them. We stand by them. We've given good guidance. We've taken all this into account, when we give out the 12-month guidance. And look, it's a prudent number in my mind. It's right where we need to be.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Ati Modak",
+      "title": "Analyst",
+      "content": "All right. Appreciate the answers. Thank you. I'll turn it over.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Durgesh Chopra with Evercore. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Durgesh Chopra",
+      "title": "Analyst",
+      "content": "Hey good morning team. Thanks for giving me time. Duke, I'm actually going to flip the last question. So, we've seen your utility customers kind of raise CapEx in high teens. Even Illinois companies came out with their latest CapEx guidance, double-digit increases. What is factored into your 2024 guidance? Should we assume that the forward-looking capital plan increases are factored in? Or are you still learning them? And I guess what I'm asking is what kind of conservatism are you baking into 2024 guidance, as you've seen a pretty significant step up, quite frankly, a step change in utility CapEx plans?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "I believe we're in a strong position as we start the year. When reviewing our historical performance, we anticipate double-digit growth in earnings per share, with a potential for 15% growth due to ongoing transitions and developments. Our historical data supports this expectation. I see opportunities for growth, though there are variables, like storms and other uncontrollable factors, that could impact outcomes. We approach this with caution, especially considering it\u2019s an election year, which we've factored into our guidance. I am confident in our ability to achieve 15% growth. The advancements in technology, particularly with AI and data centers, are significant drivers. They necessitate enhanced transmission and generation systems because the tech sector is demanding clean energy solutions immediately. This demand is reflecting positively in our investment in transmission systems. While distribution may be slightly affected, I anticipate it will grow meaningfully in the latter half of the year, and this has been considered in our planning.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Durgesh Chopra",
+      "title": "Analyst",
+      "content": "Got it. That is very clear. Thank you. And then maybe could you just address risks related to the SunZia project, and I'm not sure if you can, but can you quantify what are you modeling is, is EBITDA for those projects?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "We don't analyze it on a project-by-project basis. I\u2019m confident in the figures we've provided. The entire SunZia project covers about 50 miles, while the overall job spans 1,000 miles. We have ample flexibility to work with our client regarding any right of way adjustments. This is not a significant concern; minor changes will be manageable as we proceed. The project is starting now and will ramp up throughout the year, which is why some of our guidance has shifted to the second half as these larger projects gain momentum. These are established projects with contracts in place, allowing us to anticipate the ramp-up in the latter half of the year. I also expect to secure additional awards during this time, leading to continued growth. There is some seasonality affecting our early results, but I\u2019m not worried about SunZia at this stage.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Durgesh Chopra",
+      "title": "Analyst",
+      "content": "Thank you very much. Appreciate the time guys.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Steven Fisher with UBS. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Steven Fisher",
+      "title": "Analyst",
+      "content": "Thanks. Good morning and congrats on a nice 2023. Just curious how we should think about that 20% growth in the renewables segment in 2024? Clearly, there's SunZia, I think there's maybe a piece of PTT, that you are allocating into that segment. So, how should we think about the growth rate of the renewables business separately from those couple of pieces? And really just trying to think about the big picture here about renewables. I mean, SunZia is kind of a unique project. But at a higher level, to what extent do we think like this is the year where Renewables kind of breaks that out from a more restrained 2022 and 2023 from some of the various uncertainties that have been going on in the marketplace?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "I don't know our exact growth from last year, but it was significant. In 2022, we experienced remarkable growth in the renewables sector, continuing into 2023. We saw substantial growth in balance of plant, solar, and wind. Looking ahead to 2024, we anticipate solid growth in double digits for both our legacy business and balance of plant. As we approach 2025 and 2026, there may be some pressure related to the timing of wind projects like SunZia and other repower initiatives. We're beginning to see some assets, such as cranes, which we previously had indirect costs for in our wind business, that should help improve overall margins in the latter half of the year. As wind projects come online and we adjust our mix with solar, we expect margins to increase due to the reduction in overhead and indirect costs, along with a stronger performance from our Canadian operations in the renewable space. All these factors will contribute to rising margins, and I believe the revenues in the renewables segment will also grow.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Steven Fisher",
+      "title": "Analyst",
+      "content": "Great, that's very helpful. And then when you think Duke about the portfolio approach that you've been implementing, where do you think that's going to have the biggest benefit impact in 2024? Curious where the directional flow is mostly going to be? Is it still sort of underground work moving to Electric segment, Canada to the U.S.? Anything else to note about how to think about the portfolio approach in 2024?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "From a service line perspective, I anticipate that our distribution business will begin to grow more significantly in the latter half of this year compared to now. Canada is currently experiencing a downturn, which we acknowledge. However, as we progress into late 2024, we expect to see project awards and developments, particularly in British Columbia and the Eastern regions, similar to the capital investments happening in the U.S. I believe Canada will start to recover into favorable markets by late 2024 and beyond. We've adjusted our business accordingly, and while margins in the U.S. are being impacted, we still have valuable assets that we are leveraging throughout the Lower 48 and the company as a whole. Although we're not operating at peak efficiency, as our portfolio evolves, we can expect a shift from gas to electric solutions. Our strategy focuses on optimizing our resources regardless of whether we are working with electric or gas infrastructure. This optimization should help improve our margins. We are not yet achieving our target double-digit EBITDA margins company-wide, but we believe that entering that range is possible. Evaluating our portfolio and initiatives should enable us to enhance our margin optimization. Additionally, if we look at our adjusted returns, we are experiencing significant increases, evident in our cash flow and return on invested capital.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Steven Fisher",
+      "title": "Analyst",
+      "content": "Very good. Thanks so much.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Michael Dudas with Vertical Research Partners. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Michael Dudas",
+      "title": "Analyst",
+      "content": "Morning Jayshree, Kip, Duke.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jayshree Desai",
+      "title": "CFO",
+      "content": "Morning.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "Hi Mike.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Michael Dudas",
+      "title": "Analyst",
+      "content": "It seems like the interest from your utility clients has increased due to AI, as you mentioned earlier, along with the demand for data centers, as people are eager to invest and engage in activities. How do you allocate your limited and valuable resources in relation to your client base and where the opportunities lie? Is there currently significant demand for contracting and your services compared to supply? Additionally, how is this impacting your ability to hire new people considering the graduation rates at colleges? Are utilities possibly delaying some retirements due to the busy demands?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "On the transition side of the business, we are experiencing substantial growth in certain areas. It's inconsistent, but we are not close to reaching our capacity. There's still considerable potential for us. At this point, we have no concerns regarding labor; we are in a strong position. Our five-year outlook is solid, and we maintain a close relationship with our clients, engaging with them on long-term initiatives and trends. Observing the West's developments, we can anticipate that similar changes will spread nationwide, particularly as we see vehicle penetration rising in that region. We are beginning to notice these effects. Edison recently reported on the transformation of their grid, which I believe is likely to worsen, leading to increased capital expenditures. The overall cost of energy necessitates a robust grid to facilitate lower customer build costs. We have witnessed this in Europe, and we expect to see more of it here. It is crucial to secure local and state-level capital to reduce costs and enhance infrastructure, which is essential for national security. As demand unexpectedly rises, especially in areas anticipating substantial growth, there is a need for reliable power sources. This often means requiring multiple power lines. Considering all these factors, we recognize the demand for our services across various utility growth markets is increasing. It is imperative for them to invest in capital; the challenge lies in translating federal initiatives to state regulators. We've consistently emphasized that this need will surface, and we are now witnessing it. This transition will be complex, with ups and downs rather than a straightforward trajectory. However, I believe our diverse portfolio will enable us to navigate this transition effectively and maintain our strong performance and results.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Michael Dudas",
+      "title": "Analyst",
+      "content": "Excellent. Good. Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Gus Richard with Northland Capital. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Gus Richard",
+      "title": "Analyst",
+      "content": "Yes, thanks for taking the question. The AI data center, not only needs a lot of power, but it needs a lot of bandwidth. And I'm just wondering if you guys are seeing along with the AI boom, a big demand for your comm services? And is there any synergies between those two pieces, the power and the comp?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "I think we are seeing growth in our communications business, achieving double-digit increases. While we're not heavily investing capital into it, I recognize the need for technology. As we begin to remove some fiber capacity, especially with the rise of big data across the country, it becomes easier to establish telecom lines and services rather than transmission. Data centers are likely to emerge in areas with accessible power. Currently, if power is unavailable in the East or West, we're starting to see development in the Midwest, and if that doesn't work, then the South will follow. Areas that can provide affordable power in the next couple of years will see data centers being constructed. Even without immediate fiber availability, connections will eventually be established. Some challenges are being addressed with satellite technology, but ground-level fiber remains essential. I believe there will be a push for this, and yes, there are opportunities ahead.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Gus Richard",
+      "title": "Analyst",
+      "content": "Got it. Regarding the underground aspect, there was a pause in the build-out of LNG export capacity over the past three years. I'm curious about the current status of that business; are projects still progressing? What is the overall state of natural gas and that sector for you?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "The guidance is set between $500 million and $600 million for this year and the next. We have shifted away from long-haul and large pipe projects because it's not feasible for us to build the business around them. We will explore every opportunity available. Last year, we generated over $1 billion from large pipe projects, which is affecting our top line results as we've adjusted our guidance to $500 million to $600 million. Are there chances for $1 billion or more? Yes, but government regulations and the challenges of constructing large diameter pipes, especially outside of Canada, hinder us. We can't incorporate these uncertainties into our guidance or provide any confidence in our numbers. While I see potential, the LNG situation will not impact our current guidance, regardless of whether it progresses.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Gus Richard",
+      "title": "Analyst",
+      "content": "Got it. Thanks so much.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Brian Brophy with Stifel. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brian Brophy",
+      "title": "Analyst",
+      "content": "Yes, thanks. Good morning everybody. I wanted to ask about free cash flow guidance. was quite a bit higher than we were expecting? Your free cash flow conversion is above long-term targets this year. How much of this is more of the one-time collections that you called out, in the commentary versus potentially a more permanent improvement in free cash flow conversion, here as renewable energy mix has grown? Thanks.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Jayshree Desai",
+      "title": "CFO",
+      "content": "Yes. As mentioned during the Investor Day and reflected in last year's fourth quarter, the renewable business is structured to provide a very favorable cash flow and working capital profile. As revenue in renewable energy increases, we expect to see improved conversion similar to what we experienced in 2023. For 2024, we have taken that into account but provided a range for a reason. Renewables could push us toward the higher end of the 45% to 55% range discussed at Investor Day. However, if growth comes more from our electric and underground segments, it may push us in the opposite direction. We've presented what we believe is a prudent estimate for free cash flow, but changes in the mix between renewables and electric and utility underground could lead to results outside of that range. We anticipate collecting the one-time cash flow from the large Canadian Renewable project next year, specifically in 2024. Conversations with the customer remain positive as construction is expected to wind down in the next couple of months. Therefore, we are optimistic about collecting that amount this year. Moving forward, expect a free cash flow conversion range between 45% and 55%.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Brian Brophy",
+      "title": "Analyst",
+      "content": "Okay. Thanks. And then just wanted to touch on how you're thinking about capital allocation more broadly this year, given that you're in line with some of your longer term leverage targets now? Should we be expecting more buybacks this year? How are you thinking about M&A? Any thoughts there would be helpful. Thanks.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "We will continue to take advantage of opportunities as we have in the past, and nothing has changed in that regard. While we are not meeting some of our targets, this gives us flexibility, which I value. There are certainly areas where we can be proactive. However, our strategies remain consistent, as we have established a solid plan. Can we accelerate our progress while reducing debt? Yes, absolutely. I believe we are making quicker advancements in our five-year plan, as we mentioned last quarter and will continue to emphasize. We will manage the balance sheet prudently, and the company\u2019s conservative approach will allow us to explore various opportunities, which we intend to seize.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Brian Brophy",
+      "title": "Analyst",
+      "content": "Excellent. Thanks. I'll pass it on.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Martin Malloy with Johnson Rice. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Martin Malloy",
+      "title": "Analyst",
+      "content": "Good morning. I wanted to ask about the trend with higher attach rates for energy storage associated with utility scale solar and wind projects and could you maybe speak to how that impacts your scope of work and margins?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "The tax rate, PTC, and ITCs are currently stable. I haven't seen any changes at this time, whether related to IRA or PTC. If there were any repeals, it could lead to some challenges, but I don't anticipate that happening. This stability provides certainty for the industry, and I believe our customers have been proactive in adapting to this. Our customer base is managing these factors well. The IRA has various advantages, offering more benefits rather than fewer, so I view it as an opportunity. We have positioned ourselves to leverage U.S.-based apprenticeship programs and materials, both externally and internally. I'm optimistic about our capabilities and don't see any slowdown in this area. Our customers seem to have a good handle on the tax credits available to them.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Martin Malloy",
+      "title": "Analyst",
+      "content": "I'm sorry, I appreciate your comments. I wasn't clear, I was actually asking about energy storage, tax rate, at utility scale solar and wind projects with adding energy storage in conjunction with those projects and what that means for your scope of work and profit margin soon?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "I think I understand your concern. From a tax rate perspective, it may not have a significant impact, but in terms of our projects, it's actually enhancing many of the initiatives we have developed in the past by incorporating storage. Our storage and battery businesses are both experiencing substantial growth, which is encouraging. We are continuously improving our capabilities and expanding our reach across various regions. Therefore, I see this as an opportunity to broaden the size and scope of these projects.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Adam Thalhimer with Thompson Davis & Company. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Adam Thalhimer",
+      "title": "Analyst",
+      "content": "Hey good morning guys. Congrats on the solid result. Quick question on the project funnel for Blattner, is that still dominated by solar? Or are you seeing wind pick up?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "SunZia is a promising project in the wind sector. We are noticing an increase in opportunities for repowering, and I expect to see significant repowering work in the near future. We are in the early stages of a rebound in wind projects, with more additions expected in the coming years. While I don't anticipate a substantial increase in 2024, I believe that 2025 and 2026 will show notable growth as we extend our planning horizons. The conditions for wind energy are becoming more favorable in certain areas. It's also crucial to develop the necessary transmission infrastructure to support these wind projects, as long-haul transmission is essential for transporting wind energy from generation sites to consumption centers. Both of these factors are important, and I am optimistic that our wind business will improve starting in 2024.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Adam Thalhimer",
+      "title": "Analyst",
+      "content": "That's great. And then I also wanted to get your early thoughts on PTT and the timing of the capacity expansion there?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "We are continuously increasing our capacity. There are many internal initiatives we can pursue to enhance this growth. Our current expansion efforts are more robust than before. As we identify better opportunities and synergies, we are focused on delivering greater value to our clients through projects like PTT and Union in Pennsylvania, which we view as a significant investment opportunity.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Sangita Jain with KeyBanc Capital Markets. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Sangita Jain",
+      "title": "Analyst",
+      "content": "Thank you for taking my question. You mentioned that your earnings are typically back-end loaded, which is usual for your company. I was curious if this is solely due to weather and seasonality, or if there are other factors influencing how projects ramp up throughout the year.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jayshree Desai",
+      "title": "CFO",
+      "content": "No, I think it's mostly normal seasonality related to our operations. As Duke mentioned, there was some pressure from Canada in the first half of the year. However, this is just typical seasonality. We expect that with the additional SunZia work and some other projects, the latter half of the year will be more active, but again, nothing out of the ordinary.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Sangita Jain",
+      "title": "Analyst",
+      "content": "Great. Thank you. And I just have one follow-up. And that\u2019s on the renewables side. The Biden moratorium on the tariffs comes to an end in June. So, I was wondering if you're seeing any kind of pull-forward on the part of developers, who want to install within that 180-day timeline between purchase and installation?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jayshree Desai",
+      "title": "CFO",
+      "content": "The customers we work with have been preparing for the tariff situation for some time. I believe our customers have anticipated the lifting of the moratorium in June. I can't say for certain if we're observing any pull forward, but I do know that the customers we've partnered with for years have planned accordingly. They are savvy in their approach to panel procurement, and we're continuing to see strong growth in our renewable segment as a result.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Seeing no other questions in queue. I'd like to hand the call back to management for closing remarks.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "Yes. Thank you. I want to thank the 50,000-plus men and women in the field, they're the best in the business. They allow us to have these kinds of calls and give this kind of profile for the company, so, we thank them. And I want to thank you for participating in the conference call. We appreciate your questions and your ongoing interest in Quanta Services. This concludes our call.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Ladies and gentlemen, this does conclude today's teleconference. Thank you for your participation. You may disconnect your lines at this time and have a wonderful day.",
+      "sentiment": "0.0"
+    }
+  ],
+  "reported_date": "2024-02-22"
+}

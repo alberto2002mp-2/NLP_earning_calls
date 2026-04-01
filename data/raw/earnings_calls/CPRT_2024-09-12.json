@@ -1,0 +1,211 @@
+{
+  "symbol": "CPRT",
+  "quarter": "2024Q3",
+  "transcript": [
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Good day, everyone, and welcome to the Copart Incorporated Third Quarter Fiscal 2024 Earnings Call. Just a reminder, today's conference is being recorded. Before turning the call over to management, I will share Copart's Safe Harbor statement. The company's comments today include forward-looking statements within the meaning of Federal securities laws, including management's current views with respect to trends, opportunities and uncertainties in the company's markets. These forward-looking statements involve substantial risks and uncertainties. For more detail on the risks associated with the company's business, we refer you to the section titled Risk Factors in the company's annual report on Form 10-K for the year ended July 31, 2023, and each of the company's subsequent quarterly reports on Form 10-Q. Any forward-looking statements are made as of today, and the company has no obligation to update or revise any forward-looking statements. I'll now turn the call over to the company's CEO, Jeff Liaw.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jeff Liaw",
+      "title": "CEO",
+      "content": "Thank you. Good evening, and welcome, everyone, and thank you for joining us this evening. We're pleased to report our results for the third quarter of fiscal 2024. I'll provide some brief comments about the business before handing the call to Leah to review our financial results, and then she and I will take your questions. First, turning to our Insurance business. We have recently concluded our 24th Annual U.S. Insurance Advisory Board Meeting in New York City. Every year, we gather in-person to solicit feedback from our clients about the opportunities and challenges they face, which in turn inform our service offerings, tech deployments and capital investment programs. Some of the priorities we addressed this year included a range of levers available to them to address escalating claims cycle times and advance charges in particular. We discussed at length our best-in-class auction liquidity fueled by our exclusively online marketplace, which itself has been refined repeatedly, since its launch in 2003. Our uniquely global buyer base and the auction intelligence that results from the application of machine learning tools to the data from literally billions of interactions with sellers and members that correspond with tens of millions of vehicles sold. And in the spirit of our shared success, we hosted this event to coincide with the celebration of our 30th anniversary as a public company and together with our clients, we rang the NASDAQ opening bell. We continue to grow our business with our insurance clients. As anticipated, new and used vehicle prices have decreased somewhat steeply in recent days, while repair costs remain elevated, driving a strong and continued recovery in total loss frequency. During our third fiscal quarter, we observed a 14% year-over-year decline in the Manheim Used Vehicle Value Index. And though ISS Fast Track reported a slight softening in accident severity of 1.3% or so for the fourth calendar quarter of 2023, accident severity is still up almost 9% when compared to the same quarter two years prior. The combination of these two forces decreasing used vehicle values and elevated repair costs due to vehicle complexity and labor challenges in the repair industry has driven a recovery in total loss frequency back to pre-pandemic levels. According to CCC, total loss frequency for the first calendar quarter 2024 was 21.1% across all loss categories, up approximately 150 basis points versus the same time a year ago. We believe that, long run trends continue to make repairing vehicles less economically attractive to insurance carriers and totaling vehicles more economically attractive to them and the total loss frequency will continue its steady long-term path upwards. Our U.S. insurance volumes increased 6.8% year-over-year as we have lapsed the effects of units from Hurricane Ian a year ago. Given the increasing frequency and magnitude of storm-related activity, we're somewhat hesitant to provide, quote, normalized growth trends that exclude the effect of storms. But it was a modest reduction in year-over-year growth as a result of the Ian vehicles sold a year ago. And then to the theme more generally of our response to catastrophic events. We responded to multiple smaller weather events so far this year and last, they did not in the aggregate approach the magnitude of major catastrophic events like Hurricanes Ian, Ida, and Harvey. Nonetheless, these comparatively smaller storms affect communities across the United States, including floods in the Houston area and Tornado outbreaks in the central plains. Our investments into our catastrophic team and infrastructure have allowed us to respond efficiently to our customer's needs throughout these events and underscore our contributions to promoting resilience for the communities we serve in the face of evolving climate change trends. We note also that major research groups are predicting a serious storm season ahead, predicting as many as 31 named storms in 2024, and an increase of over 50% year-over-year. As a result, our focus remains on our proactive preparedness, investing in our teams on the ground, our logistics technology, our fleet of vehicles, and of course our dedicated acreage reserve for handling the peak capacity needs to come with major events. On a similar note, outside the United States, we're leveraging our catastrophic response capabilities to support our clients in Southern Brazil and in the Persian Gulf who continue to experience the effects of ongoing historical flooding. I'll pause for a minute on our non-insurance business as well. We continue to grow our blue car business, which serves our bank and finance fleet and rental segment partners. In the third fiscal quarter, we observed year-over-year growth of 23% to almost 24%. Likewise, our dealer sales volume, a combination of our Copart dealer services business unit and NPA, our power sports auction platform, increased unit volume sold by almost 18%, all told our U.S. non-insurance, automotive and dealer volume, excluding low value and wholesale units increased 19% year-over-year. Our growth is the result of our commitment to customer service and our auction liquidity. With each additional vehicle, we earn the right to sell. We increase the attractiveness of our auction platform to the world's automotive buyers, drawing still more members to our auctions and to the benefit of all of our sellers, new and old. I'll conclude with a brief reflection on our first 30 years as a publicly traded company. Perhaps the single most distinctive characteristic of Copart today is our investment horizon. Even as we celebrate our 30th anniversary, our minds quickly shift to the work ahead of us to ensure a prosperous celebration with our clients of our 40th, 50th, and 60th as well. We'll continue to invest as we always have in our people, our technology, and our real estate to deliver excellent results to our clients worldwide. And with that, I'll turn it over to Leah, our CFO.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Leah Stearns",
+      "title": "CFO",
+      "content": "Thank you, Jeff. I'll begin with our third quarter sales trends. During the quarter, our global unit sales increased over 11%, including the modest benefit of the consolidation of Purple Wave. While inventory increased 4% from the year ago period, this growth was a function of a partial recovery in total loss frequency and share gains. Focusing on our U.S. business unit growth was over 9%, which reflected fee unit growth of over 9% and purchase unit growth of over 17%. Consignment or fee units continue to constitute the vast majority of our U.S. unit volume. Insurance unit volume increased about 7% year-over-year. As Jeff mentioned, our non-insurance unit volume growth has continued to outpace that of our insurance business. This volume growth substantially came from dealer units, which increased nearly 18% in fleet rental and finance units, which increased over 23%. Inventory levels in the U.S. increased over 3% in the quarter and over 5% when excluding low value and cat units. Turning to our international business, we saw unit growth of over 21% with fee units increasing nearly 21% and purchase units increasing by over 24%. Our international business ended the quarter with inventory levels over 7% ahead of the prior year. For the quarter, global ASPs declined by about 3% from the year ago period. With U.S. Insurance ASPs down less than 2% and international ASPs down about 5%. Overall, our ASPs continue to show resilience compared to the nearly 14% year-over-year decrease in the Manheim Used Vehicle price index. Turning to our financial results for the third quarter, global revenue increased to $1.13 billion, representing growth of over $105 million or about 10%. Global service revenue increased nearly $100 million or almost 12% for the third quarter, primarily due to increased volume. U.S. service revenue grew by over 10%, and international service revenue grew by nearly 22% for the quarter. Global purchase vehicle sales for the third quarter increased $6 million or 3.5%, and global purchase vehicle gross profit increased by over $2 million or over 17%. In the U.S. our purchased vehicle revenue was up nearly $7 million or 8%, while gross profit increased less than $1 million or almost 3%. This trend was primarily due to a mix shift towards lower ASP units in the U.S. Internationally purchased vehicle revenue decreased by less than $1 million or almost 1%, while gross profit increased by over $2 million or about 29%. These results were primarily driven by significantly higher margins on purchase units in Germany. Global gross profit increased to more than $525 million, an increase of over $42 million or about 9%, and our gross margin percentage decreased approximately 70 basis points to 46.6%. In the U.S. our gross profit margin decreased to 50.9% with DNA being the most impactful driver of margin compression. As we continue to focus on investments in our yard infrastructure and technology our international gross profit margin increased to 27.6%. Turning to general and administrative expenses, excluding stock-based compensation and depreciation, spending in the quarter was $76 million, reflecting an increase of more than $23 million and less than $4 million on a sequential basis. As we've highlighted over the past quarter, our year-over-year G&A increase continues to reflect our investments in our sales marketing product and technology functions. The financial consolidation of Purple Wave into our results as well as an increase in third-party related projects. This increase includes two key system implementations, which we kicked off during the quarter relating to our finance and HR functions. We expect these investments will result in more scalable processes and systems and provide us with greater operating leverage over the long-term. Finally, GAAP operating income increased by over 4% to $437 million and third quarter GAAP net income increased by over 9% to $382 million or $0.39 per diluted common share. During the quarter, we benefited from over $18 million of incremental interest income as we have actively invested our cash into treasury securities as well as a lower effective tax rate of 19.1%. Turning to our capital structure, as of the end of April, we had $4.3 billion of liquidity, which is comprised of nearly $3.1 billion in cash and investments and held to maturity securities and our capacity under our revolving credit facility of over $1.2 billion. We believe that our conservative capitalization is a distinct competitive advantage in our industry, empowering us to operate our business with a horizon that prioritizes long-term success for both ourselves and our clients. For the quarter, we generated operating cash flow of over $496 million and $408 million of free cash flow. Our capital expenditures in the quarter were about $88 million with nearly all of our investments attributable to expanding our real estate and physical infrastructure to enhance capacity while simultaneously reducing our transportation costs and corresponding fuel consumption. As I've highlighted in the past, we expect our capital allocation strategy will enable Copart to focus entirely on delivering outstanding products and services. To further this objective over the last 12 months, we have deployed over $540 million into our real estate portfolio, fleet, and technology. Today, our global portfolio of approximately 19,000 acres of outdoor vehicle storage, a robust fleet of transportation assets and more than two decades of virtual auction technology development are the foundation of what truly differentiates Copart. With that, Jeff and I would be happy to take some questions.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Bob Labick",
+      "title": "Analyst",
+      "content": "I want to start with the question about dealer cars in general. Obviously, a lot of success there. But just as a little context, we've talked on previous calls about the dropping used car value to Manheim Index and the impact on rising total loss frequency and the fact that your salvage ASPs have held up because the incremental salvage car going into being total is the higher-end car. The question is, what's the relationship for Copart and your dealer car ASPs as used car values are dropping, if any?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Jeff Liaw",
+      "title": "CEO",
+      "content": "Bob, I think it's a fair question. I think there are some natural effects. I think every auto auction business will encounter conversion implications as well, but as seller expectations begin to align better with current market conditions, conversion is very high in rising price environments. By and large, we don't generally experience those except, but for 2021, 2022 when we saw very rapid increases in used vehicle prices, that generally speaking is not the long-term trend. But there are some modest effects in the near term, but I think overwhelmed by the unit volume implications. The selling prices are somewhat softer for the dealer cars because for the same basket of cars, they certainly would sell for less than they would have a year ago. But as we deliver excellent results, that total loss frequency rises and the relevant aperture, the relevant window of cars that we can address well for our dealers continues to expand. That has a natural the total loss frequency effects do have some secondary effects on dealer cars as well for the same reason.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Bob Labick",
+      "title": "Analyst",
+      "content": "Okay, great. And then I guess just in general, so you just mentioned that part. The other, how are ASPs trending all else equal? In other words, if total loss frequently or if Manheim was flat year-over-year right now, you guys have obviously pushed more into dealer, you've added arbitration and inspection at certain points. And has your, have your ASPs been going up over time or what have been the trends if you were to level set, kind of the Manheim index to Copart dealer ASPs?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Leah Stearns",
+      "title": "CFO",
+      "content": "So, Bob, I think Manheim is down about 14% year-over-year. Our dealer units are down just a little over 5%. I think that's, to Jeff's point, there is a mixed shift going on within that population. As we're adding higher value units, we aren't exposed to the same type of overall headwinds that the broader used vehicle index is. Because we're naturally growing into the higher ASP buckets.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Jeff Liaw",
+      "title": "CEO",
+      "content": "And Bob, I'd say in both directions, the Manheim Used Vehicle index, you've followed us long enough to know it's never been a perfectly linear predictor of outcomes at Copart auctions. I think over the very long haul, our ASP performance has generally outpaced Manheim for the reasons you mentioned a moment ago. Total loss frequency rising will improve the quality of cars that we sell and our mix, our growth among the non-insurance segment is doing the same. But even then, we have our use, our prices have certainly decreased less than Manheim has over the same comparable period. But that misalignment of the two metrics has always been true.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Bob Labick",
+      "title": "Analyst",
+      "content": "And the last one for me and just finishing up on dealer car for now. Where are, you're obviously taking share, we don't see any other numbers as strong as that. So where is the growth coming from? Is it from physical auctions or is it from like the wholesale market, meaning you're actually growing the auction market, so to speak, these cars weren't going to be auctioned before they were just kind of by a wholesaler and behind the scenes and you're getting those cars, or where do you view the growth of your dealer cars most coming from?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Jeff Liaw",
+      "title": "CEO",
+      "content": "I think you accurately identify the universe of competitors for the vehicles that we sell. So the insurance world, I think is unique. But as for the cars we sell on behalf of other parties, they also have many different outlets. And depending on who you're talking about, a dealer can certainly sell the car at his or her lot, can sell through the other online channels you're aware of, can sell at physical auction as well and can sell to wholesalers to take principal positions in those vehicles. Financial institutions have a different set of possibilities afforded to them. They, by and large don't hand sell as you know, rental car companies in some cases operate their own quasi retail sites from which they sell vehicles directly. Some will use the other major auction houses you're aware of. So the competitive landscape is multidimensional for our non-insurance cars for sure. And I think we are competing effectively, but again to different folks for different types of sellers.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Chris Bottiglieri",
+      "title": "Analyst",
+      "content": "Two high-level questions for you. I'll start with the first one. So Jeff, in the past you've talked about how much higher total loss rates could be if insurers had full access to end-to-end access to data. So I'm curious, just given some of the advancements in AI, like you spoke to that conference and some of more, more recent executive hires, like how much closer are you on that path to better monetizing that data and driving better total loss rate decisions?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Jeff Liaw",
+      "title": "CEO",
+      "content": "Thank you for the question. To provide some context based on previous discussions, we believe that the historical trend of total loss frequency increasing over time will continue in the long run. In 1980, the total loss frequency was 4%, ten years later it rose to 5%, and by 1990 it reached 21%. This demonstrates a clear upward trend in total loss frequency that we continue to observe. Currently, we see a variety of total loss practices among insurance companies, even for similar vehicles. This variability shows that some companies may be missing out on savings by repairing vehicles that they possibly shouldn\u2019t, which can lead to additional costs from prolonged rental car usage and repairs. As you're aware, we are providing various tools to help these companies make faster and more informed total loss decisions. However, full integration of these tools, which would allow for individual assessments rather than using generalized thresholds, can be challenging. It\u2019s often easier for insurance companies to apply a standard percentage rule for determining whether to total a car, but making decisions based on the specific circumstances of each vehicle is generally more beneficial. Overall, the industry has significant potential to improve its data-driven decision-making process. Thus, even if current market conditions remain unchanged, there are still numerous opportunities for insurers to enhance their decision-making efficiency regarding total loss situations.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Chris Bottiglieri",
+      "title": "Analyst",
+      "content": "And then my second big picture question is on international mix. I think it's been a couple years since you've commented. Where that sits at the last I recall was 50% to 55%. I just think given the lack of global vehicle production, I would think emerging markets, international buyers probably face even tighter supply than we face here in the U.S. So just curious if that's caused any shift in demand towards international, if you've seen that in your business at all?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Jeff Liaw",
+      "title": "CEO",
+      "content": "Yes, so I think the international buyer, with each passing year becomes a more prominent and important portion of our member base and buyer base. And during our meeting with our insurance clients, we underscored for them and quantified for them just how important they were. I think it's safe to say that, but for the very lowest value vehicles that aren't even towed a hundred miles to say nothing of being brought overseas to Eastern Europe or to South America, but for those vehicles, international bidders are instrumental in driving the value of every car sold at Copart. So they speak for a majority of the value of U.S. auctions, literally as buyers. And by the time you incorporate those international bidding activity for cars they buy or for cars for which they are the push bid, which in some intellectual respect really dictates the selling price of the car or participate, the auction itself driving further bidding activity that's approaching 90% of the cars we sell. But the international buyer is instrumental and we'll make it a point to better highlight that on subsequent calls as well. But they are incredibly important and more important today than they were five years ago, and they will be more important five years from now than they are today.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Alice Wycklendt",
+      "title": "Analyst",
+      "content": "Yes, thanks for taking my questions Alice on for Craig today. Maybe just thinking high-level about inflation in the insurance industry. I mean rates are up materially for everyone. Curious what your take is on any downstream implications, be it, more uninsured motorists, pressure on you to provide additional services, maybe it's good for the total loss rate. How do you think about any of those potential trends?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jeff Liaw",
+      "title": "CEO",
+      "content": "If your question is mainly focused on the U.S., the ratio of uninsured motorists varies significantly by market. For instance, it is much higher in Brazil compared to the U.S. or the UK. In any specific market, the uninsured motorist ratio is influenced by rates, which are a delayed reaction to inflation. Many of our insurance clients are just beginning to see the benefits of rate adjustments approved at the state level, which align with increased costs for repairs and staffing that you mentioned. I don\u2019t anticipate this having a significant impact in the U.S. You might observe a shift toward liability-only coverage instead of collision or comprehensive coverage, but I believe these changes will be minimal. Ultimately, the economic choice, once a vehicle has sustained significant damage in an accident, is to determine if it should be totaled. Having insurance can aid in resolving the situation, but if it is financially sensible to total the car, that decision will be made regardless.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Alice Wycklendt",
+      "title": "Analyst",
+      "content": "Makes sense. Thanks for that. And then just a high level on the insurance side again, I mean, for a variety of reasons, you've gained share with insurance carriers over the years. Maybe again, high level, talk about the catalyst for those share shifts and maybe how sticky you consider those business wins to be?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Jeff Liaw",
+      "title": "CEO",
+      "content": "Got it. No, I appreciate that. We've described addressed that question, but happy to do so again. I think our advantages with our clients are, first, to drive better auction outcomes. I've mentioned that, the auction liquidity, our international buyer base, the technology platform, the machine-learning-enabled tools that allow us to drive better returns at auction. Ultimately, our insurance clients are, of course, economically motivated. They have to achieve the best possible cost outcomes they can to ensure the best possible combined ratios to ensure that they're competitive in turn on rates and that they can protect and grow their businesses accordingly. We believe that we generate superior returns at auction and that that has been persuasive to many of our insurance clients. The second element of what we do is to manage cars quickly. Cycle times are by their nature very positively correlated with costs for insurance companies in particular on the front end. Our ability to retrieve vehicles quickly reduces their advance charges. It would surprise you how many cars that are very clearly eventually bound for a total loss auction like Copart are nonetheless subject to $2,000, $3,000 of advance charges, tear downs and estimates and partial repairs or what have you before the car is ultimately disposed of. Our ability to help insurance companies to reduce those front-end cycle times is very economically meaningful to them as well. We've talked before about catastrophic events. Memories in some cases are short, sometimes long, but we distinguish ourselves in a moment of crisis. The storms like Harvey, Ian and Ida are acute cost events and perhaps more importantly, acute policyholder service events for the insurance companies as well. Our ability to support them, to support the communities, to be their ambassadors effectively on the ground in places like Florida and the Northeast, in turn equipped by the land we've acquired literally hundreds of acres of idle capacity that stands ready to serve them in a storm as well as the communications technology, our own fleet of vehicles, our Copart Catastrophic Response Team, the folks that we deploy upon a moment's notice that's distinctive as well. So those are, I've talked about a few other elements, but those are three meaningful ones. As to durability, in general, when we are able to earn the trust of our clients, we run through walls to preserve that over the long haul. So in general, those relationships have proven durable, but we never take it for granted. We wake up each morning committed to delivering better today than we did yesterday this year than we did the year before. So it has been durable in the past, but we never assume it will be forever. We'll make sure that we earn the right to serve them for with each passing year.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Alice Wycklendt",
+      "title": "Analyst",
+      "content": "And then if I may one more just switching gears to Purple Wave. Maybe just update us with a little more detail on how things have progressed there now with a couple quarters of that partnership underway. What are the biggest areas of opportunity you're seeing and maybe what are some of the key trends in that market that you're observing so far?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Jeff Liaw",
+      "title": "CEO",
+      "content": "Sure. Purple Wave we're delighted to have Aaron and Suzy and the team on board. I think we noted that last quarter as well. They continue to grow GMV very well year-over-year. The growth opportunities for them include both geographic expansion. Certainly they were at the time of our investment in Purple Wave, principally central time zone oriented, but they continue to expand their footprint from there. Aaron and Suzy have done an extraordinary job building, what they would call the community of buyers and sellers at Purple Wave. And they continue to invest in their capabilities there. So even within the markets in which they're currently participating, there remain growth opportunities to bring on new sellers, to bring on additional equipment for existing sellers. So, I think it's across the board. They are still early enough in their journey and we are early enough in our journey with them, there remain growth levers across all of those dimensions. And frankly, the key management challenge, the key leadership challenge for Aaron and Suzy is to figure out how to prioritize among them. But the growth trends have been very promising there.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Bret Jordan",
+      "title": "Analyst",
+      "content": "Following up on that last question on Purple Wave, is your foreign buyer base, does that differentiate your ability to sell the commercial equipment? Are they buyers of what Purple Wave is selling?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jeff Liaw",
+      "title": "CEO",
+      "content": "Yes, that's a good question. And I probably would draw a distinction still between the commercial because we do sell a lot of commercial equipment box trucks, construction equipment, agricultural equipment, and the like from Copart cover, which is by and large the result of our serving insurance companies. They have as part of their book of their portfolio, a number of assets of that type. So we sell many assets on their behalf and certainly for them, the international buyer is deeply relevant. Purple Wave historically has been principally a domestic-oriented platform because their assets have been sold by and large in place historically. So they would sell on behalf of a rental company, an agricultural concern or an industrial one they would sell in place. And so by and large, they have been more domestically oriented in the past. Over the long haul, looking forward, that can become a more international business as well. But that's been the historical approach.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Bret Jordan",
+      "title": "Analyst",
+      "content": "And the question of international, I mean, 21% growth, are you seeing, it looks like sequential improvement, is that traction in Europe? You called out flooding in Brazil and CAT events in the Middle East, but what's the big driver of international and are you getting traction in some of those bigger vehicle markets like the EU?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Jeff Liaw",
+      "title": "CEO",
+      "content": "Fair question. I think we're experiencing growth in international. As you know, Bret, it's such an all-inclusive notion in life is, is quite a bit more complicated than that. But we have grown in all of our major countries or certainly from memory in Canada, in Brazil, in the UK, in the Middle East for that matter, and in Germany and Spain as well. So for different reasons though, in the UK I think it is, for example, total loss frequency and the like. In Brazil, it's that as well. There's certain, some flood activity there. But the international arena is growing for a combination of total loss frequency, market penetration as you noted a moment ago. Not a step function change but meaningful growth across these countries.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from Jash Patwa with JPMorgan.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jash Patwa",
+      "title": "Analyst",
+      "content": "Just wondering if you could share some insights on your experience so far in moving towards the higher value units within the dealer segment that you highlighted previously? I believe there were some initiatives underway in developing the buyer base, the condition reporting inspection and arbitration procedures for the whole car segment. And wondering if you can share an update on how that has progressed so far? Thanks, and I have a follow-up.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jeff Liaw",
+      "title": "CEO",
+      "content": "Great. Yes. So as you noted, it has been an area of emphasis for us for years, of course to serve the Copart dealer network better over time so that more of their cars are addressable by Copart auctions. There is the natural tailwind, as we discussed earlier today of total loss frequency bringing better cars into our network to begin with from insurance companies, which in turn brings the buyers that are relevant for an expanding portfolio of dealer cars as well. You asked a good question about the relevant range of services that we need to provide to those sellers which in some cases are more extensive or they're different. Frankly, the range of services provided to insurance companies for salvage cars is certainly robust as well, but in many cases different. It is more like loan settlement, title procurement, salvage title issuance, a range of different things provided to them in comparison to dealer cars and frankly rental cars, financial institution vehicles, and the like. So yes, we continue to evaluate the range of services we provide, continue to test a range of these things to expand so that we can better serve them. Yes, that's very much a priority.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Jash Patwa",
+      "title": "Analyst",
+      "content": "That's very helpful color. And then, maybe just as a follow-up, just wanted to get your thoughts around, how we should be thinking about the OpEx cadence over the next 12 to 18 months. Just trying to get a sense of whether the bulk of the investments are in the base today, or if we should start to see, if we should continue to see, somewhat of a meaningful uptick in operating expenses in the coming few quarters?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jeff Liaw",
+      "title": "CEO",
+      "content": "Yes. And to clarify, when by operating expenses do you mean, the gross level or you mean general administrator, or do you mean both?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jash Patwa",
+      "title": "Analyst",
+      "content": "I was referring to the general administrator expenses primarily.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jeff Liaw",
+      "title": "CEO",
+      "content": "Yes. I think that, over the long haul, I think you probably followed us for a while, you'll know we have almost always achieved operating leverage relative to G&A growth. We happened to in the last few quarters of experienced more meaningful year-over-year growth for the reasons that Leah described a moment ago. The very long-term horizon we expect to grow operating income, to grow gross profits in excess of the rate of growth of OpEx or G&A, OpEx as you described at G&A as we do. But on any given quarter, any given month, quarter, frankly even year, that's not necessarily the priority for us. We want to make sure we achieve the right long-term outcomes. If that requires short-term investments, if that requires long-term investments, we are happy to make it. As you know, as a rule, we don't provide forward-looking guidance, but we continue to spend these resources very prudently. We take our responsibilities as stewards of capital very seriously and we'll invest those dollars when it makes sense to generate the right long-term returns for Copart and when they don't, we won't.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "There are no further questions at this time. I'd like to turn the floor back over to Jeff Liaw for closing comments.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jeff Liaw",
+      "title": "CEO",
+      "content": "Thanks, everybody. We'll talk to you next quarter. Have a good night.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "This concludes today's teleconference. You may disconnect your lines at this time. Thank you for your participation.",
+      "sentiment": "0.0"
+    }
+  ],
+  "reported_date": "2024-09-12"
+}

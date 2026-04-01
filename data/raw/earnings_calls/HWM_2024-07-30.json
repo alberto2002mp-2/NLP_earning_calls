@@ -1,0 +1,433 @@
+{
+  "symbol": "HWM",
+  "quarter": "2024Q2",
+  "transcript": [
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Good day, and welcome to the Howmet Aerospace Second Quarter of 2024 Earnings Call. Please note that today's event is being recorded and all participants will be in a listen-only mode. After today's presentation, there will be an opportunity to ask questions. On today's call we ask that you please limit yourself to only one question during Q&A. Also, please be aware that today's call is being recorded. I would like to now turn the call over to Paul Luther, Vice President of Investor Relations. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Paul Luther",
+      "title": "Vice President of Investor Relations",
+      "content": "Thank you, Joe. Good morning, and welcome to the Howmet Aerospace second quarter 2024 results conference call. I'm joined by John Plant, Executive Chairman and Chief Executive Officer; and Ken Giacobbe, Executive Vice President and Chief Financial Officer. After comments by John and Ken, we will have a question-and-answer session. I would like to remind you that today's discussion will contain forward-looking statements relating to future events and expectations. You can find factors that could cause the Company's actual results to differ materially from these projections listed in today's presentation and earnings press release and in our most recent SEC filings. In today's presentation references to EBITDA, operating income and EPS mean adjusted EBITDA, excluding special items, adjusted operating income, excluding special items and adjusted EPS, excluding special items. These measures are among the non-GAAP financial measures that we've included in our discussion. Reconciliations to the most directly comparable GAAP financial measures can be found in today's press release and in the appendix in today's presentation. With that, I'd like to turn the call over to John.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John Plant",
+      "title": "Executive Chairman and CEO",
+      "content": "Thank you, PT, and welcome, everyone to Howmet's second quarter earnings call. Q2 was a strong quarter for the company, with metrics exceeding both guidance and prior year results. Year-over-year revenue growth was 14%, building on the 14% growth in the first quarter. Within this number, commercial aerospace growth was an outstanding 27%, continuing a strong trend. Other revenue markets will be covered later in the call. EBITDA was $483 million, with a margin rate of 25.7%, while operating income was $414 million with a margin of 22%. Operating income was up 38% year-over-year and increased 370 basis points, with engines and fasteners performing at a high level supported by an increasingly strong set of results in our structures business. Wheels was essentially flat despite the market declines. Earnings per share were $0.67, an increase of 52% year-on-year. Free cash flow was also strong at $342 million, resulting in a quarter-end cash balance of $752 million, after share buybacks of $60 million and a $23 million bond repurchase of the 2025 bonds and dividends of $21 million. The strong cash balance enabled early retirement at par of the remaining $205 million of the 2024 bonds on July 1, one day after the quarter-end. These actions will reduce annual interest costs by approximately $12 million and continue the march to reduce interest rate drag, which is now well below $200 million with the increase in free cash flow yield. I'll provide commentary on the future dividend actions in the outlook section. You'll also note later in the increase in capital expenditures in 2024 of $30 million, taking the level towards $320 million for the year. These expenditures are mainly deposits on future new machine tools needed to support further capacity growth for our engines business. This is necessary as we've now secured additional market share at the second engine manufacturer. These revenues will also commence during 2026, albeit a quarter or so later than previous discussions on this topic. I'll now pass the call across to Ken to provide additional details by end market and by business segment.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Ken Giacobbe",
+      "title": "Executive Vice President and CFO",
+      "content": "Thank you, John. Good morning, everyone. Let's move to Slide 5. Markets continued to be healthy in the second quarter. On a year-over-year basis, performance was as follows: Total revenue was up 14%, driven by strong growth in commercial aerospace, which was up 27%. For the first half, commercial aerospace was up a healthy 25%. Growth continues to be robust this year on top of the 28% growth rate in 2022 and the 24% growth rate in 2023. Moving to our other markets. First, defense aerospace was also strong, up 11%, driven by fighter programs and engine spares demand. Next is commercial transportation. As expected, the market has weakened, with revenue down 4%, although Howmet continues to gain share from Steel Wheels with Howmet's lighter and more fuel-efficient aluminum wheels. Finally, the industrial and other markets were up 4%, driven by oil and gas, up 14%, IGT up 6%; and general industrial down 6%. In summary, we continued to see strong performance in commercial aerospace, defense, and industrial, partially offset by commercial transportation. Now let's move to Slide 6. For the second consecutive quarter, Q2 revenue, EBITDA, EBITDA margin, and earnings per share were all records and exceeded the high end of guidance. On a year-over-year basis, revenue was up 14%, and EBITDA outpaced the revenue growth, being up 31%, while absorbing the addition of approximately 190 net new employees in the quarter. Incremental flow-through of revenue to EBITDA was excellent at 50%. Moreover, the team delivered records for both EBITDA margin of 25.7% and earnings per share of $0.67, which was up a healthy 52% year-over-year. Now let's cover the balance sheet and cash flow. The balance sheet and liquidity have never been stronger. Cash at the end of the quarter was $752 million, and free cash flow was a record for Q2 at $342 million. The healthy cash balance at the quarter-end was used to repay the remaining balance on the 2024 bonds of $205 million. Payment was at par and was made three months early on July 1. Additionally, in Q2, we opportunistically repurchased $23 million of the 2025 bonds. The combination of these actions will reduce annual interest expense by $12 million annually, further improving free cash flow yield. Finally, net debt to EBITDA improved to a record low of 1.7x. All long-term debt is unsecured and at fixed rates, which will provide stability of interest rate expense into the future. Liquidity is strong with a healthy cash balance and a $1 billion undrawn revolver complemented by the flexibility of a $1 billion commercial paper program. Finally, in capital deployment, we deployed approximately $104 million of cash in the quarter to shareholders, of which $60 million was used to repurchase common stock. This was the 13th consecutive quarter of common stock repurchases. The average diluted share count improved to a record low Q2 exit rate of 410 million shares. We continue to be confident in free cash flow. In the first quarter, we deployed $21 million for the quarterly common stock dividend of $0.05 per share. John will discuss the increase in the Q3 dividend as well as our 2025 dividend policy. Now let's move to Slide 7 to cover the segment results for the second quarter.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "John Plant",
+      "title": "Executive Chairman and CEO",
+      "content": "Thanks, Ken, and let's now move to Slide 11, and I'll talk you through the end markets and provide some overview. Firstly, regarding commercial aerospace. Our prior comments regarding strong demand for air travel throughout the world continue to apply. Air traffic growth in Asia-Pacific has strengthened in particular for international travel. In fact, international travel globally has been increasing in the 20% range, plus or minus. Freight volumes have also been robust with increases of over 10%. Domestic travel continues to grow gradually in all markets. This travel demand, combined with an aging aircraft fleet, is leading to significant orders and an extremely high backlog of total aircraft, leading to a position where aircraft orders placed now cannot be fulfilled until the end of the decade and beyond in certain cases. However, the issue faced by Howmet is not the demand, but rather that sales are currently constrained to some degree by the ability of aircraft manufacturers to build and deliver aircraft consistently. These facts are the subject of many press articles, and it's worth repeating these facts here. While Airbus is steadily increasing requirements while building below desired levels and slowing its volume run, the larger concern is Boeing. While parts orders directly from Boeing show some trimming, they continue to be at levels above the actual 737 and 787 build rates. Engine orders have also been trimmed, albeit by a large percentage. Given the situation, the question surrounding Boeing and its affiliates' inventory positions and liquidation of such inventory remains. We've tried to derisk this to a large extent in our guidance and have notably updated our assumed 737 build rate to 22 aircraft per month in 2024 versus the previous view of 20 per month. Naturally, we hope for a higher build on this and also for future rate increases. In the case of defense, the outlook continues to be a double-digit increase for the year. Strength is seen in engine spares for the F-35 and for spares and new builds for legacy fighters. IGT demand is for significant single-digit growth. It's worth noting there is potential for increasing demand in the future for new IGT turbines as a result of increased requirements stemming from electricity demand for data centers and AI needs. This potential demand increase is being studied and is worthy of further commentary in the future. Howmet is positioned well in the IGT market, being the largest supplier of turbine blades in the world to our customers of Siemens, GE Vernova, Mitsubishi Heavy, and Salto. Indeed, further production capacity will be added by Howmet into the IGT market in 2025 to support this increased demand. Oil and gas continues to be strong with double-digit increases. Spares for commercial aerospace, defense, and IGT continue to grow in aggregate at a pace of approximately 17% year-to-date, with further rate increases expected in the balance of the year. Commercial truck builds are beginning to abate, and the long-predicted slowdown, particularly in Europe, has started and will extend into the second half at maybe a 10% reduction in addition to the typical European summer vacation seasonality. This normal seasonality is also noted in our European aerospace operations and is fully integrated into our third quarter guidance. Before I discuss specific financial numbers, I'd like to cover three topics. First, the capital expenditure required for 2024 has increased by a further $30 million to the midpoint of $320 million. This reflects additional customer contracts achieved with share gain for our engines business. Further commentary on this topic will be provided in our next call. Despite the additional capital expenditure, the free cash flow guide has been increased by $70 million, having taken account of this expenditure and the increase in working capital in the revenue guide. The conversion of net income is maintained at the prior guide of approximately 85%. Ultimately, this expenditure leads to further future revenue growth. It's a great outcome, with revenue starting to accrete in late 2025. The guide for capital expenditures for 2024 and 2025 is approximately 4% of revenue. The next topic is the dividend. We will increase the common stock dividend starting with the August payment to $0.08 per share. This is an increase of 60% and a further increase from our expectations discussed during our call in May. Moreover, for 2025, common stock dividends are expected to be in the 15% of net income, excluding special items, plus or minus 5%. Finally, share buyback authorization has also been addressed by the Board and increased by $2 billion to approximately a total of $2.5 billion. Now moving to specific numbers. In Q3, we expect revenues of $1.855 billion, plus or minus $10 million, EBITDA of $465 million, plus or minus $5 million, and earnings per share of $0.64 plus or minus $0.01. It should also be noted that we have increased revenue guidance for the year incorporating the Q2 beat and a further additional uplift to the previous expected second half revenues. For the year, we now expect revenues to be at $7.44 billion, plus or minus $40 million, which is an increase of $140 million from the prior guide. EBITDA is guided to $1.865 billion, plus or minus $10 million, which is an increase of $115 million from the prior guide. Earnings per share increased to $2.55, plus or minus $0.02, an increase of 39% year-over-year. Free cash flow is guided to $870 million, plus or minus $30 million, an increase of $70 million from the prior guide. That's after increasing the CapEx requirements by $30 million and revenue by $140 million. You can see from the numbers shown that revenue, profit, and free cash flow have lifted again for 2024, and that total annual revenue has increased to a 12% growth rate year-over-year. Now I'll provide a summary. First, we are pleased with our second-quarter results. The guidance for the year has been raised again on all fronts. We believe we've taken account of the commercial aircraft build rates and inventory positions, which center around Boeing. Thank you very much, and now I'll move to the questions.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "We will now begin the question-and-answer session. At this time, we will take our first question from Doug Harned with Bernstein. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Douglas Harned",
+      "title": "Analyst",
+      "content": "Good morning. Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John Plant",
+      "title": "Executive Chairman and CEO",
+      "content": "Hey, Doug.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Douglas Harned",
+      "title": "Analyst",
+      "content": "John, I wanted to see if you could help a little bit in understanding what's been happening at Airbus on the LEAP-1A. They talked about slowing engine deliveries. It's our understanding that relates to airfoils in the hot section at GE, and it's a supplier issue. Howmet's obviously the lead supplier for airfoils in the hot section. Have you had any issues on delivery to GE? And if not, does a shortfall by others provide any kind of opportunity to capture share?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "John Plant",
+      "title": "Executive Chairman and CEO",
+      "content": "Well, Doug, I expect that to be the hot topic of today given the comments on the opening evening of the Farnborough Air Show last week and then followed up by an article in Bloomberg this weekend. My first reaction to it, as an investor in the company, is that this is really good news. Because here, we are seeing a 27% increase in commercial aerospace revenues, and if that is true, then we need to make more. Therefore, this is a very favorable condition for us. To be more specific, you've heard on the call that over the last three years, we've recorded a 28% increase in commercial aerospace revenues, followed by 24% year-to-date and 25%. If you track those increases compared to any form of aircraft build or schedules, you can see that we are significantly outpacing aircraft production rates. Thus, it's unlikely that we are providing constraints. We have significantly increased our production of turbine blades and the hot section. Over the last few months, we've realized around a 40% increase in production. This is a promising situation for all involved in the aerospace industry. We are currently operating at capacity or possibly even above it given our current set of yields. Our production levels are above engine build rates, and while we do not know the outcomes of subsequent processing for our parts, we do know that if engine build volumes are down, it will affect other areas. We've taken steps to adjust our capacity in accordance with manufacturer directives while still dealing with short-term excess labor in some of our French plants due to the low-pressure turbine demand. Therefore, we are in a position to increase our sales if we can scale production. However, current engine build reductions are a concern, as they limit our ability to supply structural castings and parts in the low-pressure turbine. So while we are poised for more sales, we are also conscious of the challenges posed by slower engine builds. It's a complex situation.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Douglas Harned",
+      "title": "Analyst",
+      "content": "Okay. That's very helpful. Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And our next question will come from Kristine Liwag with Morgan Stanley. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Kristine Liwag",
+      "title": "Analyst",
+      "content": "Hey, thank you for the question. John, very helpful color regarding the LEAP engine blades as you described. If we take a step back with the new engine technology, both for the GTF and for the LEAP. It's clear that the hot section is getting used more, it's getting hotter, and higher performance. From our visit at Whitehall, you've clearly invested in this space. Can you quantify how much more market share you could potentially capture? It seems like you're not the bottleneck for production and you've got more content. And as a follow-up, in terms of the new builds, you said you're not seeing the reduction there. Does that imply that one for one, you're seeing spares pick up too? Or are the OEs maintaining their rates at a higher level?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "John Plant",
+      "title": "Executive Chairman and CEO",
+      "content": "I must acknowledge that nothing is straightforward. I wanted to portray a complex picture, which is necessary. As I\u2019ve mentioned previously, we have significantly invested in this area and are actively increasing our capital expenditure to meet the demand for a second engine manufacturer. Given the contracts we have secured, we can fulfill this demand in the future. When we bring this new capacity online, it will enable us to enhance our manufacturing sophistication, automation, and quality thanks to AI and our testing processes. This modernization is critical to achieve the production levels we aim for with consistency. To recap, we're aiming for advancements in both manufacturing and performance. In terms of certification requirements and new engine upgrades, we are making a concerted effort while awaiting the necessary approvals for various engine manufacturers. Generally, we anticipate significant demand and are poised to capture an increasing market share.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Kristine Liwag",
+      "title": "Analyst",
+      "content": "Great. Thanks, John.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John Plant",
+      "title": "Executive Chairman and CEO",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And our next question will come from Seth Seifman with JPMorgan. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Seth Seifman",
+      "title": "Analyst",
+      "content": "Hey. Thanks very much and good morning. I wonder, John, if you could talk a little bit about the 787. We've seen some mixed messages here. It seems like some of the Japanese structure suppliers may be preparing to increase their rates. Boeing deliveries are low, and one of the European suppliers is shutting down for a little while. Regarding the trajectory in the fasteners and structures business, how are you thinking about 787?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "John Plant",
+      "title": "Executive Chairman and CEO",
+      "content": "On the structure side, we've been seeing our deliveries from Howmet in line with the previous guidance. However, we note that one of the European manufacturers is cutting back over the summer. We've accounted for this in our guidance just as we have for the reduction in LPT turbine blades and other structural castings. In the case of Fasteners, Boeing is not achieving the desired 787 build rates stated. We have adjusted our inventory levels to comply with our contractual obligations with Boeing but are cautious about maintaining inventories above that minimum.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Seth Seifman",
+      "title": "Analyst",
+      "content": "Great. Thank you very much.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John Plant",
+      "title": "Executive Chairman and CEO",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And our next question will come from David Strauss with Barclays. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "David Strauss",
+      "title": "Analyst",
+      "content": "Thank you. Good morning.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John Plant",
+      "title": "Executive Chairman and CEO",
+      "content": "Hey, David.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "David Strauss",
+      "title": "Analyst",
+      "content": "Hey, John. In the past, I think you've talked about targeting a 30% or so incremental margin, plus or minus 5%. It looks like this year, your revised guidance implies something in the 40% to 45% range. I just wanted to get some updated comments about how to think about incremental margins for the business. Thanks.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "John Plant",
+      "title": "Executive Chairman and CEO",
+      "content": "Yes. We've updated the balance for the year. It's just fractionally over 40% in Q3, taking into account both seasonality and the anticipated reduction in our Wheels business, primarily due to conditions in Europe and Class 8 trucks in the U.S. Essentially, in Q4, Wheels should be stronger than that to conclude the year at a higher level. Following the theme from our last earnings call, if you look at the rate of increase in employee headcount, which was just over 400 last quarter and is now slightly below 200, while simultaneously seeing revenue increases significantly above percentages of employee increases. You can assume productivity is being achieved, even zero incremental headcount in Fasteners while revenue increased by 20%. Therefore, for the first half, we added approximately 600 employees, all in our Engine business, due to demand levels and although we still need to prepare for increased capacity over time. We understand that it takes considerable time for recruitment and training, especially in our engines business. Overall, employee efficiency is strong, and we are witnessing a slight calming in inflation. There's been slight deflation in our metals input in Q2, but it is indeed well below 10 basis points. The only area currently affecting us is the rising price of aluminum impacting our Wheels business. In conclusion, we are seeing good stability in our inputs, increased labor productivity, and a solid mix of demand reflected in our guidance, where we expect around a 25% EBITDA margin in the second half.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And our next question will come from Myles Walton with Wolfe Research. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Myles Walton",
+      "title": "Analyst",
+      "content": "Thanks. Good morning.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John Plant",
+      "title": "Executive Chairman and CEO",
+      "content": "Hey, Myles.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Myles Walton",
+      "title": "Analyst",
+      "content": "Hey, John, you stopped specifying pricing, but I have to imagine, given the sort of breakaway moment here in the quarter pricing must be accelerating. Can you give any comment on that front? And also, just to take it at a higher level, you talked about Airbus and Boeing not being able to achieve their production objectives. But it seemed like GE had a material shortfall on their own. Do you see this as a blip in their production ability, or are the risks now shifting to the engine rather than the airframe?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "John Plant",
+      "title": "Executive Chairman and CEO",
+      "content": "Regarding rate changes, aircraft manufacturers have notably adjusted rates. Airbus has reduced its annual delivery expectations by 30 aircraft, primarily narrow bodies, and cited engine availability issues during discussions at Farnborough. Boeing, on the other hand, has indicated better manufacturing stability. We are optimistic they could reach rates of 38 by year-end, and though we\u2019re cautious, we have increased our projections for the 737 production rate from 20 to 22 as a result, albeit below typical expectations. For engine manufacturers, discussions surrounding LEAP engine output have indicated a significant increase is expected for the second half of this year. In terms of pricing guidance, we\u2019ve maintained our previous estimates, which indicated we will see performance at approximately $100 million across the company. There\u2019s been no significant change, and we are not making further comments on this topic.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Myles Walton",
+      "title": "Analyst",
+      "content": "Okay. All right. Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John Plant",
+      "title": "Executive Chairman and CEO",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And our next question will come from Sheila Kahyaoglu with Jefferies. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Sheila Kahyaoglu",
+      "title": "Analyst",
+      "content": "Thank you. Congrats guys on a great quarter and securing the second engine win. John, can you elaborate on the terms there? If you could talk about how we should think about that second engine OEM. I believe you mentioned that volumes start up a quarter later than the first OEM in 2026. How should we expect that incremental volume to contribute to the return profile with the additional CapEx? I'm guessing it's better than the 31% engine margins you currently have today? Additionally, any thoughts on comparing the first deal to the second?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "John Plant",
+      "title": "Executive Chairman and CEO",
+      "content": "Yes. It\u2019s obviously good business, otherwise we wouldn\u2019t pursue it. On the flip side, introducing new engine capacity is capital-intensive, meaning we may face higher depreciation costs due to our new investments. While it might be undesirable to detail specific margin expectations, I can assure you that achieving satisfactory margins is integral to ensuring positive returns on investments for our shareholders. That said, we recognize that new investments will bring additional depreciation costs. I\u2019ll refrain from commenting on specific market shares, but I can affirm that the share gains from this new investment are promising.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Sheila Kahyaoglu",
+      "title": "Analyst",
+      "content": "Thank you so much. Can you comment on the expected volume? ",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John Plant",
+      "title": "Executive Chairman and CEO",
+      "content": "Clearly, volumes are expected to increase as we gain additional market share. However, I don't wish to go into specific market share details publicly. What's critical is that the share gain appears substantial, and it aligns with the prior increases we\u2019ve experienced. Regarding the timing, we initiated this investment about six months later than previously mentioned commitments. Our focus now is on securing the necessary machine tools quickly due to the demand that our customers are eager to fulfill.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Sheila Kahyaoglu",
+      "title": "Analyst",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John Plant",
+      "title": "Executive Chairman and CEO",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And our next question will come from Robert Spingarn with Melius Research. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Scott Mikus",
+      "title": "Analyst",
+      "content": "Hi. This is Scott Mikus on for Rob Spingarn. John, I hate to put you on the spot and ask for a long-term margin target here, but your operating margins were quite strong in the quarter, in the low-20s now and precision cash parts. There's always noise in the numbers due to metal pricing and LIFO reserves, but the operating margins before it was acquired were in the high-20s. Do you think Howmet has the potential to eventually reach that long-term?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "John Plant",
+      "title": "Executive Chairman and CEO",
+      "content": "I wasn't clear whether you referred to cash parts operating margins or EBITDA margins, but either way, it's worthwhile to note that I choose not to comment on margin projections for the future. Aerospace is a cyclical industry, and anyone claiming they have absolute knowledge of volumes for the next few years is unaware of the uncertainties. We can only discuss the efforts we are implementing to better our company. Rather than chase historical margins, my focus remains on driving our improvements forward. Therefore, I won\u2019t venture a prediction on margin rates.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Scott Mikus",
+      "title": "Analyst",
+      "content": "Okay. Got it. I'll stick with one. Thanks, John.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John Plant",
+      "title": "Executive Chairman and CEO",
+      "content": "Okay. Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And our next question will come from Noah Poponak with Goldman Sachs. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Noah Poponak",
+      "title": "Analyst",
+      "content": "Hey. Good morning, everyone.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John Plant",
+      "title": "Executive Chairman and CEO",
+      "content": "Hey, Noah.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Noah Poponak",
+      "title": "Analyst",
+      "content": "John, you explained that the incrementals were strong in the first half because you didn\u2019t have to hire as quickly while the revenue growth was solid. That leads me to when you suspect you'll be back to hiring. I also noticed that engine revenue is now up by 1,000 basis points versus pre-pandemic, whereas fastening is still lower than pre-pandemic. Does fastening have as much potential for revenue growth moving forward?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "John Plant",
+      "title": "Executive Chairman and CEO",
+      "content": "As you understand, nothing is the same in commercial aero these days. Pre-pandemic, we were producing about nine A350s a month and approximately 13 or 14 787s a month. It's important to note that the fasteners we produce for composite-based aircraft differ significantly from those of metallic-based aircraft. The 787's halt at one time pushed us to zero production, but we are gradually ramping back up. I don\u2019t know the eventual rates for wide bodies, but I note the A350 is projected to rise to 12 a month by 2027. As for the 787, the only aggressive target I\u2019ve heard is rate 10 sometime after 2025 and 2026. We need to monitor the dynamics through 2025 before establishing what the true rate will be in 2026. Ideally, we would be scaling back up to 14 a month for the 787 and reaching the stated A350 targets. However, without clear insight into approaching margins, I'm hesitant to provide definitive predictions. Instead, I emphasize how we've achieved substantial sequential improvements in the fastener business over recent quarters.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Noah Poponak",
+      "title": "Analyst",
+      "content": "Okay. Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John Plant",
+      "title": "Executive Chairman and CEO",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And our next question will come from Gautam Khanna with TD Cowen. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Gautam Khanna",
+      "title": "Analyst",
+      "content": "Hey, John, Ken, and PT, congrats on the results.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John Plant",
+      "title": "Executive Chairman and CEO",
+      "content": "Thanks, Gautam.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Gautam Khanna",
+      "title": "Analyst",
+      "content": "John, to put it more directly, where, if anywhere, do you see excess inventory in your product channel? Have there been any requests for deferral or anything that you feel might weaken the outlook beyond 2024? You've raised 2024 guidance, but do you have any concerns regarding 2025? Additionally, regarding the Asheville RTX facility, has it negatively impacted the longer-term outlook for After 135 or other programs you service?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "John Plant",
+      "title": "Executive Chairman and CEO",
+      "content": "Let's address the Asheville question first. I have not heard any material announcements from RTX about that facility, and I believe it is approaching rate for machining work, which is necessary to undergo disc inspection. Regarding investment castings, there's nothing serious that I've noted, and my prior statements remain unchanged. In terms of inventory, we are not witnessing any significant surpluses. We did face unexpected cuts on low-pressure turbine parts due to halted LEAP engine assembly, which possibly placed more inventory on hand than preferred, but it\u2019s manageable. Furthermore, numerous moving parts are currently in play across the industry\u2014it\u2019s challenging to ascertain production levels from either the aircraft manufacturers or engine producers. Therefore, we\u2019ve tried to be cautious in our outlook. Our guidance reflects careful preparation for production rates, and we anticipate that this all balances out over time.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Gautam Khanna",
+      "title": "Analyst",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John Plant",
+      "title": "Executive Chairman and CEO",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And our next question will come from Ron Epstein with Bank of America. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Ronald Epstein",
+      "title": "Analyst",
+      "content": "Hey, guys. Sorry about that. I was muted.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John Plant",
+      "title": "Executive Chairman and CEO",
+      "content": "Hi, Ron. I was hoping you\u2019d ask the best question all day.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Ronald Epstein",
+      "title": "Analyst",
+      "content": "Yes, the easy one, right?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John Plant",
+      "title": "Executive Chairman and CEO",
+      "content": "Yes, the easy one.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Ronald Epstein",
+      "title": "Analyst",
+      "content": "A lot of feedback picked up at Farnborough indicated a shortage of castings across the industry. I\u2019m interested in your perspective as you do casting and your potential to capture more business based on the current casting world dynamics. Can you speak to that?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "John Plant",
+      "title": "Executive Chairman and CEO",
+      "content": "You need to separate casting into structural castings versus high-pressure turbine castings and low-pressure turbines. In cases where OE engine cutbacks have occurred, we\u2019ve experienced slight negative effects on structural casting and LPT. The capacity isn\u2019t fungible\u2014we can\u2019t convert a high-pressure turbine casting facility into a structural casting one. Right now, the focus would be on maximizing high-pressure turbine casting production as service demand remains high. We\u2019re already well above engine rate, but we need more equipment and fresh capital to boost production enough to meet the demand. While we are in a good position to capture part of this increased demand, it still heavily depends on improving our yields and our ongoing discussions with customers about further enhancements.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Ronald Epstein",
+      "title": "Analyst",
+      "content": "Got it, and if I may, how much improvement do you see in your yields? I understand that you're already performing well.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "John Plant",
+      "title": "Executive Chairman and CEO",
+      "content": "Any improvements will be at the margins, but our current yield levels are satisfactory. There may be opportunities to enhance levels, potentially relaxing drawing limits without compromising product performance. We remain committed to exploring those opportunities while preserving our high-quality standards.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Ronald Epstein",
+      "title": "Analyst",
+      "content": "Got it. Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John Plant",
+      "title": "Executive Chairman and CEO",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "That is all the time we have today for questions. Thank you all for attending and participating in today's conference call. You may now disconnect your lines, and have a great day.",
+      "sentiment": "0.0"
+    }
+  ],
+  "reported_date": "2024-07-30"
+}

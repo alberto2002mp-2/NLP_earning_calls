@@ -1,0 +1,187 @@
+{
+  "symbol": "UBER",
+  "quarter": "2023Q4",
+  "transcript": [
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Good morning. My name is Krista, and I'll be your conference operator today. At this time, I would like to welcome everyone to the Uber Fourth Quarter Earnings Conference Call. All lines have been placed on mute to prevent any background noise. After the speakers' remarks, there will be a question-and-answer session. Thank you. I would now like to turn the conference over to Alex Wang, Head of Investor Relations. Alex, you may begin your conference.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Alex Wang",
+      "title": "Head of Investor Relations",
+      "content": "Thank you, Krista. Thank you for joining us today, and welcome to Uber's Fourth Quarter and Full Year 2023 Earnings Presentation. On the call today, we have Uber CEO, Dara Khosrowshahi; and CFO, Prashanth Mahendra-Rajah. During today's call, we will present both GAAP and non-GAAP financial measures. Additional disclosures regarding these non-GAAP measures, including a reconciliation of GAAP to non-GAAP measures, are included in the press release, supplemental slides, and our filings with the SEC, each of which is posted to investor.uber.com. Certain statements in this presentation and on this call are forward-looking statements; you should not place undue reliance on forward-looking statements. Actual results may differ materially from these forward-looking statements, and we do not undertake any obligation to update any forward-looking statements we make today, except as required by law. For more information about factors that may cause actual results to differ materially from forward-looking statements, please refer to the press release we issued today as well as risks and uncertainties described in our most recent Form 10-K and other filings made with the SEC. We published our quarterly earnings press release, prepared remarks, and supplemental slides to our Investor Relations website earlier today, and we ask you to review those documents if you haven't already. We will open the call to questions following brief opening remarks from Dara and Prashanth. With that, let me hand it over to Dara.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "Thanks, Alex. Q4 was a standout quarter to cap off a standout year. Trip growth of 24% year-on-year outpaced gross bookings growth for the fourth quarter in a row, powered by strong audience trends and record engagement, as consumer activity remained healthy all around the world. At the same time, adjusted EBITDA of $1.3 billion exceeded our Q4 outlook with GAAP operating income of $652 million. Looking back, 2023 was an inflection point for Uber, proving that we can continue to generate strong profitable growth at scale. These results in our Q1 outlook demonstrate that we're starting 2024 with tremendous momentum and reliable execution. I'm energized by the pace of innovation I'm seeing across the company and I'm looking forward to another exciting year ahead. And now here's Prashanth.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Prashanth Mahendra-Rajah",
+      "title": "CFO",
+      "content": "Thank you, Dara. And let me add my welcome to our Q4 earnings call. As a reminder, we will be hosting an Investor Update next week on Wednesday, February 14th, to present an updated view of our strategy and capital allocation plans. As such, we kindly ask that you keep your questions today focused on our fourth quarter and full year 2023 results. And with that, let's open the call to questions.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Doug Anmuth",
+      "title": "Analyst",
+      "content": "Thanks so much for taking the question. As you come off of 2023, we have grown bookings 20% and achieved positive GAAP operating income and net income, and driven meaningful free cash flow. Can you just talk more about your top priorities as you enter 2024? How do you shift Uber to become more of an everyday product and what are some of the key strategic investment areas that you're most focused on? Thanks.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "Yes, great question, Doug. So, I think for us, the good news is that the strategy remains largely the same. First and foremost, it's about ensuring that our supply position, the number of drivers that we have on the road and engagement of those drivers continues to be healthy because that drives overall marketplace health. The number of drivers we have on the platform was up 30% year-on-year, with engagement also being up 10%. So, drivers are still at the heart of the business. As long as we've got drivers who are earning, for example, in the U.S. $33 per utilized hour and staying on the platform for longer, that platform stays healthy. We're augmenting that base platform with a number of new initiatives, new products. Our enterprise business is actually showing nice strength early in the year, as is our Reserve for folks willing to pay more for better reliability for those travel locations. You've got a base business that's growing at fast rates, gaining category position against many competitors. In delivery, it's very similar, adding more restaurants, ensuring the reliability of services is excellent. The business has accelerated its growth from 16% top-line to 17% while significantly increasing margins, augmented by new services such as grocery, which is now at a $7 billion run rate and growing rapidly. Advertising, which we told you would be a $1 billion run-rate business next year, is going to surpass that, with a run rate already at over $900 million in Q4. We're continuing to grow faster than the competition on a global basis, improving margins, and being profitable creates additional possibilities as well. Essentially, if next year is the same as this year, just with bigger numbers, I'll be happy.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Douglas Anmuth",
+      "title": "Analyst",
+      "content": "Great. Thank you, Dara.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "You're welcome.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Eric Sheridan",
+      "title": "Analyst",
+      "content": "Thanks so much for taking the question. Maybe following up on Doug's broader question and spreading it out around the globe. Curious if there were any geographic areas you wanted to call out exiting 2024 and looking into 2024, where you see elements of either improved market share position or elements of driving the utility around Uber One and linking more Mobility activity with more delivery activity that we should keep an eye on as we move deeper into 2024. Thanks so much.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "Yes, Eric, what I'll start with is actually Delivery. We're quite happy to see that our Delivery business accelerated its gross bookings growth this year, growing category position in 10 out of its top 10 markets. The growth you see from us in Delivery is substantially in excess of the category. It's largely due to our team executing well by focusing on basics: adding more selections, bringing in more consumers, enhancing carrier reliability, and improving service error rates. Our Uber Eats business is gaining significant free traffic from rides, with approximately 45% of Delivery gross bookings coming from membership, which drives frequency. In Mobility, standouts were Latin America and Asia-Pacific. We've had strong growth across the globe, particularly in Japan, Korea, Australia, and Taiwan, while India remains a strong market for us, making progress against our biggest competitor. Latin America\u2019s growth was particularly robust.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Eric Sheridan",
+      "title": "Analyst",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Alex Wang",
+      "title": "Head of Investor Relations",
+      "content": "Next question. You bet.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brian Nowak",
+      "title": "Analyst",
+      "content": "Thanks, good morning, guys. I have two, one for Dara, one for Prashanth. Dara, you've talked a lot over the 2023 period about increasing frequency and increasing engagement on the overall platform. Can you just talk to us about the key areas where you need to invest to continue turning more miles into wows and enhancing user engagement and satisfaction? And then for Prashanth, you've been in your role for a bit now; can you share a couple of observations which you believe are most surprising and underappreciated about the company, internally versus externally?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "Yes, absolutely. I appreciate your phraseology there. So in terms of frequency, we need to focus on setting a reliable and predictable service every day for every occasion. For Mobility, this means ensuring that ETAs are constructive and that surge pricing remains minimal. We\u2019re moving in the right direction with both, especially in Q1. For Delivery, ensuring that we avoid errors and keep our delivery promises\u2014like delivering an order in 25 minutes\u2014are critical. We believe that our platform gives us an advantage. As users engage with multiple products, they tend to return more often and stick around longer. Our team is using AI algorithms to craft targeted promotions at the right moment for our users. Membership has also become a tailwind for frequency, with our membership now at 19 million\u2014up significantly on a year-on-year basis.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Prashanth Mahendra-Rajah",
+      "title": "CFO",
+      "content": "Good morning, Brian. Thank you for the question. If I think about the observations I've made over the past three months, the level of excitement and energy within the organization focused on building products for users, earners, and partners is very impressive. This is a mission-driven company; it's quite palpable. Additionally, the internal conviction around driving profitable growth is encouraging. There is significant runway for this organization to continue focusing not just on growth but also ensuring that growth comes with substantial profit leverage.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Ross Sandler",
+      "title": "Analyst",
+      "content": "Great. Dara, the Mobility incremental margin bounced back nicely to 10%. You said last quarter this would move around a bit. How do you think about the outlook on that going forward? And as new areas like Reserve, which has higher margins, taxi or shared rides with lower margins come online, how do we think about Mobility incrementals going forward? Thanks a lot.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Prashanth Mahendra-Rajah",
+      "title": "CFO",
+      "content": "Yes, good morning, Ross. I'd like to focus on EBIT dollar growth moving forward given the power of the platform and the leverage we\u2019re generating off of our revenue growth. Looking at incremental margins specifically, the Mobility business has a bit of volatility based on mix and investment decisions, so I wouldn't place too much emphasis on continued expansion of incremental margins. We believe incremental margins for Uber will push overall profitability up. However, remember that we will make investments in growth areas which could place some pressure on margins. Overall, expect continued growth in EBITDA margins, even if incremental margins accelerate less.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Justin Post",
+      "title": "Analyst",
+      "content": "Great, thanks. I have a couple of questions. First, can you talk about Mobility pricing and your ability to drive growth? Where do you think you stand, particularly for UberX, and how do you see pricing affecting growth in 2024? Second, regarding insurance, can you confirm if higher rates are included in the March guidance and let us know how you're thinking about a potential step-up in Q2?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "Yes, absolutely. In terms of Mobility pricing, it has been relatively flat on a year-on-year basis throughout this past year. Compared to pre-COVID levels, we've seen slight increases in pricing, which aligns with what we observe in other products. We actively work to maintain our supply position and improve our cost efficiencies to keep prices in check while driving the majority of our growth through transactions. In fact, overall transactions are growing 24%, and gross bookings are increasing 21% on a constant currency basis. We do not anticipate pricing to hinder growth at this stage; the growth company continues to be strong. We are targeting various demographics, including those willing to pay a premium for higher reliability, as well as more cost-conscious consumers, offering them options like UberX share and two-wheelers in certain markets. On this basis, we expect to continue growing our topline healthily this year.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Prashanth Mahendra-Rajah",
+      "title": "CFO",
+      "content": "I'll take that question. Remember, we provide automotive liability insurance on behalf of our drivers, which we're building into our pricing. This space is facing significant cost pressures, as indicated by the CPI print that showed motor vehicle insurance up 20% year-over-year. We\u2019re using data and technology to drive safety, including reducing left turns and alerting drivers of challenging intersections. We also have a robust risk management program and long-term partnerships with our carriers. Our captive insurance company allows us to retain risk, especially during hard insurance pricing periods. Finally, we have an excellent policy team working on reforms in various states to improve conditions for our drivers.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Mark Mahaney",
+      "title": "Analyst",
+      "content": "Thanks. I have two questions, please. First, regarding the advertising revenue growth that has been stronger than expected, what do you believe have been the biggest growth surprises? Which advertising parts have performed best? Second, concerning Uber One, you've mentioned it has 19 million users, which is great. Can you elaborate on some of the new features or enhancements that would further benefit consumers?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "Absolutely. We're pleased with the progress in advertising. The primary strength in our advertising comes from smaller local businesses that use our platform. During 2023, we\u2019ve helped these businesses, including neighborhood restaurants, earn approximately eight times their spend on advertising via our system. We're seeing growth in the number of advertisers using our platform, with around 550,000 businesses now advertising\u2014a growth of 75%. The focus is on bringing in more advertisers and encouraging existing ones to increase their spending. Faster growing areas of advertising include enterprise clients wanting targeted demographics and CPG clients in the grocery segment, which is among the fastest-growing areas. We're enhancing the tools available for advertisers, including reporting on ad spend incrementality. Additionally, journey ads are attracting users who may see brand advertising in the Uber app. Membership continues to grow, driven by holiday promotions and member upgrades to annual plans. Our focus for 2024 is to continue expanding features for Uber One users across multiple markets.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Prashanth Mahendra-Rajah",
+      "title": "CFO",
+      "content": "To put some numbers out there: we have 19 million members in the 25 countries Dara mentioned. About 45% of our Delivery gross bookings are coming from these members, which is key to frequency and overall growth.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "On grocery and retail, we're happy with the progress at a $7 billion gross bookings run rate. Our focus is to upsell grocery to Uber Eats customers. Since we've sunsetted the Cornershop app globally, we're integrating our grocery and retail offerings directly into the Uber Eats platform. We're promoting grocery available based on customer orders, like suggesting a wine bottle or dessert. We expect to see grocery orders increase as we enhance our offerings and partnerships; currently, about 14% of our Eats customers also order groceries.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Prashanth Mahendra-Rajah",
+      "title": "CFO",
+      "content": "For groceries, we're optimistic about unit economics improving. The power of our platform allows for efficiencies at the fulfillment level and presents attractive advertising opportunities. While this business won't be profitable in 2024, we expect better performance than in 2023, and we remain confident in the growth trajectory.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "Regarding Uber Teams, which enable teens to travel safely, we're expanding across various markets. The product has had strong usage frequency in line with adult users, as teens utilize it daily. Parents are reassured by driver safety measures, including allowing only top-rated drivers and providing dispatch alerts to ensure that the right car arrives. This level of safety technology creates a product that has been well received and is likely to capture long-term users as they age into adulthood.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Deepak Mathivanan",
+      "title": "Analyst",
+      "content": "Great, thanks for taking the question. Dara, upfront fares have been live in the U.S. for a few quarters now and have significantly impacted 2023. What are the opportunities for the expansion of this initiative into international markets and integrating it with a wider range of Mobility products beyond UberX in 2024? Additionally, regarding grocery, what key product initiatives do you see for 2024 that would build out that vertical, and do you envision opportunities to accelerate product development and partnerships possibly through acquisitions?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "We're glad with the rollout of upfront fares both in the U.S. and other markets. We initially introduced upfront fares on the delivery side of the business, which helped us improve the driver experience by providing better destination information. Our goal now is to fine-tune the product and focus more on targeting different trips to specific drivers based on their preferences. This will enhance trip acceptance rates and contribute to the network's efficiency. We're leveraging our extensive data and AI to gain a competitive edge in accuracy over our competitors. On grocery initiatives, our focus is primarily on building out our merchant base. As we continue piecing new partnerships together, we aim to enhance catalog searchability so that our users can find precisely what they need. We're optimistic that improvements in these areas will lead to further growth in our grocery and retail business.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Prashanth Mahendra-Rajah",
+      "title": "CFO",
+      "content": "Thank you, Krista. Before we wrap up, I wanted to announce some organizational changes. Alex Wang, who has led IR exceptionally, will now expand his role to include some FP&A responsibilities. I'm pleased to announce that Deepa Subramanian, previously the CFO of our Delivery business, will expand her scope to become the VP of IR and Corporate Finance. This transition will be gradual, and you'll be collaborating with both in the coming quarters. Please join me in congratulating them. We appreciate your time and look forward to talking to you again next week.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "This concludes today's conference call. Thank you for your participation, and you may now disconnect.",
+      "sentiment": "0.0"
+    }
+  ],
+  "reported_date": "2024-02-07"
+}

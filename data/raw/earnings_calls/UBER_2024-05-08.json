@@ -1,0 +1,241 @@
+{
+  "symbol": "UBER",
+  "quarter": "2024Q1",
+  "transcript": [
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you for standing by. My name is Sarah, and I will be your conference operator today. At this time, I would like to welcome everyone to the Uber Q1 2024 Earnings Conference Call. I would now like to turn the conference over to Deepa Subramanian, VP of Investor Relations and Corporate Finance. You may begin.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Deepa Subramanian",
+      "title": "VP of Investor Relations and Corporate Finance",
+      "content": "Thank you, operator. Good morning, and thank you for joining us today, and welcome to Uber's First Quarter 2024 Earnings Presentation. On the call today, we have Uber's CEO, Dara Khosrowshahi; and CFO, Prashanth Mahendra-Rajah. During today's call, we will present both GAAP and non-GAAP financial measures. Additional disclosures regarding these non-GAAP measures, including a reconciliation of GAAP to non-GAAP measures, are included in the press release, supplemental slides and our filings with the SEC, each of which is posted to investor.uber.com. Certain statements in this presentation and on this call are forward-looking statements. You should not place undue reliance on forward-looking statements. Actual risks may differ materially from these forward-looking statements, and we do not undertake any obligation to update any forward-looking statements we make today, except as required by law. For more information about factors that may cause actual results to differ materially from forward-looking statements, please refer to the press release we issued today as well as the risks and uncertainties described in our most recent Form 10-K and in other filings made with the SEC. We published our quarterly earnings press release, prepared remarks and supplemental slides to our Investor Relations website earlier today and we ask you to review those documents, if you haven't already. We will open the call to questions following brief opening remarks from Dara. With that, let me hand it over to Dara.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "Thanks, Deepa. Our results this quarter once again demonstrate our ability to deliver consistent, profitable growth at scale. Uber is off to a solid start in 2024 with trips up 21% year-on-year, consistent with our gross bookings growth rate on a constant currency basis. Our audience expanded by 15%, while frequency grew 6%, underpinned by 7.1 million drivers and couriers on our platform. At the same time, record adjusted EBITDA of $1.4 billion grew 82% year-over-year, and we generated $4.2 billion of free cash flow over the trailing 12 months. We're making good progress on many of the initiatives we laid out for 2024 in our last earnings call. Demand for Uber remains strong. And just last week, we hit another best week ever for gross bookings, and we expect to deliver another quarter of over 20% year-on-year growth on a constant currency basis in Q2.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your question comes from the line of Justin Post with Bank of America.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Justin Post",
+      "title": "Analyst",
+      "content": "I guess, Dara, a lot of press on Tesla and robotaxi efforts lately. How are you thinking about AV impact on Uber and potential for new competition? And then maybe, Prashanth, it looks like a stable bookings growth outlook in the low 20s in the second quarter, excluding FX. Anything to call out on headwinds or tailwinds? And any changes to your outlook, mid- to high teens growth, as you think about bookings in the second quarter?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "Prashanth, you want to talk to the second question first...",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Prashanth Mahendra-Rajah",
+      "title": "CFO",
+      "content": "Thank you for the question, Justin. To summarize our gross bookings outlook, we want to emphasize our growth formula, which includes audience size, usage frequency, and pricing. In the first quarter, we saw strong audience growth of 15% and frequency growth of 6%, while pricing remained relatively stable. We anticipate similar trends in the second quarter, reflected in our guidance on the growth formula. Demand for our products is robust, and we expect consistent top-line growth exceeding 20%. The guidance for Q2 is nearly identical to what we provided for Q1 in terms of midpoint and range. We are pleased with our progress regarding the 3-year CAGR outlook we shared in February. Regarding the Q2 guidance, we noted some foreign exchange headwinds, specifically about 5 percentage points impacting Mobility's year-over-year gross bookings, largely due to the Argentine peso. However, we still anticipate Mobility to grow in the mid-20s when considering constant currency. Additionally, I mentioned in my prepared remarks that we expect Mobility's adjusted EBITDA margins to dip slightly from the previous quarter since we held back some investments in Q1, which will not be the case for Q2. Now, I'll hand it over to Dara to address the AV question.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "Justin, in terms of AVs and our strategy, it really remains the same. First thing I would say is that we think that the AV technology at maturity is going to be very good for the industry. It will be great for Uber. It holds a promise of safer rides. It holds a promise of expanding the marketplace by lowering prices and making mobility, delivery available for a wider swath of the population. And usually, when we see kind of lower prices for any service, you see higher adoption for a service, and that really is the promise of AV. At the same time, we think that the technology is going to take a lot of time to develop. Obviously, there has to be a regulatory framework to put in place. And as the technology develops, we think that actually you're not going to make a jump from human drivers fully to AV. There's going to be a relatively long transition period that happens. Where for example, on Uber, you see it now, you have a combination of human drivers fulfilling certain rides or deliveries or even loads on the trucking side along with AVs as well. And over a period of time, you'll see the penetration of AVs increase. I think it's very difficult to predict that period of time. But really, what we bring is the systems that we put in place, the pricing, matching, routing algorithms, the payments systems that we have on a global basis as well as the demand that we bring that enables us to partner with these AV providers to really drive utilization of their assets. This is very expensive tech that's been developed over a long time. And if you're an AV fleet owner or you are an individual owner of a car, whether that's a Tesla or another kind of car, you're just going to make more money and achieve a higher return on your investment if you plug in your AVs into the Uber ecosystem and into Uber demand. So we think we bring lots to the table. We're looking to partner with the AV industry. I do think that there's a good amount of excitement over some of the newer technologies and imitation models that we see in terms of AV. And you see that promise with Tesla's FSD. It looks like a great product. And also, you see that same promise in a lot of smaller players, whether that's Wayve in the U.K. who got funded for $1 billion, a Waabi that, for example, we have investments in. These imitation learning models have a lot of promise over the more classic heuristic-based development that you saw with AV. And we think it's going to allow more players into the marketplace. We think it's going to reduce the amount of capital required to develop these systems over a long period of time. And we're looking to partner with big players and small players. And again, as this technology develops, we think we will be a big partner in it, and we think, ultimately, it will benefit AV players and it will benefit ourselves and riders and eaters as well.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your next question comes from the line of Brian Nowak with Morgan Stanley.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brian Nowak",
+      "title": "Analyst",
+      "content": "I have two questions. First, Prashanth, I want to revisit the comment in the prepared remarks regarding the decision to intentionally hold back on certain investments with lower returns on investment. Could you help clarify which specific areas you decided to limit investment in? Additionally, how should we consider the incentives and strategies for investment as you aim for sustainable growth throughout the year? Secondly, I wanted to focus on Latin America. I've heard comments from one of your competitors in that region about possibly reducing investment. I'm interested to know your perspective on the situation in Latin America and what the base case outlook was for that market during the Analyst Day guidance in February.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Prashanth Mahendra-Rajah",
+      "title": "CFO",
+      "content": "Thanks, Brian. Let me start by saying that when we assess our investments each quarter, we focus on how to attract drivers and couriers to our platform, how to support merchant onboarding, and how to engage consumers. We rotate our emphasis among these areas each quarter according to our strategic goals across various markets. In the first quarter for Mobility, we typically experience seasonal trends that lead to a lower return on investment for some of our expenditures compared to later in the quarter. Due to this lower ROI, we decided not to invest as heavily in the first quarter as we would in other quarters. However, you can expect that we will increase our investment in the second quarter. We wanted to highlight this point to ensure that there are no overly optimistic assumptions regarding Mobility margin improvements. We remain confident that Mobility is on a positive trajectory for sustained margin growth, but we felt it was important to acknowledge some of the variability you might notice.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "Yes. Regarding Latin America and the competitive landscape, particularly in Mobility, we are experiencing significant volume growth in the mid-20s, which we find encouraging. While DiDi has suggested greater capital discipline, we haven't observed that yet. They remain highly competitive and are investing aggressively in the market. This could be a temporary strategy, possibly influenced by their need to demonstrate international growth as the Chinese market slows down in preparation for an IPO, but it's hard to predict. We've encountered similar situations in the past, and we have a strong track record of defending our market position when faced with increased competition. We tend to be more efficient in terms of financial and network performance. Currently, DiDi is certainly being aggressive, and we are responding in kind, as we do with competitors globally. The positive aspect for us is our robust P&L and ongoing margin improvements, giving us ample resources to invest while remaining aggressive.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Prashanth Mahendra-Rajah",
+      "title": "CFO",
+      "content": "Brian, just to shout out for the note last week, I thought that was nice. And we're very much aligned with the more public participants in this market, the better it is for everyone.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your next question comes from the line of Doug Anmuth with JPMorgan.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Douglas Anmuth",
+      "title": "Analyst",
+      "content": "I just wanted to go back to the deceleration that you saw in monthly trips for MAPC in Q1. Just hoping you could unpack that a little bit in terms of Latin America and some of the holiday impact there and what that means in Q2. And then, Dara, can you just talk more about your Delivery strategy in the suburbs, the key levers to success there? And then how you think the Instacart partnership fits in as well?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Prashanth Mahendra-Rajah",
+      "title": "CFO",
+      "content": "Yes. Let me address the first part of that. The Mobility gross bookings growth for the first quarter was 26% on a constant currency basis. This growth includes about 1 point that resulted from deconsolidating the non-ridesharing aspect of our Careem business in December, which was previously included in Mobility's results. With that change, it affects the comparisons even though it isn\u2019t part of Q1. Additionally, there are two seasonal factors to consider. First, in Latin America, we experienced stronger demand in Brazil around Carnival last year, which did not occur in Q1 of this year. Furthermore, both Easter and Ramadan shifted between the quarters, contributing to some fluctuations in comparisons. Overall, we remain confident in the growth of the Mobility business, expecting mid-20s year-over-year growth at constant currency for Q2, consistent with Q1. As noted in Dara's opening remarks, audience and frequency remain strong at the overall Uber level and at the individual lines of business levels.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "Yes. Doug, regarding our suburban strategy for Eats, it closely aligns with our overall strategy for our Delivery business globally. We are pleased with our growth rates, achieving 17% constant currency growth for the second consecutive quarter. Our growth rates in the U.S. and Canada exceed that, which is encouraging. Overall, we are experiencing faster growth in suburban areas compared to urban locations, where our penetration is higher. It\u2019s essential to focus on the fundamentals: establishing an audience and a brand, expanding selection, ensuring competitive pricing, and maintaining high service quality. The deal with Instacart adds a high-quality, targeted audience in suburban regions to the Uber Eats ecosystem and our merchants. We believe the added demand from this affluent consumer group will be appreciated by our merchants. Additionally, we are enhancing our penetration with Domino's and several other merchants in suburban areas. Therefore, we feel well-positioned for continued suburban growth, and the Instacart agreement enhances our potential for future growth in these regions.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your next question comes from the line of Eric Sheridan with Goldman Sachs.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Eric Sheridan",
+      "title": "Analyst",
+      "content": "Maybe a 2-parter on Uber One. Would love to learn anything that you've sort of continued to evolve and develop with respect to Uber One internationally as some of those markets have rolled out and they've begun to scale the longer Uber One has been available in some of the more overseas markets? And second, you have the call out in the prepared remarks around the subscription revenue run rate, what do you see as some of the biggest white spaces to drive more subscription revenue, but also continue to add more value and depth to Uber One at the subscription layer in terms of incentivizing adoption?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Prashanth Mahendra-Rajah",
+      "title": "CFO",
+      "content": "Before Dara speaks, I want to remind everyone that our Uber One membership fees have now surpassed $1 billion. This is the first time we've highlighted this, and it marks an important milestone for us as we continue to drive growth in this area.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "Yes, Eric, our strategy for Uber One internationally is similar to our domestic and global approach. It\u2019s a global product, and we are seeing steady growth in the adoption of Uber One in the U.S., Canada, and around the world. Members currently account for 32% of Mobility and Delivery gross bookings, showing a significant year-over-year increase. The figure is over 45% for Delivery gross bookings due to higher penetration. It's important to note that members spend 3.4 times more than nonmembers each month, which helps us boost adoption and engagement with our services. We are exploring various exciting initiatives, one being the optimization of Uber Cash for Mobility. For Delivery, members can enjoy no delivery fees and discounts on food. In Mobility, users earn Uber Cash, and recently, 25% of the Uber Cash earned in Mobility is being used in Delivery, increasing from the mid-teens at launch. Business riders also benefit from Uber Cash, with over 60% of Mobility earnings being redeemed for Delivery. We believe that membership plays a crucial role in increasing our marketplace penetration and frequency growth, and it also encourages users to engage with Uber Cash and experience Delivery advantages. Regarding Mobility, we see opportunities to penetrate further and are introducing cash-back incentives to promote more premium product usage, which typically yield higher margins. We will be rolling out more member-exclusive events and experiences to surprise and delight our members. Additionally, we are transitioning more members globally to annual passes, leading to significantly improved retention rates. Our members can save, which reflects positively in our retention metrics, having increased nearly 200 basis points year-on-year in March, for example. There\u2019s a lot happening, and we believe there\u2019s substantial potential for growth in our membership product, with $1 billion in revenue highlighting just the beginning of that.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your next question comes from the line of Nikhil Devnani with Bernstein.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Nikhil Devnani",
+      "title": "Analyst",
+      "content": "Dara, I wanted to ask about U.S. rideshare growth. Is it keeping pace with your mid-20s growth overall for the business? Can you talk a bit more about where the growth is coming from? It feels like it's more frequency led, but is there still a healthy funnel of new customer acquisition? Maybe it's in suburbs, smaller cities, or new demographics. Your overall thoughts on how this growth can be sustained would be very helpful.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "In terms of U.S. Mobility growth, we do not separate U.S. from non-U.S. figures. However, the overall Mobility growth is at 26% year-on-year, down from 28% last quarter, primarily due to the impact of Careem. These growth rates are certainly robust, with the U.S. being our largest market for gross bookings. The healthy growth in the U.S. is essential to achieve these rates. The main source of Mobility growth is from our audience, with MAPC growth in Mobility up 17% year-on-year and overall growth at 15%. Notably, the audience growth in Mobility is outpacing other areas. Furthermore, our new products like Hailables, U4B, our Health business, Reserve, and UberX Share are showing significant promise, with an 80% year-on-year growth. Over 20% of our new customers are also coming from this category, indicating a rapidly expanding business that is attracting a new audience. Since the pandemic, we\u2019ve noticed a drop in our most frequent users due to decreased commuting. However, we see a strong rebound in weekday commute usage as people return to work. While some customers may not prefer this shift, we welcome the return to normalcy at Uber, and we are optimistic about bringing back our previous daily users, as we are already seeing strong weekday volumes.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your next question comes from the line of Ross Sandler with Barclays.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Ross Sandler",
+      "title": "Analyst",
+      "content": "Great. The prepared remarks flagged a bunch of new features in the advertising business, enterprise features. So can you guys give us an update on where we are with the non-restaurant advertising as a percentage of just the total advertising ARR? And then somewhat related, with the new Instacart partnership, can we sell advertising against that engagement? And I guess just how does the Instacart partnership change your own O&O efforts in U.S. grocery? And how are the unit economics going to work in this partnership?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Prashanth Mahendra-Rajah",
+      "title": "CFO",
+      "content": "Ross, it's Prashanth. I'll start with a couple of data points before handing it over to Dara. First, we achieved a $900 million run rate for advertising in the fourth quarter of 2023. We don't differentiate between Delivery and Mobility in that figure. Regarding the Instacart partnership, as Dara mentioned and we discussed yesterday, when users click through Instacart and access the Uber Eats WebView app, the ads displayed there are ours, and we control that space for monetization. Now, I'll pass it to Dara for further comments.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "Yes. Non-restaurant advertising is still in its early stages. We discussed restaurant advertising reaching 2% of gross bookings, and we believe our sponsored items in grocery can achieve even higher percentages. For instance, Instacart is currently in the mid-2s regarding advertising as a percentage of gross bookings. We've fully launched our sponsored items in the U.S. and Canada, and we plan to expand into eight additional priority markets in 2024. I would liken our sponsored items now to where we were with sponsored listings for restaurants three years ago. We provided a clear growth roadmap to $1 billion in revenue, and we will exceed that this year. We are confident that we can pursue a similar path for non-restaurant-sponsored items in the grocery sector. We are already engaged with approximately 500 leading CPG brands and are observing strong retention as we expand. The growth of our grocery platform will be crucial; this past quarter, about 15% of our monthly active users on Eats made purchases from grocery, which is a notable year-on-year increase. As this audience grows, we believe we can effectively monetize it through our core business and advertising, similar to what we've accomplished with restaurants. This presents a significant and potentially high-margin opportunity. Additionally, we have a positive outlook on rider ads, with strong engagement from riders and a click-through rate of over 2.5%, well above the industry average of under 1%. Therefore, video ads and tablets remain a promising area for growth, and we are pleased with the progress we are making.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your next question comes from the line of Mark Mahaney with Evercore.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Mark Mahaney",
+      "title": "Analyst",
+      "content": "I have two questions. First, in your prepared remarks, you mentioned that MAPC growth is accelerating in markets like the U.S. Can you explain why MAPC growth has accelerated for you? Secondly, regarding delivery, particularly in grocery and retail delivery, could you discuss the impact on segment margins or the unit economics? How much of a drag has this been, or do you foresee a path to profitability for these two segments? Are they already contributing positively to Delivery's overall profitability?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "Yes, Mark. So in terms of delivery growth and audience growth, this has been pretty consistent, right? We've accelerated the growth rate of our Delivery business. It was growing closer to 10% early last year. It's now growing in the teens. And we think the nature of that growth is improving as well, which is most of the growth last year was on price. Now actually, price is a relatively small portion of the growth, and audience and frequency are the largest portions of the growth in Delivery. And it is about just getting the basics right. It's about having a great service, having significant selection. Active merchants are up 12% on a year-on-year basis. It's about improving pricing. So for example, merchant-funded promos, these are merchants putting in promos, pricing promos into the marketplace in order to drive volumes. Those are up 100 basis points on a year-on-year basis. Again, lowering effective price to the consumer. And then it's about quality. We continue to improve our defect rates. All that adds up to higher frequency, higher retention of the audience. And we continue to spend aggressively in marketing our brand. We think the Uber Eats brand is a top brand out there. And then on top of that, of course, we've got the unique platform benefits of our Mobility business that continues to grow the audience, throwing over some of that audience to our Delivery business. So this is all part of the formula that we have in this journey that we've been on over the past couple of years. We're able to do so while we're increasing margins because of the efficiency that we are getting in our marketplace, because of the efficiency, the kind of structural benefits that the platform brings, and we see no signs of that slowing down. Prashanth, do you want to talk about grocery, retail?",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Prashanth Mahendra-Rajah",
+      "title": "CFO",
+      "content": "Yes. I'll take the last part of that. So we remain very positive on grocery and retail. The business growth remains quite strong. GBs are up about 40% on a constant currency basis. Once again, 40%, so very strong top line there. And despite that very strong growth, we were still able to expand our Delivery EBITDA margins by about 20% sequentially, and that was partly contributed to by improvement in the profitability of the grocery business. So it is still not where we want it to be. It's still not at a positive EBITDA margin, but it is improving both year-over-year and sequentially, and we feel very good about the path we have to getting to profitability on grocery. It's going to come from a couple of items. First, the power of the platform, which we refer to quite frequently here. About 15% of our Delivery users are ordering groceries, and that's up from where we left Q4. Continuing to see opportunities on ads, which are great margin accretive for us as we bring those CPG players into the platform for grocery advertising. Being able to lower some of the consumer promotions we have. So overall, a number of different drivers. And we think that grocery will eventually be a very strong part of the overall portfolio.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "With that, I think we have time for our final question, operator. So if we could go to that.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "James Lee",
+      "title": "Analyst",
+      "content": "Two here on Delivery. Can you guys give us an update on maybe the European gig economy regulation, maybe what policy we should pay attention to, and how should we think about implication of labor costs? And maybe on the U.S. side, can we get a sense of the impact of minimum wage in Seattle and New York on GB and EBITDA? And how do you guys plan to mitigate impact going forward?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "Yes. Regarding the EU platform work directive, lawmakers have decided to keep the current system intact, meaning worker status will still be determined by individual countries. Member states have until mid-2026 to implement this. We believe this deal is unlikely to significantly alter the situation for most EU countries. Our stance remains that we should provide the flexibility associated with gig work to couriers and drivers, while ensuring they receive certain protections through conversations at a local level. We do not expect any changes regarding the EU regulations.  On the other hand, in Seattle and New York, some regulations have been quite unpopular among couriers, restaurants, and customers. For instance, in Seattle, which is a relatively small market for us, delivery orders dropped by 45%, leading to a 50% increase in courier wait times year-on-year. While couriers might earn more per order, they are receiving fewer orders, resulting in 30% of active couriers leaving the platform, which is not what the City Council intended. Currently, the Seattle City Council is considering reforms to lower standards and make them more feasible for platforms. A vote is scheduled for tomorrow, and we are optimistic about a positive outcome. It\u2019s crucial that the outcome benefits couriers, restaurants, and customers, as the current Seattle regulations have clearly failed to protect those they were designed to safeguard. As for New York City, we have had to limit the number of couriers on our platform due to regulations, resulting in a waitlist of over 20,000 couriers wanting to join. Since the implementation of these regulations, we have reduced the number of active couriers by almost 25%. Fewer people are able to earn in New York, which we believe is negative. However, we have managed to absorb the financial impact of various regulations on our platform, as reflected in our profitability, which has increased by over 80% year-on-year for Uber Eats. We are a large, diversified company with various markets, and our technology allows for a more effective marketplace that can withstand these regulations. Unfortunately, couriers in both New York City and Seattle who wish to work are feeling the adverse effects of these regulations, and we hope regulators will recognize the correct path forward, as the current regulations have definitely harmed those they are meant to protect.",
+      "sentiment": "-0.2"
+    },
+    {
+      "speaker": "Prashanth Mahendra-Rajah",
+      "title": "CFO",
+      "content": "Okay. Before Dara wraps it up, I wanted to remind everyone next week is our annual Uber GO-GET. This is our event which showcases new products and features across both the Mobility and Delivery. Obviously, we're not going to get ahead of the announcements, but our theme is togetherness. And in addition to the product piece, we've got a great fireside chat with Dara and Maria Shriver. This will be in New York. So if any of you are looking to get out of the office, please reach out to Deepa and we can see what space we have. If you do join us, my only request is you travel by Uber. And with that, let me have Dara wrap it up.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "I like it. My CFO is upselling. And thank you, everyone, for joining us on the call, and a huge thank you for the Uber teams. There's a ton of work that goes into all of the new products that we're launching, into the products that we'll be talking about in GO-GET, and into delivering the kind of growth and profitability that we've seen from Uber over the past couple of years. So a big thank you for the team for continuing to deliver this quarter.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Prashanth Mahendra-Rajah",
+      "title": "CFO",
+      "content": "Thanks, everyone. Talk to you next quarter.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "This concludes today's conference call. Thank you for joining. You may now disconnect your lines.",
+      "sentiment": "0.0"
+    }
+  ],
+  "reported_date": "2024-05-08"
+}

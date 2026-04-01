@@ -1,0 +1,553 @@
+{
+  "symbol": "PWR",
+  "quarter": "2024Q3",
+  "transcript": [
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Greetings, and welcome to the Quanta Services Third Quarter 2024 Earnings Conference Call. As a reminder, this conference is being recorded. It is now my pleasure to introduce your host, Kip Rupp, Vice President of Investor Relations. Thank you, sir. You may begin.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Kip Rupp",
+      "title": "Vice President of Investor Relations",
+      "content": "Thank you, and welcome, everyone, to the Quanta Services third quarter 2024 earnings conference call. This morning, we issued a press release announcing our third quarter 2024 results, which can be found in the Investor Relations section of our website at quantaservices.com. This morning, we also posted our third quarter 2024 operational and financial commentary and our 2024 outlook expectations summary on Quanta's Investor Relations website. While management will make brief introductory remarks during this morning's call, the operational and financial commentary is intended to largely replace management's prepared remarks, allowing additional time for questions from the institutional investment community. Please remember the information reported on this call speaks only as of today, October 31st, 2024, and therefore, you are advised that any time-sensitive information may no longer be accurate as of any replay of this call. This call will include forward-looking statements and information intended to qualify under the Safe Harbor from liability established by the Private Securities Litigation Reform Act of 1995, including statements reflecting expectations, intentions, assumptions, or beliefs about future events or financial performance that do not solely relate to historical or current facts. You should not place undue reliance on these statements as they involve certain risks, uncertainties, and assumptions that are difficult to predict or beyond Quanta's control and actual results may differ materially from those expressed or implied. We will also present certain historical and forecasted non-GAAP financial measures. Reconciliations of these financial measures to their most directly comparable GAAP financial measures are included in our earnings release and operational and financial commentary. Please refer to these documents for additional information regarding our forward-looking statements and non-GAAP financial measures. Lastly, please sign up for email alerts through the Investor Relations section of quantaservices.com to receive notifications of news releases and other information, and follow Quanta IR and Quanta Services on the social media channels listed on our website. With that, I would like to now turn the call over to Duke Austin, Quanta's President and CEO. Duke?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "Thanks Kip. Good morning everyone and welcome to the Quanta Services third quarter 2024 earnings conference call. Before I turn to our third quarter results, I would like to comment on Quanta's response to Hurricanes Beryl and Helene. During the third quarter, we deployed significant resources to assist power restoration and related efforts in Texas for Hurricane Beryl and in the Southeast for Hurricane Helene. During these events, our employees often do more than work to get the power restored, but it's not well known are the other ways that our crews who are first responders help people in need during these devastating events. For example, in response to Hurricane Helene, Quanta crews worked with local sheriffs, law enforcement groups and various humanitarian organizations to leverage our helicopter assets to deliver more than 200,000 pounds of cargo to impacted rural and mountain communities in North Carolina, including water, food, medical and camping supplies, pet food, hay for livestock, and more. Our pilots also aided search and rescue efforts, provided reconnaissance and roadway assessments, and performed welfare checks. These severe weather events also often impact the lives and property of Quanta employees, many of whom are away from their families for long periods, restoring power to others. Quanta Cares, our employee relief fund, provided financial support to approximately 125 employees and their families who were impacted by these damaging storms. I want to recognize and thank the thousands of Quanta employees who work tirelessly to restore power and much more for people in need during these severe weather events. Quanta delivered another quarter of double-digit growth in revenues, adjusted EBITDA and adjusted earnings per share, as well as a number of other record financial metrics including total backlog of $34 billion and free cash flow of $539 million. There is momentum building across our portfolio of solutions with the increased demand for and tightening of power generation capacity and the significant power grid upgrades and enhancements required to facilitate load growth. Our collaborative solution-based approach is valued by our clients more than ever. Quanta sits at the nexus of the utility, renewable energy and technology industries, and the convergence of these industries is gaining pace. Utilities across the United States are experiencing and forecasting meaningful increases in power demand for the first time in two decades, which is being driven by the adoption of new technologies and related infrastructure including artificial intelligence and data centers, as well as federal and state policies designed to accelerate the energy transition and policies intended to strategically reinforce domestic manufacturing and supply chain resources. The necessity to build and modernize infrastructure is clear, and we believe Quanta's craft, skilled labor, workforce and self-performed capabilities are critical to advancing our infrastructure solutions. To that end, the integration of Cupertino Electric is progressing well and while it is early, we have received positive customer response to our comprehensive critical path electric infrastructure solutions for the technology and data center industry that provides opportunity to improve speed to market for projects. In summary, we are executing well on our strategic plan and while there are areas for improvement, we are pleased with where we sit. We are pacing well against our multiyear financial targets including double digit EPS growth and double digit returns. We ended the quarter with record backlog. We expect adjusted EPS to grow approximately 20% at the midpoint of our guidance over last year. We expect record levels of free cash flow this year, a leverage profile below two times by year-end and over $3 billion of liquidity. Our end markets have never been better and we see opportunity for further strength in the coming years. As I hope you can tell, we are proud of our execution and even more excited about the solutions platform we have built for the future. We are positioning Quanta for decades of expected necessary infrastructure investment and believe our service line diversity creates platforms for growth that expand our total addressable market. Our portfolio approach and focus on craft skill labor is a strategic advantage that we believe provides us the ability to manage risk and shift resources across service lines and geographies, which is increasingly important as the energy transition and new technologies add complexity to infrastructure programs. We believe our service offering diversity, supply chain capabilities and portfolio approach have improved our cash flow and returns profile and position us well to allocate resources to the opportunities we find most economically attractive and achieve operating efficiencies and consistent financial results. I will now turn the call over to Jayshree Desai, Quanta\u2019s CFO, to provide a few remarks about our 2024 guidance results, about 2021 results and guidance and then we will take your questions. Jayshree?",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Jayshree Desai",
+      "title": "CFO",
+      "content": "Thanks, Duke and good morning everyone. This morning we reported third quarter revenues of $6.5 billion, net income attributable to common stock of $293.2 million or $1.95 per diluted share and adjusted diluted earnings per share of $2.72. Adjusted EBITDA was $682.8 million or 10.5% of revenues. Additionally, we generated healthy cash flows in the third quarter with cash flow from operations of $739.9 million and free cash flow of $539.5 million. During the quarter we also successfully recapitalized the business following our acquisition of Cupertino, allowing us to address the maturity of our senior notes that were due in October. Our earnings and cash flow performance coupled with this recapitalization allowed us to end the third quarter with ample liquidity and a balance sheet that supports both our organic growth expectations and the opportunistic investment of capital to generate incremental returns for our stockholders. This morning we also provided an update to our full year 2024 financial expectations, which calls for another year of profitable growth with record revenues and opportunity for double-digit growth in adjusted EBITDA, adjusted earnings per share and free cash flow. We believe our expectations demonstrate the strength of our portfolio approach to the business, our commitment to our long-term strategy, favorable end market trends and our competitive position in the marketplace. Additional details and commentary about our 2024 financial guidance can be found in our Operational and Financial Commentary and Outlook Expectation Summary, both of which are posted on our IR website. With that, we are happy to answer your questions. Operator?",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our first question comes from Atidrip Modak with Goldman Sachs. Please go ahead with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Atidrip Modak",
+      "title": "Analyst",
+      "content": "Hi, good morning Duke and Jayshree. You acquired some transformer manufacturing capability again. Can you talk about that a little bit? Is the supply chain still significant of a concern going ahead and how much of your internal needs can you now source and are there synergies with the PTT assets? Any color around that?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "Yes, thank you. We did acquire some a small transformer manufacturing company in upstate New York in the quarter, a hundred-year-old family business. When we were going through the markets we did some things that would allow us to make this acquisition certainly beneficial to PTII and the markets that we serve. We continue to see constraints on large transformers. The factory certainly helps us with that. Our backlog in the business has gotten longer, not shorter. We continue to see opportunities internally and find synergies with the ability to build both transformers and breakers as we move forward. So the supply chain constraints are there. They're real. We're trying to do things in the lower 48 with the load that we see and so I think we'll continue to see ourselves get in a good position to make sure that we can have self-performed capabilities both from a manufacturing standpoint as well as to build and the craft skill labor on certain critical path items. So the synergies are there. We're seeing them show up. You can support the business internally. We build probably around 150 to 170 EPC subs a year. So we can support that, but that's not what we bought them for. We really believe it's to enhance the whole market and we would not do that internally just to supplement some of our bills that provide synergies to some clients.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Atidrip Modak",
+      "title": "Analyst",
+      "content": "Got it. That's helpful. And then you talked about having visibility into the timing of renewable transmission projects. Can you give us a lay off the land, big picture view of how that's shaking out for the next few years here as conversations with your customers is progressing?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "Yes, I mean, I think everyone's hearing the market demand from load and in order for load to work, we need the transmission infrastructure. I would say that the inbounds, the bids, the proposals that we have, things in contract, things that we're talking about are at record levels year-over-year, record levels in 2025, record levels in 2026, record levels in 2027. We continue to see more bid opportunities, more discussions on larger transmission capacity constraints. So yes, I mean, we said it on the call. We've never seen the business any better and we continue to believe that large transmission is the cheapest form of generation in many ways. So you can't do the things that we're trying to do and accomplish in the country without transmission and we need to expedite it.",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "Awesome. Thank you so much.",
+      "title": "",
+      "content": "",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Jamie Cook with Truist. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jamie Cook",
+      "title": "Analyst",
+      "content": "Hi, good morning. I guess two questions from me. One, the renewable margins in the quarter obviously were pretty good and you've made a nice improvement in margins for that business throughout the year. And then you raise guidance, I guess. Jayshree, is it unreasonable to think that 2025, we're finally at a place, with the revenue and the performance of the business where we can expect double-digit margins because that's where we will be exiting the year. I'm just wondering if that's a reasonable expectation. And then I guess my second question, Duke or Jayshree on Cupertino, just sort of an update on how that business is doing. Is there any change in your guidance for Cupertino, for the year and then just potential for revenue synergies there? Thank you.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "Hey Jamie. I\u2019ll speak and then let Jayshree comment on some of the questions in a moment. When we look at the renewables and margins, they have been strong. We mentioned that we could achieve double-digit margins, and I believe that's possible over time. Seasonality will affect the business, so the first half will be slower, but we expect to pick up momentum in the second half. The transmission business has consistently performed in double digits, and the platinum business has too. I believe we can maintain that moving forward. The Cupertino business has already provided us with synergies, and we continue to see interest in it. From our perspective, it allows us to reach a different customer base and gives us greater participation in the data center sector. We haven't fully integrated synergies into our projections yet, but they are present, much like with Blattner, and we're starting to notice their impact in our business now. We anticipate Cupertino will contribute further to our results in 2025, 2026, and beyond. We are looking forward to next year and what it holds. However, this isn't just a next-year narrative; we have been delivering consistently for the past five years and will continue to do so. Next year will be better than this year. Jayshree?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Jayshree Desai",
+      "title": "CFO",
+      "content": "Yes. You covered it. Yes. Just remind you, Jamie, of the cadence of the renewable segment. So as Duke said, back half is definitely usually stronger than the first half. So going into next year, I think the right way to look at it is what we said in Investor Day, that we have the opportunity to perform that 9% to 10% range in renewable.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Jamie Cook",
+      "title": "Analyst",
+      "content": "But Jayshree, sorry, the expectations that what's implied in the guide for 2024 for Cupertino, has that changed?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Jayshree Desai",
+      "title": "CFO",
+      "content": "In 2024 guide?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jamie Cook",
+      "title": "Analyst",
+      "content": "Yes. For Cupertino, has that changed at all?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Jayshree Desai",
+      "title": "CFO",
+      "content": "Yes. If you recall, we told you that Cupertino has the ability to perform in that $1 billion to $1.1 billion range in revenue. They're performing at the high end of that range.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next question comes from the line of Steve Fleishman with Wolfe Research. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Steve Fleishman",
+      "title": "Analyst",
+      "content": "Yes. Hi, good morning. Thanks. First question, just on the. In the quarter, a lot of good backlog and revenue growth, but a lot of it was kind of acquisition recent acquisitions. Could you just talk to organic growth that you're seeing and kind of why was that maybe a little slower in the quarter and how do you look at that from here?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "Yes, thanks Steve. I think when you think about it, there was some backlog growth around $400 million or so in the quarter. With the way the segmentation, delineation of the segmentation, the segments create some issues for us. When you think about just T&D, our traditional T&D business, it certainly if you look at where we're at, it's 5% into the third quarter of growth organically. It's double-digit growth in the forecast at the midpoint of the range. So we have double-digit growth year-over-year at the traditional T&D business at the midpoint of the range. And we stated that going forward we believe we grow that upper single digits on a go forward basis organically.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Steve Fleishman",
+      "title": "Analyst",
+      "content": "Okay, great. And then one other question. Just on the data center opportunity, not just Cupertino, but also in your utilities business, the I think you said recently that data center investment really hasn't even shown up in utility plans yet for the most part. Do you have a better sense when it'll show up there and then kind of filter through to your backlog?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "Yes, I mean I think it's, you hear a lot about it. You're starting to see utilities issue equity, you're starting to see debt come in and a lot of that's the transmission growth so their RTOs are robust in the planning stages. The thing is, if it's showing up three years from now, we better start today. And so I think we are seeing those discussions today from RTOs, from developers, from all of our customers. You have to start the transmission, the transformers three years out, you're 36 months away from energization and you need some time to build the substations. So I just, I think it's a fallacy to think that you can't, you have to start building transmission now. And the worst thing that we can do as an industry is sit here. So I don't think that sitting here works. I think everyone's moving forward. It took a little while to get this going. It took a little while to make sure that the rates are not punitive to the rate payers and we have good rate structures across the country. You're starting to see those show up. So I'm pretty excited about where we're at as an industry, where we're what I would consider moving forward against a big, doubling of maybe tripling of generation over the next two decades. So all the transmission build and substation build behind that substantial and it has to get started. And I think we're in, the early, very early stages of getting that started today.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Steve Fleishman",
+      "title": "Analyst",
+      "content": "Great, thank you very much.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Alex Rygiel with B Riley. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Alex Rygiel",
+      "title": "Analyst",
+      "content": "Thank you and good morning everyone. A couple quick questions here. First, nuclear power generation has regained significant interest in small modular reactors in particular nearing commercial deployment. Can you talk a bit about Quanta's opportunity in that generation?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "Yes, thanks Alex. I think when you see it, you'll see us build a substation interconnections. I don't see us at SMRS in any capacity. I think they're a decade away to any kind of scale. So yes, nuclear will be a piece of it going forward. They'll still be back heavily renewables. Even your big reactors, you're talking about a gig and on the bigger plant. So the smaller ones are certainly less and you'll see a lot of that to from a standpoint of emergency generation, things of that nature versus diesel. But I think it's an answer, it helps. Nuclear is something that's long-term. You're going to need it to come in if we're going to grow the generation like we say we are. So yes, but I think for us as we sit here today, the way we see it is we'll be around the edges on the substations and all the electrification thereof.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Alex Rygiel",
+      "title": "Analyst",
+      "content": "That's helpful. And then Duke, as the business has grown through the years, can you talk a bit about how the risk profile of projects, contracts and the business in general has changed?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "Anytime you have EPC, you create risk, you have different kinds of risk. We stay to our knitting. I mean I think we have a really good EPC program here where we're engineering, procuring product and constructing the linear part or craft skill. Labor is usually where people break down and that's what we've invested in. We self-perform 85% of the business. So I think the self-perform capabilities of Quanta de-risk our business and we stay to that knitting and we know the costs when we go into them and having our own supply chains and our critical path items that we've done in the vertical supply chain really de-risk the project. And if there's risk in it, then there's more margin in it. And so I like the risk profiles that we have because we can create margin out of them. So we're in good shape. And I think you'll continue to see that type of environment going forward due to the fact that there's just not enough talent around and you're going to see EPC get built for certainty across the country.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Steven Fisher with UBS. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Steven Fisher",
+      "title": "Analyst",
+      "content": "Thanks. Good morning. It seems clear that the big picture outlook here is developing pretty well. But maybe just to start with a couple of clarifications about some of the near term dynamics. Just on the electric side of things, just curious what the kind of puts and takes on the revenue guidance that was unchanged for that segment in light of the extra $225 million of emergency work. Maybe that was just a shift in resources. I know that can happen with these storms sometime. And then the 5% organic growth that you mentioned going to 10% for the year, I think you said last quarter 9%. I'm not sure if those numbers are all apples to apples and just maybe if they are, can you just remind us what's the programs that are driving the acceleration to that nice 10% for the year there? Thank you.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "Thanks, Steve. Yes, we talked about the delineations of the segments and we do have crude movement across both segments. So you do get some of those things that show up in the way that the reports come out when we look at it. Yes, the storms are about $200 million incremental. You do with any kind of storms. For one thing, the company, at six and six plus six and a half billion in revenue in a quarter. It just, it's not that big of an impact to the company and maybe to others. It's not to us. And it does pull back off our industrial business and the gas space during barrel. You have a lot of push out in our industrial business due to the fact that the storms came in. So you're seeing that show up in that margin profile in our industrial business. So you have a lot of turnarounds that pushed due to storms. So the impacts across the company and portfolio, you can't see those things show up in these storm numbers. So there is an impact. We're pulling off transmission, we're pulling off some renewable projects that are larger. We're flying people in from Canada to save human life more importantly. And I think that's the struggle is to get everyone to see it's more than just a storm. We're also pulling off major, major projects to go do this. And it's necessary for the industry for us to do this. We had well over 5,000 people and continue in the mountains to restore power. So yes, it's incremental, but it's not as big as what's being written. It's very, very small incremental gains there on the storm. So yes, and when we look at it going forward, you'll see those things show up. And I do think our renewable business is strong. The electric, like the T&D there continues to be good and that's kind of where it sits today.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Steven Fisher",
+      "title": "Analyst",
+      "content": "Okay, just maybe a follow up on the underground. Separate from the storm impact. Were there any new challenges arising or is this just a continuation of kind of the same issues as before and what's it going to take on the U.S. Gas operations to get those delayed projects ramping up? Is that sort of just, rate case decisions that we're waiting for?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "I think when you look at it, the underground side of the business, they're building electric, they're building telecom, they're building renewables. The budgets certainly were impacted early. We talked about last quarter where if you're a utility and you could build underground electric or gas, a lot of the gas budgets went to, not a lot, but enough to cause impacts on our LDC business to move from gas to electric. And so we moved our crews along with that. We moved our crews into telecom and you can see it show up in those segments. But yes, it did impact the LDC business as well as the industrial business with the storms, the push out there, more impacts. So we had those. We run it as a portfolio as we talked about before and I think go forward. If we look at the portfolio into 2025, you get guidance in 2025, we talk about guidance in 2025, you'll see double digit guidance at the EPS level. 15% certainly is in the realm of possibility and beyond into next year and we're willing to say it, I just said it into next year. So the concern may be short term, but we see long term growth, multi, I mean a decade's worth of growth here. And that's how we're running the business in this portfolio.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Julien Dumoulin Smith with Jefferies. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Julien Dumoulin Smith",
+      "title": "Analyst",
+      "content": "Hey, good morning team. Thank you guys very much. Appreciate the opportunity. Look, how do you guys think about the emerging dearth of workforce driving a tighter backdrop here for the business? I mean it's a pretty interesting backdrop for you all, you've been persistent in enabling a pipeline of labor training as a company. How do you\u2026",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "That's okay, I'll answer the question. Yes, okay. So the workforce, look, we have invested in it. I do think as we stand today, we made substantial investments there early eight, nine years ago with both colleges and curriculum. It's well known. The craft skilled labor as we stand today, we went from 53, 54 to begin the year. We're at 62,000 today. So that work, that 62,000, some of it's organic, some of it's acquired through Cupertino and others. But we continue to invest in curriculum. We see opportunities to look at craft skills that are getting performed along our segments and invest. And we'll continue to do that. We need to make sure that for us that's the core of the business is that craft and 85% of that self-performed craft that we're supplementing across the country and all the service lines that we perform continue to grow. We've got to invest in that. We knew it early. We were working with our partners, our unions and trade associations across the country to make sure that that investment for a trained, safe, dependable workforce is there. And we'll continue that as we go forward, Julien.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Julien Dumoulin Smith",
+      "title": "Analyst",
+      "content": "Excellent. Can you guys hear me now?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "Yes, got you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Julien Dumoulin Smith",
+      "title": "Analyst",
+      "content": "Sorry, I don't know what happened there. Just how does that impact your top line inflation when you think about the business trajectory and what you're seeing right now? I mean it seems like the overall sector is seeing this trend. How does that impact your potential for margin expansion and overall just top line inflation at the same time to run with that?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "Good question. Certainly, we passed through the. We believe labor goes up about between 4% to 6% as we move forward, let\u2019s 3% to 5%, probably 4% to 6% now. And those are passed through to contractually through. If it's not contractually, then we have it in our multiyear bids. But a 4 to 6 inflationary piece of labor, it's been there a long time. So that's always been a pass through or we've adjusted our portfolio and bids for those labor impacts. On the data center business, on the inside electric piece of the business, it's certainly constrained more than our outside business. So we're also putting in training, we're also doing a lot of things with Cupertino acquisition and that platform to enhance that labor force. And so I think you'll continue to see us anything we do that involves craft skill, will be curriculum, we'll have college credits with that. We'll have a lot of different things where we're trying to enhance the workforces to build for the future.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Julien Dumoulin Smith",
+      "title": "Analyst",
+      "content": "Thank you guys.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Gus Richard with Northland Capital. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Gus Richard",
+      "title": "Analyst",
+      "content": "Yes, thanks for taking the question. Electricity demand is exceeding supply growth and delivery growth. And is there some point in time where demand overwhelms supply and their shortages and what's the near term, next two or three-year solution? Clearly SMR is not the answer and I was just wondering if you had any thoughts on that.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "I mean you're going to have to see batteries become longer duration, more batteries for the intermittency of renewables. Solar continues to get built, it's economical, Wind will be there, but gas has got to back it. You see all the gas generation that's coming online, anticipated to come online. I think better, better said that's there as well. But we've always thought gas would be 20% of the business generation fleet and I still believe that's the case. Even at double growth you'll still keep it up there just to keep the intermittency of the grid and to make sure that you can have that. The reserve margins, if you go across the country used to have a pretty nice reserve margin across the country. I believe most of that is replenished substantially and you can't, you can't run the grid on the edge. So you've got to get the generation in and get it in quick to get those reserves back up on anticipated demand and that or you can't build. So one of the two teams, you're either going to constrain the grid, constrain the keys because you can't build generation or you build generation. So I do believe gas is probably the most immediate thing that you'll see get built along with solar and wind as you see it today. But gas will certainly supplement more so than we've seen in the past.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Gus Richard",
+      "title": "Analyst",
+      "content": "Got it. That makes complete sense. And that feeds into the next question. Given the hurricanes and fires, whatnot, are you seeing an increase in demand for hardening services, or are the utilities starting to allocate more resources and are you seeing that benefit?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "Yes, I mean I think the grid hardening programs, both fire and storms are certainly there. We see it across the board where you have multi-year type programs against fire or grid hardening per se. So yes, I mean we see it quite a bit, continue it's early stages in many areas, but in other areas, Florida being one, you're in late stages or later stages. I won't say late stages, but mid to 3/4 into something in most areas. So a lot of people started with transmission hardening, and you're starting in distribution hardening and undergrounding in certain areas. So I think your early stages of this and you'll continue to see violent weather impacts and demands from the client to have them up quicker. The only way you can get things up faster is you've got to harden the grid or underground it, one of the two. So that pressure against the grids that are 50, 70 years old, you've got to do. You've got to modernize the grid. And you're doing all this while demand is doubling. So it is something that everyone's looking at from a standpoint of what do you do first? And you've got to harden the grid while you meet demand. So it is something that is unique to the industry these days.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Gus Richard",
+      "title": "Analyst",
+      "content": "Thanks so much.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Chad Dillard with Bernstein. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Chad Dillard",
+      "title": "Analyst",
+      "content": "Hey, good morning, guys.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "Morning.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Chad Dillard",
+      "title": "Analyst",
+      "content": "So my question's on the MSA renewal process. And I know that this is an ongoing process for you guys year in, year out, but just curious how much of the business is up for renewal over the next 12 months. And then, I think these contracts are three to four years in duration. So I'd love to get a sense for just like how those conversations and how the contracts have changed versus three to four years ago. From a terms perspective, if you can talk pricing, anything like that would be very helpful.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "Yes, I mean, MSAs are really frameworks for unseen work in many ways, and it allows contractual terms to be done and resources to be allocated. I would say as it stands today, it's much more collaborative because you can see the business longer, so can our clients. When you can see capital out and plan and prepare, it's certainly more efficient and more prudent to get out in front of it. So, have the labor there, the labor shortages don't show up if you talk long-term. So I think they're longer in nature. They're bigger as we see it. I can't tell you how many are up. We have, I don't know, hundreds, maybe thousands of MSAs, maybe 10,000. I don't know a lot of MSAs that go around. We've worked off of them for 50 years. So it's very, very difficult for me to. I mean one client could have 50 MSAs. So it's just extremely difficult for me to give you those numbers. But what I would say is the base business is 85% today and that's those MSAs typically around that for the most part. And as we see it going forward, it will be 85% as the business grows on the top line, you will still see it at 85%. So as the business has grown because the MSAs and our ability to bid or negotiate or collaborate with the client to continue that, the stickiness of that and supplement their current workforces is there and will continue to be there going forward.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Chad Dillard",
+      "title": "Analyst",
+      "content": "That's helpful. Second question is on Cupertino and labor availability. So I'd love to get a better sense for how you plan to integrate that segment with your labor training program. Just trying to figure out just how much labor that can unlock over the next couple of years and how fast you can scale the business and if you can, just how much in terms of headcount is Cupertino.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "I believe that Cupertino has a well-trained workforce thanks to their excellent training programs that last 3 to 4 years. While we can certainly supplement this workforce, our recruitment process allows us to bring people into the trade, even those who may not want to climb. This can create synergies for our business. Some workers prefer to stay on the ground, and we can continue to support both sides. The craft sector has a similar mindset, and our company aligns well with their approach. This gives us the opportunity to attract top talent. Cupertino has been a premier solution provider for the data center business since its inception and has extensive capabilities beyond just data centers, including solar, which involves a different labor pool that excels at what they do. We are eager to enhance our curriculum and onboarding process, particularly with pre-apprenticeship programs, so that new hires are more knowledgeable, efficient, and productive from the start. All these initiatives will benefit both us and Cupertino in the future. The labor count is estimated to be between 4,000 and 6,000, but it fluctuates based on their current needs.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Drew Chamberlain with JPMorgan. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Drew Chamberlain",
+      "title": "Analyst",
+      "content": "Yes, good morning and thank you for taking the questions. The first one on the renewable side, some positive commentary in the materials on that bidding activity and what you're hearing from your customers. But obviously, bookings throughout the first part of the year, our first three quarters been a little lighter than last year. And just kind of to hear your thoughts on maybe what's holding up some of this from converting into backlog and maybe what are some of the headwinds and stuff that you're hearing from your customers maybe on the election, IRA and when this can really convert?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "I expect that between now and our next call, we will see a significant amount of LNTP going into the contract. The negotiations are strong, and I can't quite determine why the backlog hasn't increased based on our conversations. It seems to be lingering in many ways from LNTP to final FID. I'm not worried; the incoming discussions are as positive as ever in the negotiation phase, and we're exploring various aspects of the Renewables segment. I am confident that as we approach next year, the backlog will grow and we will have a different outlook during our next discussion. Therefore, I am not concerned about that part of the business regarding backlog. We observe that the market is continuing to advance, with solar, wind, and repower businesses thriving, and batteries being the fastest-growing segment. We are optimistic about all these opportunities. While the election might introduce some delays, feedback from clients indicates that whether it\u2019s Harris or Trump, there will be some fluctuations, but the core business continues to progress, and I believe our customers would agree.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Drew Chamberlain",
+      "title": "Analyst",
+      "content": "Okay. Great. And then just on the data side, you updated the updated the market forecast that you used in the deck calling for a 23% CAGR versus I think it was a 15% prior Kind of just what's changed quarter-over-quarter? Have conversations started to look materially different? And do you think that this higher growth rate is indicative of what your business is going to do and what your internal expectations are over the course of the decade.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Jayshree Desai",
+      "title": "CFO",
+      "content": "Yes. Just as a reminder, those are third-party reports that we're putting in there. And I think what it does is just reflects the continuing optimism of how much data center growth is out there as well as the power needs for enabling that data center growth. That's really what we were trying to show in that graph. But from our customer standpoint, I can have Duke tell about that.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "Yes. I mean I think that the graphs are certainly indicative of what we see in the business. And when you think about the growth and what we've done yes, some of it is inorganic, but you also need to look at if we've done it consistently over the last 7, 8 years, we'll continue to do that going forward. And I do think the growth of the business at the midpoint staying under two of leverage, you can see it going forward. And it's basically the strategy to the company that put us in a data center business that put us in the renewable business going forward. And when you think about the nexus of it, it all comes together and the need for power at a data center is substantial, can we be a solution to all the things. Yes, are we in the middle of the discussions on all things data, yes, are we in the middle of the discussion offering power? Yes. So it allows us a unique position to help and collaborate with multi-customers. And I just think it's from east to west. And it's a lot of opportunities and the company is pretty excited about what we can do with the growth platform that we built in the TAM that's around a addressable markets are much bigger than they were yesterday. So I like where we sit, and I like our customer base.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Drew Chamberlain",
+      "title": "Analyst",
+      "content": "Okay, thank you.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Brian Brophy with Stifel. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brian Brophy",
+      "title": "Analyst",
+      "content": "Thanks good morning, everybody. I wanted to ask one on cash flow. So implied free cash flow conversion versus EBITDA for this year is now about 60% excluding that Canadian transmission collection, which is obviously a little bit higher than some of your longer-term targets that are out there. Is there anything in free cash flow this year, is this more onetime in nature? Or is this a good way to think about core free cash flow conversion going forward? Thanks.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Jayshree Desai",
+      "title": "CFO",
+      "content": "Yes. We are very pleased with our free cash flow position. It reflects several factors, including the mix of work and the structure of our renewable contracts, which are contributing positively to working capital. This is evident in our free cash flow guidance. We are also showing improvement in our collections, with our DSO getting better. All these factors play a role in our free cash flow guidance for the year. Looking ahead, we expect a conversion rate around 45% to 55%. With Cupertino, we believe we have the potential to be on the higher end of that range, or even exceed it, but this depends on the mix of work. For instance, a major storm, like the one we experienced in the last quarter, can negatively impact free cash flow depending on the MSA work and its effects on working capital. Therefore, the best way to view it is to maintain that 45% to 55% range with strong opportunities to reach the higher end.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "The impact of Canada is certainly reflected in the numbers. We don't anticipate collecting that this year, which is definitely affecting the figures. However, we did receive some of the funds, and we are pleased with the progress of the negotiations. There are no issues on our end, and we are highly confident in the claim. We are also confident in what we've accomplished regarding the construction statement, although it has taken longer than expected to finalize the paperwork in Canada to receive our payment. I believe you will see it reflected next year. We won't rush the business to specify exactly when it will happen, as we think it's more important to secure the right outcome for what we deserve and what we've achieved. We're just collaborating with the client to finalize the collections, and while it's taking a bit longer, there are no problems with the collection itself.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Andy Kaplowitz with Citi. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Andrew Kaplowitz",
+      "title": "Analyst",
+      "content": "Good morning everyone.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jayshree Desai",
+      "title": "CFO",
+      "content": "Hello.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Andrew Kaplowitz",
+      "title": "Analyst",
+      "content": "Duke, I know one of the questions you get occasionally is that as some ramps down in 2026 given the size of the project that it would be tough to see. We all know there's so much more to Quanta and just large electrical transmission projects. But how do you see that environment? Do you see sort of a new wave of large projects that could come out in 2025 and 2026 or how do you think about that?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "We\u2019re seeing multiple projects in the range of $1 billion, $2 billion, or even $500 million. The discussions around inbound negotiations and development variables are significant. I recently heard from one of the major manufacturers about transformers, and they mentioned they could reach certain milestones by 2030. I want to clarify that that timeline doesn't align with our approach. The demand for larger projects is unprecedented for us. Whether it\u2019s to the west or east, regions like MISO, SPP, and ERCOT are experiencing substantial growth in transmission projects. You can look at large projects across the country, whether individually or combined, and we are confident in our capacity to handle large constructions. I believe we will see a cumulative effect on our business in the future, with growth projected for 2026, 2027, and 2028, aligning with the high demand we are witnessing.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Andrew Kaplowitz",
+      "title": "Analyst",
+      "content": "So to that point, Duke, I mean, there's always going to be a little bit of noise, but at the Investor Day that you had a couple of years ago, I mean, you talked about sort of this upside case of 15% plus EPS growth that would get you with capital deployment to $11 to $12 in 2026. I'm sure you don't want to give us guidance 2026. But at the same time, does it feel like you're absolutely tracking to that upside case given what you guys have done with Cupertino and Blattner and then the markets themselves.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "I mean I said just a minute ago, next year, if we grow double-digit EPS, if it's 15%, we certainly have the opportunity for 15%, and beyond. We've grown 20% this year at the midpoint deploying capital. So we see our ability to deploy capital continues. We believe will be in some part of the range will be in double digits in '25. So if it's in 25 and we're going to grow the bottom 10% that gets you to $11.26 if you just do the math. And look, that's easy to say. It comes out real quick. But we've got to get and deliver and execute on it, which I don't think we're a story about tomorrow. We're doing it today. And I think we'll do it in 2025, I think we'll do in 2026. We certainly have the opportunity in the markets are there.",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Michael Dudas with Vertical Research. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Michael Dudas",
+      "title": "Analyst",
+      "content": "Hi, Jayshree, Duke and Kip. How are you doing?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jayshree Desai",
+      "title": "CFO",
+      "content": "Hi.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Michael Dudas",
+      "title": "Analyst",
+      "content": "In light of the significant demand and enthusiasm among vendors in the electric utility and development sector, when considering the companies you might partner with in the coming years to reinforce your long-term strategies, do you think the industry will require more scale and consolidation? Potential sellers appear to be aiming for growth, which creates opportunities for you to engage, particularly in front-end engineering, as it seems clients are increasingly seeking that collaboration from you.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "The front side of the business, which includes engineering and permitting, is a significant part of our operations, and we need to incorporate these elements into our strategies. We have always been disciplined in our approach to acquisitions and will continue to grow organically. If partnerships or acquisitions are necessary, we will pursue them, but we won't do so at any cost. Our discipline is unwavering. Looking at the transformer business we acquired, it has a legacy of 100 years as a family business, which highlights the desire for stability and long-term viability. People appreciate our commitment to taking care of our employees and the culture we foster. A prime example is our longstanding relationship with Cupertino, where we can offer valuable benefits to their team and maintain their established culture. We're focused on preserving the values and identity of the businesses we engage with. Although many individuals in the craft-based industries may seek different paths, we aim to find and attract businesses that prioritize stability for their employees. Our goal is to uphold our culture while delivering strong returns for our investors and stakeholders.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Sangita Jain with KeyBanc Capital Markets. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Sangita Jain",
+      "title": "Analyst",
+      "content": "Yes, thank you guys for taking my questions. So Duke, did DOE just recently signed on to become an anchor tenant on a handful of transmission projects. Can you tell us what you think that means? Does that bring them to the front of the line? And are you already talking to some of them?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "Yes, we've had discussions with the Department of Energy and the anchor tenants involved. There are still permitting challenges, and while some projects have progressed, others have not. It certainly helps, but realistically, for the utilities involved, there are inherent risks that make it more complicated. It's not impossible, but it does present challenges. The projects backed by the DOE are strong, and we fully support the concept of having an anchor tenant. In Texas, similar developments are occurring, but many states face permitting issues that hinge on discussions about ratepayer impact. We need to be careful about how we address these concerns because transmission and distribution represent a smaller portion of rates. It's important to communicate this effectively to ratepayers, as factors like gas prices have a bigger influence. Properly managing these discussions can expedite project progress.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Sangita Jain",
+      "title": "Analyst",
+      "content": "Got it. So that's very helpful. And on that, can I also follow up with the recent transformer acquisition that you announced? And if that is a different type of transformer versus the PTT or I honestly anything that you can tell us on that acquisition would be great.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "We've had extensive discussions regarding the recent transformer acquisition, as well as PTT. Our conversations have focused on the transformer business, which we find appealing. Although it's somewhat smaller than the larger class transformers produced at PTT, the utilities and clients we serve in those regions present significant opportunities for cross-selling and internal sales. We are looking ahead to 2027, 2028, and even into 2029 with these factories, so it's essential for us to monitor the market and meet the needs of our internal customers. Currently, we are operating in a very small segment of manufacturing. This acquisition serves as a safeguard against potential tariffs in China or elsewhere, making transformers difficult to source, while ensuring we have U.S.-based, long-term transformer production. This will help us advance our current workforce and projects, reducing risk to the business as we collaborate with clients on U.S.-based manufacturing. Continuously progressing along this critical path is vital for addressing risks to our supply chain.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from the line of Marc Bianchi with TD Cowen. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Marc Bianchi",
+      "title": "Analyst",
+      "content": "Hi, thanks. I guess this is a little bit of a follow-up to the prior question. There's been some concern expressed by renewable developers around labor and supply chain challenges being a bottleneck to their growth. I know you just talked about the Transformer thing a little bit, talked about labor earlier, but I think that was maybe more around kind of the T&D side of the business. But could you talk about what you're seeing on the ground, like right now as it relates to some of these supply chain concerns. Is there anything that's maybe incrementally worse or better than it was last quarter?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "You need to focus on certain types of HVDC, particularly DC construction at large stations, to really address the challenges. Transformers and breakers, while limited, have been manageable. We've successfully strengthened our supply chain, which supports both developers and partners as we move forward with new projects. Our collaboration with clients has been beneficial, and we're confident in our current position. The situation hasn't deteriorated, but it hasn't improved either; it's essentially stable. Regarding labor, I wish manufacturing could increase capacity, but I doubt that will happen in my lifetime. Nonetheless, we've managed to overcome permitting and other constraints. If asked to build a thousand miles of 500 KV tomorrow, I'd confidently say yes multiple times over.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Marc Bianchi",
+      "title": "Analyst",
+      "content": "Got it. Thanks, Duke. That\u2019s all I have.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "We have reached the end of the question-and-answer session. I will now turn the floor back over to management for closing comments.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Duke Austin",
+      "title": "President and CEO",
+      "content": "Yes. First of all, I'm going to thank 60,000 men and women out in the field and the inclement weather and what they've done as first responders, they've seen a lot the respect that they deserve is certainly something that we see every day, and I want to thank they had done and held the job and they're the best in the business. And I want to thank you all for participating in the conference call. We appreciate your questions and your ongoing interest in Quanta Services. Thank you. This concludes our call.",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Ladies and gentlemen, this does conclude today's teleconference. You may disconnect your lines at this time. Thank you for your participation, and have a wonderful day.",
+      "sentiment": "0.0"
+    }
+  ],
+  "reported_date": "2024-10-31"
+}

@@ -1,0 +1,409 @@
+{
+  "symbol": "PAYX",
+  "quarter": "2024Q3",
+  "transcript": [
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Good day, everyone, and welcome to today's Paychex Third Quarter Earnings Conference Call. At this time, all participants are in a listen-only mode. Later, you'll have an opportunity to ask questions during the question-and-answer session. Please note this call is being recorded. And it is now my pleasure to turn today's call over to President and Chief Executive Officer, John Gibson. Please go ahead.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "Thank you, Mike. Thank you, everyone for joining our discussion today on the Paychex third quarter fiscal year 2024 earnings release. Joining me today is Bob Schrader, our Chief Financial Officer. This morning before the market opened, we released our financial results for the third quarter. You can access our earnings release on our Investor Relations website. Our Form 10-Q will be filed with the SEC within the next day. This teleconference is being broadcast over the Internet and will be archived and available on our website for approximately 90 days. I'm going to start the call today with an update on the business highlights for the third quarter and then turn it over to Bob for a financial update and then, of course, we'll be happy to take your questions. We delivered solid results in the third quarter and the first nine months of the current fiscal year. Total revenue growth of 4% in the third quarter reflected a lower contribution from our employee retention tax credit or ERTC service as compared with the prior year period. This is consistent with our previously communicated expectations that ERTC revenue would become a headwind in the second half of the current fiscal year. Excluding this impact, our total revenue growth accelerated to 7% in the quarter, while our new client volumes remained solid and in line, and both client and revenue retentions were in line with our expectations. Several factors, including our decision to wind down the ERTC program based upon the recent legislative developments on Capitol Hill, continued moderation of employment growth within our client bases, and slightly lower realized rates all combined to create a headwind, a larger headwind than what we had anticipated in the quarter. With the end of the ERTC program, we are now officially in the post-pandemic era at Paychex, and I am very pleased with how our teams have performed during these past several years. We put nearly $90 billion of financial aid into the hands of our clients, and based upon an analysis by MIT, we estimate that we saved over 300,000 small business jobs. While these pandemic era programs are not part of our normal recurring revenue product strategy or our business model at Paychex, they were certainly consistent with our purpose, which is simply to help businesses succeed. I believe that we are a better company today than when we entered the pandemic four years ago. We are winning in the marketplace, and our long-proven recurring revenue growth formula still holds true. In this post-pandemic and digitally driven era for the company, focused client growth, value-based price realization, increased product penetration, and opportunistic acquisitions are still the key pillars of the Paychex growth strategy. We are exiting the pandemic era with an even greater focus on our purpose, more opportunities to impact our clients and their employees, and with an even stronger reputation as a trusted advisor to small and mid-sized business owners. Despite the headwinds in the quarter, we delivered 7% growth in diluted earnings per share and expanded operating margins due to our longstanding tradition of expense discipline. As one of the best operators in the business, we continue to demonstrate our ability to deliver on earnings in uncertain times while still making necessary strategic investments to drive long-term profitable growth. Our culture of expense management, along with investments we've made in the past several years in digitization and enhanced sales and operational excellence capabilities, have positioned us well for future profitable growth as well. The macroeconomic and labor market remains challenging for small mid-sized businesses, with a tight job market for qualified workers reducing access to affordable growth capital, and inflationary pressures continue to be headwinds for small businesses. Our small business employment watch continues to show moderation in both job growth and wage inflation. However, a relatively stable macro environment saw the softening in hiring we began to see in the second quarter continue in the third quarter. There is more choppiness in hiring across all customer segments and industries now. Our clients tell us they still cannot find qualified employees and are not willing to hire just anyone at higher wage rates, especially in areas with recent minimum wage increases and aggressive legislative changes. The demand for our HR technology and advisory solutions remains robust, and the volumes of new clients added in the quarter were strong. We continue to deliver value for our customers, as seen in our revenue retention results, which remain above pre-pandemic levels. Client retention for the third quarter was also in line with pre-pandemic levels, and both revenue and HR outsourcing worksite employee retention remain at record levels. As we continue to focus our resources on acquiring and retaining high value clients, our sustained high revenue retention demonstrates that our value proposition and market leadership remain intact. The fundamentals of Paychex are the same. I'd like to highlight the success in our PEO business specifically, which has continued to gain momentum with strong results during the first nine months of the fiscal year. We finished the quarter with strong results in sales, retention, and insurance enrollment. We have continued to see a shift back towards the PEO offerings both outside and inside our client base. This shift has a long-term positive impact on the customer lifetime value in our model, particularly as clients attach insurance benefits. AI and related technology investments are also key areas of focus in our industry and something that, as many of you know, we've been focused on for many years. We are proud to announce that we successfully implemented several additional innovative AI models in the quarter that significantly improved results for Paychex and our clients. Leveraging innovative technology and advanced analytics has allowed us to gain deeper insights into prospects, client behavior, preferences, and growing needs. Last month, we announced that Beaumont Vance has joined the company as our Senior Vice President of Data Analytics and AI. In this newly created role, he will be responsible for refining and executing the company's data strategy, including the use of business intelligence, advanced analytics, and AI-driven automation to drive both improved business performance and enhanced customer value. We are excited to have Beaumont on board to help us capture the full value of our vast data assets. I want to thank the hard work of our more than 16,000 employees and their focus on our company's values. Paychex continues to be recognized for both what we do and more importantly, in my opinion, how we do it. We are proud to be recognized for the 16th time by Ethisphere as one of the world's Most Ethical Companies in their recent annual list. Paychex was also recently recognized by Fortune Magazine as one of the Most Innovative Companies for the second consecutive year. These recognitions and the many product and service awards that we have received in the past year and over the decades are a testament to the strength of our business model, culture, and the commitment to invest in our business and our employees to deliver long-term value for our customers and investors. I'm very proud of how our employees have delivered for our customers, for each other, for our communities, and for our shareholders throughout the pandemic era. We exit this period in Paychex history more focused and determined to be the digitally-driven HR leader in our industry, and we are even better positioned to capture the opportunities in the markets we serve. I'll now turn it over to Bob to give you a brief update on our financial results for the quarter.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Bob Schrader",
+      "title": "CFO",
+      "content": "Thanks, John, and good morning, everyone. I'd like to start by reminding everyone that today's commentary will contain certain forward-looking statements that refer to future events, and therefore, involve some risks. In addition, I will periodically refer to some non-GAAP measures, like adjusted diluted earnings per share. I'd refer you to our press release for our customary disclosures around those metrics. I'll start with a summary of our third quarter and year-to-date financial results and then provide an update on our fiscal '24 outlook, and as promised to many of you on the phone, I will share some preliminary thoughts around fiscal '25. Total revenue for the quarter increased 4% to $1.4 billion, which reflects a lower contribution from our ERTC as compared to the prior year quarter. Management Solutions revenue increased 2% to $1 billion. This was primarily driven by growth in the number of clients served across our suite of HCM solutions and increased product penetration, offset by the decline in our ERTC revenue. As we disclosed in the press release, this has impacted growth by about 300 basis points. PEO and Insurance Solutions revenue increased 8% to $346 million, driven by higher average worksite employees and an increase in our PEO and Insurance revenues. Our PEO saw continued momentum in worksite employee growth and medical plan participant volumes during the third quarter. Interest on funds held for clients increased 25% to $44 million, primarily due to higher average interest rates. Total expenses increased 3% to $790 million. Expense growth was attributable to higher compensation costs and PEO direct insurance costs related to the higher average worksite employees as well as higher Insurance revenues during the quarter. Operating income increased 6% to $650 million, with an operating margin for the quarter of 45.1%. That represents about 80 basis points of margin expansion over the prior year period. I'd like to highlight that margin expansion is despite the ERTC headwind that we just mentioned, and we were still able to deliver really strong margin expansion in the quarter. Both diluted earnings per share and adjusted diluted earnings per share increased 7% to $1.38. I'll quickly summarize our results for the year-to-date period. Total revenue grew 5% to $4 billion. Management Solutions revenue increased 4% to $2.9 billion. PEO and Insurance Solutions increased 7% to $939 million. Interest on funds held for clients increased 44% to $108 million. Total expenses for the first nine months grew 4% to $2.3 billion. Our operating margins for the first nine months of the year were 42.5%, and that's a 70 basis point expansion over the prior year period. Diluted earnings per share and adjusted diluted earnings per share both increased 9% year-over-year to $3.62 and $3.60, respectively. I'll now give you a quick overview of our financial position. As many of you know, we maintain a strong financial position with high-quality cash flows and earnings generation. Our balance for cash, restricted cash, and total corporate investments was $1.8 billion. Our total borrowings were approximately $817 million as of the end of the quarter. Cash flow from operations for the first nine months was $1.7 billion, that's up 30% compared to the same period last year. That was driven primarily by higher net income and fluctuations in working capital. We returned a total of $1.1 billion to shareholders through the first nine months of the year. That includes $963 million in dividends and $169 million of share repurchases. Our 12-month rolling return on equity remains robust at 47%. I'll now turn to our updated guidance for the current fiscal year. This outlook assumes the current macro environment, which obviously has some level of uncertainty. We have revised our guidance on certain measures based on performance this quarter, and this reflects the impact of our decision to wind down our ERTC service based on recently proposed legislation. I just want to pause there from my prepared remarks to provide a little bit more color on ERTC. I think many of you are aware that there is bipartisan legislation out there that would end the ERTC program retroactive to January 31 of this year. I think it's passed the House, but it hasn't yet passed the Senate, and that does create a level of uncertainty around ERTC. We continue to sell it in the month of February. We made the decision, based on that level of uncertainty, to stop recognizing the revenue on ERTC subsequent to January 31, and we essentially removed it from the forecast in Q4. That's part of what you see as it relates to the impact on the quarter and also impacts the updated guidance that I'm about to give you for the year. Management Solutions is now expected to grow in the range of 3.5% to 4%. We previously guided to the lower end of the 5% to 6% range. PEO and Insurance is still expected to grow in the range of 7% to 9%, although we now expect that it will be more toward the lower end of that range. Interest on funds held for clients is still expected to be in the range of $140 million to $150 million. Total revenue is now expected to grow in the range of 5% to 6%. Our prior guidance was 6% to 7%. Other income net is expected to be income in the range of $40 million to $45 million, and this is raised from the previous guidance of $35 million to $40 million. Our guidance for operating margins and effective tax rate are unchanged, although we still do anticipate being at the high end of the operating margin guidance range, which was 41% to 42%. Adjusted diluted earnings per share is still expected to grow in the range of 10% to 11%. Now let me just provide a little bit of color on the fourth quarter. We are currently anticipating total revenue growth to be approximately 5% in Q4. We expect the ERTC headwind to Management Solutions growth in the fourth quarter to be similar to what it was in the third quarter. We would also expect the operating margins to be around 40% in the quarter. We are currently in the middle of our annual budget process and working on our expectations for the next fiscal year. We obviously will provide formal guidance, as we normally do at the end of Q4 when we get to that call. However, I will share some preliminary thoughts, and I will emphasize the word preliminary around what we're expecting for fiscal '25. On a preliminary basis, we would expect total revenue growth to be consistent with the fourth quarter growth rate. And as a reminder, as I just told you, that would be in the 5% range. This does include a headwind from ERTC of approximately 2%. ERTC, for all intents and purposes, is 0 going forward. I know what that headwind is going to be. I know what the dollar amount was this year, and it will be approximately a 2% headwind to revenue growth for FY '25, and that is assumed in the 5% range number that I gave you. Despite this headwind, we are committed to delivering operating margin expansion in fiscal '25. We are still going through the annual budget process, working through the details. We'll provide more color as we get to the end of the year. Obviously, this is based on our current assumptions, which we are still working through. Those may change, but we'll update you again when we get to the fourth quarter. I will refer you to our investor slides on our website for additional information. And with that, I'll turn it back over to John.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "Okay. Thank you, Bob. Mike, we'll now open it up for questions.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And we do have our first question from Mark Marcon with Baird.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Mark Marcon",
+      "title": "Analyst",
+      "content": "So ERTC, I just want to clarify, Bob. When you mentioned that you sold it in February, due to the legislation it's effectively bipartisan and will end retroactively on January 1. So you stopped recognizing the revenue. Was any ERTC revenue from sales between January 1 and February included in the third quarter number that you just reported?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Bob Schrader",
+      "title": "CFO",
+      "content": "Yes. Everything we sold and filed in January is included in the quarter, but nothing after January 31. We continued to sell in February, and I would say the activity was steady for ERTC then. However, we decided not to recognize revenue for that period due to the significant uncertainty. We're informing our clients that if the bill passes, we will refund their payments for services sold in February. From an accounting perspective, we believe it's the right choice to stop recognizing that revenue. As we moved through February, the activity for ERTC has slowed considerably. We're not focusing on it now, and while some minimal revenue may have come in March, it was likely from business already in the pipeline. Essentially, that program is over.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Mark Marcon",
+      "title": "Analyst",
+      "content": "I wanted to follow up on the guidance you provided. In the third quarter, Management Solutions faced challenges due to the ERTC headwind, yet it appears there was some acceleration in total revenue excluding ERTC. I'm curious if there's a way to assess the impact of not recognizing that revenue in February, considering you were expecting it to come in. Any insights on this would be appreciated.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Bob Schrader",
+      "title": "CFO",
+      "content": "Yes, we provided guidance for the quarter, which you are aware of. The Q3 results came in about 100 basis points lower than our guidance. I estimate that around a third or slightly more of that decline was due to our decision regarding the ERTC. You can do the calculation to arrive at a number that reflects the impact in February.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Mark Marcon",
+      "title": "Analyst",
+      "content": "Okay. Great. Regarding the margin expansion, that's very encouraging, especially since you're not benefiting from ERTC. What are the main factors contributing to that? Is it the AI initiatives or improved efficiency on the sales side? What is driving the margin expansion? How do you foresee continuing that strong progress?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "Yes, Mark, this is John. As you know, we pride ourselves on being the best operators in the industry and understand the key factors that influence market trends. Over the past three years, we have made significant investments, particularly taking advantage of the ERTC benefit. We have concentrated those investments on our digitalization and digital adoption capabilities, creating global capabilities within our operations. This fiscal year, we began to roll out and test these enhancements, particularly during the selling season. The improvements in client service, retention, and digital onboarding across our platforms have resulted in stronger operational and sales efficiency. We will continue to focus on this and seek opportunities for digital transformation in our back office, as well as promote digital adoption among our prospects, channel partners, clients, and employees. We believe this will lead to further margin expansion, as indicated by our tests and pilots, which we are now implementing on a larger scale.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And we have our next question from Kevin McVeigh with UBS.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Kevin McVeigh",
+      "title": "Analyst",
+      "content": "On the execution. I guess, Bob, just would be for you, the 25% guidance preliminary, pretty helpful. Any sense of what type of macro environment you're factoring into that, I guess, from an employment perspective more broadly?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Bob Schrader",
+      "title": "CFO",
+      "content": "Yes, Kevin, I mean, we're still going through and finalizing all of our assumptions. But I would say at this point in time, we will assume a fairly stable, steady macro environment. Obviously, there's an expectation that the Fed is going to start cutting rates later this year. We do have some of that factored in at this point in time. But I would say overall, the assumption is a fairly steady-state macro environment with some expectation that rate cuts will occur as we move into the fiscal year.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "Yes, Kevin, I would just like to add that we are revising our perspective on the macroeconomic situation, especially after evaluating the third quarter in light of the hiring trends we're observing among our clients. There seems to be a disconnect between an economy growing at 3% to 3.5% and the current hiring landscape. The hiring situation for small businesses remains challenging. It's primarily a labor issue rather than a demand issue. Clients are reporting difficulties in filling open positions, particularly with qualified candidates. With around 2.2 million client worksite employees managed by our HR team, we noticed trends that did not align with our models for a 3% GDP economy, leading us to question the lack of anticipated hiring activity. Through structured discussions with clients, we found they wish to hire but struggle to find suitable candidates. After experiencing issues with hiring during the pandemic, they are now hesitant to hire just anyone, especially with current labor rates. The macro environment suggests ongoing moderation in hiring and wage inflation. December, January, and February showed this moderation, with January and February marking the first two months in our index where growth fell below pre-pandemic levels, despite still being above 100 and indicating growth. We are observing a moderating and stable economy, without signs of a recession. Demand remains strong, our pipeline is robust, and we aren't seeing widespread layoffs. The situation shows a prevalence of job openings and hesitancy among businesses regarding hiring decisions.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Kevin McVeigh",
+      "title": "Analyst",
+      "content": "A lot of sense. And then, John, just to follow up on that point. Is the tight labor situation what's driving the re-enrollment on the Insurance side of the PEO? Or is there anything specific to highlight about what's influencing that?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "I think on the PEO enrollment, I want to really give credit to the team there. I think, as you recall, a year ago, a little over a year ago, this was a challenging area for us. We were seeing things, and participation rates weren't as high. Attachment wasn't as high. We really looked at all aspects of both our product, our insurance product offerings, our enrollment processes, and how we engage employees around that top to bottom. We made some changes in both our product offerings and how we approach clients and the employees in our insurance offerings in the PEO. The team has done a good job there. What we've seen is now we're back to at or slightly above attachment rates, and our participation rates are back to our historical norm. I think that was a little bit more of an execution issue than any macro item.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And we have our next question from Tien-Tsin Huang with JPMorgan.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Tien-Tsin Huang",
+      "title": "Analyst",
+      "content": "I wanted to ask on PEO. I know the commentary around sales retention and attach was quite strong, and then you moved into the low end. I'm just curious if maybe you can elaborate on that and maybe your initial thinking around PEO momentum going into next year as well because I know that was something that we were tracking.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "Yes, go ahead.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Bob Schrader",
+      "title": "CFO",
+      "content": "So I'd say the big driver of maybe guiding more towards the lower end of the range was the employment headwinds that John called out in the script. We continue to see moderation in employment, and that really was across the board. For the most part, the PEO has been able to outrun it with strong execution in both sales retention. We mentioned we continued to see record levels of worksite employee retention. Really strong worksite employee growth in that business, and then really getting our medical insurance attachment rates and volumes back to where we see them. So, it's really a little bit of the macro headwind. The print is strong at 8%, but as you know, that category is PEO and Insurance, and Insurance is typically dilutive to the growth of that overall category. I would say that the PEO stand-alone growth is north of that number, obviously, that we gave you. Really strong performance in the PEO business, and we're building momentum and we see that carrying into next year. I'm not ready to give splits on next year between Management Solutions and the PEO, but we certainly would expect the PEO and Insurance to grow at a faster overall rate than the total revenue growth that I gave you.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Tien-Tsin Huang",
+      "title": "Analyst",
+      "content": "Got it. Okay. Very clear. So it's just really the employment side that's out of your control. Perfect. So my quick follow-up, just on the pricing front among the three factors, you mentioned pricing last. Any more color on the pricing? Is it more discounting that you're seeing? And I'm curious if that informs your typical price action that you would take in the May or the spring timeframe. And if that's baked into your look-ahead or preliminary '25 outlook?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "That is a broad question. If I missed something, please let me know. Here's what I would say: we are still able to enter the market and maintain our traditional value-based pricing for the services we provide. You can see this reflected in our retention rates. I want to point out that when I consider our actual revenue per client, specifically excluding ERTC, which I hope to stop mentioning in about a year, it aligns with the pricing bundles we offer. The data shows that the pricing we are achieving across different product groups is consistent with historical trends. Over the past three years, we have guided within the higher end of our traditional range. Our expectation is that as we move into the post-pandemic era, prices will revert to the mean or slightly increase. Retention has returned to pre-pandemic levels, possibly even improved. I believe this is where you will see pricing, and we remain optimistic about our pricing potential. The competitive environment has always been challenging. There are two dynamics that stood out when I analyzed the data from our 401(k) business, PEO business, HCM mid-market business, small business HCM business, SurePayroll business, and insurance business. During the third quarter, one of our largest volume periods, the volume met my expectations. Interestingly, the average client size decreased slightly in almost all areas, which affects our realized pricing since there are fewer employees and fewer checks. It appears clients are more cautious in their decision-making. Some competitors focusing on the upper market have mentioned longer decision time frames. While we achieved the expected volume, we had slightly more smaller clients than anticipated, which impacted pricing. The competitive landscape has demanded more from clients in terms of retention and purchasing, with clients being more negotiative, reflecting the current economic climate and inflation.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And we have our next question from Bryan Bergin with TD Cowen.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Bryan Bergin",
+      "title": "Analyst",
+      "content": "I wanted to just dig in a bit more on bookings. Can you just talk about how the third quarter bookings came in relative to your expectations? How is 4Q trending so far? And if you can, give us some added color across client size, PEO versus ASO as well.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "Yes. Bryan, I would just like to emphasize what I have already mentioned. We experienced strong demand for our solutions across the board. Volumes met our expectations. However, I noted earlier that the average size of the deals we secured in each sector was smaller than we expected. The differences were minor, but as you know, in a business of our size, even small changes in the average number of employees per deal can significantly influence the anticipated revenue.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Bryan Bergin",
+      "title": "Analyst",
+      "content": "Okay. Understood. And then just on the sales front and sales investment, I guess, can you give us a sense on how sales head count has trended relative to the start of the year? As you go forward and plan for '25, how are you thinking about adding absolute sales head count versus trying to lean on more tech investments to drive more productivity?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "Our sales headcount has met our expectations throughout the year. When we entered the selling season, we reported being at our planned headcount. Interestingly, in the third quarter, I observed that the digital business we generated across various platforms was noteworthy. This is approaching the performance of some of our traditional channels that have historically been foundational for Paychex. We believe that our digital initiatives will continue to be significant, and we are exploring a variety of go-to-market strategies aimed at enhancing the productivity of our sales representatives. Currently, we are focusing on effective territory management to boost the productivity of our teams even further. While we are still finalizing our budget planning, we can report that we are achieving substantial productivity on a per-rep basis. Our goal is to ensure we are capitalizing on every market opportunity within each segment. We are concentrating on defining segment sizes and product types as part of our new go-to-market strategy for the post-pandemic landscape.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And we have our next question from Samad Samana with Jefferies.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Samad Samana",
+      "title": "Analyst",
+      "content": "So maybe, first, we've heard about maybe pricing increases going into effect, let's call it, either towards the end of the year or earlier this year. I was just curious if there is a change in the timing of when you push through price increases for customers this year? And then I have a follow-up question as well.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Bob Schrader",
+      "title": "CFO",
+      "content": "Yes. No change to the amount. I mean, I think your timing, it's not always the exact time every year, but it's in that range typically towards the end of the fiscal year. Beginning in the next fiscal year is typically when we have our annual price increases. So really no change to the timing there.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Samad Samana",
+      "title": "Analyst",
+      "content": "Okay. Great. And then I guess just as you think about segmenting by customer size, I know what you just said about the average deal size, comparing it being smaller, but are you seeing any trends within if you stratified it by your smallest customers versus maybe slightly more like mid-market? Same question between Management Solutions and PEO, if we're seeing anything that\u2019s different by the type of customer in terms of behavior or deal size or deal closing times.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "No, I don't see much change overall. What I can say, based on what I hear from others in the market, is that when I look at our deal sizes, we have a mid-market team and a PEO team actively pursuing deals outside our base. They are achieving an average deal size, and we observe a mix of clients, including those with over 1,000 employees and those with 500 to 999 employees. If you break it down further, you see that this mix has historically been consistent in the marketplace. On the larger end, however, there have been fewer deals in the PEO, ASO, and traditional HCM sectors. We've compensated for this by securing slightly more average-sized deals. When you combine all of this, the reduced number of larger deals has resulted in fewer worksite employees or checks than we initially anticipated. Does that make sense?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Samad Samana",
+      "title": "Analyst",
+      "content": "It does. I'll ask one more question. I understand two are usually the limit. But is there any reason, Bob, to think that the trend line you have projected for next quarter in Management Solutions, excluding ERTC and PEO, would not continue into next year? Is there anything that could significantly change those trend lines?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Bob Schrader",
+      "title": "CFO",
+      "content": "Yes. I mean, I wouldn't say significantly, Samad. I don't want to get into providing specifics on the two categories yet, as we're still going through our annual budget process. But we certainly would expect the PEO and Insurance category growth next year to be similar to what we've seen this year, and Management Solutions is where the big headwind is with ERTC. But I would say similar trend lines to where we're exiting the year.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Samad Samana",
+      "title": "Analyst",
+      "content": "Great. Thank you so much. Have a great day.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "Samad, I appreciate that you recognized the three questions. I remind everyone of the effort rule. Although he's gone.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "We have our next question from Jason Kupferberg with Bank of America.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Unidentified Analyst",
+      "title": "Analyst",
+      "content": "This is Caroline on for Jason. So in terms of capital deployment heading into 4Q and also 2025, can you give an update on the relative attractiveness of buybacks versus M&A? And then also, could you give an update on the general health of your M&A pipeline?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "Bob, you want to start with the M&A?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Bob Schrader",
+      "title": "CFO",
+      "content": "Yes. Look, I would say that we continue to be open to acquisitions that meet the strategic objectives that we've laid out and that make financial sense. I would say that I feel like in several areas and industries that we have interest that the multiples I've seen are getting in line that are more reasonable. We're trying to be active. The key thing is just the timing of that, when is the right time for that. So we're certainly open for business, actively engaging in both tuck-ins where we can add capability. We're doing a lot of things and looking at what we can do from an AI and digital HR perspective, constantly looking for adjacencies that drive the needs of our customers in terms of what they need to succeed and what we've talked about, the access to capital, being able to retain it and hire employees, and really getting access to affordable benefits that allow them to attract clients. All of those things are open. We've got an active engaged team who is talking to many different prospects. More to come. We certainly have the capital capability and the ability to do acquisitions, and we're prepared to pull the trigger if we can come across something that makes financial sense.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "Caroline, I want to add that there has been no change in our approach to capital allocation. We will continue to invest in the business and grow the dividend, which remains our primary use of cash. Regarding share repurchases, our philosophy remains unchanged as we do this to offset dilution from executive compensation. Recently, we completed a new share reauthorization to keep this going since the previous authorization had expired. As John mentioned, we are certainly open to M&A opportunities and will use acquisition strategies to drive business growth. Our capital allocation strategy and philosophy remain consistent with what you have seen in the past.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And we have our next question from James Faucette with Morgan Stanley.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "James Faucette",
+      "title": "Analyst",
+      "content": "I wanted to go back on just a quick couple macro points that you're making. If I rewind back in December, you talked a little bit about some concerns you had about the potential for increases in out-of-business rates, et cetera. I'm just wondering, like how that's evolved and what your current outlook is there? You seem to feel better about it, but I just want to make sure I'm interpreting your comments correctly.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "Yes, Jim, I believe that the out-of-business rates are within the expected range, considering the accelerated new business formations we experienced 2 to 3 years ago. While small business starts have slightly decreased from those peak levels, they remain above pre-pandemic figures. However, as I mentioned earlier, we are not observing the typical indicators associated with a recession, which often leads to higher out-of-business rates. Currently, the out-of-business rates are elevated, particularly at the lower end. When you consider the number of new businesses that have launched in the past 3 years, this situation is not unusual, as historically, 50% of new businesses cease operations within 2 years, and 75% within 5 years. This trend is not being primarily driven by widespread economic hardship. Businesses that would typically be expected to remain operational are not closing, if that makes sense.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "James Faucette",
+      "title": "Analyst",
+      "content": "Yes, it does make sense. I appreciate that. And then we've talked about kind of labor scarcity pretty consistently for the last few years. I think your incremental comments in terms of the quality of labor and specifically employers being more discerning now are interesting. Any specific areas or whether it be industries or geographic regions that that's important to? I'm asking the question because I'm trying to think about what the path to resolution there is or if this is just something we're perpetually going to be grappling with?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "What we continue to focus on is how we can further assist our clients in retaining and attracting quality employees. This is beneficial for them and aligns with our interests since our compensation is linked to these outcomes. Two years ago, we launched an AI-based retention insights product that provides our clients with information regarding potential retention risks. Our partnership with Indeed is fully integrated, and we are promoting their job postings more prominently as part of this collaboration. We recently developed the Visier product, which is nearing launch, and will provide our clients with compensation data. In the upcoming fiscal year, we plan to create benefit packages for our non-insurance HCM clients, helping their employees access crucial care, strengthening their connections to the workplace. We are actively working to address these challenges for our clients. However, there is still much to be done since we are witnessing a generational shift in the labor force. Participation rates are still below pre-pandemic levels, and the challenge is heightened by the retirements of Baby Boomers. While prime age worker participation is at a record high, there simply aren\u2019t enough of them to fill the available positions. The productivity gap across generations reflects this issue. Replacing experienced workers with those who are new or less experienced will become an ongoing public policy concern. We have significant retraining needs, especially in AI and digital roles, and more action is warranted. We also have the R&D tax credit situation that needs attention. I don\u2019t want to delve into politics, but we must create an environment that encourages businesses to invest in productivity and innovations. This will not replace jobs, but will enable existing workers to accomplish their tasks more efficiently despite a smaller workforce. This systemic issue presents a great opportunity for us as it relates to the products and services we provide to small and medium-sized businesses. This perspective is evident in the data we analyze.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And we have our next question from Ramsey El-Assal with Barclays.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Ramsey El-Assal",
+      "title": "Analyst",
+      "content": "How much did M&A contribute in the quarter? If you could help us think through whether there's an inorganic contribution when it comes to your preliminary F '25 guidance, what that might be as well?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Bob Schrader",
+      "title": "CFO",
+      "content": "Yes. We did not engage in any new mergers and acquisitions this year, except for the small acquisition of Alterna at the end of Q1. While it does add some value, it's a small amount, less than 1%, so it isn't a significant contributor. In our guidance, we generally do not include anything related to potential M&A until a deal is finalized. Therefore, our preliminary guidance does not factor in any M&A for next year.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Ramsey El-Assal",
+      "title": "Analyst",
+      "content": "Got it, got it. One quick follow-up for me. SECURE Act 2.0, what are you seeing there? Does that have the potential to emerge as kind of a tailwind that might help offset some of the ERTC headwind? Or is it too early to tell? Maybe give us an update on what you're seeing on SECURE Act 2.0?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "Yes, Ramsey, replacing ERTC is quite challenging due to its revenue and profitability aspects. We're focused on tax filings, which are core to our business, and there has been significant buzz about ERTC. I believe the SECURE Act is beneficial. Our retirement business has performed well this quarter and year-to-date, contributing to strong growth. However, it's essential to engage with business owners and provide education on it, as it remains a sales process. Some states have made it mandatory, but that situation varies. Regarding SECURE Act 2.0, there's a loophole that puts businesses with fewer than 10 employees at a disadvantage. I won't go into details, but there is bipartisan support in both the House and Senate to address that loophole, which we are advocating for, as it could significantly benefit our micro segment and boost adoption. However, that challenge is still present.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And we have our next question from Ashish Sabadra with RBC Capital Markets.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "David Paige",
+      "title": "Analyst",
+      "content": "This is David Paige on for Ashish. I just had a question on your AI initiatives. Maybe can you provide some of the customer feedback on what parts of your tools or your AI models that they're liking and maybe some of the benefits you're seeing internally in terms of greater sales team productivity, et cetera?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "Yes. So David, what I would tell you at this point in time, a lot of our AI initiatives and investments have really been focused internally, both in terms of how we drive efficiency, how we drive better sales productivity, how we conduct better marketing and targeting, and how we provide better customer service and identify clients that are at risk of leaving us, as well as how we do better pricing and discounting so that we're not giving away too much, but we give enough to get the right type of lifetime value that we want. Really on the client side, the retention insights have been a very popular product with our larger customers in terms of getting insights into what they're doing. We're just in the stages of rolling out our Visier product, which will give them basically 750 million data compensation data points that will allow our customers in real-time to understand how competitive they are. If they\u2019re making a job offer, they will know what they could potentially do. I truly think, because of our vast data set, we're going to be able to provide a degree of insights and information when coupled with our HR advisers that will set us apart from any smaller regional players or a local CPA, as we can give them the vast data set insights that we have. As I've mentioned, we just hired a new SVP whose full-time job is to pull all of the capabilities we have across the company and develop a robust strategy on how we can drive the most out of AI to drive more value for our customers and drive more operational efficiency into the company.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And we have our next question from Bryan Keane with Deutsche Bank.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Bryan Keane",
+      "title": "Analyst",
+      "content": "I just had a couple of clarifications. The miss on revenue in the third quarter versus your guided expectations, it sounded like 1/3 of that was the ERTC decision to stop recognizing the revenues. Then I'm just trying to fill in the gap and the other 2/3 of kind of versus your expectations on the miss, if I heard that correctly.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Bob Schrader",
+      "title": "CFO",
+      "content": "That's correct, Bryan. There are three main drivers that we've discussed. While they are all relatively small, they are significant. First, the continued decline in employment led to lower checks per client and a smaller change in our base compared to our assumptions. This trend began in the second quarter when we updated our forecast based on what we observed. Employment ended up being softer than even our revised forecasts. The second driver is revenue growth, which also came in weaker than we had anticipated. Lastly, the ERTC played a larger role than I previously mentioned. When considering these three factors, I believe they each contribute about one-third.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Bryan Keane",
+      "title": "Analyst",
+      "content": "No, that's helpful. And then when I jump from the third quarter revenue growth of 4% to the guided 5%, what accounts for the extra strength of 100 basis points when I go into the fourth quarter?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Bob Schrader",
+      "title": "CFO",
+      "content": "I'd say there are a few things to call out there, Bryan. One, I mentioned the ERTC headwind being similar to Q3. It's a little bit less than it was in Q3, so that has a little bit of an impact. You have less of a headwind from ERTC in Q4. We're still getting a strong client base, price realization, and product penetration that carry into Q4. We came out of the selling season in a stronger position from a worksite employee standpoint in medical enrollment, and we're going to get the full quarter benefit of that in Q4 relative to where we were in Q3. So we got positive momentum, I would say, heading into Q4 in both businesses. We are getting a little bit of a lift in interest on funds in Q4. You've seen a little bit stronger growth there versus Q3. Some of that is the compare we did some repositioning of the portfolio. I think we had some realized losses that we took in Q4 to better position the portfolio going forward. You get a little bit of a tailwind in growth from that as well. When you put those together, that accounts for a little bit stronger growth in Q4 relative to Q3.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And we have our last question from Scott Wurtzel with Wolfe Research.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Scott Wurtzel",
+      "title": "Analyst",
+      "content": "Just one for me. I wanted to go back to the margin side. I mean, the outperformance, I think, was notable despite the ERTC revenue going away. I just wanted to clarify. I know you talked about some of the efficiencies off the investments over the last few years. Were there any specific actions on the expense side that you took during the quarter as the ERTC revenue sort of wound down?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Bob Schrader",
+      "title": "CFO",
+      "content": "Yes. I wouldn't say anything specific to call out, Scott. Obviously, we're always trying to look at expenses and making sure that we're not letting new costs into the business and really focusing. We saw the headwind come in. Nothing specific to call out other than good expense management. Some of that margin expansion you saw in the quarter is being driven by interest rates. But even when you exclude that, we saw good margin expansion during the quarter.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "Yes. I don't want to shortchange the tremendous job that each and every employee does in the company in terms of managing expenses. We have this built into our DNA when we say, hey, we're seeing signs, it's time to go. People know what to do, and they do it. Some of that PEO and Insurance revenue is direct revenue pass-through. When you look at our margins, some of the revenue into ERTC. I want to commend our team for the work they\u2019ve done to get ourselves in this position so that when the tide turned, we had leverage to pull to ensure we deliver for our shareholders.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And that does conclude our Q&A session for today.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "John Gibson",
+      "title": "CEO",
+      "content": "Okay. Well, listen, everyone, at this point, we'll close the call. If you're interested in a replay of the webcast of the conference call, it will be archived for approximately 90 days. I want to thank you for your interest in Paychex and hope all of you have a great day. Thank you.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "This does conclude today's program. Thank you for your participation. You may now disconnect.",
+      "sentiment": "0.3"
+    }
+  ],
+  "reported_date": "2024-10-01"
+}

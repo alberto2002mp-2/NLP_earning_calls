@@ -1,0 +1,385 @@
+{
+  "symbol": "ETN",
+  "quarter": "2024Q1",
+  "transcript": [
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you for holding and welcome to the Eaton First Quarter 2024 Earnings Call. Please note that this conference is being recorded.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Yan Jin",
+      "title": "Host",
+      "content": "Good morning. Thank you all for joining us for Eaton's Fourth Quarter 2024 Earnings Call. With me today are Craig Arnold, our Chairman and CEO; and Olivier Leonetti, Executive Vice President and Chief Financial Officer. Our agenda today includes the opening remarks by Craig, then he will turn it over to Olivier, who will highlight the company's performance in the fourth quarter. As we have done on our past calls, we'll be taking questions at the end of Craig's closing commentary. The press release and the presentation we'll go through today have been posted on our website. This presentation includes adjusted earnings per share, adjusted free cash flow, and other non-GAAP measures. They are all reconciled in the appendix. A webcast of this call is accessible on our website and will be available for replay. I would like to remind you that our comments today will include the statements related to the expected future results of the company and are therefore forward-looking statements. Our actual results may differ materially from our forecasted projections due to a wide range of risks and uncertainties that are described in our earnings release and the presentation. With that, I will turn it over to Craig.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Craig Arnold",
+      "title": "CEO",
+      "content": "Okay. Thanks, Yan. And we'll start with some highlights on Page 3, and I'll lead off by noting that we've delivered another strong quarter this year. Our adjusted EPS was $2.40 in the quarter, well above our guidance range, our record for the quarter, and up 28% from the prior year. I'd also note that our orders came in ahead of expectations with strong order growth in Electrical, both the Americas and Global. On a rolling 12-month basis, total electrical orders were up 7% and aerospace orders increased by 2%. This led to another quarter of growing and record backlogs up 27% for Electrical and 11% for Aerospace, with strong book-to-bill ratios. The growth in orders and backlog supports our point of view on the strength of the megatrends that we're in the early stages of and that our market should be strong for years to come. Given our Q1 results, we're raising our guidance for organic growth, segment margins, and adjusted EPS for the year. On balance, we're very pleased with our start to the year. In the last few quarters, we shared our framework on how we think about key growth drivers for the company. This chart reflects the six secular growth trends that are positively impacting our business today, and, quite frankly, for years to come. We continue to think Eaton is uniquely positioned in most of our businesses and are expected to see an acceleration in market-driven growth opportunities for years to come. In the last three earnings calls, we provided a summary of progress on infrastructure spending, reindustrialization, utility, and data center markets. We also shared the data we're tracking on mega projects, including when they are expected to have a material impact on our revenue, and an overview of the growth expectations and drivers for our Aerospace business. Today, we'll once again provide you an update on what we're seeing on mega projects, but we'll also take a moment to show you the momentum that we're seeing in the nonresidential construction project market for those projects under $1 billion. Additionally, we'll provide you with a summary of the growth outlook for industrial facilities and how we're positioned in this market, and lastly, because it's such a dynamic topic, we'll provide an updated view on how our now higher growth expectations for the data center market are unfolding. Turning to Slide 5 in the presentation. We summarized the number of mega projects that have been announced since January of 2021. As a reminder, a mega project is a project with an announced value of $1 billion or more, and the number is now 415 projects. Once again, this is North America data, but we are seeing a similar trend in Europe, although the dollars are not as large. Just a few points to note. We've now surpassed $1 trillion in announced megaprojects, double what we saw last year and three times the normal run rate. Approximately 16% of these projects have started but it does vary by type of project. Using the current forecast, we expect over $100 billion to $150 billion of these projects to start this year. It's also worth noting that mega projects represent 15% of total nonresidential construction starts in 2023, a number that we expect to grow over the next five years. For projects that have started, we've won $1 billion of orders, and our win rate is approximately 40%. We remain active in negotiations on another $1.4 billion of electrical content. Turning to Slide 6. We want to highlight the largest part of the nonresidential construction market, projects under $1 billion. This market is projected to be over $500 billion in 2024 and represents around 50% of the U.S. market, a 56% increase since 2021 and a 16% compound annual growth rate. The market was actually up 10% through Q1 of this year. So while mega projects grab a lot of the headlines, we're seeing significant strength in projects under $1 billion as well. And for projects less than $100 million, construction starts were up 15%, so once again, strength across the entire market. This momentum is naturally being driven by the same set of mega trends and stimulus spending that we're seeing on mega projects. The primary markets here include utility, power generation, renewable, water, wastewater, manufacturing, and data centers. Our win rate in this segment is approximately 35%. Turning to Slide 7, we highlight the industrial facilities end market. As we've reported, this end market accounted for approximately 12% of Eaton's total revenue in 2023. Reindustrialization and nearshoring are having a particularly large impact on this market. Examples include semiconductor fabrication, EV and EV battery plants, as well as LNG terminals. At the same time, industrial markets are undergoing growing pressure to decarbonize, to lower costs and develop more sustainable operations. These challenges are driving a significant increase in capital expenditure investment. It's also coming at a time when technology and digitalization are providing more value to data as a service, software, and therefore, the ability to provide operational intelligence. This allows customers to move from being reactive to proactive when managing energy and uptime, saving them time and money. For us, we increased both our content per project and our average selling price. These are the drivers that support our belief that the industrial facilities end market will grow by some 7% between now, 2023 and 2026. Slide 8 provides an overview of the products and software that we sell as part of our industrial solutions portfolio. As noted, we think we have the broadest portfolio of products in the market. Our solutions are sold in both process and discrete manufacturing industries and are especially well-suited to take advantage of the trends we discussed on the prior page. Our solutions help industrial companies optimize performance by lowering the cost of ownership and reducing complexity. In addition to hardware and software, we provide a full suite of project management services, including design, specifying, commissioning, training, remote monitoring, and obviously, aftermarket service. Our Brightlayer industrial software platform enables customers to preempt operational challenges because of the data and insights that come from our electrical equipment. Moving to Slide 9, you'll see an updated view on the data center market. Last fall, in our Q3 2023 earnings call, we highlighted the data center market and shared our view that we expected the market to grow at a 16% compounded growth rate between 2022 and 2025. We want to provide an update as we've seen continued momentum in this market, driven by the rise of AI, big data, and certainly edge computing. As expected, the biggest increase is coming from the very strong demand for AI data centers, which is reflected both in our orders and in our negotiation pipeline. Here, orders on a trailing 12-month basis have more than doubled, and our negotiations in the U.S. have increased by more than 4 times. We now think the overall market grows at a 25% compounded growth rate between 2022 and 2025. We have a strong position in the data center market, and the data center/IT channel accounted for 14% of our revenue last year.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Olivier Leonetti",
+      "title": "CFO",
+      "content": "Thanks, Craig. I'll start by providing a summary of our Q1 results. We posted a Q1 sales record of $5.9 billion, up 8% in total and organically. This represents 8 quarters of growth over 20% on a 2-year stack. We posted Q1 segment profit and margins record. Operating profit grew 27% and segment margin expanded 340 basis points to 23.1%. Adjusted EPS of $2.40 increased by 28% over the prior year. This is a Q1 record and well above the high end of our guidance range. This performance resulted in operating cash flow of $475 million, up 42% on a year-over-year basis, and free cash flow of $292 million, up 40% versus the prior year. As a percentage of full year guidance, both operating cash flow and free cash flow are improved versus the prior year. On Slide 11, we summarize Electrical Americas' very strong results. We continue to raise the bar, setting new all-time records for sales, operating profit, and margins. Organic sales growth remained strong at 17%, which reflects broad-based strength in our end markets with particular strength in industrial, data center, and institutional end markets. On a 2-year stack, organic growth was up 39%. Electrical Americas has generated double-digit organic growth for 9 consecutive quarters. All-time record operating margin of 29.2% was up 630 basis points versus the prior year, benefiting primarily from higher volumes, effective management of price cost, and improved manufacturing efficiency, partially offset by higher costs to support growth initiatives. On a rolling 12-month basis, orders were up 8%, demonstrating a positive inflection as a result of the impact of various megatrends. We had particular strength in the data center end market. Also, our major project negotiations pipeline in Q1 was up 169% versus the prior year and up 197% since Q1 2022. Electrical Americas backlog increased 31% year-over-year and was up 21% sequentially, resulting in a book-to-bill ratio of 1.2 on a rolling 12-month basis. The next chart summarizes the results for our Electrical Global segment. Coincidentally, Global results are mostly flat to last year. Organic growth was up 1%, offset entirely by foreign exchange headwinds. We had strength in data center, industrial, as well as commercial and institutional end markets. Regionally, we saw strength in our APAC and GEIS businesses, partially offset by weakness in our EMEA business. Operating margin was 18.3% which was flat to the prior year. Orders were up 4% on a rolling 12-month basis with strength in data center and utility end markets. Book-to-bill continues to remain strong. Q1 was 1.1 on a rolling 12-month basis. Before moving to our industrial businesses, I'd like to briefly recap the combined electrical segments. For Q1, we posted organic growth of 11% and segment margin of 25.3%, which was 430 basis points over the prior year. On a rolling 12-month basis, orders inflected strongly positive, up 7%, and our book-to-bill ratio for our electrical sector remains very strong at 1.2. We remain quite confident in our positioning for continued growth with strong margins in our overall electrical business. Page 13 highlights our Aerospace segment. We posted Q1 sales, operating profit, and operating margin records. Organic growth was 9% for the quarter. Growth was driven by broad strength across all markets with particular strength in commercial OEM and aftermarket end markets, which were up 17% and 15%, respectively. Operating margin of 23.1% was up 60 basis points year-over-year, benefiting from higher volumes and effective management of price cost. On a rolling 12-month basis, orders increased 2%. Commercial OEM and aftermarket orders were particularly strong, and we expect that the military OEM order patterns will normalize in the second half. Year-over-year backlog increased 11% and was up 4% sequentially. Moving on to our Vehicle segment on Page 14. In the quarter, total revenue was down 2%, including a 3% organic decline, partially offset by a point of favorable foreign exchange. Weakness in the North America region was partially offset by strength in Asia Pacific. Operating margin came in at 16%, 150 basis points above the prior year, driven by effective management of price cost and improvement in manufacturing efficiencies, offset by lower sales volume. On Page 15, we show results for our e-mobility business. Sales were up 7% on an organic and total basis. Our organic growth significantly outperformed the market, driven by new program ramp-ups. Our OEM customers continue to face execution challenges, and while we anticipate improvements throughout the year, we have remained pragmatic in our volume forecast. As a result, we will discuss shortly that our full-year growth guidance of 25% to 35% remains unchanged. Growth programs and investments drove the operating loss of $4 million. We continue to incur launch costs related to our growth programs expected to ramp up over the next coming quarters. In 2023, we won new programs with more than $1.3 billion of mature year revenue, and we continue to expand our pipeline of new opportunities in 2024 with our unique technologies, driven by our electrical pedigree. This will continue to drive our growth well above the market. Moving to Page 16, we show our Electrical and Aerospace backlog updated through Q1. As you can see, we continue to build backlog with electrical stepping up to $11.3 billion and Aerospace reaching $3.4 billion for a total backlog of $14.7 billion. Versus prior year, our backlogs have grown by 27% in Electrical and 11% in Aerospace. Electrical backlog benefited from an acceleration in order intake from tailwinds from the secular trends, including hyperscale orders within the data center end market. As noted earlier, book-to-bill ratios for Electrical and Aerospace are 1.2 and 1.1, respectively. The continued growth in our backlog underscores our confidence in 2024 and beyond.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Craig Arnold",
+      "title": "CEO",
+      "content": "Now I'll turn it back to Olivier for the end market outlook and financial guidance updates. Thanks, Olivier. Turning to Page 17, we show a summary of our end market growth assumptions. Overall, our markets continue to perform as expected, and most of these indicators have not changed from what we shared in our Q4 earnings call. We are, however, seeing stronger-than-expected growth in data center and in commercial and institutional markets in the U.S., which is why we're raising our revenue guidance for the year. In contrast, to what many are seeing in the macro economy, we continue to expect growth in 80% of our end markets, and much of this growth is supported by the large backlog numbers that Olivier shared. Moving to Page 18, we show our financial year organic growth and operating margin guidance. Overall, our 2024 organic growth is now expected to be between 7% and 9%, which is an increase of 50 basis points at the midpoint. We're raising our organic growth guidance in Electrical Americas to 10% to 12% from 9% to 11%, and we're reiterating the growth guidance for the remaining segments. For segment margins, we're increasing the company's margin guidance range by 40 basis points at the midpoint to 23%. This is a result of the improved outlook in Electrical Americas, where we're seeing strong demand and strong performance. Here, we're increasing our margin outlook to 28% and a 100 basis point increase at the midpoint, and we're reiterating our guidance for the remaining segments. On the next page, we have the balance of our guidance metrics for 2024 and Q2. For 2024, our adjusted EPS is expected to be between $10.20 and $10.60 a share. The $10.40 midpoint represents a 14% growth in adjusted EPS over the prior year and a $0.25 increase over the initial 2024 guidance. The other elements of our guidance are unchanged. For Q2, we expect organic growth to be between 6.5% and 8.5%, segment margins to be between 22.4% and 22.8%, and adjusted EPS to be in the range of $2.52 to $2.62 a share. So let me just close with a summary on Page 20. Once again, the trends driving growth in our end markets continue to play out as expected and even better in our Electrical Americas business, driven by the data center market. We also delivered a strong quarter of financial results on the back of strong execution across the company. As a result, we raised our guidance for organic growth by 50 basis points, segment margins by 40 basis points, and adjusted EPS by 25% at the midpoint. And in the quarter, we were especially pleased to see strength in our negotiations, our orders, and the growth in our backlog, all of which hit all-time records, validating our medium- and long-term growth outlook. So we leave the quarter with a high level of confidence. Eaton will deliver higher growth, higher margins, and consistent earnings growth for years to come. Our expectations are high, and that's exactly where they should be.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Yan Jin",
+      "title": "Host",
+      "content": "Thanks, Craig. I will now hand it over to the operator to provide you with further instructions.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "The first question will come from Joe Ritchie from Goldman Sachs.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Joseph Ritchie",
+      "title": "Analyst",
+      "content": "Craig, it's incredible to see the pipeline now over $1 trillion on the mega projects. I'm just curious, as you talk to your customers, how do you see this all playing out over the next couple of years? And what are you hearing from your customers in terms of additional products that you need to come to market with just given all the activity that's happening here?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Craig Arnold",
+      "title": "CEO",
+      "content": "No, we appreciate the question, Joe, and it's obviously one that we're spending a lot of time internally looking at. It's one of the things that's, quite frankly, tempering our outlook for the year is the fact that we do believe that labor continues to be a bottleneck in certain industries and really in the overall economy. At this point, I think it's really too early to say to what extent it's going to resolve itself. One of the things that we're looking at as well is total labor participation rates. In general, those numbers have been growing over time at a rate of 2% to 3%. I will tell you that the construction industry, the industry that we're participating in, is actually growing at a faster rate. So our industries are, in fact, growing at a faster rate in terms of labor participation than the underlying economy, which is really encouraging. But it's one of the things that we continue to watch, once again, that tempers our outlook. We could obviously grow faster if these constraints are fully resolved and don't become a gating item for the industry overall.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Joseph Ritchie",
+      "title": "Analyst",
+      "content": "Got it. That's super helpful. And then I guess maybe I'll turn to margins for a second. So you announced a restructuring program last quarter. There's a pretty wide gap right now between the really stellar margins you're putting up in the Electrical Americas business versus the Electrical Global business. Can you maybe just elaborate a little bit more on the restructuring plans? Is there a sense that you're going to try to narrow the gap on the margin trajectory for those two businesses today?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Craig Arnold",
+      "title": "CEO",
+      "content": "Yes, the short answer is absolutely. We would intend and anticipate narrowing the gap between those two businesses and narrow the gap the right way. The Global business needs to do significantly better. As you think about the restructuring program that we launched, $375 million of spending, $325 million of benefits, two-thirds of that will be in the Electrical segment with a heavy concentration in Global. We are clearly working hard to improve margins in the Electrical Global business. One of the reasons why this gap widened is that the North America market is doing very well right now. There's a lot of activity. There's a lot of growth. If you think about the MOEM segment, you see it in some of the macroeconomic data coming out of Europe, especially Germany, and many of the market segments in Europe where we have a strong position are some of the weaker parts of the market. If we look forward, we're obviously anticipating margins getting better. We have easier comps in the second half of the year, but there's plenty of opportunity to expand our margins in our Global segment.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "The next question is from Jeff Sprague from Vertical Research.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jeffrey Sprague",
+      "title": "Analyst",
+      "content": "Just curious on data centers, Craig, your comment about some of the mega projects not having started yet. Can you elaborate on that? Are you saying that you really haven't seen AI-oriented investments coming through?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Craig Arnold",
+      "title": "CEO",
+      "content": "Yes, I'd say that, to your point, Jeff, data center markets have been good for a long time. Our data center numbers show growth in excess of 20%. The order growth in the data center market is much higher than that. And so if you think about these big mega projects and where we're seeing outsized growth in projects announced, data centers are obviously one of the big contributors. The underlying rate of growth that we're seeing in negotiations and orders is outstripping the very strong growth that we're seeing in our business.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Jeffrey Sprague",
+      "title": "Analyst",
+      "content": "Yes, I'm looking for clarity on that. When you provided that handy chart last quarter showing kind of the negotiation to order conversion timeline, you didn't include data centers on that slide. Does that differ significantly from those?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Craig Arnold",
+      "title": "CEO",
+      "content": "I think, and the team can correct me if I'm wrong, I thought data centers were embedded in that data. We gave you the aggregate data, and I thought data centers were a part of that.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Yan Jin",
+      "title": "Host",
+      "content": "Yes, we can follow up after this call.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jeffrey Sprague",
+      "title": "Analyst",
+      "content": "Yes. And then just a second question, I'm sorry. On Electrical Americas' margins, what would cause the margins to go down sequentially, right?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Craig Arnold",
+      "title": "CEO",
+      "content": "As you know, we've made a number of announcements around capacity expansion. We're making some investments in commercial front end, and those will certainly be a bit of a gating factor in terms of margin expansion. I think the implied number is close to what it was in Q1. But I do take your point that we typically see margin expansion and certainly volume expansion in the out quarters.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "The next question is from Deane Dray from RBC Capital Markets.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Deane Dray",
+      "title": "Analyst",
+      "content": "Just want to circle back on the data center demand here. Are you looking at any of these longer-term supply agreements?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Craig Arnold",
+      "title": "CEO",
+      "content": "Yes. The short answer is absolutely yes. We are living in a market that has a number of constraints, including electrical equipment. It's one of the reasons why we announced $1 billion of incremental investments to deal with the bottlenecks in our own manufacturing operations. We are signing multiyear agreements with our customers to ensure that we have capacity in place to support the demand that they need from us. Data centers continue to grow.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Deane Dray",
+      "title": "Analyst",
+      "content": "Do you anticipate any mix change in what you're doing for direct ship versus going through distribution?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Craig Arnold",
+      "title": "CEO",
+      "content": "I'd say distribution is really an important part of our go-to-market strategy, and we have strong distributor partnerships. Now there are some market dynamics suggesting that certain projects tend to be more of a direct-serve market.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Next question is from Julian Mitchell from Barclays.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Julian Mitchell",
+      "title": "Analyst",
+      "content": "You started out the year with a fairly soft topline there. Can you help us understand the confidence of getting to that low mid-single-digit organic growth for the year?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Craig Arnold",
+      "title": "CEO",
+      "content": "I'd say we have modest growth assumptions for our Electrical Global segment. In Q1, we performed largely in line with our expectations, a little weaker in Europe than what we expected, but it's largely in line. The comps get a bit easier as well in the second half of the year.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Julian Mitchell",
+      "title": "Analyst",
+      "content": "What would cause the margins to go down sequentially?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Craig Arnold",
+      "title": "CEO",
+      "content": "The incremental spending and investments that we're making in the business will affect margin expansion. Margin expansion will be tied specifically to supporting the outlook for growth.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question is from Steve Tusa from JPMorgan.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "C. Stephen Tusa",
+      "title": "Analyst",
+      "content": "Can you be a little bit more specific about the headwinds from these investments?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Craig Arnold",
+      "title": "CEO",
+      "content": "Those are tied to the start-up costs associated with commissioning new lines and new plants. We're making additional investments in some commercial opportunities to deal with the better growth outlook.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "C. Stephen Tusa",
+      "title": "Analyst",
+      "content": "Should we think about this order quarter converting further out than normal?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Craig Arnold",
+      "title": "CEO",
+      "content": "I'd say that lead times have not pushed out further. There is a resurgence of strong orders in Q1. Lead times, as previously discussed, have not changed materially.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "The next question is from Scott Davis from Melius Research.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Scott Davis",
+      "title": "Analyst",
+      "content": "Can you help us understand the long-term supply agreements? Are these like take-or-pay type contracts?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Craig Arnold",
+      "title": "CEO",
+      "content": "We're living in an environment where these industries are growing much faster than they historically have, and we have capacity constraints. So we are in a very different world today with respect to ensuring that we work with our customers and suppliers on a multiyear basis. Most of these contracts help us ensure we have protections for the investments we are making. We feel very good about the nature of the contracts we've structured.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Scott Davis",
+      "title": "Analyst",
+      "content": "Do you have any estimate of how many of your SKUs are sold out right now?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Craig Arnold",
+      "title": "CEO",
+      "content": "I wouldn't say we have determined an exact percentage, but I will tell you that we have capacity constraints on long-cycle products. So overall, we have a good proxy of where we're close to sold out.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "The next question is from Nicole DeBlase from Deutsche Bank.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Nicole DeBlase",
+      "title": "Analyst",
+      "content": "You guys raised the guidance, but it still embeds a big decel throughout the year. Can we chalk that up to conservatism?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Craig Arnold",
+      "title": "CEO",
+      "content": "It was a strong start to the year for Electrical Americas, and it's prudent at this point to see how the year unfolds. There could be upside to that number.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Nicole DeBlase",
+      "title": "Analyst",
+      "content": "Did you raise the guidance for free cash despite higher earnings?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Craig Arnold",
+      "title": "CEO",
+      "content": "It's early in the year, and it's prudent to not take the number up just yet. We'll revisit it as we get through Q2.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "The next question is from Andrew Obin from Bank of America.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Andrew Obin",
+      "title": "Analyst",
+      "content": "What are you seeing in China? How is your Electrical business in China performing?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Craig Arnold",
+      "title": "CEO",
+      "content": "Our China business continues to perform very well. In fact, we grew high single digits in Q1 in our China business. Our joint ventures are also doing well, growing some 35%.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Andrew Obin",
+      "title": "Analyst",
+      "content": "What about channel inventories?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Craig Arnold",
+      "title": "CEO",
+      "content": "I would say that inventories are largely well balanced and well aligned right now. Overall, I think inventory levels are very good given the backlogs we continue to build.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question is from Jeffrey Hammond from KeyBanc.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jeffrey Hammond",
+      "title": "Analyst",
+      "content": "Can you talk about the data center growth curve and the pushback of the 10.8% growth rate?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Craig Arnold",
+      "title": "CEO",
+      "content": "We've seen that fundamental data center market continue to accelerate. The explosive trend in AI and these AI training data centers require orders of magnitude more power than traditional data centers. We expect additional significant growth as we move forward. We will bring on new capacity starting in the second half of the year, and that's when we expect to see higher growth compared to previous metrics.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question is from Philip Buller from Berenberg.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Philip Buller",
+      "title": "Analyst",
+      "content": "Are you seeing any opportunities to invest more beyond the $1 billion for CapEx expansion?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Craig Arnold",
+      "title": "CEO",
+      "content": "We are reassessing whether we're doing enough. The $1 billion is an incremental number that's on top of our base. We will make sure that we have all the capacity in place to deal with the growth we see.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Philip Buller",
+      "title": "Analyst",
+      "content": "Are you seeing any shifts in market shares from traditional players or new entrants?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Craig Arnold",
+      "title": "CEO",
+      "content": "Not particularly. Everyone is adding capacity. There's a lot of activity. We believe we're doing well in the context of this expanding market.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "The next question is from Nigel Coe from Wolfe Research.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Nigel Coe",
+      "title": "Analyst",
+      "content": "Are there opportunities to add another line or another shift to increase capacity in existing footprints?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Craig Arnold",
+      "title": "CEO",
+      "content": "It varies depending on the product line. In some cases, we can add a line or additional shifts, but in others, it means a new greenfield facility.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Yan Jin",
+      "title": "Host",
+      "content": "Okay, thanks, everyone. We have reached the end of the call. As always, our team will be available to address any follow-up questions. Thanks for joining us, and have a great day.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Craig Arnold",
+      "title": "CEO",
+      "content": "All right, thank you.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you, and ladies and gentlemen, that does conclude our conference call for today. Thank you for your participation.",
+      "sentiment": "0.0"
+    }
+  ],
+  "reported_date": "2024-04-30"
+}

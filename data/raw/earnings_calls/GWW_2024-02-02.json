@@ -1,0 +1,307 @@
+{
+  "symbol": "GWW",
+  "quarter": "2023Q4",
+  "transcript": [
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Greetings. Welcome to the W.W. Grainger Fourth Quarter 2023 Earnings Conference Call. I will now turn the conference over to Kyle Bland, Vice President of Investor Relations. Thank you. You may begin.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Kyle Bland",
+      "title": "Vice President of Investor Relations",
+      "content": "Good morning. Welcome to Grainger's Fourth Quarter and Full Year 2023 Earnings Call. With me are D. G. Macpherson, Chairman and CEO; and D. Merriwether, Senior Vice President and CFO. As a reminder, some of our comments today may include forward-looking statements that are subject to various risks and uncertainties. Additional information regarding factors that could cause actual results to differ materially is included in the company's most recent Form 8-K and periodic reports filed with the SEC. This morning's call will focus on our adjusted earnings for the fourth quarter and full year 2023, which excludes the loss on the divestiture of our E&R Industrial sales subsidiary. We have also included a daily organic constant currency growth metric to normalize for the impact on revenue. Definitions and full reconciliations of these non-GAAP financial measures with their corresponding GAAP measures are found in the tables at the end of this presentation and in our earnings release, both of which are available on our IR website. We will also share results related to MonotaRo. Please remember that MonotaRO was a public company and followed Japanese GAAP, which differs from U.S. GAAP, and as reported in our results one month in arrears. As a result, the numbers disclosed will differ from Monotaro's public statements. Now I'll turn it over to D.G.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Donald Macpherson",
+      "title": "Chairman and CEO",
+      "content": "Thanks, Kyle. Good morning, and thanks for joining the call. In 2023, the Grainger team continued to drive our strategy forward by remaining focused on what matters most: providing our customers with a great experience and exceptional service. The customers we serve play a vital role in keeping their businesses and institutions running, and everything we do is focused on making their jobs easier. We made meaningful progress this year in building new capabilities in both segments to help our customers and team members support the work they do. We've done this by investing in technology, our supply chain network, and our high-touch growth engines to ensure we can provide the best experience possible. As a result of this focus, we delivered record sales and earnings for the year. I'm incredibly proud of the progress we've made and want to take a few minutes to highlight some of this progress in more detail. The Grainger High-Touch solutions model has undergone a digital transformation over the past several years with strategic investments in our infrastructure, talent, and the development of custom capabilities to support our customers. We have built key technology infrastructure capabilities focused on two main domains that affect customer experience: knowing our products better than anyone else and knowing our customers better than anyone else. These endeavors include the development of homegrown software assets around product information management, or PIM, and Customer Information Management, or CIM, which allow us to store, codify, and scale our data assets. These investments may seem simple and obvious, but in the MRO industry context, product and customer integration is very challenging. We offer millions of products with many technical attributes unique to each product category and then deliver these products to millions of customers across a wide range of industries. We have made great progress here, but the exciting part is that we still have a long way to go. We have invested in additional technology talent that can partner with our MRO subject matter experts to bring Grainger's industry know-how to life. This partnership of talent is yielding significant benefits and helping us generate high-quality proprietary data insights through PIM and CIM. These insights are fueling our growth engines and helping us drive share. For example, our ability to capture detailed product attributes allows us to bid on more relevant keywords that could ultimately yield higher returns on our marketing spend. In addition, having this detailed product information, coupled with customized workflows and processes, means we're able to work with more granularity to gain confidence that our products are competitively priced, and we can do that at scale. Honestly, what we know about our customers' business operations through CIM, alongside our detailed product data, allows us to better match products to customers, saving time and increasing confidence in their purchase. These are just a few examples where we have leveraged our data investments in an ecosystem where talent and technology work together to drive great outcomes. This work is serving as a great foundation for the value we deliver through our high-touch strategic growth engines. Starting with merchandising, we've reviewed roughly 80% of the overall product portfolio at least once, and plan to finish collectively reviewing the entire assortment by the time we close out 2024. We continue to see strong revenue lift equating to several hundred basis points per remerchandised category. Our second and third passes through the assortment have a broader lens than the first pass as we continue to leverage learnings, evolve our PIM capabilities, as we add other relevant areas to our review process. We are seeing strong results from this Evergreen initiative, which we believe sets us up well to continue to drive share gain through this work stream in the future. Shifting to marketing, we continue to make progress through this initiative. This year, we've put a particular emphasis on leveraging CIM and expanding top-of-funnel marketing efforts to TV and streaming channels to increase brand awareness. We have seen positive results in many areas and plan to continue to increase investment at attractive returns going forward. Our sales force remains an important demand generator for Grainger. As mentioned at Investor Day, we are enhancing the use of our enhanced CIM data to redraw seller territories to better serve underpenetrated customer locations. With this, for the first time in several years, we've added about 200 salespeople to the organization over the last 1.5 years. It takes anywhere from 18 to 24 months for these new team members to ramp to a profitable level. But with the results we've seen so far, we are on the right path and expect this initiative to contribute to outgrowth over the next few years. To ensure that our sales force is most effective, we're investing in tools and technology, which leverage information from PIM and CIM to provide insights to our sellers at scale to help them better plan the day-to-day interactions with customers. We are piloting several different capabilities here in 2024. Lastly, with our enhanced customer information, we are finding additional opportunities to embed our solutions and reinforce the value we bring to customers. This includes bolstering our value-added services offering and advancing our inventory management capabilities to improve keep-stock processes and technology, both of which increase stickiness with customers, improve our productivity, and drive share. This has been a multiyear journey, which is creating a significant competitive advantage for our business. As we layer on further enhancements and leverage machine learning and AI capabilities, we will continue to power our growth engines, drive share, and deliver customer value. Moving to the end assortment model, despite more muted top-line growth in 2023, the proven flywheel continues to push forward. MonotaRO continues to execute well. They've seen strong growth with enterprise customers, continue to expand with small and midsized customers, and are gaining operating leverage as they ramp into their distribution center in Gala. In January, I had the opportunity to visit MonotaRO and was able to see the progress within the Gala, which has been supported by a tight partnership between our U.S. supply chain organization and our Japanese counterparts. The team has progressed on their strategy, expanding their assortment, attracting new customers, and improving B2B customer retention. While repeat rates improved in 2023, the team continues to focus on this evergreen initiative. This includes presenting and personalizing our most advantaged assortment, assessing our price competitiveness, and proactively communicating delivery times to highlight where we are advantaged. For many of these efforts, the team continues to work with their MonotaRO peers to share best practices that work together to move the business forward. Now let's turn to Grainger's advantaged supply chain. We've made great progress to return service back to near normal levels following the unprecedented global supply chain disruption that our industry experienced over the last few years. We continue to hear that Grainger's product availability and our next-day order complete shipping capabilities greatly set us apart from our competitors, allowing us to show up well and win with customers. As I mentioned at our 2022 Investor Day, we set out to accelerate our investment in capacity, automation, and sustainability initiatives to further strengthen our service advantage. We are well on that path as we add new square footage to the network, including the following: Three new bulk warehouses, including a 525,000 square foot facility in Pineville, North Carolina, that's scheduled to open later this year; a 535,000 square foot distribution center currently under construction in Gresham, Oregon, which is on track to open in 2025; and as shared earlier this week, a new 1.2 million square foot distribution center near Houston, Texas. With the addition of these facilities, we're adding 3.5 million square feet to our supply chain network in total, representing more than a 35% increase from where we began 2023. These latest investments will only strengthen our promise to customers who count on us to provide next-day complete orders to keep their operations running and people safe. Finally, I think it's important to reinforce how the Grainger Edge is truly the key to all of the success that I just mentioned. Every day, our purpose: we keep the world working, motivates us to do our best for customers, communities, and each other. That commitment has driven a culture we are very proud of and one that's continuously being noticed externally. Recently, Grainger ranked third out of 400 of America's largest companies in the American Opportunity Index for our commitment to developing internal talent, driving business performance, and individual growth. The index primarily focuses on the experience of workers in non-college degree roles and the company's ability to offer them growth and development on their career path. Additionally, Grainger was recognized on Glassdoor's 2024 Best Places to Work list. Glassdoor has more than 50 million unique monthly visitors, and this recognition is particularly special as it was the first time Grainger was named to Glassdoor's U.S. large employer list. Both of these awards are based on third-party facts or proprietary career databases, not surveys, so they eliminate subjectivity and serve as a testament to the way that the Grainger Edge has strengthened our team member experience and employer brand. Lastly, before switching to the financials, I want to take a second to announce an update to our 2030 sustainability target. Our target, approved by the Board early in the fourth quarter of 2023, seeks to reduce absolute Scope 1 and 2 emissions by 50% from a 2018 baseline, up from the previous 30% target. This new goal aligns with the level required to reduce Scope 1 and 2 emissions to limit global temperature rise to 1.5 degrees Celsius. Environmental stewardship, which has long been a standing focus for Grainger, remains a key component of our culture and is embedded within the Grainger Edge in everything we do. To be clear, our investments in sustainability are profitable as our team has been very resourceful at finding ways to improve our operations while also supporting results. Turning to Slide 9, we finished the year with over $16.5 billion in sales, up 8.6% on a daily basis or 9.5% in daily organic constant currency amidst the normalizing demand environment. Growth for the year is highlighted by our high-touch solutions U.S. business, which continued to gain profitable share finishing the year with 525 basis points of market outgrowth, exceeding our annual target of 400 to 500 basis points. Alongside the strong top line, the team also did a great job of managing profitability throughout the year with operating margins up 130 basis points in 2023, finishing the year at 15.7%. Together, these strong results fueled record earnings, ROIC, and cash flow. For the year, adjusted EPS was up over 23% to $36.67 per share. ROIC finished at 42.8%, and operating cash flow was over $2 billion, which allowed us to return $1.2 billion to shareholders through dividends and share repurchases. Overall, these strong results for 2023 are the byproduct of a lot of hard work from our entire team, and I'm very proud of what we've been able to accomplish. As we embark on another year, regardless of what market we face, we are well positioned to continue our momentum and expect to drive great results for our stakeholders in 2024 and beyond. With that, I will turn it over to Dee.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Deidra Merriwether",
+      "title": "Senior Vice President and CFO",
+      "content": "Thanks, D.G. And I pause for a moment, everyone. I'm a little under the weather today, so please bear with me. Turning to our fourth quarter results, we had a solid quarter to finish out the year with profitability coming in stronger than expected, but also reflecting some top line softness as we exited the year. For the total company results, daily sales grew 5.1% or 5.5% on a daily organic constant currency basis, which was driven by growth across both segments. Consistent with what we've seen all year, year-over-year top line growth rates continue to moderate as we wrap up price pass from the prior year. While sales finished within our implied guidance range for the quarter, we did see more holiday-related softness than anticipated as we ended the quarter. The total company gross margin for the quarter finished at 39.1% and declined by 50 basis points over the prior year period. Both segments saw slight year-over-year margin contraction as expected, which I will detail in the coming slides, but in total, finished the quarter at the top end of our implied fourth-quarter guidance. Total company operating margin was up 80 basis points, which was aided by a lap of roughly $35 million of one-time expenses in the prior year period. When excluding this impact, SG&A as a percentage of sales was still favorable versus the prior year by roughly 40 basis points. In total, we delivered diluted EPS for the quarter of $8.33, which was up over 16% versus the fourth quarter of 2022. Moving on to segment level results, the High-Tech Solutions segment continues to perform well, with sales up 4.7% on both the reported and daily organic constant currency basis, fueled by growth across all geographies. Volume growth remains strong and accounts for a vast majority of the overall year-over-year expansion. In the U.S., almost all customer end markets continue to see growth in the fourth quarter, with government contractors and healthcare seeing the strongest year-over-year performance. Canada grew slowly in Q4, driven by a softer macro, but the business remains solidly profitable in the quarter and finished 2023 with its most profitable year in over half a decade. For the segment, gross profit margin finished the quarter at 41.4%, down 50 basis points versus the prior year due to negative price/cost spread and year-end inventory cost adjustments, which included the lap of a prior year LIFO inventory benefit that we did not repeat in 2023. These headwinds were partially offset by the continued supply chain tailwinds we've seen all year, as improved product availability and lower fuel and container costs drove year-over-year favorability. Although we were price cost negative in the quarter and for the full year of 2023, we are nearly neutral on a two-year stack, as the timing favorability captured in 2022 has fully unwound, and we enter 2024 on neutral footing. At the operating margin line, we saw an improvement of 90 basis points year-over-year as the slight gross profit decline was offset by leverage in the business, despite continued investment in marketing and headcount to drive long-term growth. As mentioned, the year-over-year SG&A leverage was aided by roughly 90 basis points due to the lap of one-time expenses in the prior year period. Overall, it was another solid quarter for the High-Touch Solutions North American segment, wrapping up a great year. Looking at market outlook, we estimate that the U.S. MRO market grew in the quarter between 2.5% and 3%, largely driven by price, with industrial production, our proxy for volume, remaining roughly flat year-over-year. This indicates that the High-Touch Solutions U.S. business achieved roughly 225 basis points of outgrowth in the fourth quarter in total. This more muted quarterly outgrowth reflects higher market-based inflation and Grainger's Q4 price contribution due to the timing of where we pass price versus the market. On a pure volume basis, when looking at our volume contribution versus industrial production growth, our market outgrowth was closer to 475 basis points. In any case, as D.G. mentioned, looking at the full year, we achieved an annual outgrowth target by capturing approximately 525 basis points of growth above the market, and we remain poised to deliver against our target again in 2024. Moving to our endless assortment segment. Sales increased 6% or 8.2% on a daily constant currency basis, which adjusts for the impact of the depreciated Japanese yen. Zoro U.S. was up 2.6%, while MonotaRO achieved 9.9% growth in local currency. At a business level, Zoro's growth reflects the continuation of headwinds they've experienced all year with declines in non-core B2C volume and slowing macro environment impacting its B2B customers. B2B customer growth remained steady in the high single digits for the quarter, while non-core B2C and B2C-like customer performance remained down over 20% year-over-year. At MonotaRO, macro-related headwinds continued to impact results; however, the business still drove strong growth with increased sales to new and enterprise customers while also maintaining a strong repeat purchase rate. From a profitability perspective, gross margins in the segment declined 60 basis points versus the prior year, as MonotaRO favorability was offset by year-over-year declines at Zoro. As in the prior quarters, MonotaRO results reflect continued freight efficiencies, while the Zoro decline was driven by negative product mix and the impact of unfavorable timing from prior year price increases. Operating margins for this segment expanded by 50 basis points to 7.8% as the unfavorable gross margin was offset by SG&A leverage aided by the lap of one-time distribution center and commissioning costs in the prior year. Now looking forward to 2024, we expect to deliver another solid year of performance despite a more muted MRO market. Our outlook for the year includes revenue to be between $17.2 billion and $17.7 billion at the total company level, with daily organic constant currency sales growth between 4% and 7%, driven by top-line growth in both segments. With our High-Touch Solutions segment, we expect daily organic constant currency sales growth between 3.5% and 6.5%. In the U.S., we're planning for the total MRO market growth to be largely flat, with a range of down 0.5% to up 1.5%. This assumes the flattish volume range coupled with price inflation between 0% and 1%. On top of this market outlook, we expect to continue executing against our strategic growth engines to achieve 400 to 500 basis points of U.S. market outgrowth in 2024. In the endless assortment segment, we anticipate daily constant currency sales to grow between 7% and 10%, which normalizes for the impact of two additional business days and expected foreign currency exchange headwinds. MonotaRO is expected to grow in the low double digits in local currency as they continue to ramp up new and enterprise customers, despite an expected slower macro demand environment. Zoro is anticipated to grow in the mid-single digits as we anticipate that many of the macro-related headwinds impacting their core B2B customers will persist into 2024. We also expect the continued unwind of B2C and B2C-like customers, which include resellers and marketplaces, to impact results, especially in the first half of the year. In 2024, the team will focus on growing long-term relationships with its core B2B customers, including work to improve targeted marketing, fine-tune their pricing model, and drive consistent service for all of their customers. Moving to our margin expectations, even after normalizing to some one-time gross margin benefits we realized in 2023, we expect total company operating margins to remain quite healthy in 2024. In the High-Touch Solutions segment, operating margins will stay relatively flat year-over-year between 17.4% and 17.9%. We expect gross profit margins to be down in 2024 after lapping roughly 50 basis points of one-time benefits captured in 2023. We anticipate price-cost for the year will be neutrally aligned as we work our way through the timing discrepancy we've seen over the last couple of years. On the SG&A side, we expect modest leverage while we continue to make incremental investments toward our strategic initiatives to fuel our growth. In endless assortment, we are modeling operating margins to be roughly consistent with what we've seen in the back half of 2023 and in the 7.3% to 7.8% range as the segment re-baselines following Zoro's revenue declines with the non-core B2C and B2C-like customers. At the business unit level, Zoro's operating margins are expected to decline, while MonotaRO's operating margins are expected to be neutral for the year. Turning now to capital allocation. We expect the business will continue to generate strong cash flow in the year, with an expected range of $1.9 billion to $2.1 billion, implying operating cash conversion around 100%. We plan to continue to execute a consistent return-driven approach to our capital allocation strategy, meaning our priorities remain largely unchanged from prior years. First, we look at investing in the business through both organic investment and opportunistic M&A. For 2024, we expect capital spending in the range of $400 million to $500 million. Spending here includes continued supply chain expansion in the United States as we work to expand facilities in the Pacific Northwest and the Houston area. We also plan to further invest in our homegrown data and technology capabilities, helping power our growth engines and further our customer value proposition. Lastly, sustainability-related spending remains a priority. We will continue to invest in projects with solid returns to help achieve our emissions targets. On M&A, we remain highly selective but are also open to investing in capabilities and acquiring the right assets to further our strategy. We have a small dedicated team who continually evaluate opportunities in this area. Secondly, we expect to return the balance of our excess cash to shareholders in the form of dividends and share repurchases. As always, we'll formally set our 2024 dividend in the second quarter, but I can say we remain proud of our history of increasing the dividend for 52 consecutive years, and we expect to do so again this year. We do not tie our dividend payout to specific metrics; however, we anticipate consistent annual dividend increases in the high single digits to low double-digit percentage range every year. Lastly, we expect to allocate the balance of our cash flow to share repurchases and anticipate the amount to be between $900 million and $1.1 billion in 2024. We think this return-focused allocation philosophy provides the organization optimal flexibility to efficiently manage investment while maximizing shareholder returns. In summary, rolling all this up at the total company level, as mentioned, we plan to grow the top line by 4% to 7% on a daily organic constant currency basis. Note that reported sales growth is a bit higher than our daily organic constant currency range as we are normalizing for the divestiture of our E&R subsidiary, FX changes, and the impact of two additional selling days in 2024 compared to the prior year. A reconciliation of these impacts is provided in the appendix of this presentation. Operating margin, as we discussed, ranged from 15.3% to 15.8%, leading to expected EPS growth of 3.6% to 10.5%, or $38 to $40.50 per share. From a seasonality perspective, we do expect both revenue and profitability to be more back-half weighted as we move through the year. This includes a softer start in January from the timing of the New Year's holiday and cold weather disruptions experienced mid-month across a large portion of the U.S. With this, January sales started slowly but picked up momentum as we made progress with preliminary results of 4.4% on a daily organic constant currency basis. On profitability with more muted inflation in the year, we won't see the price timing favorability we normally capture in the first quarter. With this, those margins will show very little seasonality and remain reasonably consistent with our full-year gross margin outlook throughout the year. For SG&A, we expect year-over-year deleverage in the first quarter as we ramp up investment spending in 2024. Leverage will improve each quarter, looking to a tailwind in the back half of the year. Altogether, this will drive EPS growth to be flat to slightly down in the first quarter and will ramp thereafter as the year progresses. Before I hand it back to D.G., I wanted to quickly touch on our long-term outlook and where we expect to take the business over the next several years. As we discussed on our last call, we made great progress towards the 2025 targets we rolled out at our Investor Day in September 2022. We remain on track to hit our revenue goals, and we are meaningfully ahead on most of our profitability targets. With this, we're replacing our 2025 targets with an updated long-term earnings framework. The framework is actually quite similar to what we've discussed previously, as we continue to target double-digit annual EPS growth in a normalized MRO market, driven by continued strong top-line growth, including 400 to 500 basis points of annual market outgrowth in the High-Touch U.S. business and annual growth in stable gross profit margins, which should normalize from the 2024 baseline, and SG&A growing slower than sales while still investing in demand generation activities to drive sustainable long-term growth. You will notice we made a few tweaks to the earnings framework, which largely offset. First, we've widened the top-line outlook for endless assortment as each business there is facing dynamics making it harder to achieve historical growth rates. With MonotaRO, at this stage of their maturity, the business has onboarded most of the large and midsized businesses within the market. With this, the team is pivoting its marketing strategy from firm-level customer acquisition to end-user penetration in an effort to expand total customer share. Following the post-pandemic volume decline from B2C and B2C-like customers, the business is refocusing their efforts on B2B customers as they work to build long-term profitable relationships with this core customer set. As the business refocuses, we think it's prudent to widen the range of growth outcomes for this segment over the next few years. Regardless, we still expect to deliver very strong growth through this segment and remain confident in the model's ability to continue to take share and drive profitable operating scale across the total business. Second, as we mentioned last quarter, we expect to maintain elevated gross margins in the High-Touch Solutions segment, which is underpinned by the confidence we have in executing against our two core pricing strategies: remaining market price competitive while maintaining price-cost neutrality. Adding these together, net-net, we end at roughly the same outlook as we discussed at Investor Day: strong earnings growing in double digits annually. When we drive these results, the business will generate a considerable amount of cash, which we will allocate through a consistent return-driven approach. This includes continuing to invest in the business at an elevated level for the next few years as we add incremental supply chain capacity and continue to build out our technology capability. All of this represents an attractive return profile, and we remain well positioned to drive significant value creation for our shareholders. With that, I'll turn it back to D.G. for some closing remarks.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Donald Macpherson",
+      "title": "Chairman and CEO",
+      "content": "Thank you, Dee. Grainger continues to build deep trust with our customers as we partner with them to fulfill their MRO needs. While we expect the market in 2024 to be more muted, the Grainger team will continue to focus on what matters: advancing our growth drivers to improve the customer experience and providing the exceptional service we are known for. When we live our principles, we can be successful in any environment. I have full confidence that we will deliver strong results again this year. With that, we will open up the line for questions.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our first questions come from Ryan Merkel with William Blair.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Ryan Merkel",
+      "title": "Analyst",
+      "content": "I wanted to start with gross margin, and I guess it's a two-parter. Your gross margins are up about 100 basis points since 2019, and I'm just curious what the drivers are. And then for the '24 guide at the high end, you're holding gross margins flat, but I think you mentioned 50 basis points of one-time price costs that you're going to have to lap. So what backfills that?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Deidra Merriwether",
+      "title": "Senior Vice President and CFO",
+      "content": "Let me start with the first question first, and then maybe I'll have you reask the second part of it to make sure I don't forget anything. So when we go back to 2019, I think we've done a pretty good job on just product gross margins in general and being able to price our customers based upon the services that we provide from the High-Touch Solutions business. In addition to that, the pricing strategy change has taken a while to be completely executed, as we've said, over a number of years, and that included making sure that we could get pricing right on all of our customer bases. Some of that evidence also flows into our product gross profit. And then as of late, we've continued to gain quite a bit of supply chain efficiencies from coming out of the pandemic, as well as some other cost of goods sold efficiencies related to supplier rebates from negotiations. Those would be some of the key differences between where we are today and where we were in 2019. So can you repeat your second part of the question for me, please?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Ryan Merkel",
+      "title": "Analyst",
+      "content": "Yes. The guidance for gross margins in '24, it's flat at the high end at 39.4%. And I think you mentioned you'll be lapping 50 basis points of one-time price cost help in '23. So what are the offsets?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Deidra Merriwether",
+      "title": "Senior Vice President and CFO",
+      "content": "Some of the offsets we made are due to the fact that as we go into this year, we're going to have a faster pricing environment. And based upon that, we want to make sure that we're providing a range such that is realistic for us as we also navigate a softer volume environment for the overall business. And so those are the two primary reasons why being officially flat, we would expect to be closer to the high end. We've got some tailwinds that will continue to normalize after some of the disruptions that we've had over the past few years, specific to supply chain and mix, and that will help as well.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Thomas Moll",
+      "title": "Analyst",
+      "content": "I wanted to expand on the gross margin conversation with what's perhaps the obligatory question here. But I just want to make sure that I'm tracking the message correctly over time. So if we go back to your Investor Day, the anchor for your high-touch business was in that 40% range. Since that time, you've outperformed it significantly and indicated that maybe that was too low a number. And if I'm hearing the message correctly today, in 2024 at the midpoint, you're somewhere a little bit north of 41% and then basically stable around that range. So I just want to make sure I've tracked all that correctly or if there's anything you'd like to amend there.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Donald Macpherson",
+      "title": "Chairman and CEO",
+      "content": "You've tracked that correctly. The only other thing I would add is that during the Investor Day when we mentioned 40%, we were aware that there were inefficiencies in the supply chain. We might have underestimated the extent of those inefficiencies. As we've returned to normal, that has been a significant advantage for us. If we had realized the full scope of the issues, we likely would have projected a higher number back then as well.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Thomas Moll",
+      "title": "Analyst",
+      "content": "Sure. Pivoting to the commentary you offered today on service levels earlier in your remarks, D.G. So it sounds like you're back to roughly your own pre-pandemic service levels. You've invested and will invest substantially in the capacity and automation and other areas as well. So I'm just curious, strategically, do you feel more confident in leaning into these forms of investment, and versus what you've communicated in the past, should we read from today that with that increased confidence, you see this as a repeatable and sustainable advantage that you can consistently leverage to take share?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Donald Macpherson",
+      "title": "Chairman and CEO",
+      "content": "Yes. I appreciate the question. In terms of returning to near-normal service, I would say everything that we directly control is back to normal in terms of our own internal cycle times, and transportation is back to normal. There's still some elongated supplier lead times, which is the reason we're still probably a little shy of where we were. But from a competitive standpoint, that's all that really matters is a competitive standpoint. We're doing quite well. In terms of the investments we're making, we're filling in gaps where we've grown to the point where having buildings in those locations makes sense. They make sense not only to improve service but to improve costs in some perspectives. So if you think about the Northwest, most of our product today comes out of California and has to clear the mountains to get in there, and that's a long haul. We now have enough volume to be able to improve the service dramatically in the Northwest and actually lower transportation costs pretty substantially. So we look at all those factors: service and cost when we make these decisions, but we're very confident in the steps we've outlined and announced.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Jacob Levinson",
+      "title": "Analyst",
+      "content": "Good morning, everyone. I know you have some margin headwinds here in '24, and there's been obviously a lot of improvement in the last couple of years. But just on the productivity side, I know you touched on a couple of levers earlier in your prepared remarks, but can you just help us get a sense of the levers that you have or maybe where you're most focused here in '24 that can help offset some of those headwinds?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Donald Macpherson",
+      "title": "Chairman and CEO",
+      "content": "I mean I'll start, and Dee, if you want to add in, you can. I think the thing to note is that we tend to look at productivity from a core perspective. So distribution centers, contact centers, seller productivity, all those levers. We really see opportunity across the business. I think we're going to see really nice core productivity this year. The headwinds are more around the growth investments, which we think are absolutely the right thing to do; they're high-return growth investments. But we are spending more money in marketing, and we're investing in the sales force. So those things make it look a little more challenging. At a time when we're investing in those things, we believe it's the right thing to do. But we're going to continue to get core productivity. It's an evergreen initiative for us to look everywhere in the business. I think we've got a whole bunch of things teed up to improve the productivity of the core business.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Jacob Levinson",
+      "title": "Analyst",
+      "content": "That makes sense. Your comment about the 35% increase in square footage in your supply chain is interesting. However, square footage isn't everything, and it may not be the best measure. I'm curious if this is mainly you catching up to the growth you've experienced over the past couple of years, preparing for future growth, or perhaps a combination of both. I'm just trying to get a better understanding of the situation.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Donald Macpherson",
+      "title": "Chairman and CEO",
+      "content": "It's a mix. It's a mix. And I think just practically, if you thought about it, we're a lot bigger than 2019. There was almost no way to actually build buildings productively during the pandemic; you couldn't get things going. We were a little bit behind. We talked about that in 2022. So a part of it is catch-up, but a part of it is planning for future growth as well. I would say the square footage isn't exactly capacity because the bulk warehouse portion of those is lower cost and doesn't quite give you as much capacity as does the other buildings, but certainly, Houston and Portland are added capacity similar to the other capacity of the number.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "David Manthey",
+      "title": "Analyst",
+      "content": "First off, a couple of quick ones for Dee. What specifically is the range of price expectations you're baking into the 2024 guidance range? And second, on Slide 20, you talked about stable gross margins. I'm not clear if you're referring to segment gross margins or consolidated. Could you help me with that?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Deidra Merriwether",
+      "title": "Senior Vice President and CFO",
+      "content": "Yes. So, Dave, I will start with the U.S. price that we're focusing on. When you think about that outline of flattish, we're expecting price to be between 0% and 1% for the year in the U.S. And on Slide 20, specifically, stable gross margins really is applying to the total company, and you can also apply that to High-Touch in some ways as well.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Donald Macpherson",
+      "title": "Chairman and CEO",
+      "content": "Yes. I mean first and foremost, I would reiterate that we are an organic growth company, and that's where we are focused on most of our energy. We get a lot of looks at things and opportunities. I would say that we get two types of looks\u2014distributors, which probably haven't been as interesting to us\u2014and then there are some potential technology investments and things that might be more interesting to us. So we continue to look at a wide range of opportunities in areas that we think are really important to the success of the business, particularly in some specific domains that we think we need to be really good at going forward, and we might invest in those areas. As I said, we are primarily an organic growth company at this point.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Christopher Snyder",
+      "title": "Analyst",
+      "content": "I wanted to ask about the investments that the company is making. And D.G., I appreciate all the color that you provided. And there's a lot going on, but is there any way that you could maybe bucket or talk about the investments between the capacity additions and the efficiency drivers that you're making versus the more demand-generative investments like the sales coverage and the marketing? Any way to just kind of think of those two respective buckets?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Donald Macpherson",
+      "title": "Chairman and CEO",
+      "content": "Yes. Without getting overly detailed, I would say that the demand generation investments are typically SG&A investments\u2014so marketing and seller ads or SG&A investments\u2014whereas a lot of the capacity investments we're making in productivity investments, in AI investments, or technology investments, most of this shows up in capital, some shows up in expense for sure. But if you think about when we talk about spending $450 million to $550 million in capital, the vast majority of that comes from supply chain investments and capacity increases and technology. So I would think of it in those terms. And technology is about building capabilities and advantages in information assets and supporting the growth initiatives in the core business as well versus marketing to our direct spend that go into demand generation.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Christopher Snyder",
+      "title": "Analyst",
+      "content": "I appreciate that. And then if we think of the SG&A investments that are more around demand generation, can you just maybe talk about the ability to leverage those and grow operating margin over time? Because in 2024, it's guided to be a pretty supportive year for gross margin, but operating margin is kind of flattish despite the top line growth and the stable gross margin because it seems like in some areas, the investments you are making do you think that over time you're able to leverage those and grow operating margin? And then maybe '24 is just kind of a pause year.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Donald Macpherson",
+      "title": "Chairman and CEO",
+      "content": "Yes, it talked about it. Yes, we do expect to get SG&A leverage over time, and we are probably making more incremental investments this year than in others. So that is probably true. We're also just I would point out, in a fairly flat price environment, that SG&A makes it more difficult to get SG&A leverage as well. So there's a number of factors going on.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Deidra Merriwether",
+      "title": "Senior Vice President and CFO",
+      "content": "Yes. The other thing I would point to is just our improvement in return on invested capital. I think that was one of the reasons why that's one of the metrics that we talk about track and are focused on is ensuring that the investments we make, whether they are CapEx investments or SG&A-based upon how we calculate ROIC, we are very focused on ensuring that they help us deliver and grow at least our operating margin and operating dollar growth as well for us.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Donald Macpherson",
+      "title": "Chairman and CEO",
+      "content": "Yes. The other thing I'd add to that is that both in marketing and seller coverage, we are very well measured. So we are\u2014everything is tested. We don't make the investments lightly. We know exactly what returns we're getting. So if they're a positive return, we will make them even if in the year, they might slow down our SG&A leverage because it is the right thing to do for the overall profitability of the business.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Deidra Merriwether",
+      "title": "Senior Vice President and CFO",
+      "content": "Yes. I mean it was really small. And I think if you go back to\u2014 we forecast\u2014and it should be no surprise with our price/cost outcome in Q4. We've been looking at this and talking about it for the last two years. If you go back to 2022, we noted that we were going to be significantly price-cost positive in that year, and it would unwind in 2023 and it did, and you saw that and experienced that in the second half of 2023. A lot of it is timing, as we know we talked about price and cost in our business being very lumpy. Being north of 70% of our business will contract customers and the timing of those things. So on a two-year stack, being essentially neutral and exiting this year and starting in 2024, being at a neutral footing, I think was really important.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Deane Dray",
+      "title": "Analyst",
+      "content": "Love to go a little bit deeper on the comments about January getting off to a slower start. And we've heard this recently from a number of companies pointing to the weather as really hampering some of the activities. So if you could size for us what you think that weather impact was. And a related question is the underlying assumption of MRO for activity for 2024, down 0.5% to up 1.5%. Just given the trends we're seeing now in the ISM coming back, new orders going back above 50, just it seems like you could see a risk to the upside in that and maybe that's a bit conservative and just take us through that assumption as well, please.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Donald Macpherson",
+      "title": "Chairman and CEO",
+      "content": "Yes, sure. So I can take the\u2014I can try to take both of them. I guess the first one I think there were two factors that made January a slow start. One was that most of the schools were shut, which stifled activity in the first week of January, which last year, schools opened midweek. We noticed that, and we noticed that in some of the schools we serve as well as just the broader economy. And then obviously, the cold weather week. What I would say is that the last two weeks of January were very normal for us. While there was some slowness, it wasn't\u2014in the course of the quarter, it will be very, very small in terms of the impact, but noticeable in a month, of course, because of many weeks. It\u2019s not huge in the grand scheme of things; it's just noise. So we don't\u2014 we won't focus too much on that. I think any forecast for the MRO market any year, I think you could argue could have a risk to the upside or downside; I don't know. This is our current forecast, and we have economists internally and externally that we look at, and this is the forecast they have right now. So that's what we're going with. But that too will always change and it will never be right until we know that. So again, we want to over-index on the forecast.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Deidra Merriwether",
+      "title": "Senior Vice President and CFO",
+      "content": "Yes. We've been fairly consistent for a number of years in our buyback practices, generally under the veil of overall capital allocation strategy, and we look to be in the market all the time based upon what the price of shares are. We don't try to time the market from a price perspective but always looking to be into the market buying shares. And so generally, we have a pretty stable pace across the year for the share buybacks.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Christopher Glynn",
+      "title": "Analyst",
+      "content": "Congrats on all the significant workplace culture recognitions, which are indicators of your durability. So I was curious what you're seeing in terms of product cost deflation that you always try to drive as distinct from, I think you called out, some continuing benefits from the macro-level supply chain normalization.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Deidra Merriwether",
+      "title": "Senior Vice President and CFO",
+      "content": "So this is the\u2014we've gone from a, as you know, over the last year or so, a highly cost inflationary environment to something that is much more muted today\u2014coming down to more reasonable or normalized is how I would describe it now. I would say our product management team utilizes the same sets of strategic and tactical activities with our supply base. We want to remain the customer of choice for them. So we're working to ensure that we continue to have advantageous pricing and access to products at the best price possible. Things are getting to more normal levels for us today.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Donald Macpherson",
+      "title": "Chairman and CEO",
+      "content": "Yes. So I think what I would say there is that, obviously, as the B2C and B2C-like volume shrinks, it becomes less of an impact on the rest of the business and our business customer activity has actually been reasonably healthy throughout the entire quarter. We do expect some of the decline to be less impactful in the back half of the year. We should have less drag in the back end of the year than we have in the first half of the year from the decline of B2C-like customers.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Ken Newman",
+      "title": "Analyst",
+      "content": "I know there's a lot of moving pieces here, but I am wondering if you are seeing or have seen any impact from some of the shipping dynamics and how are you thinking about shipping and freight expenses in '24 and how that flows through your OpEx guide for the year?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Donald Macpherson",
+      "title": "Chairman and CEO",
+      "content": "So on the Red Sea, we don't have much volume going through that\u2014those lanes. Most of our shipping volume comes out of Asia through to the West Coast and then as railed to our network. That has not been impacted. So we've really seen nothing there. Could you repeat the second half of your question?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Ken Newman",
+      "title": "Analyst",
+      "content": "Yes. Just curious, as a follow-up to that, how you're thinking about freight expenses in general. I feel like I think most companies are seeing those kind of come up here? And how do you see that flowing through your OpEx line as it relates to your guide for the year?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Donald Macpherson",
+      "title": "Chairman and CEO",
+      "content": "Yes. I mean, much of our freight, most of our freight actually goes into our gross profit line, but our forecasts haven't changed much given the activity we've seen. Considering the lines we're in, certainly, things like fuel increases can have an impact and who knows how that's going to play out. But right now, we're actually still in a favorable position relative to a year ago\u2014certainly on ocean freight at this point. So we expect that to continue through the first part of the year, and then we'll see what happens.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Patrick Baumann",
+      "title": "Analyst",
+      "content": "Just had a couple of questions for Dee on the price timing comments that you noted. Maybe if you could help us better understand first what you said with respect to Slide 13. Did the market take up price in the fourth quarter and you waited for the new year? Or was this something like the comps that caused that disparity?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Deidra Merriwether",
+      "title": "Senior Vice President and CFO",
+      "content": "No. No. I think your\u2014on Slide 13, you're kind of looking at what we have listed as what we think the market performance has been by quarter.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Patrick Baumann",
+      "title": "Analyst",
+      "content": "It was about the fourth quarter, you had like you noted like a volume share gain of 475 basis points. Did the market take up price in the fourth quarter and you waited for the new year? Or was this something like in the comps that caused that disparity?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Deidra Merriwether",
+      "title": "Senior Vice President and CFO",
+      "content": "Yes. And so that difference is really that our price in the quarter was lower than the PMI print in the quarter. We were just highlighting for you that if you just look at the volume for industrial production versus our volume, then our share gain would have been 475 basis points. So there's a difference in the market price as published today in Q4 versus what we realized from a price perspective. The comments I was making earlier about timing is that our timing is not always going to be in line with the timing of price in the market, and this quarter was just one example of that. Yes. No, we always put through price if prices warranted early in the year, but it's more like a seasonality question. So I'll probably respond to it in that way. We do expect a lot of the outlook that we've given for 2024 to be back-end weighted. We talked a little bit about pieces of it, such as sales starting slower and tougher comp. Q1 last year was a very strong year for us, which included a lot of price in that quarter, while the price outlook is now around 0% to 1%. Of course, our price for this year's quarter will be more muted versus that. We expect price to become more favorable throughout the year and for gross margins to be relatively stable versus the outlook that we have given. That's what I mean when you talk about sales and price in the first quarter versus the prior year.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Donald Macpherson",
+      "title": "Chairman and CEO",
+      "content": "Just to add to that, I think the practical reality was that if you think back to 2022, we took a budget price mid-year that from a 2023 Q1 to 2022 Q1 comparison made 2023 have very high price increases relative to the year before because we took them in the middle of the year, and those\u2014so it wasn't all taken on January 1st last year, but all the inflation run up in 2022 made last year look a little unusual from a first-quarter price increase perspective.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Nigel Coe",
+      "title": "Analyst",
+      "content": "Sound like suffering. So I feel\u2014if you repeat yourself here. But just on the seasonality comment, are you saying gross margins are going to be much flatter from quarter to quarter through the year? Obviously, normally, we see a bit of a seasonal pattern there. So is that the comment? And does that therefore imply that as we go from Q4 to Q1, we've got a pretty flat Q2Q gross margin structure then? And if it is flattered, I just want to understand why that is.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Deidra Merriwether",
+      "title": "Senior Vice President and CFO",
+      "content": "Well, like we've talked a little bit about freight. We'll continue to get freight and supply chain efficiencies and some product mix. But again, it all starts with the fact that we don't expect to have a lot of price in the market this year, just generally. So we expect gross margins to be reasonably consistent with what we talked about all through the year, so that's the basic reason for that muted price. So yes. SG&A is going to deleverage in the first quarter as we're going to continue, as noted, to ramp up our investments in marketing and sellers and others and the like. But we do expect leverage to improve as the year progresses, flipping to more of a tailwind in the back half of the year for us. If you think about it, we think operating margin in Q1 will be at its lowest point as well, and EPS will be flattish year-over-year in the first quarter as well.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Nigel Coe",
+      "title": "Analyst",
+      "content": "Got it year-over-year. Okay. Got it. And since some last question, I feel like maybe I can just squeeze one more in if I can. I just want to just clarify the customer mix comment from earlier on in the call. I mean, I noticed the medium-sized customers outgrew large customers. So I'd assume that mix would have been positive, but if I'm wrong, please let me know.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Donald Macpherson",
+      "title": "Chairman and CEO",
+      "content": "Yes. I think it was basically neutral. We did have\u2014you're right, midsize customers did grow faster than the largest customers. Overall, it was not a meaningful impact, as I understand it. Dee and I are in different rooms, so she's sequestered. So we're looking at each other through a camera here.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "We have reached the end of our question-and-answer session. I would now like to turn the floor back over to D.G. Macpherson for closing remarks.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Donald Macpherson",
+      "title": "Chairman and CEO",
+      "content": "Alright. Sorry, we're a few minutes over. Thanks for joining the call. What I would say is that we're certainly proud of the results we had in 2023. We are very focused on continuing to drive forward and create value for our customers in 2024. A lot of that's really the same despite the more muted growth in the market that a lot of that's just a continuation of driving forward the initiatives that matter, both from a growth perspective and a productivity perspective. We remain very positive about the outlook and our ability to gain share profitably for years to come. So thanks for the time. Hope you all have a great weekend. Take care.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. This does conclude today's teleconference. We appreciate your participation. You may disconnect at this time. Enjoy the rest of your day.",
+      "sentiment": "0.0"
+    }
+  ],
+  "reported_date": "2024-02-02"
+}

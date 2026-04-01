@@ -1,0 +1,379 @@
+{
+  "symbol": "NSC",
+  "quarter": "2024Q3",
+  "transcript": [
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Good morning. Ladies and gentlemen, and welcome to Norfolk Southern Third Quarter 2024 Earnings Conference Call. At this time, all lines are in listen-only mode. Following the presentation, we will conduct a question-and-answer session. This call is being recorded on Tuesday, October 22, 2024. I would now like to turn the conference over to Luke Nichols. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Luke Nichols",
+      "title": "President",
+      "content": "Good morning, everyone. Please note that during today's call, we'll make certain forward-looking statements within the meaning of the Safe Harbor provision of the Private Securities Litigation Reform Act of 1995. These statements relate to future events or future performance of Norfolk Southern Corporation, which are subject to risks and uncertainties and may differ materially from actual results. Please refer to our annual and quarterly reports filed with the SEC for a full disclosure of those risks and uncertainties we view as most important. Our presentation slides are available at norfolksouthern.com in the investor section, along with our reconciliation of any non-GAAP measures used today to the comparable GAAP measures, including adjusted or non-GAAP operating ratio. Please note that all references to our prospective operating ratio during today's call are being provided on an adjusted basis. Turning to Slide 3, it's now my pleasure to introduce Norfolk Southern's President and Chief Executive Officer, Mark George.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Mark George",
+      "title": "CEO",
+      "content": "Good morning, everyone, and thanks for joining us. Here with me today are John Orr, our Chief Operating Officer, Ed Elkins, our Chief Marketing Officer, and Jason Zampi, our recently appointed Chief Financial Officer. I've had the privilege of working closely with Jason during my five-year tenure at Norfolk Southern, and he brings incredible talent, experience, and leadership to our executive team. Over the last few weeks, it's been energizing to connect with labor leaders, regulators, customers, and my fellow railroaders across the Norfolk Southern network. We have a strong franchise with diversified markets, high-quality customers and partners, as well as skilled employees who are committed to successfully executing on our strategy and delivering for our shareholders, customers, colleagues, and communities. Speaking of colleagues and communities, I want to thank our amazing team of railroaders who planned for and responded valiantly to the devastation that Hurricane Helene caused across our network. It was their fast and effective actions that resulted in us being able to recover and serve our communities within days. There's a lot more work to do, but we've made enormous progress. It's the tremendous skill and dedication of our railroaders that have enabled us to deliver third-quarter results that are among the best in the company's history. Together, we drove productivity, grew volumes, and delivered notable sequential and year-over-year margin improvement while overcoming a challenging landscape. We achieved 3% higher revenue compared to the prior year, and adjusted earnings per share were 23% higher than the third quarter last year. Importantly, we delivered 570 basis points of adjusted OR improvement, bringing that ratio down to 63.4%, continuing to close the margin gap with peers. You'll hear today from John about the incredible work of the operations team that is driving significant and sustainable improvements, as well as resilience in overcoming multiple weather challenges and an East Coast port disruption. Their commitment to excellence is helping us build a stronger, more efficient network. We also accelerated volumes in the quarter. Ed will provide greater detail on the components, the drivers, and outlook for our markets. And finally, Jason will provide color to a number of notable achievements in terms of productivity, as well as line sales and project rationalization. I'll turn it over now to John to start with an overview of our operational progress.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "John Orr",
+      "title": "COO",
+      "content": "Thank you, Mark, and good morning, everyone. In Q3, our team drove system-wide improvements that are demonstrating how our focus on safety is protecting our people and our organization, while serving as the foundation for sustainable service and productivity improvements. I am delighted to share our transformation agenda proof points. Our guiding value is safety. Overall, I'm very encouraged with our progress on safety. While our FRA personal injury rate has increased, serious injuries and total accidents have declined significantly, 40% and 20% respectively. Our blueprint for commitment starts with our people. They are value creators. Through our new Thoroughbred Academy, we are investing in the work environment and core railway skills. In the quarter, over 300 top-level operations leaders completed the first of a multi-year curriculum that builds organizational trust and drives business performance. Over the next three months, 2,300 frontline and operating officers will participate in safety curriculums. Turning to service, with safety as our guiding value. Service performance is our North Star. The team is designing out handlings and extending train schedules, which is producing gains in speed and consistency. Q3 car velocity was 13% higher year-over-year, driven by a 9% increase in train speed and progressive reductions in terminal dwell. The productivity improvements driving service are also allowing us to accelerate cost reduction and create a more competitive platform for growth. Our flywheel of cost takeout initiatives has been robust. Year-to-date, we've reduced over 130 crew starts per day, with an 8% reduction in cost per start, including a 20% reduction in overtime and the elimination of attendance and other unproductive incentives. On the intermodal front, the new intermodal reservation system is helping us develop a unique value proposition in the industry by adding terminal visibility, accountability, and rigor. Locomotive productivity in the quarter improved 18% year-over-year, allowing us to reduce our fleet and capital requirements for both rolling stock and engines. We've stored over 500 locomotives and have moved 8,000 plus cars offline since March. This has allowed us to challenge previous capital spending assumptions. Through our new precision energy management program, we've optimized HPT standards, extended train schedules, and are relaying more power from train to train, keeping assets in productive revenue service longer. As a result, fuel efficiencies are at record levels. Our strategy is both targeted and broad, tactical and strategic, ranging across structural improvements in consumption, procurement, materials management, purchase service optimization, crew cost efficiencies, and productive enhancements. And we've just scratched the surface in extolling a few of the initiatives that are within our pipeline that are helping us close the competitive gap and track confidently to our cost reduction commitments. As we move to the next slide, I want to take a moment to state how proud I am of our response to Hurricanes Helene and Milton, especially to our engineering teams. They proactively protected our employees, communities, and assets. Our recovery demonstrates the breadth and capability of our team. Responders cleared over 15,000 trees, managed over 1,000 locations with power outages, repaired multiple washouts and scour locations, and supported local responders, including two instances where they led life-saving civilian rescues. This resilience highlights our preparedness and ability to recover swiftly from natural disasters. None of this is possible without an inspired and committed team. We are enriching a strong culture by blending external talent with legacy leaders in a field-first management team that is accelerating solutions and deepening ownership and accountability. Our new labor agreements enable us to innovate across our entire workforce. So, what you see is that we have established a new baseline and standards heading into Q4. These are providing next-level perspectives of our assets, their utilization, and the service quality they unlock. Working as a field-centric team, we are building a safer, more efficient, and more resilient operation. Success breeds success. Thank you, and I'll turn it to Ed.",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "Ed Elkins",
+      "title": "CMO",
+      "content": "Well, thank you, John, and good morning to everyone on the call. I'll start on Slide 10 with a review of our commercial results for the third quarter, where you'll see that the work we're putting into creating a fluid network and dependable service delivered year-over-year revenue and volume growth. Overall revenue of $3.05 billion was 3% higher than the third quarter in the prior year, and volume moved up 7% year-over-year, with all three segments contributing gains for the quarter, while RPU fell 4% as our price gains were outpaced by lower fuel surcharge revenue, lower coal prices, and unfavorable impacts from intermodal mix. You've heard me discuss all these factors in previous quarters. The merchandise segment produced year-over-year volume growth led by our grain markets and segments of our chemicals business. NS was able to deliver this growth backed by a service product that our customers can count on every day, and you've heard me talk all year long about our focus on our merchandise business and the increased value to our customers is evident, as this marks the 37th out of the prior 38 quarters where merchandise RPU less fuel grew year-over-year. Now, Hurricane Helene impacted certain segments of our merchandise business in the southeast, but we expect volumes to gradually recover as our affected customers' operations normalize over time. Intermodal revenue grew 4% year-over-year this quarter, as volume growth of 9% was offset by a 5% decline in RPU. Stagnant truck prices continue to pressure domestic intermodal rates, and unfavorable mix trends continue with strong gains in international and domestic outpacing our premium market volumes in intermodal. The ILA strike negatively impacted our international volumes, but we expect the majority of this volume will be recovered in the months ahead. Finishing up here with coal, revenue declined 2% for the third quarter. Our year-over-year volumes finished up 11% with declining export prices, and an unfavorable mix within the portfolio pushed down RPU by 11%. The coal business saw headwinds from easing export prices and challenged utility segment factors to include low natural gas prices, high stockpiles, and reduced demand in coal-burning regions. Turning to the next slide, let's talk through our outlook for the remainder of the year. Overall, we expect our markets to experience tempered growth, albeit with some discrete headwinds from market trajectory and mixed impacts on certain sectors. It's very important to note that the impact of fuel price normalization from the 2022 historic highs will remain the single largest revenue headwind that we face, and this has been true all year long. We expect our merchandise business to see continued but sedate growth supported by easing interest rates and ongoing infrastructure projects, although sector-specific headwinds in various sectors in our automotive and metals markets will pose challenges. Intermodal will see strong demand driven by our dependable service product, by new bid awards, and import-export demand despite the interruptions caused by the ILA strike that ended on October 3. We're prepared to handle international shipments that were delayed during that interruption. Our outlook for coal is really a mixed bag, as seaborne pricing for met coal is trending downward. On the other hand, we're seeing positive momentum in the thermal export markets. And finally, in the wake of the destruction caused by Hurricane Helene, we stand ready to support our customers and handle the goods and products needed to help the affected regions rebuild. And as always, I will end with a word of thanks to our customers for their partnership and their support. With that, I'll welcome Jason Zampi to the call to talk about our financial results. Thank you.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Jason Zampi",
+      "title": "CFO",
+      "content": "Thanks, Ed. I'll start with a reconciliation of our GAAP results on Slide 13, and I wanted to call out three items here in the quarter. First, the impacts from the Eastern Ohio incident are itemized as they have been for the last several quarters. I highlight that our insurance recoveries outpaced the incremental costs of the incident for the second quarter in a row. That brings the total cumulative amount of insurance recoveries to over $650 million. The other two items are the result of specific actions we executed to further our strategic objectives, including an unrelenting focus on productivity and asset utilization. As we previewed last quarter, we completed two significant line sales, an example of us continuing to simplify the network and generate cash flows. These two sales resulted in $380 million of gains and generated almost $400 million of cash. Additionally, under the leadership of our new CIO, Anil Bhatt, who has a relentless focus on technology delivery and ROI generation, we rationalized certain IT projects that were not generating the desired benefits. That, coupled with the discontinuance of our Triple Crown Road Railer assets, combined a total of $60 million in restructuring costs. Adjusting for these items, OR for the quarter was 63.4 and EPS totaled $3.25. That's a 650 basis point improvement in our adjusted OR since the first quarter, all while providing a safe, reliable, resilient service product, generating productivity, and growing the business. Looking at these adjusted results compared to last year and last quarter on Slide 14, you'll note that the year-over-year revenue was up $80 million due to strong volume growth, partially offset by RPU pressures. Operating expenses were down $118 million due primarily to fuel prices and productivity. All combined, these drove 570 basis points of OR improvement. From a sequential perspective, revenue is relatively flat. However, we have continued to build off the strong momentum from our productivity and cost reduction initiatives with expenses down $47 million and a 170 basis point improvement in OR. Drilling into these sequential variances starting with revenue on Slide 15. You'll note that the strength in coal and intermodal volumes drove an overall 3% volume increase over last quarter. Unfavorable mix, pricing pressures, particularly within the export coal market and lower fuel surcharge revenues drove RPU lower, leading to overall revenue that was essentially flat with the second quarter. Slide 16 breaks down the $47 million sequential improvement in expenses. The transformative actions delivered by John and his team are benefiting our P&L. And you'll see that through record fuel efficiency, strong labor productivity with T&E count down 3% on 3% more volume and decreases in rents due to better network fluidity. While the results of our initiatives to drive down purchase services are also taking hold, all more than offsetting the wage inflation headwind that we called out last quarter. These strong third quarter results and our operational momentum position us well to achieve our second half and full-year targets. We do expect a sequential uptick in OR as we move into the fourth quarter from normal seasonality, including headwinds that we are expecting on the top line, but also due to additional cleanup costs from Hurricane Helene's aftermath. Going forward, we are confident in our ability to continue to improve margins that will generate shareholder value. And the $400 million in cash generated from the line sales along with our goal of reducing CapEx as we move into 2025 will help with much-needed balance sheet repair. Mark, I'll hand it back to you.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Mark George",
+      "title": "CEO",
+      "content": "Thanks, Jason. We are proud of our results in the quarter. Let me summarize some of what you just heard. First, we drove improvements in safety in the quarter despite volume increases and the significant weather events. Second, we leveraged attrition in the quarter while handling robust volume growth resulting in productivity gains while not compromising service. Third, we delivered strong operational resiliency recovering service quickly following numerous disruptive weather events with Helene being the most severe. Fourth, we executed upon major line sales that we signaled last quarter providing meaningful cash proceeds that will help us accelerate balance sheet repair. Finally, we delivered strong financial results in the third quarter, even with the volume pressures in the last eight days of September and we are on track for our second half and full year OR commitments, even if the full year revenue falls a little short of our guidance, which is to be up roughly 1%. So with that, let's open it up to questions.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Ladies and gentlemen, we will now begin the question-and-answer session. Chris Wetherbee from Wells Fargo, please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Chris Wetherbee",
+      "title": "Analyst",
+      "content": "Yeah, thanks, good morning. Maybe we could start with the sort of the short term where you left off. Just wanted to get a sense of maybe how you think about the progress that you've made and how you can carry that into the fourth quarter? I know you talked about the second half guide specifically around the operating ratio. I want to give them maybe a little bit more on the fourth quarter.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Mark George",
+      "title": "CEO",
+      "content": "Thanks, Chris. This is Mark. Yeah, we've got really great momentum right now on the cost side. John can talk about that in a second. I think right now, we feel really good about those things that we can control. Yeah, as we talked about in Laguna, we were getting a little bit concerned about the auto and steel markets and that's starting to really play out the way we previewed. So that's definitely going to be something we keep our eye on. But generally speaking, intermodal is expected to peak season. Intermodal should be good. Obviously, the port disruptions we don't know exactly when and how the volumes will manifest here in the fourth quarter. But generally, we feel really, really good about the way we go into the fourth quarter. John, why don't you talk a little bit about the momentum we've got on the cost side and then add a little bit more on the revenue.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "John Orr",
+      "title": "COO",
+      "content": "Yeah. Chris, great question. And I would say, I'm really pleased the way we exited Q3 on safety. We finished Q3 at 2.05 and we're into the quarter at $1.5 million. And as you know, in a precision railway environment when things are working in the rhythm they're supposed to. And first and foremost, from a safety perspective, you get a lot of momentum. And we're seeing that in the terminals. And our terminal dwell is continuing to improve. And that's being achieved not only through the terminal itself, but how we're looking at reduction in handlings and accelerating cars through terminals by extending schedules of trains. So the work complexity is coming down while the capability is increasing. And that's playing out in fuel, that's playing out in a lot of purchase and services that tax reductions, etc. And now we're able to negotiate and structurally change some of our vendor agreements that put more discipline around those things as a result of how we're improving. So I would say those are some of the cost and then the puts are also as we use our resources better we're able to create more opportunities for Ed to sell into spot markets and increase even our permits. So Ed, any color on that?",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Ed Elkins",
+      "title": "CMO",
+      "content": "In the fourth quarter, we expect to see continued growth in the intermodal product, both internationally and domestically. There is strong demand, which our key partners, whom we speak with daily, also confirm. Therefore, we are anticipating a strong fourth quarter. The only challenge for intermodal will be premium pricing, which is a well-known issue in that market. In terms of coal, we are seeing significant demand for export thermal. However, it's important to note that seaborne prices for metallurgical coal are still a concern, and there is a large build-up of stockpiles domestically. This means there may be some challenges ahead. As for automotive and steel, we are monitoring those areas closely. Overall, we feel confident in our ability to seize every opportunity that comes our way.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Chris Wetherbee",
+      "title": "Analyst",
+      "content": "Thank you. Do you think that gets you into the 64%, 65% range for the fourth quarter, though, when you think about the operating ratio?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Mark George",
+      "title": "CEO",
+      "content": "Jason?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jason Zampi",
+      "title": "CFO",
+      "content": "We had a strong quarter and are confident in achieving the 64% to 65% operating guidance for the second half of the year that we mentioned earlier. Looking ahead to the fourth quarter, we anticipate a sequential increase in the operating ratio. It's important to remember a few points. First, we noted the fuel recoveries this quarter, but we don't expect them to be at the same level in the fourth quarter. However, these recoveries are a positive result of the efficient operations and disciplined processes implemented by John. Secondly, we are expecting more typical seasonality, which historically has been around a 100 basis point headwind from the third to the fourth quarter, largely due to the revenue challenges that Ed discussed. Additionally, we successfully completed approximately $20 million in land sales in both the second and third quarters, which can be unpredictable and might present some headwinds. Finally, we will also face additional costs related to hurricane cleanup, estimated at around $20 million. Despite these challenges, we have significant operational momentum and are excelling in productivity, which supports our confidence in reaffirming our guidance for the second half of the year.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Chris Wetherbee",
+      "title": "Analyst",
+      "content": "Okay. Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your next question comes from Brian Ossenbeck, JPMorgan. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brian Ossenbeck",
+      "title": "Analyst",
+      "content": "Hey, good morning. Thanks for taking the question. So maybe for Mark and Jason, can you just talk about the capital intensity of the business going forward? If locomotives offline cars going offline at an increasing rate as well into storage? How do you see that going forward, you're rationalize with some other IT projects as well? So are you able to see a little bit lower capital intensity over the next couple of years? And how does that tie into your expectation to be back in the market buying back shares? Thank you.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Mark George",
+      "title": "CEO",
+      "content": "Yeah. Great question, Brian. You really nailed the strategy here. I think with John taking more than 500 locomotives offline, that allows us to really start to deploy capital elsewhere and actually constrain our capital to a large degree. We brought in Anil to run the IT organization. And we've been reprioritizing and really reevaluating all the projects we have in the pipeline. And we're going to focus on a more concentrated portfolio of projects that are going to yield high returns, the fastest possible projects that we can work on to generate high returns. So we fully expect that CapEx next year will come down. And obviously, with the line sales we have this year and the cash buildup that we expect to have toward the end of the year, we fully expect to be back in the market repurchasing shares to some modest level next year. Thanks for the question.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Jason Zampi",
+      "title": "CFO",
+      "content": "Sure, Mark, I just want to add that when it comes to locomotives, we're aiming to delay our capital commitments as much as possible. You're right that by applying resilient railroading principles and taking a disciplined approach to resources, we can reassess our strategies and seek out capital investments that generate value, such as our B3 for the warrior coal or other initiatives Ed may introduce to enhance our service delivery for new business opportunities. We're thoroughly evaluating our IT projects in collaboration with Anil, Meena, and her team to analyze resource usage, which will impact our capabilities. This effort involves addressing both operating expenses and capital expenditures.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Mark George",
+      "title": "CEO",
+      "content": "Thank you, Brian, next question?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your next question comes from Ken Hoexter, Bank of America. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Ken Hoexter",
+      "title": "Analyst",
+      "content": "Good morning, Mark and Jason, congratulations on your new positions. Ed, it seems volumes are starting off about 1.5% lower in carloads. You mentioned a potential rebound; are you referring to returning to positive growth? Is there a specific target we should consider for catching up? Regarding pricing, with coal benchmark prices dropping and currently at just over 200, do you anticipate pricing could decline in double digits, or will it not reach that level again?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Ed Elkins",
+      "title": "CMO",
+      "content": "Hi, Ken. I'll start with the last question first. I think we're going to see coal prices continue to drift lower. I don't think double digit, but we'll see. We're taking a very conservative approach to it here. And then on the question of overall volumes in the fourth quarter, we've seen a really nice catch up after the disruption from the port strike and from Helene and the areas that have recovered already. We feel very confident. And I think this is one thing that it's hard to get across on a call, but we feel very confident in our ability to recapture volume no matter where it comes from, whether it's continued West Coast imports or more East Coast flowing through in the wake of the strike. So you put that together with what I would call some opportunistic spot moves that we've been able to pick up in the third quarter that may continue in the fourth. On the merchandise side, what Norfolk is really doing right now, and John and his team are working really closely with us is we're really manufacturing a lot of capacity that we can deploy to be very agile. So you think about the rapid increase run-up in West Coast imports before the strike. And now we're much more fluid on the East Coast coming through. So I fully expect that whatever the market presents, we're going to be able to handle.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Mark George",
+      "title": "CEO",
+      "content": "Thank you, next question please.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your next question comes from Scott Group, Wolfe Research. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Scott Group",
+      "title": "Analyst",
+      "content": "Hey, thanks. Good morning. So John, some strong labor productivity with volume up 7%, headcount down 3%. What's the runway here? Is this an incremental opportunity as we look out to next year? Or at some point, does this get tougher?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "John Orr",
+      "title": "COO",
+      "content": "I'm pleased to hear that you acknowledge the efforts of our entire team, including our craft labor. They are truly embracing our management and leadership style, which is evident in the progress we\u2019ve made on our collective bargaining agreements. In terms of labor productivity, we are just beginning to implement a disciplined approach to our operations, focusing not only on headcount but also on how we deploy people and structure our train operations. By optimizing handling processes, reducing train stops, and extending schedules, we can enhance the productivity of both our workforce and resources like locomotives. These improvements are gaining momentum and will continue to do so. The importance of leadership and our team's dynamics cannot be overstated. Our collaboration with labor is strong, and they are key stakeholders in our PSR 2.0 initiative. Recently, we welcomed over 65 labor leaders, including presidents of national governing bodies, to Atlanta for discussions that helped clarify our direction and philosophy in railroading. They presented challenging questions and various viewpoints, but we were able to address these effectively, achieving a unified understanding moving forward. I want to emphasize that the responsibility for change does not rest on any single group; rather, as a team, we are committed to change and discipline, which is evident in our workforce. Railroading is inherently challenging and operates around the clock. We aim to create an environment where employees feel valued and fulfilled, especially knowing their contributions support the U.S. economy. Our journey is just beginning.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Mark George",
+      "title": "CEO",
+      "content": "Thanks a lot. Next question?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Next question comes from Tom Wadewitz, UBS.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Tom Wadewitz",
+      "title": "Analyst",
+      "content": "Jason, I also want to congratulate you on the new roles. John, it really seems like you\u2019re making a significant impact on the railroad, so congratulations to you as well. I\u2019d like to ask about 2025. I understand this might be challenging due to the uncertainty in the markets and pricing. How do you envision the situation for 2025 if there isn\u2019t any improvement in some markets? It seems that industrial markets are not getting better, and may even be worsening, especially in automotive and metals. Is there enough productivity to enhance the margin in 2025? To put it simply, given John's insights and the current momentum, is this a reasonable expectation? Or if volume growth and market recovery don't materialize, do you think it would be difficult to achieve? I appreciate any high-level thoughts on how these two markets relate to network improvements and how to consider them together. Thank you.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Mark George",
+      "title": "CEO",
+      "content": "Hey, thank you, Tom. Great question. Let's bifurcate and just say that for the things we can control, which is cost. We've got a path. You will recall that we had committed to $250 million of cost reduction this year. We are on track to hit that number. We committed to another $150 million next year. So regardless of the economic environment, we committed to another $150 million next year in 2025. We're going to beat that. John and I have spent a lot of time talking about this. I think there's a real opportunity to fast forward some cost reduction from 2026 into 2025. So we feel really, really confident there. We can't control the top line and the economic environment, except to say that there is share recapture opportunity out there. So even if you have a softer market, we still have some idiosyncratic opportunities to recapture some share to help mitigate any pressure that might be there. So obviously, there's a limit to how much you can get in any given year. But given the product that John and his team are putting out there for service, we feel really, really good about the traction and momentum we have with our customer base. John, do you want to talk any more about the confidence in our cost reduction next year?",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "John Orr",
+      "title": "COO",
+      "content": "I feel confident because of the strength of our team. Reflecting on my own experience from the early 2000s with Hunter Camp, I recall how Hunter motivated us to seek out small victories. Accumulating numerous small wins through a dedicated team focused on continuous improvement leads to significant outcomes. As we continue to invest in our people and execute nearly 2,800 engagements this year, we are educating them on the specifics of PSR 2.01 and how they can make meaningful contributions. We're fostering a culture of change and addressing challenges, as Hunter would phrase it. We're equipping our team to apply what they've learned in their daily work, which leads to organic improvements. Our strategy revolves around unlocking the value of our network, starting with terminals like Chattanooga and Conway to understand their operations better. We are leveraging these insights to enhance asset utility. We are rethinking our asset usage, evident in how we manage pool distributions and asset management. For instance, we shifted our car movements from Detroit directly to Elkhart, rather than routing them through Toledo and Bellevue. This streamlining reduces assignments and car days, which also decreases our locomotive fleet needs. Such innovative ideas originate from our frontline staff. The progress we're making is substantial, as we invest in our people and clear away organizational barriers. There's still much to improve, and the case for change remains strong.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Mark George",
+      "title": "CEO",
+      "content": "Thanks, Tom. Next question?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your next question comes from Brandon Oglenski from Barclays. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brandon Oglenski",
+      "title": "Analyst",
+      "content": "Hey good morning. And thanks for taking the question. So Mark, congrats on the top seat here. But I guess a two-part question for me. First, structurally at Norfolk, is there any way you're looking at this organizationally that you'd like to see different at the company? And then maybe following up from that discussion on 2025 OR, there was a lot of back and forth on guidance earlier this year with the proxy contest. So I think you guys had committed to 100 to 150 basis points of annual improvement for the next few years, but then also said maybe a sub-60 and three to four years of volume contributed. Is that still the right framework, especially within the context of the answer to that last question?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Mark George",
+      "title": "CEO",
+      "content": "Sure. Regarding your second question, absolutely, we remain on track. You recall the elements involved; there were aspects of cost reduction associated with it. The target of 100 to 150 million was based on a more conservative top line forecast of about 2% to 3% growth. A more traditional recovery would potentially bring us below 60% within three to four years. We continue to stand by our guidance indicators. As for any structural changes, I can assure you that we're progressing well. We have tremendous momentum, and our core strategy remains unchanged. Currently, our focus is on execution. Our operating team is effectively implementing the strategy to enhance network efficiency, which will lead to a superior service product. As we mentioned, this high-quality service will drive growth, which we've begun to see last quarter and again this quarter. We have unique growth opportunities, and Ed and his team are capitalizing on them. This aligns with our strategy, particularly in terms of productivity, which we've indicated is a crucial part of our plan. This was evident in the third quarter, where we had been out of alignment with our productivity strategy. We committed to restoring that balance, and we\u2019re making significant progress with an improvement of 570 basis points in operating ratio, aided by some volume increases this quarter that acted as a real boost. Even the sequential progress is quite encouraging. Execution is essential, and John and I frequently discuss this. My background in industrial products drives my commitment to an operational excellence mindset. I firmly believe that a successful operation requires a robust quality system\u2014whether you call it Six Sigma or ACE. We must establish standardized processes based on best practices and ensure that everyone adheres to them. When process breakdowns occur, it's vital to conduct thorough root cause analyses to identify and resolve the issues, allowing us to prevent future mistakes. This is the productive cycle we aim to achieve. The wonderful thing is that we have leaders like John whose teams truly reflect this approach. When John mentions the war rooms, these are dedicated to relentless root cause analysis. Every time they encounter a problem, the war room is activated to determine the root cause and implement solutions. We're fully aligned in promoting this culture, which excites me greatly. Additionally, I want to foster a stronger safety culture and enhance two-way communication. John mentioned this earlier. It\u2019s crucial that communication flows both ways, allowing information to ascend as well as descend. Many innovative ideas stem from our on-the-ground employees, whether in marketing or the operations team John described. We need to cultivate an environment where people feel comfortable sharing not only process-related ideas but also any concerns they may have. We're dedicated to improving our culture to facilitate better communication. Ed and I have been having numerous discussions about collaborating more closely with our customers to better understand how we can meet their needs and tap into the opportunities for gaining and recovering market share. This will be our primary focus moving forward. Thank you for your question, Brandon. I appreciate it.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "The next question is from Jonathan Chappell, Evercore. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jonathan Chappell",
+      "title": "Analyst",
+      "content": "Thank you. Ed, regarding your market outlook, there seems to be more challenges than opportunities. You've mentioned some of the headwinds and also noted earlier some successes in the spot market. Could you provide more specific details on where you are achieving wins and the magnitude of those? Additionally, in relation to industrial production growth, what realistic volume growth do you anticipate on the Norfolk Southern network as you capture more market share despite the economic conditions?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Ed Elkins",
+      "title": "CMO",
+      "content": "It's pretty easy. I would point to our ag markets. In the third quarter, we were able to take advantage of some market dislocations as well as some what I would call true spot opportunities that frankly, in prior quarters, we could never have addressed because we couldn't generate the additional capacity to do that nor the operational agility to respond in a way that the market would require. This last quarter, we have, I would say, very successfully executed a number of those moves, whether it's soybeans, whether it's corn, whether it's grain, that have helped offset some of the weakness we've seen in some of the other industrial markets, where we're fulfilling all the capacity needs that our customers have, but they simply don't have that much need right now. I would point toward the deceleration in some of our auto markets. There are some idiosyncratic phenomenon going on there with regard to whether it's quality holds or specific plant outages. Look at intermodal and view the very solid growth, both on the domestic and international side, and our network's ability to absorb that growth but also produce those spot wins that I'm talking about here, opportunities we would not have been able to take advantage of in prior quarters.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Jason Zampi",
+      "title": "CFO",
+      "content": "I would agree. While it's early days in the reservation system, I'm really confident that as we work through this, our customers are going to enjoy the discipline that brings to our terminals. Because they've been a part of its development. What I'm excited about is the opportunity to add 100, 200, 300, 500, 1,000 feet to our intermodal trains or existing trains as we create the discipline smoothing out our network through the rest of the year and into next year. Then being able to project what our true capacity is as far as that growth because I think we're just on the cusp of really hitting our stride on long trains and bringing on new business at very low incremental costs.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Mark George",
+      "title": "CEO",
+      "content": "Thanks, John. Next question, please?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your next question comes from Jeff Kauffman, Vertical Research Partners. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jeff Kauffman",
+      "title": "Analyst",
+      "content": "Good morning, everybody. And thank you for squeezing me in. Congratulations also to Mark and Jason. I just want to go a different direction. I know there are some things you probably can't talk about with the labor agreements. But John, can you talk about what is going to make a difference for what you're trying to achieve in these labor agreements that were reached fairly run out for ratification, so you may not want to discuss some things. But just kind of talk about what's important for you to hit your targets with these new labor deals?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Jason Zampi",
+      "title": "CFO",
+      "content": "Yeah, thank you for that question. It is a really good question. Coming from both the craft and organized labor in the early days of my career, I appreciate having clarity on the future as far as the payment structures and the discipline around what my CBA looks like. I think first, extending that confidence to our workforce and predictability and how they can budget their own households and work schedules is really important. That cascades into our being able to model from the pricing with our customers. It's very complementary to what we're trying to achieve in PSR 2.0. That's a really disciplined service safety and delivering value for our customers. That discretionary effort we\u2019re getting from our rent trade crews and operating employees is really allowing us to optimize the value of our network, build a team that\u2019s inclusive of every one of the 20,000 people who work here and contribute to the value we\u2019re creating. That leadership and developing skills and capabilities are just going to help us enhance a great product already. I think as well, then that allows us to really create a new blueprint and unlock the bigger rocks, that we need to move the network further along. So it's a win-win. I know from my experience, there's nothing you can put a price tag on that discretionary effort.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Mark George",
+      "title": "CEO",
+      "content": "Thanks a lot, Jeff. Next question?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your next question is from Jordan Alliger, Goldman Sachs. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jordan Alliger",
+      "title": "Analyst",
+      "content": "Yeah, good morning. I just want to talk about network resiliency, if I could. You had some pretty strong volumes in the third quarter. So I'm just sort of curious what's working well on resiliency, what still needs to improve really just to get a sense what needs to be done to ensure the network can run fluidly for the foreseeable future so that you could do the things you're talking about like taking share off the highway, etc. Thank you.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Jason Zampi",
+      "title": "CFO",
+      "content": "I would say, again, I would get back to we're trying to do things better in every area of the business. In order to do that, we have to bring up our efforts and capabilities to a completely another level. But I would say the six things that we focus on, the network health, our asset efficiencies, and our customer-facing metrics are the guiding metrics that we're going to use to drive that. As we continue to improve those things under the hood, there are going to be a lot of ability to put more discipline, engineer out inefficiencies and engineer in optimization, things like the reservation system that are just going to unlock so much discipline around our terminals and intermodal as our growth. To have better discipline around that just gives us such an advantage as the market comes roaring back in the U.S. economy and as trucks tighten up, we\u2019ll be able to leverage from a pricing perspective. Ed talked about that numerous times.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Mark George",
+      "title": "CEO",
+      "content": "Jordan, I think what John has done decongesting the terminals and networks goes a long way to improving resiliency. Laying down 500 locomotives over 8,000 cars since Q1 creates a lot more fluidity in the network. When you add little bumps in the road, you have less congestion to hold you back from recovery. That key and critical point. You saw it play out here in the third quarter following these storms. I would tell you a year ago, some of the events that we saw in the quarter probably would have set us back three months, okay? But we were back within a week and now we're actually at record network speeds and load wells. It's really remarkable. I do want to refute the notion that resiliency is about retaining costs. In fact, we've achieved resiliency this quarter while lowering costs. It's a good news story. We seem to have a good model in place here. Thanks for the question, Jordan. Next?",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your next question comes from Ravi Shanker, Morgan Stanley. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Ravi Shanker",
+      "title": "Analyst",
+      "content": "Thanks, good morning, everyone. Thanks for the color on \u201825 on the productivity actions. But with that to drop through to the bottom line, how much pricing do you need to counter general inflation for next year?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Ed Elkins",
+      "title": "CMO",
+      "content": "Thank you, Ravi, by the way. We've had a very successful year so far in terms of being able to price to the value of our service, and that value is increasing as the year goes on. We're very confident that we're going to finish up the year in a strong position. Going into \u201925, we continue to believe that we're going to outpace inflation in all of our major markets. Now commodity prices like seaborne coal probably be a headwind. We'll see how that evolves in '25. When you think about our core product and the value of the service we're offering, it's increasing and our customers are saving money at the same time. It's a powerful combination.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Mark George",
+      "title": "CEO",
+      "content": "You have to think of it, Ravi, in the elements when you talk about pricing; you can't talk about it as one topic, right? Merchandise, as I just said, we feel really good. Really strong service helps as a good backdrop there as those inflation. The model is intact. Intermodal is going to be somewhat dependent on what happens with spot truck pricing. Clearly, we seem to have found the bottom. The question is when does it start coming off the floor here? We have other commodity groups that follow indices that we don't control, obviously, in seaborne met being a big one. For those areas, like particularly merchandise in 2025, the model's intact. We feel really good. Thank you. Appreciate the question. Let's try to get another couple in.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your next question comes from David Vernon, Bernstein. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "David Vernon",
+      "title": "Analyst",
+      "content": "Good morning, everyone. Congratulations on the new positions. Building on that previous question regarding the seaborne met market in 2025, Ed, you have extensive experience in this industry. What are your thoughts on the U.S.'s role in the export markets if we see a price correction downward? Are you concerned about the potential price pressures that might emerge in a slightly weaker market for Norfolk next year? Additionally, could you clarify whether you're also concerned about the overall demand for aggregate volume in the export markets for 2025?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Ed Elkins",
+      "title": "CMO",
+      "content": "I'm not quite ready to delve into 2025 as we're still developing our perspective on that area. However, I will say that the U.S. has remained highly competitive over time. I believe we will continue to see that, especially when considering export thermals; we are positioned well regarding demand, and I expect that trend to persist. China will play a significant role in influencing export met demand. There's a lot of geopolitical uncertainty affecting commodity and energy prices. We are attentive to these factors and are fully prepared to meet our customers' tonnage needs globally.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Mark George",
+      "title": "CEO",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your next question comes from Ben Nolan, Stifel.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Ben Nolan",
+      "title": "Analyst",
+      "content": "I appreciate your insights. I wanted to ask about the intermodal sector, which seems to be showing signs of stabilization. Considering the ongoing challenges in the trucking market, are you beginning to see any signs of improvement in the premium intermodal segment, or are we not there yet?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Ed Elkins",
+      "title": "CMO",
+      "content": "On the premium side, there are still significant challenges coming from the highway sector. However, truck utilization is beginning to improve, approaching the 10-year average, and I believe we will trend above it soon. The number of motor carriers is gradually declining. These factors, along with insights from our key partners like J.B. Hunt and Hub Group, indicate that we are nearing a point where I fully expect pricing to increase. I believe we are close to the bottom now, and I have some confidence that this is accurate. The premium aspect is a different situation, and we will see how it develops. Our focus is on ensuring we deliver exactly what that specific segment requires.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Mark George",
+      "title": "CEO",
+      "content": "That brings us to the end. Look, I want to thank everyone for your questions, and we look forward to talking to you all throughout the quarter. Have a great day. Thank you.",
+      "sentiment": "0.0"
+    }
+  ],
+  "reported_date": "2024-10-22"
+}

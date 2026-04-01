@@ -1,0 +1,493 @@
+{
+  "symbol": "CTAS",
+  "quarter": "2024Q1",
+  "transcript": [
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Good day, everyone, and welcome to the Cintas Corporation Announces Fiscal 2024 First Quarter Earnings Release Conference Call. Today's call is being recorded. At this time, I would like to turn the call over to Mr. Jared Mattingley, Vice President, Treasurer and Investor Relations. Please go ahead, sir.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jared Mattingley",
+      "title": "Vice President, Treasurer and Investor Relations",
+      "content": "Thank you for joining us. With me is Todd Schneider, President and Chief Executive Officer; and Mike Hansen, Executive Vice President and Chief Financial Officer, who will discuss our fiscal 2024 first quarter results. After our commentary, we will open the call to questions from analysts. The Private Securities Litigation Reform Act of 1995 provides a safe harbor from civil litigation for forward-looking statements. This conference call contains forward-looking statements that reflect the company's current views as to future events and financial performance. These forward-looking statements are subject to risks and uncertainties, which could cause actual results to differ materially from those we may discuss. I refer you to the discussion on these points contained in our most recent filings with the Securities and Exchange Commission. I'll now turn the call over to Todd.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Todd Schneider",
+      "title": "President and Chief Executive Officer",
+      "content": "Thank you, Jared. We are pleased with our start to fiscal year 2024. First quarter total revenue grew 8.1% to $2.34 billion. Each of our businesses continues to execute at a high level. The benefits of our strong volume growth and revenue flow through to our bottom line. Operating income margin increased 110 basis points to an all-time high of 21.4%, and diluted EPS grew 9.1% to $3.70. I thank our employees, whom we call partners, for their continued focus on our customers, our shareholders and each other. Uniform Rental and Facility Services operating segment revenue for the first quarter of fiscal '24 was $1.83 billion compared to $1.7 billion last year. Their organic revenue growth rate was 7.6%. While price increases moved near historical levels, revenue growth continues to be driven mostly by increased volume. Our sales force continues to add new customers and penetrate and cross-sell our existing customer base. Businesses prioritize all we provide, including image, safety, cleanliness and compliance. Our First Aid and Safety Services operating segment revenue for the first quarter was $260.7 million compared to $234.2 million last year. The organic revenue growth rate was 11%. Our value proposition continues to resonate in our First Aid and Safety Services operating segment. Health and safety of employees remains top of mind. We provide businesses with access to quick and effective products and services that promote health and well-being in the workplace. Our Fire Protection Services and Uniform Direct Sale businesses are reported in the All Other segment. All Other revenue was $254.8 million compared to $234.5 million last year. The Fire business revenue was $174.3 million, and their organic revenue growth rate was 14.2%. The Uniform Direct Sale business revenue was $80.5 million which was down 2.7% organically compared to last year. Now before I turn the call over to Mike to provide details of our first quarter results, I'll provide our updated financial expectations for our fiscal year. We are increasing our financial guidance. We are raising our annual revenue expectations from a range of $9.35 billion to $9.5 billion to a range of $9.4 billion to $9.52 billion, a total growth rate of 6.6% to 8%. Also, we are raising our annual diluted EPS expectations from a range of $13.85 to $14.35 to a range of $14 to $14.45, a growth rate of 7.8% to 11.2%. Mike?",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "Michael Hansen",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "content": "Thanks, Todd, and good morning. Our fiscal 2024 first quarter revenue was $2.34 billion compared to $2.17 billion last year. The organic revenue growth rate, adjusted for acquisitions and foreign currency exchange rate fluctuations was 8.1%. Gross margin for the first quarter of fiscal '24 was $1.14 billion compared to $1.03 billion last year, an increase of 11%. Gross margin as a percent of revenue was an all-time high of 48.7% for the first quarter of fiscal '24, compared to 47.5% last year, an increase of 120 basis points. Strong volume growth and continued operational efficiencies helped generate this record gross margin. Energy expenses comprised of gasoline, natural gas and electricity were a tailwind, decreasing 50 basis points from last year. Please keep in mind that some of the energy benefit is the result of efficiencies we've created with our proprietary SmartTruck technology. Certainly, we've also seen a benefit from a drop in prices at the pump compared to a year ago. Gross margin percentage by business was 48.1% for Uniform Rental and Facility Services, 55.9% for First Aid and Safety Services, 49% for Fire Protection Services and 38.7% for Uniform Direct Sale. Operating income of $500.6 million compared to $440.1 million last year. Operating income as a percentage of revenue was 21.4% in the first quarter of fiscal '24 compared to 20.3% in last year's first quarter, an increase of 110 basis points. Our effective tax rate for the first quarter was 19.2% compared to 14.8% last year. The tax rates in both quarters were impacted by certain discrete items, primarily the tax accounting impact for stock-based compensation. Net income for the first quarter was $385.1 million compared to $351.7 million last year. This year's first quarter diluted EPS of $3.70 compared to $3.39 last year, an increase of 9.1%. Cash flow remains strong. Net cash provided by operating activities in the first quarter grew 13% over the prior year. On September 15, we paid shareholders $138.3 million in quarterly dividends, an increase of 17.8% from the amount paid the previous September. Todd provided our annual financial guidance. Related to the guidance, please note the following: fiscal '24 interest expense is expected to be $98 million compared to $109.5 million in fiscal '23, predominantly as a result of lower variable rate debt; our fiscal '24 effective tax rate is expected to be 21.3%. This compares to a rate of 20.4% in fiscal '23. The higher effective tax rate negatively impacts fiscal '24 EPS guidance by about $0.16 and diluted EPS growth by about 120 basis points. Our financial guidance does not include the impact of any future share buybacks. Guidance includes the impact of having one more workday in fiscal '24 compared to fiscal '23. This extra workday comes in our fiscal third quarter.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Jared Mattingley",
+      "title": "Vice President, Treasurer and Investor Relations",
+      "content": "That concludes our prepared remarks. Now we are happy to answer questions from the analysts. Please ask just one question and a single follow up if needed. Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our first question comes from Faiza Alwy from Deutsche Bank.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Faiza Alwy",
+      "title": "Analyst",
+      "content": "I wanted to see if you could provide a bit more color on the new business environment. And if you've noticed any change in terms of the macro environment. Certainly, you guys are talking to your customers every day. So just a bit more perspective around what you're seeing out there in the marketplace.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Todd Schneider",
+      "title": "President and Chief Executive Officer",
+      "content": "Great. Yes, our new business pipeline is quite good. We love the state of our sales organization, the focus that they have, the scope. And so new business is quite good, and that's a big driver of our growth that you're seeing, and we see that continuing. As far as the macro environment, we haven't seen any real change in our customers' behavior, I would say, since we reported last. So it's pretty consistent with what we have seen over the past few quarters. And we are watching it very, very closely and monitoring it as we move forward.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from Manav Patnaik from Barclays.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Manav Patnaik",
+      "title": "Analyst",
+      "content": "I just wanted to see if you could give us a little more color, I think, in terms of the pricing strategy and then also the strong volume growth. So I think you said pricing is back to historical levels. So I'm guessing that's down in that low single-digit camp versus almost every other company talking about still, I guess, pricing higher than above average. So it just maybe the first question is just how do we think about your pricing strategy here?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Todd Schneider",
+      "title": "President and Chief Executive Officer",
+      "content": "Yes, it is certainly closer to historical levels, and we like that. We think that's appropriate based upon our cost inputs. But we're very proud of the fact that we're growing our business attractively, and we think we can continue this based upon new business being robust and our customer retention levels being very good as well. We're seeing that in our customer satisfaction scores as well. And then the status of our customers is they're continuing on in the operating environment as they have in the past. So we like where we're positioned. We like the momentum in our business, and we like how we're growing it as well, and we think it bodes well for the future.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Michael Hansen",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "content": "Manav, I might just add to that, you asked about our pricing strategy. And as we've talked in the past, our goal is operating margin improvement, right? And pricing can be a lever within that, but we have other levers. It's not the only way for us to improve margins. And so as we think about the operating margin strategy of increasing, we've got a lot of good things going on. And this is a great quarter that shows where pricing is sort of returning back to that historical level. We still increased margins quite nicely even to record levels. And again, it's just that pricing is a part of that strategy.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Manav Patnaik",
+      "title": "Analyst",
+      "content": "Yes, that makes sense. That's quite impressive. And then maybe just on the strong volume growth. Could you just help provide some color on how much of that is new business, cross-selling, maybe share gains? Any color around that?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Todd Schneider",
+      "title": "President and Chief Executive Officer",
+      "content": "Yes, that's a great question, Manav. Our new business is performing well, and we are pleased with our retention levels and cross-selling efforts. We are making solid progress in these areas. While we strive for continuous improvement, our value proposition is resonating with customers, and we are focusing on making it easier to do business with us through various technologies. I believe this is reflected in our results, and we maintain a positive outlook.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And our next question comes from Joshua Chan from UBS.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Joshua Chan",
+      "title": "Analyst",
+      "content": "I guess could I ask about inflation and what you're seeing across your different cost buckets, labor, energy, material? And how you expect that to kind of transpire over the coming quarters as well?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Todd Schneider",
+      "title": "President and Chief Executive Officer",
+      "content": "I'll begin, and Mike can add his thoughts too. From an input cost perspective, labor remains higher than usual. However, as Mike mentioned earlier, we are finding ways to enhance our operating margin in this environment. One reason for this is that productivity is quite strong. We are working to empower our employees to succeed in the marketplace, benefiting both them and us. Additionally, our employee retention levels are returning to near historical figures, which is also advantageous for our customers. Regarding other input costs, energy prices have decreased compared to last year, which was primarily a factor in the first quarter due to high prices at the pump last year. We anticipate this effect will be limited for the rest of the fiscal year. Lastly, our global supply chain team is doing an excellent job of ensuring we remain well-positioned to offer competitive prices and access to our products. We've previously mentioned that only a small fraction of our products are single-sourced, which helps us secure product availability while maintaining competitive pricing.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Joshua Chan",
+      "title": "Analyst",
+      "content": "And I guess for my follow-up, could you talk about what your CapEx expectations are this year and kind of the types of projects that you're investing in?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Michael Hansen",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "content": "Sure. We did see a slight increase in capital expenditures in the first quarter. As mentioned previously, we are currently implementing SAP for our Fire Protection business, which contributes to the increase in CapEx. Additionally, over the past couple of years, our supply chains and vendors have experienced some disruptions in their ability to deliver trucks. In the first quarter, we noticed a bit of a catch-up with the receipt of more of those trucks, which also contributed to the increase. I expect our capital expenditures for the year will be around 4%. Long term, we still anticipate being in the range of 3.5% to 4%, but due to the SAP implementation and the catch-up, this year might trend closer to 4%.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And our next question comes from Heather Balsky from Bank of America.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Heather Balsky",
+      "title": "Analyst",
+      "content": "I was hoping, first, you could talk about your exposure to the auto sector and any exposure you may have to, I guess, some of the current disruption? And then two, if you could talk about through the end markets, are there any areas where just in this macro, you're seeing softness and areas where you're seeing strength would be great?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Todd Schneider",
+      "title": "President and Chief Executive Officer",
+      "content": "Yes, we are closely monitoring the auto worker strike, but it is not having any significant impact on us. We have a diverse customer base, which helps insulate us from these events. None of our customers account for more than 1% of our revenue, and no sector exceeds 10% based on the 3-digit NAICS codes. Regarding the macro environment, it varies depending on the sector and geography, as well as whether they are goods-producing or services-providing. The labor market is somewhat easier, but still challenging, as evidenced by the 9.5 million job openings. This situation affects our customers in their efforts to attract and retain talent. We hope to see these positions filled, as it would benefit both our customers and the overall economy.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And our next question comes from Justin Hauke from RW Baird.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Justin Hauke",
+      "title": "Analyst",
+      "content": "I wanted to ask about the First Aid margins because it kind of sustainably been higher than they have been historically and really more comparable to the Uniform Rental and the Facility Services segment. And I guess the question is, I mean, for years, that was kind of a scale business where you were building it out and it had lower margins. Are you at the point now where like that business has reached a point where it has very comparable margin sustainably to the Uniform Rental business?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Todd Schneider",
+      "title": "President and Chief Executive Officer",
+      "content": "Yes, we are quite optimistic about the First Aid business. It clearly connects with our customer base. A strong value proposition is contributing to our revenue growth. The mix has aligned more closely with historical patterns in First Aid and Safety. Like our other divisions, we are leveraging various technologies to remove inefficiencies from our operations, and this situation is no different. Our global supply chain team is effectively sourcing products, and we are reaping the benefits from that sourcing. While running a business involves fluctuations, we believe that maintaining gross margins above 50% is achievable in this segment.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Justin Hauke",
+      "title": "Analyst",
+      "content": "Okay. Great. The last question is more procedural. It appears that during the quarter, there was about $56 million spent on acquisitions, which is a bit higher than usual. Can you provide any insights on where that investment was directed and where we might expect to see revenue from it?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Todd Schneider",
+      "title": "President and Chief Executive Officer",
+      "content": "I'll begin, and then Mike can add his thoughts. Justin, as you know, we love using our balance sheet for mergers and acquisitions. We believe it's an excellent way to utilize cash, and we are pleased that we could deploy some of it for that purpose. We are actively pursuing opportunities in all three of our route-based operating segments, and we made acquisitions in each of them during Q1. We're happy with this progress, as it allows us to integrate those customers and partners into Cintas and deliver additional value and cross-selling opportunities to them.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And our next question comes from George Tong from Goldman Sachs.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "George Tong",
+      "title": "Analyst",
+      "content": "In the past, you've talked about strong demand from the health care, education and government verticals in driving Uniform Rental's growth. Can you discuss the latest trends you're seeing in these end markets and what's fueling the growth?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Todd Schneider",
+      "title": "President and Chief Executive Officer",
+      "content": "Yes, those are 3 great verticals for us. I mean, they're 3 great segments of the North American economy. And so, yes, we're still seeing outsized growth in those markets. And as we've chatted about in the past, it's more than just a sales effort. We've organized around them. We've got products for them. We've got technologies for them. And that is resonating with that customer base. So we think we've chosen them quite well, and there's plenty of runway in all of them. So we're, again, quite bullish on the future of those segments.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "George Tong",
+      "title": "Analyst",
+      "content": "Got it. And then with respect to margins, your gross margins expanded 60 bps year-over-year in your Uniform segment. Most of that appears to be driven by lower energy costs. Can you discuss puts and takes around Uniform gross margins in the quarter and opportunities for additional margin expansion over the remainder of this year that comes above and beyond tailwinds you're seeing from lower energy costs?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Todd Schneider",
+      "title": "President and Chief Executive Officer",
+      "content": "Yes. The Rental business makes up a significant portion of our operations, and we are forecasting margin expansion for the year. We do not anticipate energy to be a supportive factor for the remainder of the year. Therefore, we expect margin expansion primarily due to revenue growth, which will be beneficial. Additionally, we are working to eliminate inefficiencies within our business. As Mike noted earlier, we are pleased that pricing is returning to historical levels, yet we are still managing to increase both gross and operating margins to very attractive levels, reaching all-time highs. This is an integral part of our strategy, and our team is performing at an exceptionally high level, which we believe will continue.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Michael Hansen",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "content": "George, I want to emphasize what I mentioned earlier about the energy benefits we are experiencing, which are partly due to our hard work on initiatives like SmartTruck. As we continue to see substantial growth in volumes, we don\u2019t need to add as many routes and trucks as we did before, leading to improved fuel efficiency across our network. This is a proactive effort to reduce energy consumption, particularly through the SmartTruck technology.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Todd Schneider",
+      "title": "President and Chief Executive Officer",
+      "content": "And Mike, I would like to mention that by eliminating those inefficiencies, we can provide better service to our customers since we can spend more time with them rather than on the road. This also enhances productivity for our partners and employees, which is beneficial for them and our organization. Additionally, it has a positive impact on the environment. We believe we have achieved numerous important goals, and our ongoing efforts in technology development are starting to pay off. This is positively influencing our financial performance in various ways.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from Tim Mulrooney from William Blair.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Samuel Kusswurm",
+      "title": "Analyst",
+      "content": "This is Sam Kusswurm on for Tim. I guess I want to start with another health care question here. But as it relates to your health care clients, you've talked a lot about the opportunity here, especially as more no programmers convert. But I guess I'd like to know for those health care operators who already use a service partner, what do you think your penetration rate is? And how might that compare to some of your other customer verticals?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Todd Schneider",
+      "title": "President and Chief Executive Officer",
+      "content": "Sam, that's a good question. I don't have that in front of me. But we know this. We're in the early innings with health care. And we're coming up with more products and services that they find attractive. And that's part of our culture. We will enter into a business. But then we get out from behind our desk and we go spend time with our customers. And when we find that we find the answers to what they are most interested in by speaking to them, and our customers and our employee partners. And we're hearing from them on various areas where we can help them, and we're taking action there. So again, a very long runway in that vertical, and that's again part of our culture and will be part of how we go to market moving forward.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Samuel Kusswurm",
+      "title": "Analyst",
+      "content": "Got you. Appreciate it. Maybe just another quick one on the margins. I see SG&A as a percentage of sales picked up again in the quarter compared to last year. I guess I'm wondering if there was any variable costs like your insurance expenses? Or if it was mainly some of the selling and branding investments you've talked about previously? Maybe you could just help break that out for us a little more.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Michael Hansen",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "content": "Nothing unusual in the quarter. We observed some claims increase, which I mentioned in the fourth quarter, but they were not structural and have since returned to normal levels. Overall, we experienced some minor fluctuations, but nothing significant. Our aim is to keep maximizing the G&A component, and we will continue to focus on that.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And our next question comes from Andrew Steinerman from JPMorgan Securities.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Andrew Steinerman",
+      "title": "Analyst",
+      "content": "I wanted to talk to you about incremental margins, which were super strong in the quarter and last quarter on a year-over-year basis. I surely know, Cintas historically has targeted 20% to 30% as a range for incremental margins. But kind of given where we are right now, it definitely feels like that kind of low end of the range, the 20%, might not be as appropriate. And so my question is, has your medium-term range for incremental margins been creeping up?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Todd Schneider",
+      "title": "President and Chief Executive Officer",
+      "content": "Yes, our target is 20% to 30%. Q1 showed very attractive incremental margins, and there are always factors that can influence performance each quarter, as I mentioned. Running a business is not linear, but we expect to stay within that 20% to 30% range. I definitely prefer to be higher in that range rather than lower. I believe our guidance reflects where we expect to see attractive margin improvement for the year as well.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And our next question comes from Seth Weber from Wells Fargo.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Seth Weber",
+      "title": "Analyst",
+      "content": "I wanted to ask just about the small tick down in Uniform Direct Sales organic growth here in the quarter. It's the first, I think, decline that we've seen there in a while. I know the comp was hard. Is there anything else that you'd call out there for that business?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Todd Schneider",
+      "title": "President and Chief Executive Officer",
+      "content": "Certainly, we have observed excellent performance from that business over the past two years. However, as we have discussed before, the Uniform Direct Sale business can be somewhat variable due to the rollout of large programs, whether in hospitality or with Fortune 1000-type customers. There's nothing more significant than that. We remain optimistic about the future of that business for this year and beyond.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Seth Weber",
+      "title": "Analyst",
+      "content": "Do you think, Todd, do you think that business could be up for the year? Or do you think that's kind of flattish or down?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Todd Schneider",
+      "title": "President and Chief Executive Officer",
+      "content": "I expect all of our businesses to grow. However, the comparisons are aligned with the level of hospitality we experienced in that sector, particularly with the Fortune 1000 clients and the strong return of employees. I don't anticipate growth anywhere near what we've experienced over the last couple of years, but we do expect it to increase.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Michael Hansen",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "content": "Seth, I want to highlight that the last two years have seen a significant recapture of what we lost during the pandemic. In fiscal '22, that business experienced organic growth of over 50%, and in fiscal '23, it was nearly 30%. There has been considerable recovery, but we should keep in mind that our long-term expectation for that business is for growth, which is likely to be more in the low single-digit to mid-single-digit range within our portfolio.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Seth Weber",
+      "title": "Analyst",
+      "content": "Right. Okay. Understood. And then maybe just on the First Aid and Safety business, given the margin strength that you're seeing there, can you talk about are you seeing any incremental competition in that space? Are you seeing any bigger players trying to get into that space or just smaller regional players getting more active?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Todd Schneider",
+      "title": "President and Chief Executive Officer",
+      "content": "Yes, that's a good question, Seth. It\u2019s certainly a highly competitive marketplace for First Aid and Safety products, with hundreds of competitors present. There are numerous ways to acquire these products, whether through delivery vans or e-commerce, and we're witnessing a variety of options. Consequently, this market is very competitive. We've noted that the health and safety of employees is the primary concern for businesses. This focus attracts many players to the market, as the importance of taking excellent care of employees resonates strongly. Therefore, yes, it's a competitive environment, and I anticipate it will remain so.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And our next question comes from Stephanie Moore from Jefferies.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Stephanie Moore",
+      "title": "Analyst",
+      "content": "Actually, maybe continuing on that last question there. Could you talk a little bit about what you're seeing in terms of the competitive landscape in your more core Uniform ancillary product segment? As you continue to win new business, where are you seeing the majority of that new business coming from? Is it nonprogrammers, some of the regional players, larger players? Any color there would be helpful.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Todd Schneider",
+      "title": "President and Chief Executive Officer",
+      "content": "I have spent my entire career, 34 years, in the Uniform Rental and Facility Services business, and it has always been highly competitive. I expect that to continue. However, we have not seen any significant changes in the overall landscape; it remains competitive as ever. That said, our sales team is exceptionally skilled, and we recognize a substantial opportunity in the no program market. For years, our focus has been on growing this market, and our team is committed to that effort. When we refer to expanding the market, we are talking about those employees in the no program sector who are wearing garments. They may be purchasing these items on their own, from catalogs, or via centralized programs through their companies, but they are buying them. We enhance their experience with the valuable products and services we provide, including unique items from brands like Carhartt, Chef Works, and Landau. The no program market is particularly appealing to us, and we find that this segment appreciates the value of what we offer. Our efforts will remain focused on this growth.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Stephanie Moore",
+      "title": "Analyst",
+      "content": "Got it. And just a follow-up, if I may. You noted that retention level continues to be really high. I'm just curious, in this current environment, what do you think is resonating the most with your customers that your sales force kind of goes in? Is it kind of the willingness to work with them on price? Is it the product offering, your scale? I'd love to just get your thoughts on what do you think is resonating the most to drive such a nice retention level.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Todd Schneider",
+      "title": "President and Chief Executive Officer",
+      "content": "Yes, that's a great question, Stephanie. The answer is quite complex due to many factors involved. It begins with our strong commitment to taking exceptional care of our customers and attracting and retaining top talent. We also provide them with products, services, and tools that empower them not only to intend to take great care of our customers but to actually deliver on that promise. This involves excellent products and services, as well as resources that simplify doing business with us. Ultimately, it comes down to our people and ensuring they are well-positioned to provide outstanding customer care, and they are performing at a remarkable level. We often discuss how challenging market conditions give us an opportunity to excel. Our culture is thriving, and our team is doing an excellent job of serving our customers.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And our next question comes from Scott Schneeberger from Oppenheimer.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Scott Schneeberger",
+      "title": "Analyst",
+      "content": "It seems like you really want to discuss SmartTruck, which has been performing very well. I would also appreciate an update on automation in your facilities. It appears that you\u2019ve been achieving good efficiencies and there might be more potential for improvement. Can you provide any quantification on that? I know you\u2019re aiming for higher margins this year across the business, but it would be helpful to understand what factors are influencing this and how much progress you anticipate making.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Todd Schneider",
+      "title": "President and Chief Executive Officer",
+      "content": "Scott, I'll start. Mike, if you'd like to add anything. We're implementing technology, whether you call it automation, digital, or otherwise, across all areas of our business. We've been focused on this for several years, and we are beginning to see significant benefits from our investments with SAP and our partnerships with Google and Verizon. We believe there are many more opportunities ahead to enhance our business efficiencies and automate certain functions. Our goal is to make it easier for our customers to do business with us and to support our employees in providing excellent care. We view our investments in this area as a very effective use of our resources, positioning us well for both the short term and the long term.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Michael Hansen",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "content": "Yes. There are numerous details involved in everything Todd just discussed, making it difficult to assign a specific number. Our objective, as we've mentioned before, is to continue enhancing margins. We have various strategies to achieve this, aiming for incremental improvements in the range of 20% to 30%, while acknowledging that we are currently at the lower end of that range. However, it's challenging to pinpoint an exact figure for the potential improvements remaining, as we are constantly exploring additional ways to advance. With many projects in progress, our guidance certainly indicates continued margin enhancement compared to last year, which reflects our overall perspective.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Scott Schneeberger",
+      "title": "Analyst",
+      "content": "Great, I appreciate that. You mentioned SAP and indicated that CapEx might be at the high end of the range this year due to some implementations in the Fire segment. Could you elaborate on whether this will have an impact next year? How much longer can we expect SAP projects to continue? I'd like to get a sense of your future spending plans.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Michael Hansen",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "content": "From a Fire perspective, we are still in the early stages of implementation. This may lead to some pressure on Fire margins this year and a bit next year. The synergies and benefits will take time to realize; it's not an immediate change. Similar to our past experiences with the Rental and First Aid businesses, we'll need time to effectively utilize the platform before we can fully benefit from it. While Fire is a smaller segment of our overall business, we do anticipate these benefits will materialize. Regarding SAP, it's an ongoing process. Although we are currently using SAP and will continue to do so after the Fire Protection segment is integrated, there are always new lessons to learn from working with SAP. We have new initiatives with SAP, Google, and Verizon that are generating different opportunities. Todd has described this as one of his main technology initiatives. It's an ongoing journey; we activate new systems gradually. We are in the midst of this and will keep investing in it, with the expectation that it will continue to yield benefits in the future.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Todd Schneider",
+      "title": "President and Chief Executive Officer",
+      "content": "Scott elaborated on what Mike mentioned, highlighting that it is a journey. On this journey, there are numerous benefits that will emerge over time. We plan to keep investing wisely. We maintain strong relationships at a high level within those organizations, which will prove advantageous for us. This is part of our strategy. While the process is challenging, our team has demonstrated the capability to not only adapt to the changes but also to seize the opportunities that arise.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And our next question comes from Shlomo Rosenbaum.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Shlomo Rosenbaum",
+      "title": "Analyst",
+      "content": "Todd, could you provide more details about the margin on the First Aid side? I know you've mentioned some sourcing aspects, but it seems the business has moved from mid-teens to low 20s over the year. Is there a connection to route optimization, product mix, pricing, or any other operational factors that contributed to such a significant change? Also, could you share your thoughts on the current labor situation? Are you finding it easier to source the personnel you require?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Todd Schneider",
+      "title": "President and Chief Executive Officer",
+      "content": "We are really enthusiastic about the First Aid business. There are numerous factors contributing to our margin expansion, and we are utilizing all of them. It begins with strong revenue growth, which we are currently experiencing. This growth is largely due to our value proposition resonating in the marketplace, where we provide products and services that help attract and retain employees. This remains a challenge for many, but we are supporting our customers in taking great care of their staff, enabling them to run their businesses more effectively.  The product mix has shifted since the pandemic; it was previously heavily focused on safety items like sanitizers, but now it is returning to First Aid products that generate recurring revenue. We are also leveraging technology to facilitate easier transactions and empower our employee partners to deliver greater value to our customers. SmartTruck is one example of this initiative.  Additionally, we saw a slight energy-related benefit of 40 basis points. However, as Mike mentioned earlier, this isn't solely due to fuel prices; it also comes from improving operational efficiencies. We emphasize that we profit when the wheels stop, not while they are rolling, which benefits both our customers and our employee partners.  Furthermore, our supply chain team has excelled, capitalizing on opportunities as we grow. The larger we become, the more leverage we have, and they are performing exceptionally well. There are many factors contributing to our success, and we are optimistic about continuing to see these opportunities in the future. Overall, this is a process, not a singular event.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Shlomo Rosenbaum",
+      "title": "Analyst",
+      "content": "And then just the labor environment on your own, like for the people that you're sourcing?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Todd Schneider",
+      "title": "President and Chief Executive Officer",
+      "content": "Yes. From a labor standpoint, it is easier, but not easy. We are looking for great people, specifically those who are not only employed but happily employed, which is quite challenging. We believe we have a strong employee value proposition. It's easier than it was a year ago, but throughout my career, it has always been challenging. It's somewhat more challenging than it has been historically, but certainly not as difficult as it was a year ago.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And our next question comes from Kartik Mehta from Northcoast Research.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Kartik Mehta",
+      "title": "Analyst",
+      "content": "I know there's a lot of questions and maybe thoughts on what happens to new sales. And I'm wondering, if you go back to kind of 2008, 2009 and hopefully never have that recession again. But if you look at new sales back then, how did Cintas perform for new sales? And any lessons from that you would take as we move forward?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Todd Schneider",
+      "title": "President and Chief Executive Officer",
+      "content": "Yes, Kartik. First of all, we are a very different company today compared to 2008 and 2009. Our customer base is much more diversified now, with 70% of our customers being service providers and 30% goods producers. We have also developed significant verticals that we didn't have back then, including health care, education, and government. Therefore, we believe we are well positioned for the next recession whenever it occurs. I remember the period of '08 and '09 as I was leading the sales organization at that time. Our value propositions still resonated with clients, and we managed to secure new business at attractive rates. Sometimes we are not necessarily asking for new money; it's more about redirecting funds from other areas to us, whether from direct competitors or on purchases for facilities. We feel confident in our positioning. Additionally, we take pride in having a strong balance sheet, which we believe may present us with opportunities during the next recession. Our organization remains focused on adapting to whatever economic environment we face while taking great care of our customers and employees. Notably, we have grown sales in 52 out of the last 54 years, and we believe we will continue to be successful regardless of the economic situation.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Michael Hansen",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "content": "Kartik, I might add, Todd might be a little modest. He was running that organization. It was a difficult environment, and he and the sales team exceeded their internal goals and really continued to show that value even in tough times, as Todd mentioned. And as he also talked about, our customer base is quite a bit broader than it was back then, and our sales team is a little bit different. But the really good news is even back then, in the deepest, longest, broadest recession we'd seen in 100 years, we still sold a lot of new business. And it's a nice reflection of the value proposition that we have.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Kartik Mehta",
+      "title": "Analyst",
+      "content": "Yes. And just as a follow-up, if you look at the First Aid and Safety business, you're doing really well in it. Is there a way you would look at to say a certain percentage is recurring? Do you consider a certain percentage recurring? I know you don't have long-term contracts in that business. But just from a demand standpoint and what you've seen from a historical standpoint?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Todd Schneider",
+      "title": "President and Chief Executive Officer",
+      "content": "Yes, Kartik, that's a good question. I don't have the exact figures at the moment, but I can say that it has returned to levels closer to historical averages or even higher in terms of recurring revenue. We aim to provide value to our customers, regardless of the products or services they need. Our offerings include First Aid supplies, access to AEDs, eyewash stations, and clean water through our WaterBreak service. These items are increasingly important to our customers now compared to before the pandemic, and we believe this trend will persist.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And our next question comes from Toni Kaplan from Morgan Stanley.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Toni Kaplan",
+      "title": "Analyst",
+      "content": "So one of your competitors has been talking about using a strategy where they're incentivizing their drivers to cross-sell products. Can you talk about why you don't use that strategy? What the disadvantages are that you have found when doing that?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Todd Schneider",
+      "title": "President and Chief Executive Officer",
+      "content": "Yes, great question, Toni. I'm glad you asked because my first job 34 years ago was on the trucks. We have been cross-selling our products through our service sales representatives since I started, and I'm sure it was in place well before I began. We have about 12,000 trucks that roll out of our parking lots every day, focused on taking great care of our customers. When they go out, they spend time in those businesses, observing and identifying opportunities. This has always been, and will continue to be, a key component of our growth, as we view that infrastructure as a significant advantage. We leverage it to ensure that our service providers either supply more products and services or generate leads for additional products and services based on the customer's interests.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Michael Hansen",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "content": "Toni, we have discussed this extensively over the past decade. Our customers vary in size, industry, and other factors. While we expect our service sales representatives to maintain their sales efforts, we understand that some businesses are more complex or larger than others. Therefore, we sometimes need to enhance our approach. For instance, in the healthcare sector, we have dedicated personnel who specifically engage with decision-makers. This means it's not only about the service sales reps; there are also others responsible for relationships who are identifying new and varied sales opportunities. It isn't as straightforward as sending a service sales rep to every customer, as each one is unique. Consequently, we require a strategy that can address all types of customers, and we have one in place.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Todd Schneider",
+      "title": "President and Chief Executive Officer",
+      "content": "Toni, our customer satisfaction scores are very high, largely because our customers appreciate our people and our frontline service providers. We take advantage of this. For smaller customers, as Mike mentioned, we can cross-sell through the service provider. For larger, more complex customers, there might be a need for additional support. Nonetheless, this has always been a crucial part of our strategy and will continue to be so. I mean, we've been very deliberate about how we've structured our sales organization. And it's not just one approach fits all. We leverage what we have, and we continue to evolve and improve that strategy over time.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "At this time, there are no further questions. I'd like to turn the call back over to Jared Mattingley for closing remarks.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jared Mattingley",
+      "title": "Vice President, Treasurer and Investor Relations",
+      "content": "Thank you for joining us this morning. We will issue our second quarter of fiscal '24 financial results in December. We look forward to speaking with you again at that time. Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "This concludes today's conference call. Thank you for your participation. You may now disconnect.",
+      "sentiment": "0.0"
+    }
+  ],
+  "reported_date": "2024-03-27"
+}

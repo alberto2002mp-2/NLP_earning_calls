@@ -1,0 +1,475 @@
+{
+  "symbol": "UPS",
+  "quarter": "2024Q2",
+  "transcript": [
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Good morning. My name is Stephen and I will be your facilitator today. I would like to welcome everyone to the UPS Investor Relations Second Quarter 2024 Earnings Conference Call. All lines have been placed on mute to prevent any background noise and after the speakers\u2019 remarks there will be a question-and-answer period. It is now my pleasure to turn the floor over to your host, Mr. PJ Guido, Investor Relations Officer. Sir, the floor is yours.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "PJ Guido",
+      "title": "Investor Relations Officer",
+      "content": "Good morning and welcome to the UPS Second Quarter 2024 Earnings Call. Joining me today are Carol Tome, our CEO; Brian Dykes, our new CFO, and several other members of our executive leadership team. Before we start, I want to remind you that some of the comments we'll make today are forward-looking statements under the Federal Securities Laws and pertain to our expectations for future performance or operating results of our Company. These statements are subject to risks and uncertainties, which are detailed in our 2023 Form 10-K and other reports we file with or provide to the Securities and Exchange Commission. These reports, once filed, are available on the UPS Investor Relations website and from the SEC. Unless stated otherwise, our discussion today refers to adjusted results. For the second quarter, GAAP results include an after-tax charge of $120 million or $0.14 per diluted share, consisting of a one-time payment of $94 million to resolve an international regulatory issue, and transformation and other charges of $26 million. A reconciliation to GAAP financial results is available on the UPS Investor Relations website and can also be found in the webcast of today's call. After our prepared remarks, we will take questions from those joining us via the teleconference. Please ask only one question to allow as many participants as possible. You may rejoin the queue to ask an additional question. Now I'll turn the call over to Carol.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Carol Tome",
+      "title": "CEO",
+      "content": "Thank you, PJ, and good morning. Let me begin by welcoming Brian Dykes as UPS's new Chief Financial Officer. With over 25 years of multinational experience with the company, Brian brings deep financial and strategic experience to our executive leadership team. Welcome, Brian. Our second quarter performance was a significant turning point for our company as we returned to volume growth in the United States for the first time in nine quarters. I would like to recognize and thank UPSers for their hard work and efforts in delivering these results. At the beginning of the year, we shared our outlook for 2024 based on four key planning assumptions. The first planning assumption acknowledged the front-loading of costs associated with our new labor contracts, which we believed would cause our financial performance to reflect a bathtub effect, with first half 2024 earnings down as much as 30% and second half earnings returning to growth. In the first half of the year, our earnings were in line with the down 30% scenario. The second assumption was that we would return to volume growth, which we did in the US during the month of May. Further, while international volume growth in the second quarter was down 2.9% year-over-year, we saw growth in certain markets. The third planning assumption was based on our fit-to-serve initiative to right size our management structure, and we are on track with this initiative to deliver roughly $1 billion in savings by the end of the year. Finally, we said we would explore strategic alternatives for Coyote, and we did, leading to a pending sale to RXO, at considerably more than our carrying value. So the key assumptions we used to build our plan are holding with one distinction and that's US volume mix both in terms of product and customer segmentation. During the quarter, we experienced a shift toward value products with shippers choosing ground over air and SurePost over ground. And there was also a notable shift in product characteristics with a surge in lightweight short-zone volume moving into our network. We will discuss the full year impact of these shifts in a few moments. But let me first highlight our second quarter results and then provide a few updates on our longer-term strategies. In the second quarter, consolidated revenue was $21.8 billion, a decline of 1.1% versus last year. Consolidated operating profit was $2.1 billion down 29.3% and consolidated operating margin was 9.5%. At our March Investor Day, we set forth our declarations to become the premium small package provider, the premium logistics orchestrator, and the Number #1 complex healthcare logistics provider in the world. To that end, we said we would pursue certain inorganic opportunities and we have. As you've seen, we just announced our plans to acquire Estafeta, a leading domestic small package provider in Mexico. This is a big win for UPS and it's a big win for our customers. By combining Estafeta with the end-to-end services we already have in Mexico and connecting it to the global reach of our integrated network, we will greatly enhance our logistics orchestration capabilities for customers that are shifting manufacturing and distribution closer to the United States. We are targeting to close this acquisition by the end of this year. Let me share a few other strategic updates starting with customer first. In healthcare, we just opened our first dedicated healthcare facility in Dublin, Ireland. This 82,000-square-foot facility provides storage and fulfillment for a range of complex pharmaceutical and healthcare products. And in the Netherlands, we increased the size of our flagship facility in Roermond to now more than 235,000 square feet, including expanded ultra-cold storage capabilities to support the growing market of complex biopharma products. Looking at SMBs, we continue to add partners to our Digital Access Program or DAP, meeting small businesses where they are. In the first six months of this year, DAP generated $1.5 billion in revenue and we are well on our way to achieving our 2024 DAP revenue target of over $3 billion. And because speed will always be important to our customers, in the US, we expanded our weekend service offering to six additional markets. With this service, we provide deliveries one day earlier than competitors who don't offer weekend pickup services. In fact, we are the only private US-based carrier that provides both commercial and residential pickup and delivery services on Saturday as a general service offering. Outside of the US, we are continuing to enhance our portfolio to support our customers as they balance the need for speed with cost. For example, in record time, we launched enhancements to our worldwide economy service globally. This is an e-commerce solution for non-urgent cross-border shipments. Here we created a true door-to-door service with customs clearance and delivery fees baked into the solution, making the experience simpler for the shipper and the receiver. In Asia, over the last several quarters, we've made a series of network enhancements with the latest being in Taiwan. Because Europe is a top three export destination for Taiwan, we've expanded our capacity by 30% and extended pickups to as late as midnight. These enhancements enable our customers, including high-tech manufacturing and automotive shippers, to better serve their European customers by reaching their destination in just two business days. And in supply chain solutions, we've expanded our supply chain operations at our Frankfurt Airport Gateway by adding nearly 25% more warehouse space. This facility is a major SCS hub for central Europe where it connects all transportation modes. In this expansion, we can now provide even greater flexibility to the region's growing technology and healthcare industry. And importantly, also in SCS, we are onboarding the new USPS Air Cargo business with plans to be fully implemented before peak. The onboarding has gone well and we continue to expect this business to be margin accretive for the company. Now let's turn to innovation driven and progress with Network of the Future. In the first half of 2024, we completed 35 operational closures, which included closing five buildings. And we are on plan to complete an additional five operational closures in the second half of this year. Simultaneously, we're continuing to automate more of our operational tasks. For example, in the US, we are automating the dispatch process for our packaged car and feeder drivers to reduce dispatch staffing by half. We deployed Phase 1 of the project and so far this year we've reduced staffing by 26%. As we continue deployment, we expect to achieve our reduction target by 2026. As a reminder, these actions are outside of fit-to-serve and are part of Network of the Future. Lastly, touching on Smart Package Smart Facility, which is our RFID solution, we are moving from a scanning network to a sensing network. As we've discussed, we're adding RFID readers to our package cars, but we're not stopping there. We're moving upstream. First, we are enabling customers to print RFID labels themselves. Second, we are installing readers at customer dock doors. This will enable immediate visibility as our trailers are loaded for pickup. This solution provides a significant competitive advantage to us and to our customers. Moving to our financial outlook, Brian will provide more details but let me share a few highlights. First, while we have entered into an agreement to sell our Coyote business, we are retaining Coyote revenue and earnings in our outlook until the transaction is consummated. Second, while our first half earnings were in line with the low end of the guidance we provided, our revenue came in just short of the low end. Given the current volume momentum we are now experiencing in our business, we are resetting our revenue guidance, taking us to the midpoint of our original revenue guide. But for operating profit, as we look to the back half of the year, in the US, we expect the same volume mix characteristics as we had in the first half of the year, which compresses revenue per piece growth. While we still expect an operating profit bathtub effect with solid earnings growth in the back half of the year, the growth rate will not be as high as we projected at the beginning of the year. Accordingly, we are adjusting our full year operating margin guidance to reflect the nature of the volume flowing through our US Network. As a result, we now expect consolidated revenue of approximately $93 billion and a consolidated operating margin of approximately 9.4%. Importantly, we expect to exit the final month of 2024 with a US operating margin of 10%, which creates a solid footing as we drive the US business to a longer-term operating margin target of 12%. One last comment before I hand the call over to Brian. We believe it is important to have a disciplined and balanced approach to capital allocation with the first uses of capital going back to the business and to pay our dividends and then any excess cash being used for share repurchases. As we have fine-tuned our capital requirements for Network of the Future, we expect to spend less than we originally anticipated. Further, with the pending sale of Coyote, we expect to free up cash that was not in our original guidance plan. As a result, we are restarting our share repurchase program with the intent of repurchasing about $1 billion of shares annually, including roughly $500 million in 2024. So with that, thank you for listening and let me turn the call over to Brian.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Brian Dykes",
+      "title": "CFO",
+      "content": "Thank you, Carol, and good morning everyone. First, I'm very thankful for the opportunity to lead the global finance organization and work with the entire leadership team to achieve the targets we set. We have a lot of opportunity in front of us and the right team to achieve our goals. I'm also particularly eager to meet our investors as I hit the road over the next few weeks. This morning I'll review our second quarter results, provide an update on capital allocation, and lastly, provide additional detail for our 2024 financial outlook. First, our results. The second quarter represented an important turning point for our business. In the US, volume inflected positively and it was the last full quarter of the high wage growth rate associated with the first year of our new Teamsters contract. Outside the US, we saw pockets of demand improved in each export region driving growth in many of our more profitable lanes. Additionally, through our fit-to-serve initiative, we reduced our workforce by over 11,500 positions which has translated into approximately $350 million in savings for the first half of 2024. And as Carol said, we are on track to deliver roughly $1 billion in savings by the end of the year. Looking at our consolidated performance. In the second quarter, revenue was $21.8 billion, a reduction of $237 million compared to the second quarter of 2023. Consolidated operating profit was $2.1 billion, down 29.3%, and consolidated operating margin was 9.5%. Diluted earnings per share was $1.79, down 29.5% from the second quarter of 2023. Now let's look at our business segment. In the second quarter, US average daily volume increased 0.7% year-over-year. This marks a return to positive volume growth for the first time since the fourth quarter of 2021. And sequentially, when compared to the first quarter of 2024, the average daily volume year-over-year growth rate increased by 390 basis points. At the beginning of the year, we expected to see three things in the second quarter: volume growth, growth in B2C, and relatively consistent product mix to what we had experienced last year. While we saw strong volume growth in the second quarter led by B2C, it came with a different product mix. For the quarter, B2C volume increased 4.8% year-over-year and made up 58.5% of our volume, an increase of 220 basis points from a year ago. This growth was driven in large part by several new e-commerce customers that entered our network. B2B average daily volume finished down 4.6%. Returns remained a bright spot and increased 3% year-over-year. From a product perspective, we saw customers trade down between services. Specifically, we saw customers shift from air to ground and from ground to SurePost. As a result, total air average daily volume was down 7.8%, while ground average daily volume increased 2.3%. Within ground, SurePost average daily volume grew 25%, driven by new shippers, product choices, product trade downs, and easier comparisons due to last year's decline in volume during our contract negotiations. By enhancing our matching algorithm, we saw an increase in the percentage of SurePost packages redirected to UPS for delivery. As a result, SurePost redirect increased returning to 2020 levels. Turning to SMBs, we saw the trend from the first quarter continue with total SMB volume down until June when it flipped positive. And in terms of total volume, SMBs made up 29.7% in the second quarter. For the quarter, US Domestic generated revenue of $14.1 billion, down 1.9% compared to last year. Revenue per piece was down 2.6% year-over-year. Let me break down the components of the revenue per piece decline. Base rates increased the revenue per piece growth rate by 90 basis points. The combination of product mix, lighter weights, and shorter zones decreased the revenue per piece growth rate by 310 basis points. The remaining 40 basis point decline in the revenue per piece growth rate was due to the combination of changes in customer mix and fuel. Turning to costs. Total expense increased 3.2% in the second quarter. Union wage rates increased 11.7%, driven by the contractual increase that went into effect in August of last year. The US Domestic team took several actions and executed on productivity initiatives to partially offset the increase in compensation rate. We leveraged total service plan and network planning tools to reduce total operational hours by 1.4%, while volume grew 0.7%. Through Network of the Future, we had 17 operational closures in the second quarter, bringing our year-to-date total to 35. And because we're routing more volume through our automated facilities, we've permanently closed five buildings so far this year. We lowered block hours by 12.5% versus last year and we recorded our best auto safety results in 10 years, driving a better outcome for our people and a better long-term cost picture for UPS. Putting it all together, due to the actions we took in the second quarter, we held the cost per piece growth rate to only 2.5% even as union wages increased nearly 12%. This is the lowest cost per piece growth rate we've seen in more than three years. The US Domestic segment delivered $997 million in operating profit, down 40.7% compared to the second quarter of 2023, and the operating margin was 7.1%. Moving to our International segment. The second quarter was a turning point for our International business as well. For the first time in 10 quarters, 11 of our top 20 export countries demonstrated year-over-year average daily volume growth, including several key markets in Europe. At the region level, Asia grew average daily volume and revenue in the quarter. And in the Americas regions, we continue to see solid signs of the shift in nearshoring. Looking at volume in the second quarter, International total average daily volume was down 2.9% year-over-year which is half the decline we saw in the first quarter of this year. About three-quarters of the decline in the second quarter came from lower domestic average daily volume, which was down 4.4%, primarily driven by Europe. On the export side, average daily volume declined 1.5% year-over-year. However, on a sequential basis from the first quarter, export average daily volume improved 210 basis points. While overall export average daily volume was down in Europe, in Germany, our largest export market, outbound grew 1%. In Asia export average daily volume increased 1.7%. And within Asia, export volume on the China to US trade lane increased 20.6%. This is the third consecutive quarter of volume growth on this lane, which is our most profitable lane. And looking at the Americas region, export average daily volume increased 5%, which was the sixth consecutive quarter of growth. As we see the shift in nearshore continue to take hold, our announced acquisition of Estafeta will further enhance our end-to-end services in Mexico. In the second quarter, International revenue was $4.4 billion down 1% from last year, primarily due to the decline in volume. Revenue per piece increased 2.4%, driven by strong base pricing and the positive impact of region and product mix. In the second quarter total International expense was relatively flat year-over-year. Here we leverage the agility of our integrated network to manage block hours down 2.1% compared to last year. Operating profit in the International segment was $824 million down $78 million year-over-year. Operating margin in the second quarter was 18.9%. Moving to Supply Chain Solutions. In the face of a dynamic market, we remained agile and leaned into areas of growth. In the second quarter revenue was $3.3 billion, up 2.6% year-over-year. Looking at the key drivers. Within international air freight, strong e-commerce demand particularly in China outbound, drove an increase in volume and lifted market rates as demand outpaced capacity, resulting in an increase in revenue. On the ocean side, total volume and revenue was down year-over-year. However, toward the end of the quarter, demand on Asia outbound lanes improved and drove market rates higher. Our truckload brokerage business known as Coyote, continued to face market pressures, which drove revenue down. And then logistics revenue grew driven by the impact of MNX and healthcare. In the second quarter, Supply Chain Solutions generated operating profit of $243 million, down $93 million year-over-year reflecting market conditions, Operating margin was 7.3%. Walking through the rest of the income statement, we had $206 million of interest expense. Our other pension income was $67 million. And our effective tax rate for the second quarter was 23.4%. Now let\u2019s turn to cash and capital allocation. Year-to-date, we've generated $5.3 billion in cash from operations and free cash flow of $3.4 billion. We finished the quarter with strong liquidity and no outstanding commercial paper. In May, we successfully issued $2.8 billion of debt to refinance $1.6 billion in current maturities which will shore up additional liquidity and support our acquisition strategy. And in the quarter, we announced that we would be outsourcing the asset management portion of our pension plan in order to focus squarely on our core business while adding more expertise and oversight that will benefit UPS retirees. Lastly, so far this year UPS has paid $2.7 billion in dividends, which brings us to our outlook for the second half of 2024. Global economic growth forecast remained relatively unchanged in the back half of 2024. According to S&P Global, global GDP is expected to grow 2.7% for the full year 2024 and US GDP is expected to grow 2.4%. Additionally, as we've discussed we still expect the US small package market excluding Amazon to grow by less than 1%. Looking at our business in the first half of 2024, revenue was below our expectations and operating profit was at the low end of the range we provided and finished down about 30%. Based on our performance in the first half of the year combined with our expectation that the product shift we experienced in the US will continue through the rest of 2024, we have updated our guidance. This includes moving to a point estimate because it represents our best view of the many moving parts within our business. We now expect consolidated revenue to be approximately $93 billion, and because the volume characteristics are different from what we originally anticipated, we now expect a consolidated operating margin of approximately 9.4%. Our guidance includes roughly $1 billion in savings from fit-to-serve. And as Carol mentioned, Coyote revenue and operating profit remains in our guidance and will until the transaction is executed. Looking at the segments. In US Domestic, we anticipate back half 2024 revenue growth of around 5%, driven by strong volume growth. As you update your models for US Domestic there are a few things to keep in mind. First, we expect average daily volume to grow by mid-single digits. Second, we\u2019ll anniversary the first year of the Teamsters contract on August 1. Next, product mix is expected to continue to pressure revenue per piece. However, through expense management and slowing labor inflation, we expect to grow third quarter operating profit by double digits and exit the year with a US operating margin of 10%. And lastly, we expect a strong peak driven by volume growth and demand surcharges. Within the International segment, our full year and second half outlook remains consistent with what we provided at the beginning of the year. For the second half of 2024, we anticipate volume growth rates will inflect positively and revenue growth to be in the mid-single digits. Operating margin in the second half of the year in the International segment is anticipated to be approximately 20%. And in Supply Chain Solutions, in the second half of 2024, we expect revenue to be over $7 billion and an operating margin in the high-single digits. Included in our guidance is the newly won air cargo business from the USPS, which will be fully onboarded by the end of the third quarter. And lastly, we expect the tax rate to be approximately 22% for the remainder of the year. Turning to capital allocation. For the full year in 2024, we expect free cash flow to be around $5.8 billion before any pension contribution. We've tightened our capital expenditure forecast and now expect to spend about $4 billion. We plan to pay out around $5.4 billion in dividends, subject to Board approval. And given our strong liquidity, while we originally had not planned to repurchase shares, we now plan to repurchase approximately $500 million of shares this year. With that, operator, please open the lines for questions.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. We will now conduct a question-and-answer session. Our first question will come from the line of Tom Wadewitz of UBS. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Tom Wadewitz",
+      "title": "Analyst",
+      "content": "Yeah. Good morning. I wanted to see if you could offer some more thoughts on what's happening with domestic package volume and the mix effect. If I look at the core ground, excluding SurePost, it looks like you saw a decline sequentially. So let us say, 12.3 million pieces a day in 1Q to 11.7 million, if I exclude SurePost. So do you think is that just market weaker? Or is that kind of competitive performance? So just wanted to see if you could offer more thoughts on what's happening in domestic package volume. And then maybe what are key levers to see that mix performance improve as we look at second half. Thank you.",
+      "sentiment": "-0.1"
+    },
+    {
+      "speaker": "Brian Dykes",
+      "title": "CFO",
+      "content": "Thank you, Tom, for your question. When analyzing the domestic volume performance from the second quarter and looking ahead, there were two main factors influencing the change. Firstly, we noticed that customers are increasingly choosing our more cost-effective products, shifting from air to ground services and, within ground, from standard ground to SurePost. This trend was observed across a wide range of customers. Secondly, there has been a rise in new entrants and e-commerce customers who operate under a different model compared to our traditional clients and are heavily utilizing our SurePost service, resulting in its accelerated growth. The growth rate is also impacted by last year's second quarter, as the nature of customers that diverted early affected it, particularly in relation to the Teamster contract, which skews the growth rate. Looking ahead, we anticipate that this mix will stabilize as we approach the end of the year. We have a clear view of this in our pipeline and are actively working to manage the mix of products as we enter the second half.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Carol Tome",
+      "title": "CEO",
+      "content": "And maybe a couple of other comments about just the volume. As you saw, our commercial business was down year-on-year, although the rate of decline has moderated greatly. As we look to the back half of the year, we expect that to improve. Our pipeline is quite robust. So we expect to see good movement in that space.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Tom Wadewitz",
+      "title": "Analyst",
+      "content": "Great. Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question will come from the line of Jordan Alliger of Goldman Sachs. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jordan Alliger",
+      "title": "Analyst",
+      "content": "Yeah, hi. Good morning. Just again on the trade-down from more premium products to economic products, what changes customer behavior to go back? And is it simply the economy? And then what are your thoughts on sort of the B2B side of the equation which I guess is still under pressure? Do you anticipate a step up with more of a focus on just-in-time inventory, a need to move things quicker from that end? And when would you think that timing could look better? Thanks.",
+      "sentiment": "-0.2"
+    },
+    {
+      "speaker": "Carol Tome",
+      "title": "CEO",
+      "content": "On the B2B front, it was down year-on-year. Part of that was due to customers who left during contract negotiations and have not returned. They locked into long-term contracts and haven\u2019t come back yet, which gives us a chance to win them back with our excellent service. Recently, we've noticed some developments in the B2B space, with companies unexpectedly going out of business, which allows us to bring that business into our network. This is already starting to happen, and the pipeline of commercial accounts looks strong. We expect significant improvement in the second half of the year. Regarding the RPP, it's interesting that we have seen new e-commerce entrants into the United States. Their volume has grown more than we anticipated in our network. To your question about whether this trend will last forever, it depends on consumer demand. However, we will focus on the market segments that truly value our end-to-end service and expect the RPP pressure we experienced in the second quarter to ease. Brian, could you provide more details on what we expect the RPP to look like in the second half of the year?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Brian Dykes",
+      "title": "CFO",
+      "content": "Yes. So as Carol mentioned, yes we do expect our RPP growth to moderate in the back half. And actually, as we move from kind of the negative 2.6% that we are at to almost approach breakeven as we get towards the end of the year. And there are a couple of pieces of that. Carol had mentioned the B2B piece. I would say the bright spot within B2B is returns, that improved 3%. And we are seeing uptake with the addition of Happy Returns into the portfolio. And as that pipeline builds and we start to see that pull through, that continues to accelerate our B2B business. The other thing I would say is that we do have a strong pipeline of ground-ready products. And what happens with the SurePost product is, it allows you to get new customers in, leveraging that. We get the integration into their systems, we get the pickup process set up, and they become part of the UPS portfolio but then allows us to expand that as we go through the cycles.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Carol Tome",
+      "title": "CEO",
+      "content": "And maybe one other comment about SurePost because the question may be, do you like that product? We actually like the product. It provides a steady solution for us. We also, through our matching algorithm, can redirect the packages back into the ground network. And in fact, the redirect percentage was 40%. So that's returning back to levels we saw during COVID.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Jordan Alliger",
+      "title": "Analyst",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question will come from the line of Ken Hoexter of Bank of America. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Ken Hoexter",
+      "title": "Analyst",
+      "content": "Hi, great. Good morning. Hello Brian, I guess the spread of margins, can you talk about kind of the reaction we should see in third quarter? I guess typically, we see maybe 100 basis points pullback. I just want to get seasonality or kind of flow that we should expect through the year. And then I think you mentioned the 90 basis points of pure pricing. I want to understand the margin impact there. Is that just a fraction of GRI? Has that shifted as well? Thanks.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Carol Tome",
+      "title": "CEO",
+      "content": "So maybe I'll talk about the RPP and then you can talk about the margin. So on the base pricing, there are many dynamics on the base pricing. First, we were up against very tough comparisons from a year ago. Why? Well, you'll recall that our volume declined in the United States in the second quarter by almost 10%. And this was related to noise around the labor contract negotiation. If you look at who declined during that timeframe, it was predominantly dual-sourcers, who are low GRI customers. So last year's base pricing was a bit artificially inflated because of just the mix change. If you roll forward now to this year, what you see in the base pricing is, okay the tough comparisons year-on-year, as well as new entrants that don't have a GRI because they are starting to ship with us for the first time. And then finally, if you zoom out and say well, what's the keep rate looking like on those customers who have a GRI? The keep rate is looking at about 50%. So as we get past this timeframe and get into an easier compare, that's why we think our base rates can improve dramatically in the from where it was in the second half. And maybe you can talk about the margins.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Brian Dykes",
+      "title": "CFO",
+      "content": "Yes. Ken, I\u2019d like to provide some insights on our expectations for the second half, as we are confident in our ability to improve margins. Firstly, in the US, we anticipate an increase in average daily volume from Q3 to Q4, expected to rise by mid-single digits. As we previously discussed, the drop in revenue per piece growth will decrease, registering about negative 1.5% in Q3 and negative 5% in Q4. As we approach the peak season and notice holiday demand surcharges, we expect these numbers to improve further. We project operating profit to increase by double digits in Q3, and by December, as mentioned by Carol earlier, we aim to achieve a 10% operating margin.  For International, Q3 average daily volume is expected to be flat or slightly positive year-over-year, while Q4 should see an increase of mid-single digits, with revenue per piece growth between 1% and 2% year-over-year in the second half. Our operating margin for Q3 will be in the high teens, moving above 20% in Q4, thus maintaining our strong momentum internationally. In SCS, we expect revenue growth in the mid-teens and significantly stronger profit growth year-over-year in both Q3 and Q4, with the second half projected to increase by approximately 20%.  We are very confident in our ability to meet the second half forecasts for several reasons. Firstly, we have a clear visibility on the volume necessary to achieve our top-line targets, which mitigates the effects of RPP growth decline, as reflected in our guidance. On the cost front, our fit-to-serve initiative is progressing well, having already reduced 11,500 resources, or 90% of what we initially planned. Additionally, we have visibility on revenue improvements in the pipeline that will enhance our profitability as we move into the second half. Therefore, we are assured that we are back on track for revenue growth, profit growth, and margin expansion in the US.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Carol Tome",
+      "title": "CEO",
+      "content": "And just one other piece of color, don't forget that we are anniversarying our labor contract on August 1. So the pressure associated with that contract moderates dramatically in the back half.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Ken Hoexter",
+      "title": "Analyst",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question will come from the line of Ravi Shanker of Morgan Stanley. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Ravi Shanker",
+      "title": "Analyst",
+      "content": "Thanks. Good morning. I have a two-part question. First, you have handled your largest customer quite well in terms of size. Will you also be looking to control the growth from new e-commerce customers if their mix is not beneficial? Second, can you provide insight into the size of returns in your operation, either in volume or revenue? Thank you.",
+      "sentiment": "-0.1"
+    },
+    {
+      "speaker": "Carol Tome",
+      "title": "CEO",
+      "content": "So first in terms of our largest customer, we have a very good relationship with that customer, and the revenue for the quarter was at 11.5% of total revenue, so about the same as it was a year ago. And we look forward to continuing to optimize the relationship we had with that customer. In terms of the new e-commerce entrants that have come into our network, we\u2019re focused on serving the segments of the opportunities that really respect our end-to-end network, and we will continue to do that. One reason why we are leaning so hard into healthcare, another reason why we are leaning so hard into SMBs. And I couldn't say enough goodness about our SMB business, particularly our digital access program where the revenue grew 7.7% year-on-year. We now have 38 partners around the world in that program and over 5.8 million shippers on the program. Returns, Brian, do you want to comment on that?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Brian Dykes",
+      "title": "CFO",
+      "content": "Yes, returns are included in our B2B product and the ground commercial segment we report on. Returns have been a significant part of UPS for many years, and we continue to enhance our leadership in this area. We have seen consistent growth in B2B even amidst challenges in other business segments. This growth is supported by our capabilities in handling single piece returns and technology that allows customers to integrate into their processes, as well as the extensive UPS store network that offers a distinctive returns solution. With the addition of Happy, we can now provide consolidated returns, creating a unique portfolio that supports growth in B2B.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Carol Tome",
+      "title": "CEO",
+      "content": "And Matt Guffey is here. Maybe, Matt, you would like to comment on how the integration of Happy Returns is progressing.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Matt Guffey",
+      "title": "Executive",
+      "content": "Happy Returns integration has been very significant for us. We completed the acquisition last November and activated all 5,200 stores within eight weeks, which greatly expands our reach. Additionally, this integration enhances our digital capabilities while also improving our physical presence and overall experience for both consumers and shippers. We are seeing continual growth from the Happy Returns portfolio, which works well alongside our single piece returns. As we focus on no box, no label, and consolidation, we are also implementing no box, no label for single pieces, allowing consumers and shippers to benefit from how they manage returns.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Ravi Shanker",
+      "title": "Analyst",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question will come from the line of Scott Group of Wolfe Research. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Scott Group",
+      "title": "Analyst",
+      "content": "Hi, thanks. Good morning. Brian, can you clarify whether you are indicating that US package EBIT will increase by double digits? Are we talking about around a 10% growth rate? Double digits could mean a lot. Bigger picture, Carol, during the Analyst Day, you mentioned industry oversupply and negative yields, which suggests limited pricing power at the moment. Given this context, the upcoming peak season surcharges are significant. My question is whether we are at a turning point where you believe you can start increasing prices more aggressively. Is this a pivotal moment, or is it just a unique quarter with a compressed peak? I would like to understand how these peak surcharges relate to the underlying pricing and yield trends we are currently observing. Are we reaching a turning point?",
+      "sentiment": "-0.1"
+    },
+    {
+      "speaker": "Carol Tome",
+      "title": "CEO",
+      "content": "Well, let's talk about the margin first and then we will talk about peak.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brian Dykes",
+      "title": "CFO",
+      "content": "Yes, Scott, what I meant was regarding the transition from Q3 to Q4. In Q3, we anticipate that domestic package EBIT will increase in the range of 10% to 15%. However, we expect some moderation in growth in Q4 as the comparison levels stabilize. Carol, would you like to add anything?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Carol Tome",
+      "title": "CEO",
+      "content": "I would like to discuss the peak season. This year has the most condensed peak since 2019, with only 17 days between Thanksgiving and Christmas. We anticipate that our peak day on December 18 will bring the highest volume our network has ever experienced. To handle this volume efficiently, we need to invest in hiring personnel and leasing aircraft and delivery vehicles. Therefore, we believe prices will remain stable due to the demand environment. Additionally, we are facing easier year-over-year comparisons, as last year saw a decline in volumes. The tightness of this peak gives us confidence. Moreover, there's an opportunity to shift from the art of pricing to a more scientific approach with our new pricing tools. This future pricing structure allows us to implement modifiers that create value for our customers and ourselves. Furthermore, the deal manager has been very successful for us, enabling us to win more contracts with lower discounts compared to previous years. Now, I\u2019ll hand it over to Matt for his thoughts on pricing.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Matt Guffey",
+      "title": "Executive",
+      "content": "Yes. So first off, we think we are competing in a rational pricing environment today. And to Carol's point, I think about it in three segments, once she hit on some of the mediums. We also talked about our Digital Access Program, where we have the ability to leverage the architecture of tomorrow. And the way to think about the technology, if I could just to give you context, is the technology gets dynamic pricing across all customer segments and all channels. So we've leveraged it to win in the Digital Access Program, Carol highlighted deal manager. How you think about now moving forward, which I think is really exciting for us, is now we have the ability through the modifiers that she highlighted, to dynamically price across our enterprise customers to better align our price to our cost to serve, while also providing the best value for our customers.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Carol Tome",
+      "title": "CEO",
+      "content": "So hopefully, that's helpful, Scott.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Scott Group",
+      "title": "Analyst",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question will come from the line of David Vernon of Bernstein. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "David Vernon",
+      "title": "Analyst",
+      "content": "Hi, good afternoon or good morning and thank you for taking my question. Carol, when you joined, there was a strong emphasis on value over volume. However, we are now guiding for a decrease in the second half despite very easy comparisons due to growth in lower-value volume. Has there been a shift in your focus for the company? What should investors understand from what seems to be a shift towards prioritizing volume again?",
+      "sentiment": "-0.2"
+    },
+    {
+      "speaker": "Carol Tome",
+      "title": "CEO",
+      "content": "Yes. We are not pursuing volume. We welcomed new customers into our network with certain volume expectations that exceeded our projections. We are not chasing volume; their demand was simply much higher than we anticipated. We are concentrating on the segments of the market that appreciate our comprehensive network. The principle of better not bigger remains important to us. We will manage through this situation, and it is crucial that we do so. Please understand that this situation arose because new customers joined our network and their volume surged. We successfully handled this with the best on-time service of any carrier.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Brian Dykes",
+      "title": "CFO",
+      "content": "And Carol, I want to emphasize the significance of volume. Although we had many more shippers in the network, it's crucial to highlight that SurePost operates in the same areas and hubs as all other packages, which has helped us achieve greater productivity. Our cube utilization in the feeder network increased, and both our hub productivity and preload productivity rose as well. Despite a 12% increase in compensation rates, the US business managed to limit cost per piece growth to 2.5%. This is a substantial achievement. Additionally, the impact on delivery, particularly with redirection and increasing stop-and-route density, is significant. The volume drives productivity improvements across the entire network, and we now have the capability to manage this moving forward.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "David Vernon",
+      "title": "Analyst",
+      "content": "So I mean, I guess I appreciate that. But when you think about the guidance you just gave for 3Q being 10% to 15% off a really low base, it just doesn't seem like it is dropping to the bottom-line. And that's what investors are looking to capitalize your earnings, not necessarily productivity or cost per piece growth.",
+      "sentiment": "-0.3"
+    },
+    {
+      "speaker": "Carol Tome",
+      "title": "CEO",
+      "content": "Yes. No we appreciate that. We do. There are a number of actions that we can take to address this. But we thought it was important to provide guidance today. Is that the most realistic view of the back half of the year. It doesn't mean that this is the future of our company. In fact, as we mentioned, we will exit the US with a 10% operating margin. That's a significant change from where we have been. Thank you.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question will come from the line of Chris Wetherbee of Wells Fargo. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Chris Wetherbee",
+      "title": "Analyst",
+      "content": "Yeah. Thanks, good morning. Maybe touching on that last response, Carol. What are some of the things that you can do to adjust to the network changes that we're seeing and the product mix changes that we're seeing? Is your ability to pull forward fit-to-serve, cost takeout some of the other network structure changes? I guess just how do you fix profitability running at that low level as it is right now?",
+      "sentiment": "-0.1"
+    },
+    {
+      "speaker": "Carol Tome",
+      "title": "CEO",
+      "content": "One way is to accelerate Network of the Future. And I get a review from the team every two weeks on what we are doing in that regard, while we committed to five additional closures in the back half of this year, I think there is an opportunity to do more. Nando, would you like to comment on that?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Nando Cesarone",
+      "title": "Executive",
+      "content": "Yes, there is. The operators and engineers are performing exceptionally well right now, and our network aligns with the current activities. However, there is more potential for improvement. We have completed 35 operational closures this year and have more planned for the second half. Additionally, we are initiating 23 new projects that will enhance our automation and efficiency. As we witness these efficiency gains unfold, we are monitoring the relationship between hours worked and volume, specifically our air volume compared to block hours. There has also been significant progress with SurePost, which is up 300 basis points, ensuring that we align that product with every other package in our network to lower operational costs. We continuously seek out these opportunities and are committed to moving forward. Ultimately, all of this creates a very efficient, safe, and customer-friendly network.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Carol Tome",
+      "title": "CEO",
+      "content": "And Kate, the same is true outside of the United States. So what cost down activities are you focused on?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Kate Gutmann",
+      "title": "Executive",
+      "content": "Yes. So Carol, I think the important move that we made at the start of the year that is playing out in the second half, and you can see it in the margins, of course, is the flattening of our structure. We actually \u2013 we are focused on how do we speed up from the customer to the decision-making. And we eliminated a whole layer throughout the world, and we are getting great feedback both from the customer, as well as from our people. One example of that also playing off of what Matt talked about with deal manager, we have actually shaved off two weeks of pricing time internationally. International is very complex. Every bid is different countries and different cost structures. To be able to do that and get it down now into two-day turn time or less for our SMBs, that's why we're seeing an over 60% SMB mix in the international arena as well. So both sides of the profit equation.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Carol Tome",
+      "title": "CEO",
+      "content": "Productivity is a virtuous cycle here at UPS. I think we've shown that we can drive cost out, and we will continue to do that.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question will come from the line of Bruce Chan of Stifel. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Bruce Chan",
+      "title": "Analyst",
+      "content": "Hi, thanks operator. And good morning everyone. Brian, you talked a little bit about the line of sight on volumes in the back half. And I'm wondering if maybe you could give us a bit more color on where RPP or yield trends have been moving into the third quarter so far. And I ask this because I think we saw a little bit of a deterioration, maybe a surprise deterioration on those metrics last quarter, it seems like that was not expected. So I'm just kind of curious, what makes you so confident that mix issues and the trade down issues that surprised us have kind of stabilized here and won't continue to deteriorate? And then maybe just worth a shot here, but is it possible to talk about what domestic volume growth would have been without that e-commerce customer?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brian Dykes",
+      "title": "CFO",
+      "content": "So certainly, regarding the RPP growth rate, it's important to note that the comparison in the second quarter is significant. We observed a notable shift from Q1 to Q2. As we move into Q3 and Q4, we anticipate the negative growth rate to improve, specifically to about negative 1.4% in the third quarter and negative 0.4% in the fourth quarter, with continued improvement in the latter half of the year. Several factors contribute to this. Firstly, we have clear visibility on new customers coming in that will help normalize our volume mix. Additionally, we've seen a wave of new entrants in the market, and volume levels have stabilized. We're collaborating with these customers on their forecasts for the latter half, which gives us better insights. As for your second question, we invited these customers to join our network, and what their absence would mean is irrelevant since they are part of it now. We've discovered effective ways to manage this volume within our network, and we'll continue to grow in the faster-growing segments of the market.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Carol Tome",
+      "title": "CEO",
+      "content": "We have improved our clarity regarding when we secure an account and when it actually integrates into our network. Our previous visibility in this area was not as precise as needed, but we have enhanced it significantly. We are also ensuring that everyone is responsible for getting the packaging onto the delivery vehicles, whether it is cardboard or poly bags. Overall, I feel much more confident about our onboarding visibility than I have in recent years.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Bruce Chan",
+      "title": "Analyst",
+      "content": "Okay, great. Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Carol Tome",
+      "title": "CEO",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question will come from the line of Brian Ossenbeck of JPMorgan. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brian Ossenbeck",
+      "title": "Analyst",
+      "content": "Good morning. Thanks for taking the question. Carol, following up on the pipeline. You mentioned that several times in terms of the visibility, the types of customers, the confidence coming through there. Maybe you can elaborate on that last comment, given just how that one large customer or e-commerce customer surprised the upside when volumes blew up. And then separately, can you give us an update on the USPS contract, how it is going so far, any surprises and whether or not that was a big contributor to the updated '24 guide. Thank you.",
+      "sentiment": "-0.1"
+    },
+    {
+      "speaker": "Carol Tome",
+      "title": "CEO",
+      "content": "Yes. So to be perfectly clear, there were two new e-commerce customers that came into our network. And you can imagine who they are. These are new e-commerce shippers in the United States whose volume has been quite explosive. We are working through those relationships as we speak. As it relates to the USPS, Nando, would you like to comment on how that's going?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Nando Cesarone",
+      "title": "Executive",
+      "content": "Sure. I think because with regard to the USPS, both teams are actually face-to-face planning and executing so far close to 50% of the change. And we'll continue pushing forward. We'll be fully implemented in terms of the UPS network in place to serve the USPS on September 8 and the contract really starts officially 10/01, where we'll see all of the volume come over to UPS. So far, in recognition of two parties getting together for the first time in this regard, there's been some bumps but nothing systemic. So it's working out really well on both sides, professionals from the USPS and UPS, really doing some good work there.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Brian Ossenbeck",
+      "title": "Analyst",
+      "content": "Great. Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question will come from the line of Conor Cunningham of Melius Research. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Conor Cunningham",
+      "title": "Analyst",
+      "content": "Hi everyone. Thank you. I was hoping you could provide some color just on revenue contribution for Estafeta and then maybe price paid. And then just bigger picture, how you are viewing the M&A landscape now. Are you happy with the portfolio? How are the returns of the businesses that you have or are acquiring holding up right now? Thank you.",
+      "sentiment": "-0.1"
+    },
+    {
+      "speaker": "Carol Tome",
+      "title": "CEO",
+      "content": "So we're super excited about the Estafeta announcement. Acquiring companies in Mexico isn't easy. The team has worked very hard to get us to this point, and we'll work through all the closing conditions. We hope to have the acquisition closed by the end of the year. Together UPS and Estafeta will be a $1 billion plus business. So this firmly cements our leadership position in North America and we couldn't be more excited about it. Do you want to take the second part of the question?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Brian Dykes",
+      "title": "CFO",
+      "content": "Yes, certainly. And then, Kate maybe you want to talk about the broader piece of it. But I think Estafeta, just to give you a little bit of context, it covers 95% of the population in Mexico with 145 facilities. So this is a fairly large business. It does about 325,000 pieces a day. So it gives you context of where it fits into the portfolio. And it fits very firmly within our near-shoring strategy. And Kate, do you want to add anything on that?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Kate Gutmann",
+      "title": "Executive",
+      "content": "Yes, absolutely. So think about first of all, that 300,000 pieces, all those shippers. They need a transporter, a cross-border solution that is quality and that has access to the best small package network in the US. That's what we give it. So it's the additional packages. I'll answer that other part of the question on our track record with the acquisitions. If you look back at Marken, also Bomi, onto MNX all of them are meeting their business cases, as well as their synergy both on the revenue and cost side of the equation. Because what it does is opens up again this end-to-end opportunity to these premium customers. We expect the same thing we are ahead of the supply chain shift into Mexico. Our supply chain cross-border business is up double digits. So this will only help with us that as well.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Carol Tome",
+      "title": "CEO",
+      "content": "And I know you asked about the purchase price. We typically won't disclose the purchase price, but I can give you a hint. Brian said that we accessed the debt capital markets in the second quarter and raised some additional debt capital for growth. It is about $1.2 billion. We are not spending $1.2 billion on the business. So that gives you a sense of where the purchase price is going to be.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Brian Dykes",
+      "title": "CFO",
+      "content": "That's right.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Carol Tome",
+      "title": "CEO",
+      "content": "We have been exploring strategic alternatives for Coyote and are pleased to have reached an agreement to sell Coyote to RFO at a value exceeding our carrying amount, with an EBITDA multiple of over 12 times. I'm very satisfied with the value we will receive upon closing the transaction. We continuously assess our portfolio to identify other opportunities for optimization or monetization, but at this moment, there\u2019s nothing significant to discuss.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Brian Dykes",
+      "title": "CFO",
+      "content": "Stephen, we have time for one more question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our final question will come from the line of Bascome Majors of Susquehanna. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Bascome Majors",
+      "title": "Analyst",
+      "content": "Thanks for taking my questions. If you go back to the trade down discussion in the SurePost, can you talk a little bit high level about how that business moves through your network? And what's different about it that better matches the cost of that package with the lower yield for that package? And just extending that a little bit further if SurePost is a higher mix of the domestic business than you'd expected longer-term, what nuance changes would there need to be with the network to make that a better fit? Thank you.",
+      "sentiment": "-0.2"
+    },
+    {
+      "speaker": "Carol Tome",
+      "title": "CEO",
+      "content": "SurePost is an excellent product in many respects. As I mentioned, it serves as our Sunday solution, and we are able to redirect volume through our matching algorithm, ensuring it is delivered through our ground network. Nando, could you elaborate on how that process works?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Nando Cesarone",
+      "title": "Executive",
+      "content": "Yes, sure. As Brian mentioned earlier, SurePost is going to flow through our network, regular feeders, regular hubs, sortation. What we are working on and very close to solving is looking ahead more than one day, so we can match even more of those SurePost shipments. So right now, if a package shows up at a destination, that particular morning, we will match that package with other deliveries for that day. The option moving forward is to look for additional matching opportunities, and we are very close to that solution so we can actually look further out. In total, as I said before, we're matching a lot more, about 3% more than last year. And each one is offsetting the cost and providing profitability to that shipment or that delivery, if you will to that one location.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Carol Tome",
+      "title": "CEO",
+      "content": "So that matching capability then creates more delivery density, which is a big value unlock for us. We've talked about in the past, every 10 basis points of improvement is a couple of hundred million dollars. So this is an important initiative to make this product even more attractive to us over time.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Bascome Majors",
+      "title": "Analyst",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Carol Tome",
+      "title": "CEO",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "I would now like to turn the conference back over to our host, Mr. Guido. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "PJ Guido",
+      "title": "Investor Relations Officer",
+      "content": "Thank you, Stephen. This concludes our call. Thank you for joining and have a good day.",
+      "sentiment": "0.0"
+    }
+  ],
+  "reported_date": "2024-07-23"
+}

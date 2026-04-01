@@ -1,0 +1,331 @@
+{
+  "symbol": "UBER",
+  "quarter": "2024Q2",
+  "transcript": [
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you and welcome to the Uber Q2 2024 earnings conference call. All lines have been placed on mute to prevent any background noise. After the speakers\u2019 remarks, there will be a question and answer session. If you would like to ask a question during this time, please press star, one on your telephone keypad. I would now like to turn the conference over to Deepa Subramanian, Vice President, Investor Relations and Corporate Finance. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Deepa Subramanian",
+      "title": "Vice President, Investor Relations and Corporate Finance",
+      "content": "Thank you Operator. Thank you for joining us today, and welcome to Uber\u2019s second quarter 2024 earnings presentation. On the call today, we have Uber CEO, Dara Khosrowshahi, and CFO Prashanth Mahendra-Rajah. During today\u2019s call, we will present both GAAP and non-GAAP financial measures. Additional disclosures regarding these non-GAAP measures, including a reconciliation of GAAP to non-GAAP measures are included in the press release, supplemental slides, and our filings with the SEC, each of which is posted to investor.uber.com. Certain statements in this presentation and on this call are forward-looking statements. You should not place undue reliance on forward-looking statements. Actual results may differ materially from these forward-looking statements and we do not undertake any obligation to update any forward-looking statements we make today, except as required by law. For more information about factors that may cause actual results to differ materially from forward-looking statements, please refer to the press release we issued today, as well as the risks and uncertainties described in our most recent Form 10-K and in other filings made with the SEC. We published a quarterly earnings press release, prepared remarks, and supplemental slides to our Investor Relations website earlier today and we ask you to review those documents, if you haven\u2019t already. We will open the call to questions following brief opening remarks from Dara. With that, let me hand it over to Dara.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "Thanks Deepa. Q2 was another record quarter for Uber and further demonstrated our ability to deliver profitable growth at scale. Gross bookings grew 21% on a constant currency basis, consistent with trip growth. Our audience expanded 14% while frequency grew 6%, supported by 7.4 million drivers and couriers globally. At the same time, adjusted EBITDA grew 71% year-on-year and we generated record quarterly GAAP operating income. These are super strong results that we\u2019re proud of, but I also understand there are two big questions out there that I want to address before we head into Q&A. First, the strength of the consumer and how Uber will perform in a recession. Based on what we\u2019re seeing today, the Uber consumer is in great shape. Our audience is bigger than ever and using our services more frequently than ever. While our consumers tend to be higher income, we\u2019re not seeing any softness or trading down across any income cohort. Were the current macroeconomic fears to materialize, we\u2019re confident that Uber can perform well because of the countercyclical nature of our platform. On the mobility side, more driver supply brings down prices for riders and improves reliability, and on the delivery side, merchants are investing in performance channels like ours for growth, improving selection and affordability for consumers. In fact, in Q2 the number of first-time consumers on Uber Eats in the U.S. was higher than at any point over the past five quarters. It\u2019s clear that delivery is much more habitual than many assumed, made even more so by our Uber One membership, which now covers 50% of delivery gross bookings. We\u2019ll continue to drive consistent top line growth while expanding GAAP operating income. Our track record of making and then exceeding our commitments should give investors confidence that we\u2019ve built the capital discipline and operational muscle to perform well in any scenario. Second, autonomous - put simply, Uber is uniquely positioned to offer tremendous value for AV players looking to deploy their technology at scale. While the operation of a ride hail network may seem simple, our technology obscures a huge amount of complexity. We support roughly one million trips per hour and our average ETA globally is approximately four minutes. That\u2019s possible because of marketplace tech that makes over 10 million predictions per second, and more mundanely, we handled more than 25 million lost items just last year alone. We also know that a key factor in AV commercialization will be asset utilization. AV players will need to ensure that their expensive assets are being used as close to 24 hours a day as possible while also managing the daily and weekly peaks and valleys of ride hail activity. Uber can provide enormous demand without AV players needing to invest capital towards acquiring customers or building the marketplace tech that delivers reliability at the standard that consumers have come to expect. That\u2019s all to say that Uber will be an indispensable partner for AV players of all sorts. We\u2019re in late stage discussions with additional global AV players to join our platform and will have more announcements in the coming weeks and months. Thanks to the Uber team for another great quarter. With that, Operator, let\u2019s open the call for questions.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Your first question comes from the line of Brian Nowak with Morgan Stanley. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brian Nowak",
+      "title": "Analyst",
+      "content": "Thanks for taking my questions. I have two, the first one is on AV. Dara, I appreciate the color, and even the extra color in the press release. My question is, is there any more detail on what you\u2019re seeing in Arizona around incrementality of rides from the partnership? How do we think about sort of the relative unit economics, and philosophically, what is your strategy of reinvesting dollars to sort of drive more AV growth versus delivering profitability? Then the second one on mobility specifically, can you talk to us just a little bit on what you\u2019re seeing on mobility MAPC versus frequency growth drivers, just breaking apart what\u2019s driving that growth in the quarter for mobility? Thanks.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "Sure, absolutely Brian, thanks for the question. I don\u2019t want to speak specifically to Arizona because obviously we have Waymo as a partner there, and I want to hold confidentiality, etc. as any partner should. But when we look more broadly at our operations with the various AV players that we see, what we do see is that the utilization that these AV players are able to develop on our network is significantly higher than the utilization we believe that they\u2019re able to run out without a marketplace basis, so third-party utilization is significantly higher than first-party utilization. If you think about the role of the marketplace, the role of the marketplace is to drive utilization of fixed assets. I mean, in the end, it\u2019s why a McDonald\u2019s or a Starbucks or even Domino's now works with us - they have direct channels to consumers, but they also work through the marketplace to bring more demand to their stores, so to speak, and we think the same will be true of AV players, which is as long as we\u2019re able to drive higher utilization and the utilization that we drive, the incrementality we think significantly exceeds the take rate that we will charge on average for mobility. Not including insurance costs, our global take rate is around 20%, so you\u2019d have to drive 25% increasing utilization. We believe that those utilization numbers are possible and we think that we can exceed those kinds of utilization numbers. Right now, the economics and the math are definitely working. I think the additional benefit that we bring to these players is we have a dynamic dispatch model that can determine what are the pick-ups and drop-offs that an autonomous player can effectively play with - you know, the pick-up point is easy, it\u2019s within a block, same thing with the drop-off points, and then what are the circumstances when we should dispatch a human for a particular pick-up or a drop-off, if the route is complex or the pick-up or drop-off has some special circumstances. We\u2019re able to essentially allow autonomous players to dispatch in situations where we know that they will succeed, so all in all the early data is quite encouraging, and as I said, we\u2019ve had lots of discussions with other players out there. We don\u2019t think this will be a win or take all market, and we think that we will continue to have the most liquid and largest marketplace that will have humans and AV players as part of it during this pretty long hybrid period, as autonomous development and regulators are trying to figure out exactly how to regulate it. Prashanth, do you want to take the second one?",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Prashanth Mahendra-Rajah",
+      "title": "CFO",
+      "content": "I will, thanks Dara. I think, Brian, your question was on mobility growth, so maybe I\u2019ll start with just restating how we did for Q2 and our outlook for Q3. For Q2, the results that we printed, if you do it at a constant currency, very strong at 27% year-over-year growth. For Q3, we\u2019re looking for sort of a repeat in that mid-20s range, again on a constant currency basis. But when you dig into why do we have such confidence in the mobility business, I would take you back to the framework we talked about in February, that mobility over the three years that we gave you should be growing at the mid-teens or better, and that\u2019s coming from a couple items. On the user side, we still believe that we have a pretty massive total addressable market (TAM) that we can go after. We\u2019re continuing to drive product innovation, and we talked about a couple of those at Go Get earlier this year, and we\u2019re continuing to find new demographics in areas to continue to expand in. Maybe one data point on TAM that I think is helpful for folks is our monthly penetration of consumers, and we define that as folks who are over 18 years, is less than 20% across our top 10 countries, so a lot of room to run there. Another key driver will be frequency, which I think folks understand to be how many times our monthly actives engage with the platform. We are launching new products, continuing to improve reliability so that when you call for an Uber, we\u2019re able to get you one at a time that you\u2019re looking for, and of course the benefits of membership. Only about half of our riders take one to two trips per month, so again, plenty of upside there to continue to drive this as a more frequent daily use case.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "Brian, you asked about our strategy to reinvest in order to drive growth in autonomous vehicles compared to profits. Typically, we can focus on our newer products. For instance, in Latin America and several developing countries, two-wheelers, or motos, and our shared ride service, UberX Share, which allows multiple passengers per vehicle, are experiencing faster growth than our core business, even though their profit margins are significantly lower. As we scale, we can leverage our cost structure and technology improvements in targeting and transaction costs, which gives us a profit framework to reinvest in our newer offerings, including autonomous vehicles. We expect autonomous vehicles to follow the same pattern we've established over the years. While we don't anticipate making substantial profits from autonomous vehicles in the next five to ten years, that's acceptable because we will cultivate a strong liquidity position in the marketplace, allowing us to maintain our trajectory of success from the past five years.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Brian Nowak",
+      "title": "Analyst",
+      "content": "Great, thank you both.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "You\u2019re welcome. Next question?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your next question comes from the line of Doug Anmuth with JP Morgan. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Doug Anmuth",
+      "title": "Analyst",
+      "content": "Thanks so much for taking the questions. Dara, can you just talk more about the importance of the BYD partnership as you bring new EVs into global markets, and then perhaps how that can tie into AV over time? Then Prashanth, just if you could talk more about the drivers of delivery profitability - good upside there in the quarter, and what gives you the confidence on the clear path to EBITDA profit in grocery and retail as well? Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "Yes, definitely Doug. I'll begin with BYD. Electrifying our fleet is a crucial initiative for us. If you look at Uber, drivers are transitioning to electric vehicles five times faster than regular drivers. It's particularly advantageous to target Uber drivers since they log about five times the mileage of an average driver, making it a focused segment for us to pursue, and we hope to receive government support in this effort. The primary barrier for some drivers considering EVs is cost. However, BYD stands out when it comes to cost and quality, making them one of the best manufacturers available. We are very enthusiastic about this partnership and expect to add over 100,000 new BYD EVs to the Uber platform in our key global markets. We've consistently emphasized that tackling climate change requires teamwork, and we aim to lead in this area, making BYD a fantastic ally. Recently, BYD has also made significant commitments to the autonomous vehicle sector. Given their achievements in the EV market, I have confidence in their potential in AVs as well. The investment they are making in this area is substantial, and we eagerly anticipate collaborating with them on both electric and autonomous vehicles.",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "Prashanth Mahendra-Rajah",
+      "title": "CFO",
+      "content": "Yes, I believe your question was regarding delivery profitability. While we don't want to focus solely on incremental margins, we did experience a strong quarter for those margins in delivery, achieving 10% in the second quarter. This demonstrates the advantages of scale within our delivery business, and we still have several strategies we are refining to enhance profitability in this area. This includes advanced technology developed by our team that is effectively reducing transaction and operational costs. Additionally, we've made significant progress in advertising, which is now exceeding a billion-dollar run rate. We are also exploring various methods, both operationally and technologically, to lower other expenses, such as refunds and appeasements, which still pose some challenges to our delivery segment. The growth in delivery profitability, coupled with robust growth in grocery, highlights the strength of our profitability trajectory. Delivery EBITDA has risen by 25 basis points sequentially, despite grocery outpacing delivery in growth rates. As for grocery profitability, we have previously discussed leveraging our platform to lower customer acquisition costs and enhance cost efficiencies. Currently, 15% of our Eats customers are also utilizing grocery, marking a 200 basis point increase year-over-year as of mid-year, and we are seeing improved retention in grocery as well. I mentioned advertising revenue, and as our selection improves, we are also reducing consumer promotions and onboarding more merchants to our platform, including Costco and other grocers. Overall, we are on track with the goals outlined in our three-year model, and grocery continues to be a strong aspect of our delivery business.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "Just one very encouraging trend on grocery and retail is that ad spend on grocery and retail has more than tripled on a year-on-year basis - obviously that\u2019s a very high margin product, and we are continuing to expand our consumer packaged goods (CPG) product now into a bunch of new countries, so the momentum there is terrific to see.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your next question comes from the line of Eric Sheridan with Goldman Sachs. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Eric Sheridan",
+      "title": "Analyst",
+      "content": "Thanks so much for taking the questions. Maybe two, if I could, coming back to the delivery business. Building on the last set of comments, how do you think about the potential longer term for increased utility, increased frequency as you layer more supply into the delivery network, and what you continue to learn about the relationship of evolving the experience for consumers and what it means for platform growth over a longer period of time? Then also on the delivery side, we\u2019ve seen a lot of market consolidation and market rationalization in some of the countries around the globe. How do you think about the asset portfolio on delivery and your current marketing positioning against some of those industry dynamics you\u2019re seeing on the capital side? Thanks so much.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "Yes Eric, so what we\u2019re seeing in terms of delivery is the long term growth is incredibly promising, and especially our ability to expand into the adjacent category of grocery and retail. The grocery and retail TAM is actually bigger than the online food delivery TAM, so not only do we believe we\u2019ve got a long runway in online food delivery but we\u2019re just getting started as it relates to grocery and retail. We now have 1.1 million merchants on the platform - that\u2019s up 13%. Our merchant penetration in most countries is still very low, well under 50%, and every time we add a merchant, because we have more diversity of choice, average conversion tends to improve for consumers who are kind of searching for their favorite restaurant or favorite dessert place, and each merchant gives us actually another item to market against as it relates to search engine optimization or search engine marketing in third party channels as well. So new merchants add conversion, choice, and actually are another item to market against, and we\u2019re a very, very long way in terms of full merchant penetration in the marketplace. It all results in either retention being up globally in every single mega region just in June on a year-on-year basis, so right now we believe there\u2019s a very, very long runway for growth. The more consumers use our products in a multi-product way, whether it\u2019s a mobility user using delivery or a delivery user buying from grocery and retail, the more they transact on the platform, multi-product consumers spend three times more than single product consumers, and for us, the more products we add to the marketplace, the more this benefit adds onto it, and then on top of that, you add our membership product as well, which is now over 50% of bookings. The volumes are strong, we are not having to buy our way into strong volumes, we\u2019re kind of earning our way into strong volumes, and I think the fundamentals are going to be there for some time to come. In terms of our portfolio, we had made the strategic decision a few years ago, probably three or four years ago, to exit markets that we didn\u2019t think we could either be the number one or number two, and if we\u2019re the number two, the ability to move to a number one position. We\u2019ve gained category position in delivery in every one of our top 10 markets on a year-on-year basis. It\u2019s a function of the great execution of our operations team, the technology that we\u2019re shipping, and then the power of the platform. There\u2019s no other global player who operates both in mobility and delivery or has as broad a platform as we do, so we\u2019re very happy with our portfolio, so to speak, and I think the results speak for themselves.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Prashanth Mahendra-Rajah",
+      "title": "CFO",
+      "content": "Eric, as I approach my one-year anniversary in the business, I am surprised to discover how persistent the food delivery industry is. It has become quite habitual for users, and our data indicates that this persistence is increasing. I reviewed data from the past five to six quarters, and it shows steady improvement in retention each quarter, suggesting a clear trajectory similar to what we observe in mobility.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Eric Sheridan",
+      "title": "Analyst",
+      "content": "Appreciate it, thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "You\u2019re welcome. Next question?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your next question comes from the line of Justin Post with Bank of America. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Justin Post",
+      "title": "Analyst",
+      "content": "Thank you. Could you please discuss the consumer downturn scenario again? What do you expect for mobility in the event of a recession or a significant downturn, specifically regarding potential trade-downs or a shift towards lower-priced rides, and how that might affect bookings and profitability? Additionally, Prashanth, it seems you have made progress with independent contract deals in Massachusetts and other areas. What is the impact on your costs when you enter these agreements, and can you offset it with higher fees? What are the implications for your business model when signing these deals? Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "Yes Justin, in terms of a consumer downturn scenario on mobility, we see these circumstances in a number of markets - LatAm has been through a bunch of cyclical trends, etc., and usually a downturn, the leading indicator of a downturn is a weak job market. We might be seeing it in some of the western markets, we might not - it\u2019s very difficult to tell, but when there is a weaker job market, typically our driver supply on the mobility side significantly improves. We\u2019re a very, very flexible work platform, average earnings per utilized hour for drivers in the U.S., for example, is $33 per utilized hour, so it\u2019s highly flexible and the earnings per utilized hour are strong. Typically what we see is improvement in driver supply. As driver supply improves, surge comes down, ETAs improve, the service itself becomes more compelling, and as a result volumes typically turn out to be quite sticky. In addition to those trends, we are actively investing in affordability, right - the membership program essentially brings prices down for both mobility and delivery, and we\u2019re investing in products such as two-wheelers and three-wheelers and UberX Share, all of whom provide discounts of, let\u2019s say, 25% to 50% of, let\u2019s say, the price of an UberX as well. We think that we can thrive in upturns and downturns, and I think that the team has proven that they have execution capability to be able to perform in any kind of market. Listen - we\u2019re watching trends very, very closely and I do believe we\u2019ll be able to adjust as needed. Prashanth, do you want to talk about Massachusetts?",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Prashanth Mahendra-Rajah",
+      "title": "CFO",
+      "content": "Yes, I will. Justin, I'll start by reminding everyone that we have three broad models for our market approach. We have the traditional independent contractor model, which is how most people view Uber and is the foundation of our company. Over time, we evolved to the IC-plus model, which you mentioned for Massachusetts, where we establish agreements to offer some benefits. Additionally, in some countries we utilize a fleet model, allowing independent companies to handle the execution on the ground while we supply the local demand. In Massachusetts, we reached an agreement with the Attorney General that sets standards for earners, including how we define time on the platform and certain healthcare, family, and medical leave benefits. As a result, the Attorney General dropped their case against Uber, and we are no longer pursuing a ballot initiative in Massachusetts, following our successful experience in California. This will be integrated into our operating model in Massachusetts, but as we indicated back in February during our investor day, we still have significant room to focus on reducing operational costs. While this will influence the cost structure we present to the market, we believe there are still many opportunities to lower our operating costs through support payments and various other strategies, helping to ensure Uber remains an affordable option for everyone.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Justin Post",
+      "title": "Analyst",
+      "content": "Great, thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "You\u2019re welcome. Next question, Operator?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your next question comes from the line of Nikhil Devnani with Bernstein. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Nikhil Devnani",
+      "title": "Analyst",
+      "content": "Hi, thanks for taking my question. Dara, I wanted to ask a two-parter on autonomous vehicles. First, can you help us understand how much of the ride share demand takes place during peak hours, in mornings and evenings? I would imagine that utilization math around the peak is really at the core of your value prop to partners. Then second, the partnership model makes a lot of sense to us for both sides, but there is a world where providers choose not to partner, they choose to compete more directly, so my second question is around, I guess, what the plan B is for Uber in the event the leading players choose not to extend partnerships or engage in partnerships? How do you navigate that scenario? Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "Yes, absolutely. While we haven't shared specific numbers regarding our peak and trough periods, there are significant peaks during rush hour in both directions, especially in the mornings and during evening commutes, as well as after-hours gatherings. We effectively manage demand and supply, utilizing surge pricing to influence demand when necessary and positioning our drivers through incentives based on time or location, such as during concerts. The positive aspect is that our incentive system represents variable costs; we increase pay during peak times and can reduce incentives when supply isn't needed. This allows us to adjust supply to meet demand flexibly. In an autonomous vehicle world, the car is available at all times, which means we have to cover the ongoing costs associated with it. We believe a hybrid network consisting of both human drivers and robots will manage peak and off-peak times more efficiently than a fully automated network. Regarding partnerships in autonomous vehicles, I want to emphasize that we are very confident in our ability to secure AV technology globally. This market isn't turning out to be winner-takes-all, despite initial assumptions about Uber developing the technology on its own. Every major vehicle manufacturer is investing in some level of Level 2 or Level 3 technology. Recent advancements in imitation learning could lead to a new wave of autonomous vehicles at significantly lower capital costs than historically required, suggesting that many AV providers will emerge. Since we have the largest global marketplace for mobility, delivery, and freight, we believe this creates a strong position for us. Currently, we don't anticipate needing a backup plan. Additionally, we have strategic investments in various AV companies, including Aurora and Waymo, which support our primary strategy moving forward. So far, everything is progressing well, and as I mentioned earlier, we will announce more partnerships in the coming weeks and months, which should confirm that a backup plan isn't needed.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Nikhil Devnani",
+      "title": "Analyst",
+      "content": "Thanks Dara.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "You\u2019re very welcome. Next question, Operator?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your next question comes from the line of John Colatuoni with Jefferies. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "John Colatuoni",
+      "title": "Analyst",
+      "content": "Great, thanks for taking my questions. Given the continued progress on mobility frequency, I was curious if we could go back to some disclosure you provided about a year ago, showing pre-COVID cohorts in the U.S. and Canada had lower frequency than more recent cohorts. How has mobility usage progressed across cohorts over the past year, and what does that progression tell you about the opportunity to keep driving frequency higher through multi-product adoption? Second, the $1 billion in advertising run rate suggests over 50% growth, which is really strong but a bit of a deceleration from more like 80% exiting last year. Talk about how restaurants are balancing investments in sponsored listings versus merchant-funded offerings, which you mentioned grew over 70% year-on-year in the quarter. Thanks.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "John, in terms of mobility frequency, while we\u2019re not going to disclose specifically what frequency looks like, I would say that when we look at lower cost products, when you look at UberX Share, hailables, two-wheelers, three-wheelers, the frequency of some of the newer products is significantly higher than the frequency of, call it the X product, etc. When you look at the overall frequency numbers for both mobility and delivery, they\u2019re up on a year-on-year basis. It is absolutely helped by multi-product usage, it is absolutely helped by membership as well, so whether you look at cohorts, whether you look at new customers, high income, low income, the frequency numbers for us in both mobility and delivery are very, very constructive. You want to talk about ads, Prashanth?",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Prashanth Mahendra-Rajah",
+      "title": "CFO",
+      "content": "Sure. I think your question about merchant-funded offers, or offers in general, relates to their impact on the business. You should consider it in two parts. First, as we drive strong collaboration with merchants in utilizing merchant-funded offers to stimulate their demand, it proves to be an effective way for them to address the affordability concerns being raised. This can manifest in various forms on the platform, like buy one, get one offers or discounts based on spending a certain amount. We're witnessing significant growth in the use of these offers, and the technology we provide enables merchants to apply creativity in their implementation. This uniqueness is beneficial for us, which leads to robust support for their business growth. Despite ongoing macro concerns regarding larger enterprise customers, we're observing small and medium-sized businesses becoming more engaged and experiencing strong growth in this area. Furthermore, when examining the categories that customers are shopping in on the merchant side, we're continuing to see consumers choose what we classify as a more expensive category rather than downgrading to cheaper options. This trend is supported by the restaurant-funded offers we are facilitating for them.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "Then just on the sponsored listings part of the business, the growth continues pretty significantly. We\u2019re a bit over 1% of delivery gross bookings through advertising, we had a target of 2%-plus. We think that target is certainly achievable, and actually for grocery and retail, we think that the number can be well over 2% based on what we see in terms of competitors, what we see in terms of what Amazon is doing. The focus for us with sponsored listings right now is increasing the number of monetizable impressions per user session through introducing new ad formats and placements, and really increasing the monetization of search in a smart way that doesn\u2019t hurt the core consumer experience, so we have holdouts to make sure that advertising is a complement to our eater experience and at the same time is a targeted way for merchants to reach their audience. If you think about sponsored listings, sponsored listings tend to improve audience for a particular merchant, and then merchant-funded offers, because of the price nature of those offers, tends to improve conversion as well. For Uber profitability, the sponsored listings business is more profitable for Uber but we think merchant-funded offers are a very important strategic part of our drive to improve the affordability of the overall marketplace, and increasingly we\u2019re working with merchants to be able to move money from sponsored listings to merchant-funded offers in a back and forth and a targeted way to achieve what their goals are. The team is doing a great job. We continue to invest in our sales team, and the technical teams continue to ship some pretty impressive product out there.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Prashanth Mahendra-Rajah",
+      "title": "CFO",
+      "content": "Let me give you one metric we haven\u2019t shared before, and that is globally, restaurant-funded offers or merchant-funded offers have grown 70% year-over-year.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "John Colatuoni",
+      "title": "Analyst",
+      "content": "Thank you both.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "All right, can we get the next question? Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your next question comes from the line of Ross Sandler with Barclays. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Ross Sandler",
+      "title": "Analyst",
+      "content": "Hey guys, one more follow-up on ads. With talk about getting to 1.6% of gross bookings for ride hail ads, so I know we talk about delivery ads quite a bit, but what\u2019s the status of your ride hail side advertising business of late? Then the letter mentioned the Instacart initial read. Can you provide a little bit more color on what you\u2019re seeing thus far from the Instacart partnership? Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "Yes, absolutely. For mobility ads, we haven\u2019t introduced a target in terms of the percentage of gross bookings. We are very, very sensitive to the fact that people come to Uber looking for a ride first, and to the extent that we introduce them to some of the premium brands that are advertising with us, we want to make sure that that experience is an excellent experience for the rider and also an excellent experience for the advertiser. It\u2019s resulting in some very strong ad engagement from riders - click-through rates are over 2.5% compared to industry averages that are less than 1%, so I think for us, the focus is more on quality versus quantity, and I think that we\u2019ll continue that focus going forward. The contribution of advertising is very, very positive in terms of newer ad formats that we are introducing, improving targeting capabilities, and then also investments in measurement and attribution for our ad partners, so we\u2019re very, very happy with the progress here, but I don\u2019t want to put a percent target because the experience of the rider comes first. In terms of Instacart and the trends there, we\u2019re very encouraged by the trends there. We talked about Instacart baskets being 20% higher than our base basket sizes, and we\u2019re seeing the demand come from a lot of suburban markets - you know, it kind of matches the Instacart geographic penetration, so we do think that the incrementality of the volume from Instacart is quite strong, and I\u2019d say so far the partnership has been an excellent one.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Prashanth Mahendra-Rajah",
+      "title": "CFO",
+      "content": "Maybe just a reminder to folks, we only went live in the second quarter of \u201924, where Uber Eats is live on the Instacart app, so it\u2019s still early days. All right, can we take our final question?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "Yes, let\u2019s do it.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Your final question comes from the line of Mark Mahaney with Evercore. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Mark Mahaney",
+      "title": "Analyst",
+      "content": "Thanks. I have two questions. Regarding your earlier comment about the total addressable market, Prashanth, you mentioned that in your top 10 markets, there is less than 20% penetration. If I remember correctly, about a year ago, you mentioned it was just under 10%, indicating nice growth. Are there specific markets where you see this? What are your leading markets, and how high has that penetration gone? I assume you expect it to exceed 20%, so any insights from the markets you're in about how high it could go would be appreciated. Additionally, could you discuss the current state of subsidies and incentives for drivers and consumers? Is this expense expected to remain stable going forward? Will there be more leverage as a percentage of bookings or in absolute dollars, and how do you see these incentives and subsidies evolving in the future? Thanks.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Prashanth Mahendra-Rajah",
+      "title": "CFO",
+      "content": "Thank you for the question. To provide some perspective on the total addressable market, if the United States were to reach the same level of market penetration as we're seeing in the U.K., that could generate an additional $13 billion in gross bookings, which amounts to roughly 8% of our current run rate. We recognize the opportunity available. Brazil is another prime example, experiencing significant growth, and the frequency of use there is notably high, which gives us confidence to enhance our mobility product availability and reliability in more regions. This growth trajectory will continue to give us room to expand.  Regarding supply and demand balance, the general sentiment globally is that supply has improved compared to historical levels. While this may not apply to every single market, it holds true on a global scale. This improvement allows us to redirect incentive dollars to stimulate demand. One challenge we face as Uber's leadership team is the many avenues available for us to invest these dollars, which exceed our financial capacity. Therefore, we spend considerable time on capital allocation to ensure we are making the right short-term decisions to keep the market fluid while also incentivizing future growth.  For instance, our Teams product has seen a 100% increase in its user base, which is quite new for us. This kind of growth requires investment to raise awareness about our offerings. Recently, we expanded into Luxembourg and Hungary, and we will keep seeking new regions while also broadening our presence in existing markets. We aim to maintain the balance needed while adhering to our operational framework of driving mid to high teens gross bookings growth along with EBITDA growth of over 30% to 40% over the next three years.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Mark Mahaney",
+      "title": "Analyst",
+      "content": "Thank you Prashanth.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Prashanth Mahendra-Rajah",
+      "title": "CFO",
+      "content": "I think with that, we\u2019re going to wrap the call and we\u2019ll turn it back to you, Dara.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "Yes, thank you very much everyone for joining the call, and a huge thank you to the team at Uber. Prashanth and I and Deepa get to talk to investors about all the accomplishments and the consistent execution of the team, but it\u2019s actually the teams on the ground, the technical teams who deliver in good markets, bad markets, uncertain markets, and we certainly wouldn\u2019t have the kind of execution that we\u2019ve had without everyone at Team Uber contributing, so big thank you to Team Uber.",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "Prashanth Mahendra-Rajah",
+      "title": "CFO",
+      "content": "And just a reminder, we\u2019re going to be on the west coast, in Chicago, in New York, and in Europe in the coming quarters, so we\u2019re very accessible for folks. Reach out to Deepa if you want to see us.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Dara Khosrowshahi",
+      "title": "CEO",
+      "content": "Awesome. We\u2019ll talk to you next quarter. Thank you again.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "This concludes today\u2019s conference call. We thank you for joining. You may now disconnect.",
+      "sentiment": "0.0"
+    }
+  ],
+  "reported_date": "2024-08-06"
+}

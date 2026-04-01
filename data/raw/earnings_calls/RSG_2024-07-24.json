@@ -1,0 +1,517 @@
+{
+  "symbol": "RSG",
+  "quarter": "2024Q2",
+  "transcript": [
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Good afternoon, and welcome to the Republic Services Second Quarter 2024 Investor Conference call. Republic Services is traded on the New York Stock Exchange under the symbol RSG. All participants in today's call will be in a listen-only mode. Please note this event is being recorded. I would now like to turn the conference over to Aaron Evans, Vice President of Investor Relations.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Aaron Evans",
+      "title": "Vice President of Investor Relations",
+      "content": "I would like to welcome everyone to Republic Services second quarter 2024 conference call. Jon Vander Ark, our CEO, and Brian DelGhiaccio, our CFO, are on the call today to discuss our performance. I would like to take a moment to remind everyone that some of the information we discuss on today's call contains forward-looking statements, which involve risks and uncertainties and may be materially different from actual results. Our SEC filings discuss factors that could cause actual results to differ materially from expectations. The material that we discussed today is time sensitive. If in the future you listen to a rebroadcast or recording of this conference call, you should be sensitive to the date of the original call, which is July 24, 2024. Please note that this call is the property of Republic Services, Inc. Any redistribution, retransmission, or rebroadcast of this call in any form without the express written consent of Republic Services is strictly prohibited. I want to point out that our SEC filings, our earnings press release, which includes GAAP reconciliation tables and a discussion of business activities, along with the recording of this call, are available on Republic's website at republicservices.com. I want to remind you that Republic's management team routinely participates in investor conferences. When events are scheduled, the dates, times, and presentations are posted on our website. With that, I'd like to turn the call over to John.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Jon Vander Ark",
+      "title": "CEO",
+      "content": "Thanks, Aaron. Good afternoon, everyone, and thank you for joining us. Our strong second quarter results reflect the continued positive momentum in our business and are a direct outcome of executing our strategic priorities. We continue to successfully grow our business while enhancing profitability by providing world-class service and solutions to our customers. During the quarter, we achieved revenue growth of 9%, generated adjusted EBITDA growth of 13%, expanded adjusted EBITDA margin by 110 basis points, reported adjusted earnings per share of $1.61, and produced $1.15 billion of adjusted free cash flow on a year-to-date basis. The results we are delivering are made possible by executing our strategy supported by our differentiated capabilities, customer zeal, digital, and sustainability. Regarding customer zeal, our commitment to delivering world-class essential services and sustainability offerings continues to drive customer loyalty and organic growth in the business. Our customer retention rate remained high at more than 94% and net promoter scores continue to improve. Customers value our comprehensive service offerings and the quality of our service delivery. Organic revenue growth during the second quarter was driven by strong pricing across the business. Average yield on total revenue was 5.5% and average yield on related revenue was 6.6%. This level of pricing exceeded our cost inflation and drove 110 basis points of EBITDA margin expansion. Organic volume on total revenue declined 80 basis points or 1% on related revenue. Volume losses were heavily concentrated in the cyclical portions of our business, including construction activity. Turning to our expanding digital capabilities. The team continues to advance the implementation of digital tools that improve the experience for both customers and our employees. Our RISE digital operations platform is driving improved route optimization and safety performance and providing more predictable service delivery to our customers. MPower, our new fleet and equipment management system, was introduced to pilot locations earlier this month. MPower is expected to increase maintenance, technician productivity, and enhance warranty recovery. We expect to continue deploying the new system to all locations under a phased approach through the end of 2025. We estimate MPower will drive $20 million of annual cost savings once fully implemented. We continue to benefit from innovative technology on recycling and waste collection routes. Our platform utilizes cameras to identify overfilled containers and contamination in recycling containers. This technology reduces contamination at our recycling centers and is expected to generate approximately $60 million in incremental annual revenue. To date, we have already achieved $45 million of benefit. Moving on to sustainability. We believe that creating a more sustainable world is both our responsibility and a platform for growth. Earlier today, we released our latest sustainability report highlighting the progress we are making toward our 2030 goals and the positive impact we're delivering to our customers and the communities we serve. Our 2030 goals are supported by investments we are making in polymer centers, the Blue Polymers joint venture, renewable natural gas projects, and fleet electrification. Development of our polymer centers and Blue Polymers joint venture facilities continues to move forward. Major customers have certified the plastic flake produced at our Las Vegas Polymer Center. Production volumes continue to ramp and we expect to achieve our run-rate output targets in the fourth quarter of this year. Construction is progressing on our Indianapolis Polymer Center with equipment installation underway. The operation will be co-located with a Blue Polymers production facility. We expect construction on this facility to be complete by the end of the year with earnings contributions beginning in mid-2025. The renewable natural gas projects we're developing with our partners continue to advance. One project came online during the second quarter. Additionally, we completed construction at our RNG project in Fort Wayne, Indiana. This will be the first project to come online in our joint venture with BP. We expect five additional projects to be completed in the second half of this year. We continue to bring decarbonization solutions to the market, including our industry-leading commitment to fleet electrification. We currently have 16 electric collection vehicles in operation. We expect to have more than 50 EVs in our collection fleet by the end of the year. We now have nine facilities with commercial-scale EV charging infrastructure, and we expect five additional new sites to be completed in 2024. Customers are looking for solutions to support their sustainability goals. We recently announced an agreement with the City of Louisville, Colorado, making it the first municipality to adopt a fully electric residential collection service. As part of our approach to sustainability, we continually strive to be the employer of choice in the markets we serve. Employee turnover continues to improve with the second quarter turnover rate improving 70 basis points compared to the prior year. With respect to capital allocation, year-to-date we have invested $68 million in acquisitions. Our acquisition pipeline remains supportive of continued activity in both recycling and waste and environmental solutions businesses. We currently have more than $300 million of transactions in advanced stages of diligence and are expected to close by the end of the year. Year-to-date, we returned $504 million to shareholders through dividends and share repurchases. Additionally, we recently announced an increase to the dividend for the 21st consecutive year. Strong results we produced through the first half of the year support a full-year earnings outlook that exceeds our original expectations. We now expect revenue in the range of $16.075 billion to $16.125 billion, adjusted EBITDA in the range of $4.9 billion to $4.925 billion, adjusted earnings per share in the range of $6.15 to $6.20, and adjusted free cash flow in a range of $2.15 billion to $2.17 billion. Our updated financial guidance includes the contributions from acquisitions closed through June 30th. I will now turn the call over to Brian who will provide more details on the quarter.",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "Brian DelGhiaccio",
+      "title": "CFO",
+      "content": "Thanks, John. Core price on total revenue was 6.8%. Core price on related revenue was 8.1%, which included open market pricing of 9.8% and restricted pricing of 5.4%. The components of core price on related revenue included small container of 11.8%, large container of 7.4%, and residential of 7.8%. Average yield on total revenue was 5.5% and average yield on related revenue was 6.6%. Second quarter volume on total revenue decreased 80 basis points and volume on related revenue decreased 1%. Our volume results included a decrease in large container of 3.3%, primarily due to continued softness in construction-related activity, and a decrease in residential of 2.5%, primarily due to municipal contracts lost in 2023, that anniversary in the fourth quarter of this year. During the quarter, small container volume decreased 60 basis points, while landfill MSW increased 1.1%. Small container volume loss is a direct result of intentionally shedding broker-related business obtained through M&A transactions. We continue to adhere to our longstanding strategy of prioritizing direct relationships with our customers. Moving on to recycling. Commodity prices were $173 per ton during the second quarter. This compared to $119 per ton in the prior year. Recycling, processing and commodity sales increased revenue by 50 basis points during the quarter. Our updated full year guidance assumes commodity prices remain at approximately $170 per ton for the remainder of the year. And now turning to our environmental solutions business. Second quarter environmental solutions revenue increased $74 million compared to the prior year fueled by price-led organic growth and contribution from acquisitions. On a same-store basis, environmental solutions contributed 40 basis points to total company internal growth during the quarter. Adjusted EBITDA margin in the environmental solutions business expanded 130 basis points to 23.8% in the second quarter. Environmental solutions EBITDA margin was 22.5% in the prior year. Total company adjusted EBITDA margin expanded 110 basis points to 31.1%. Margin performance during the quarter included margin expansion in the underlying business of 130 basis points and a 20 basis point increase from recycled commodity prices. This was partially offset by a 40 basis point decrease from acquisitions. Year-to-date adjusted free cash flow was $1.15 billion. The decrease from the prior year is primarily due to the timing of capital expenditures. Year-to-date net capital expenditures of $767 million represent an increase of $234 million or 44% compared to the prior year. Capital spending is more ratable in 2024, whereas 2023 was heavily weighted to the second half of the year. Prior year capital expenditures were impacted by vendor-related delays in truck and equipment deliveries. Total debt was $13.1 billion, and total liquidity was $3.5 billion. Our leverage ratio at the end of the quarter was approximately 2.8 times. With respect to taxes, our combined tax rate and impact from equity investments in renewable energy resulted in an equivalent tax impact of 25.5% during the quarter. We expect a full year equivalent tax impact of approximately 25.5%. With that operator, I'd like to open the call to questions.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "The first question comes from Toni Kaplan of Morgan Stanley. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Toni Kaplan",
+      "title": "Analyst",
+      "content": "Thanks so much. I was hoping to ask about sustainability projects in the wake of the Chevron decision. It sounds like you're still going strong with your projects. Just wondering if you think there will be any impacts affecting the market, for example, supply and demand for RINs as a result of the decision? And then maybe separately, in light of the US election coming up, would that impact timing of any projects, M&A or anything else not related to sustainability, just anything in general that you'd call out? Thanks.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Jon Vander Ark",
+      "title": "CEO",
+      "content": "Sure. We are optimistic about the project and our approach to converting landfill gas to energy. Since we operate under a joint venture model, there are various independent decisions regarding projects. If changes in the RINs market affect our return thresholds, we will not proceed with those projects. However, it's important to note that we established very conservative assumptions based on $2 RINs and have communicated the initial financial impacts to you. We remain confident about this, which relates to your second point. Changes in administration will lead to various effects, particularly with the upcoming presidential election, regardless of party affiliation. Generally, it's believed that a Republican administration tends to be more favorable to businesses, whereas a Democratic administration might be less so. Nevertheless, in the last three years, our business has thrived under a Democratic administration. We are confident in our ability to manage any fluctuations that may arise.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Toni Kaplan",
+      "title": "Analyst",
+      "content": "Terrific. And then as a follow-up, just want to ask about volume. A bit of a late quarter again I think you called out the large container and then also some of the residential contracts from 2023 on the municipal side. Are you still thinking that this year will be flat to modestly positive on volume, and just anything to flesh out the sort of slightly lower top line guide? Thanks.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Jon Vander Ark",
+      "title": "CEO",
+      "content": "Sure. Yeah, I think from a volume standpoint, we'll be slightly below our original expectations and that's a function of, listen, the construction market is still pretty challenged. With high-interest rates, commercial construction activity and residential construction activity have been very muted, and you see that in our volume numbers in the large container. The great news is that pricing is holding up, and I think the industry is behaving very responsibly in that context. And I also am relatively optimistic that that is somewhat of a short-term phenomenon. We need more housing stock in the United States. I think you're starting to see rays of hope here on interest rate cuts, which I think will be the catalyst for that to happen, whether that happens three months from now or six or nine months from now. I do think that's more transitory versus permanent on that front. And then there's also been, again, you talked about the residential contracts. We've accelerated some of the broker exits that we acquired in our M&A deals we always talk about, we require somebody we never value to work on brokers because we know it's going to matriculate out of the system. We've accelerated that, so that drove a little bit of outsized volume decline in the quarter. And then for the overall revenue guide, part of that is the volume outlook, which I just gave you. Part of that is the sustainability projects, landfill gas to energy. We're going to hit our number. The timing of the starts of those is going to be a little bit later in the year. I think ourselves and the industry have faced a little bit of delays in terms of permitting, getting the equipment in place, et cetera. So that's not a big surprise. And then our polymer center, well, we\u2019ve teams executing phenomenally in terms of the product we're producing. We got to a little bit of a later start than we expected through all kinds of things ancillary to the system like permitting for the facility and other things, so that caused a little delay in the timing on that front. Again, that's transitory and we'll be on full run rate as I discussed in my prepared remarks.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Toni Kaplan",
+      "title": "Analyst",
+      "content": "Super. Thank you.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Next question comes from Tyler Brown with Raymond James. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Tyler Brown",
+      "title": "Analyst",
+      "content": "Hey, good afternoon.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jon Vander Ark",
+      "title": "CEO",
+      "content": "Afternoon.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Tyler Brown",
+      "title": "Analyst",
+      "content": "Hey, Brian, any color on the shape of pricing into the back half? Should we expect it to sequentially decelerate in Q3 and Q4? And just any color on how that might impact margins, because it does feel like the margin expansion is expected to slow. My hunch is that's largely in Q4 but any color there would be helpful.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Brian DelGhiaccio",
+      "title": "CFO",
+      "content": "Yes, Tyler, you made a great point. In Q1, we anticipated that pricing would peak for the year, followed by a gradual decline, partly due to index-based pricing and its seasonal effects. However, we've also observed a moderation in cost inflation, which has allowed us to maintain our margins. We experienced similar margin expansions in both Q1 and Q2. As we approach the second half of the year, we do expect a slight decrease in our margin spread. Nevertheless, we are seeing greater-than-expected margin expansion compared to our initial forecasts.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Tyler Brown",
+      "title": "Analyst",
+      "content": "Right, okay, that's very helpful. So I believe, if my math is correct, this was the first quarter that you guys had put up a 32% core solid waste margin, if my math is right. But if we go back, you guys have always said that this could be a 32% EBITDA margin business, price compounds, recycling normalizers, and both have. So, since 32% was the new 30%, just any high-level thoughts on what the new 32% could be over the next few years? I mean, is there any reason to believe that a mid-30% margin in core solid waste couldn't be achievable in time if price-cost dynamics cooperate?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Brian DelGhiaccio",
+      "title": "CFO",
+      "content": "Yeah, and Tyler, I think our words were that we saw that in the near term, we saw 32% as achievable. Really what we're looking at is the consistent cadence of margin expansion across our business and we talked about that in the 30 to 40 basis point of margin expansion, the recycling waste business a little bit more in the environmental solutions, call it, 75 basis points plus just given where it is in its maturity. And so we continue to see that opportunity as we move forward. So we're not going to call what the theoretical cap is, but again, it's about pricing in excess of cost inflation. It's about realizing the benefits from our initiatives, including our digital initiatives, and driving costs out of the system. And we see that runway for years to come.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Tyler Brown",
+      "title": "Analyst",
+      "content": "Excellent. My last one real quick. So, Jon, there have been a number of deals, excuse me, and call it hazardous waste/industrial waste/nontraditional waste markets. Some are big, some are small. But can you just talk about your appetite specifically in that market? Will it be slow and steady or would you entertain something that would be much chunkier?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Jon Vander Ark",
+      "title": "CEO",
+      "content": "Listen, we look at everything. We have made a perspective on any type of transaction and if it's going to create value for our shareholders and fits with us strategically, we'll certainly be at the table on that front. So, plus that we do about 20 deals a year on average over the last decade. Most of those are the small tuck-ins, which we're great at and we've got a good pipeline looking forward. And then the bigger ones become more opportunistic, just in terms of is it a fit for us time-wise? Does it create value? Are we the natural owner of that? Again, you'll see us be active in that space over time.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Tyler Brown",
+      "title": "Analyst",
+      "content": "Perfect. Thank you all.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "The next question comes from Kevin Chiang with CIBC. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Kevin Chiang",
+      "title": "Analyst",
+      "content": "Hi. Good afternoon. Thanks for taking my question. Maybe if I can follow up on that, just given some of the activity we've seen in kind of this hazardous waste environmental service space on the M&A front, are you seeing any changes in the transaction multiples or the type of assets coming to sale that might give you an opportunity to fill in service areas you want to pursue or white space on the map that might come available?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Jon Vander Ark",
+      "title": "CEO",
+      "content": "Yeah, there's plenty of opportunities, no question. On the small tuck-ins on the environmental solutions side of the business, we've been intentionally a little bit slow on that this year because the team is doing a lot of integration work from an IT standpoint. And again, it's very analogous to recycling and waste. We create value in that space because we've got well-run systems, highly integrated, and we can take a smaller company and layer that operationally right into our density and just draft right off of our systems. Until we get that on the environmental solutions side, you're just adding to your complexities, you're not getting that synergy. And so you'll see us, again, that pipeline is building, you'll see us be much more active next year in the space.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Kevin Chiang",
+      "title": "Analyst",
+      "content": "And just anything on the transaction multiples you're seeing, has that changed at all, versus, let's say, 18 months to 24 months ago?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Jon Vander Ark",
+      "title": "CEO",
+      "content": "I believe there's consistency in that there are variations in deals that may not meet our quality standards. However, for high-quality deals, you would definitely pay a higher multiple. A good example of this is the US Ecology acquisition. By acquiring something of quality and having a strategic plan for it, you can certainly create value after the acquisition.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Kevin Chiang",
+      "title": "Analyst",
+      "content": "Okay. That's helpful. Regarding the electric vehicle comments you made in your prepared remarks, you mentioned that you currently have nine EV infrastructure sites, and you will add five more by the end of 2024, aiming for a total of 50 electric vehicles. Given those 14 sites at the end of the year, how many electric vehicles could you effectively support based on the exit rate of your infrastructure platform? Is it significantly more than 50, or is 50 the target, requiring additional investments in charging infrastructure for further growth?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Brian DelGhiaccio",
+      "title": "CFO",
+      "content": "Yeah, no, it's hundreds. So think about putting in the initial infrastructure and getting connected to the grid and then you think about charging stations which become modular once that infrastructure is put in. And so the strategy is we're going a five-year outplan on each of these sites to understand that we'll be layering more vehicles in. And so you're bearing the upfront cost right now and then it's just an incremental cost to put in the charging station as the fleet grows in that space.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Kevin Chiang",
+      "title": "Analyst",
+      "content": "Okay, that's what's happening. Okay, perfect. Thanks for the clarification there. That's all from me. Congrats on a good quarter.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Brian DelGhiaccio",
+      "title": "CFO",
+      "content": "Thank you.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "The next question comes from Noah Kaye with Oppenheimer. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Noah Kaye",
+      "title": "Analyst",
+      "content": "Hey, good afternoon. Thanks for taking the questions. I\u2019ll start with environmental services. Just on the organic performance of the business, pretty big sequential improvement in the trends quarter-over-quarter, you had a headwind organically in the segment last quarter, and I know you called out some weather events and the like, but then to go to kind of this sort of mid-single-digit organic growth in the segment this quarter. Can you just maybe help us understand what you saw from the business on an organic basis and how to think about organic growth going forward through the balance of the year?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Jon Vander Ark",
+      "title": "CEO",
+      "content": "Yes, we are still in growth mode for that business. The recycling and waste sector is quite established, which allows us to provide a clear outlook. However, we expect some fluctuations in this area as we expand, partly due to customer dynamics. On one hand, we are losing some customers who are unwilling to accept our return policies, which will increase industry pricing as usual. On the other hand, we are creating cross-sell opportunities that don't come in at a consistent monthly rate but vary in timing and volume. Overall, we're pleased with our progress. I suggest that if you're measuring this business quarterly, you might not see the best indicators in varying quarters over the next one to two years. Looking at it annually will provide a clearer view of the direction we're heading, and we are satisfied with both our revenue and profit performance in this sector.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Brian DelGhiaccio",
+      "title": "CFO",
+      "content": "And Noah, just based on when we put in our annual price increase, we didn't see the full impact of that until the second quarter. And so I think that's also reflective of what you're seeing in EBITDA margin performance of that business at the same time.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Noah Kaye",
+      "title": "Analyst",
+      "content": "Very good points. Do you feel comfortable underwriting organic growth for the balance of the year?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Jon Vander Ark",
+      "title": "CEO",
+      "content": "Yes, yeah, we are. And if you know that business and the nature of it, because it's so mix sensitive, there isn't a very clear kind of unit versus price, to kind of pair apart or peel apart volume versus price, like we do in recycling and waste. And it hasn't been for lack of trying, but there's just too many variables that don't allow us to do that, but underlying organic unit growth will be there.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Noah Kaye",
+      "title": "Analyst",
+      "content": "Very helpful. Just on the margins, really strong performance here. I wondered if we could maybe unpack a little bit that underlying 130 bps as you provided some nuggets in the past that would be helpful. And then I think to put additional color on the response to Tyler's question, it seems like we could be looking at margins up maybe 100 bps or so year-over-year in 3Q and kind of flattish in 4Q. If there's any kind of nuance you would give in terms of how to shape that, that would be helpful for modeling purposes.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Brian DelGhiaccio",
+      "title": "CFO",
+      "content": "Let me address the last part of your question first. I believe you are on the right track regarding the shape; expect a slight decrease in Q3 and an increase in Q4, so you are generally correct. In terms of the performance of the underlying business, we experienced a 120 basis point improvement in recycling waste. In fact, the environmental solutions business performed even better, contributing over that amount, leading to a total of 130 basis points for the company as a whole. Keep in mind that we had to offset 80 to 100 basis points of dilution from the acquisition we completed in the environmental solutions business in Q4 of \u201923. Therefore, when looking at the underlying business within environmental solutions, it was nearly 200 basis points.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Noah Kaye",
+      "title": "Analyst",
+      "content": "Very helpful. Thank you.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "The next question comes from Bryan Burgmeier with Citi. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Bryan Burgmeier",
+      "title": "Analyst",
+      "content": "Good afternoon. Thanks for taking questions. In the prepared remarks, I think you mentioned a little bit of intentional shedding in the small container business. I was maybe just wondering if you could expand on that, give us a sense of the size of the brokerage business you're running there, or maybe it's possible to say maybe what inning the volume shedding is in at this point?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Jon Vander Ark",
+      "title": "CEO",
+      "content": "Well, I'd say the good news is, from an ongoing standpoint, right, we had a bigger broker business a decade ago, and we made a very clear choice that we believe customers are people who generate recycling waste, and we want to have direct relationships with them. So, we're very intentional. What's happened is over the last four or five years, as we've become much more acquisitive, we've seen that portion of the business increase because when we acquire companies, we see that 10% of their book, for example, might be serving brokers. And we don't value that at all when we pay the purchase price of the deal, because we know that business is going to come out of the system. Typically, we do that over the course of six to maybe even 12 or 18 months honoring contracts in a very ratable fashion, right? In this case, we accelerated it because we felt like with one broker, in particular, we had a receivables risk. And so we took more accelerated action. But there'll always be a small portion of the business that's going to be a drag on our revenue that we're shedding because it's coming in through M&A.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Brian DelGhiaccio",
+      "title": "CFO",
+      "content": "And a point that I'd make there as well is that if you take a look at the volume decline in the small container, it was almost exclusively due to these broker-related losses. If you take a look in the open market, we're actually seeing positive unit growth in that business.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Bryan Burgmeier",
+      "title": "Analyst",
+      "content": "Got it, got it, that makes total sense. Just kind of last question for me, it's just on the guidance increase, apologies if I missed this. Is it possible to maybe just bucket maybe what is going better on the net price side or just kind of touch on it anecdotally, is it prices coming in higher, cost coming in lower? Is it labor? Is it repair? Just any finer points you can kind of put on what's really been better throughout the first six months. Thank you and I'll turn it over.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Brian DelGhiaccio",
+      "title": "CFO",
+      "content": "Yeah, I would say overall we're looking at price in a similar way that we did in the beginning of the year. I would say the spread between price and cost inflation is favorable. So that's one of the reasons why we're seeing better than expected margin expansion. And then I would say the other big piece is really just favorable commodity prices and the flow-through that has to the bottom line. But an overwhelming majority, again, is going to be in that price-cost spread.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "The next question comes from Jerry Revich with Goldman Sachs. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jerry Revich",
+      "title": "Analyst",
+      "content": "Hi, good afternoon, everyone. I'm wondering if we could talk about free cash flow conversion. So, you folks are now up to the mid-40s in EBITDA, the free cash flow conversion, and that's while making the growth investments that you spoke about earlier. As we think about what the free cash flow conversion will look like once the growth investments are producing EBITDA and cash flow, is it reasonable to think about free cash conversion ultimately rising to the high 40s or what kind of guidepost would you think about over the next couple of years as you complete those CapEx and get the cash flow coming in?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Brian DelGhiaccio",
+      "title": "CFO",
+      "content": "Yeah, what I would say, Jerry, is that, again, back to we're not looking at a theoretical cap, we're just looking for that consistent improvement in performance. So our expectations is that just, because again, when you think about some of the things that we can do on the balance sheet as far as improving working capital, being more efficient with the CapEx, start with the, 30 to 50 basis points of EBITDA margin expansion we expect, growing free cash flow conversion a little bit more. Now that said, we've got to overcome things like the expiration of bonus depreciation and some other things that we've had to sit there and overcome that are a little bit outside of our control. So you got to overcome that. From the base business though, you can think of that, call it 50 to 75 basis points of improvement. And then you got to net out the impact of bonus depreciation, which is different by year.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Jerry Revich",
+      "title": "Analyst",
+      "content": "Got it. Thanks, Brian. And then on the US Ecol ERP rollout, it was an area of opportunity for you folks. Can you just update us on the timing and, which point will we get the sort of route-level intelligence that you folks are used to for your overall business that could drive some further margin opportunities?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Brian DelGhiaccio",
+      "title": "CFO",
+      "content": "Yeah, we'd see being on a common platform, right, on that business, on the environmental solutions business in early \u201825, then we can then iterate the system itself in order to be able to get smarter with respect to the information that we have. So we can be more strategic with respect to pricing, get better as far as productivity, and just become more profitable over time. But right now, we still have a number of systems that we're trying just first to consolidate, then we can continue to enhance and improve the system that we're operating on.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Jerry Revich",
+      "title": "Analyst",
+      "content": "Super, thank you.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "The next question comes from Sabahat Khan with RBC Capital Markets. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Sabahat Khan",
+      "title": "Analyst",
+      "content": "Hey, great. Thanks and good afternoon. You provided a bit of color on sort of the M&A landscape. I guess within this guidance, are you still sort of on pace for this $500 million for the full year? Maybe we can just talk about the availability of transactions at the right multiples. Obviously, some big transactions out there, but trying to see what you're facing out there on the smaller tuck-in acquisition types and just sort of pace for the rest of the year.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Brian DelGhiaccio",
+      "title": "CFO",
+      "content": "Yeah, the pipeline looks good. Keep in mind, we don't operate the business for the quarter. We operate it forever. So we did $800 million of acquisitions in Q4 last year. So there's some natural lumpiness, especially in the M&A pipeline. So a little quieter for the first quarter. This year, listen, we could end up at $500 million. We could end up between $400 million to $500 million or we could end up north of $500 million if other stuff kicks in here. I think we'll be north of $400 million just based on what we have in front of us. And then do we get closer to $500 million or above that, we'll see kind of what happens. Sometimes deals hit you and they're in an accelerated fashion. Most of the time at this point, we're kind of looking at a Q1 and Q2 for close for those transactions. So anything bigger would certainly be at a little bit of a longer timeframe in terms of a close in next year, wouldn't close this year anything more substantial.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Sabahat Khan",
+      "title": "Analyst",
+      "content": "Okay, great. And then maybe if you could just share a little bit of color on some of the cost line items as you think about the back end of this year and heading into \u201825, how are some of the costs that you're seeing on the ground level comparing to some of the headline inflation numbers maybe across labor and some of the other bigger line items? Thank you.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Brian DelGhiaccio",
+      "title": "CFO",
+      "content": "We definitely saw good sequential improvement from Q1 to Q2 in areas like maintenance, transportation, and labor. While the labor situation for this year is already set, the year-over-year comparison is certainly getting better. As Brian mentioned, this improvement, along with pricing, is driving our margin expansion. We aim to maintain that trend in the second half of the year, and I'm very pleased with the team's execution on cost control.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "The next question comes from David Manthey with Baird. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "David Manthey",
+      "title": "Analyst",
+      "content": "Thank you. Good afternoon everyone. I was hoping you'd give us an update on the $100 million digital opportunity that you previously outlined, and the MPower asset management system that you talked about, the $20 million benefit there, is that included or separate from the $100 million?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Brian DelGhiaccio",
+      "title": "CFO",
+      "content": "Yeah, so I think, David, I think you're talking about our RISE digital platform. So we said there was $100 million of opportunity. They're cumulative and we've realized about $65 million to date and we would expect to continue to sit there and realize those benefits in future periods, which is embedded in that 30 to 50 basis points of margin expansion that we're calling for on a regular cadence, that would certainly be part of that over the next couple years.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "David Manthey",
+      "title": "Analyst",
+      "content": "But the new asset management system, that's not in the $100 million, it's separate.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Brian DelGhiaccio",
+      "title": "CFO",
+      "content": "Sure, that's an additional $20 million. Now, it's going to be deployed in a phased approach. So we actually just hit our first pilot locations. We're going to be deploying that through the end of 2025. So we really don't expect to get that full run rate benefit until 2026.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "David Manthey",
+      "title": "Analyst",
+      "content": "Got it. Okay.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Jon Vander Ark",
+      "title": "CEO",
+      "content": "And then if I heard you right on the margin improvement in environmental solutions, are there areas of the legacy US ecology business that you've leaned into or maybe de-emphasized over the past two years that have helped improve the mix of that business or is the pricing and efficiency that you're getting just by using the legacy systems and seeing some improvement there? No, it's all of the above. It's certainly pricing for the value we're delivering. It is challenging then the mix, right? We make more money in certain, especially in the field services side of the business, you make more money in certain areas and less in others. And then even within some of those categories of in-field service challenging each customer account. What isn't really earning their cost of capital and therefore those are things we're pricing or replacing over time and the team's done a great job of that. I'd say as we get our IT systems in place, which Del talked about, that gives us an opportunity to get even more refined and drive even more value from a pricing standpoint.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "David Manthey",
+      "title": "Analyst",
+      "content": "Got it. Thank you.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "The next question comes from Stephanie Moore with Jefferies. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Stephanie Moore",
+      "title": "Analyst",
+      "content": "Hi, good afternoon. Thank you. I wanted to take maybe a high-level view here. I think about margin expansion opportunity over the next, I think this year you've given them color, but I think about 2025 and maybe even early 2026. I think if you put together everything that you've outlined, whether continuing nice price-cost for solid waste, nice ES expansion, some of your RNG or polymer centers coming online here at the end of the year, it kind of makes it seem like we could see another outsized year of margin expansion, all things considered, for the foreseeable future beyond 2024. Is there anything I'm missing there, or how would you kind of frame the margin opportunity here beyond 2024?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Jon Vander Ark",
+      "title": "CEO",
+      "content": "Well, I think Del highlighted earlier, think about recycling of waste 30 to 50 basis points of margin expansion a year. We talked about environmental solutions, getting to 25%. Now again, we're reaching there, getting there probably a little quicker than we thought. But again, there'll be some ups and downs in any given quarter. But over the sequence, certainly have line of sight to 25% margin for the year on that category. And then that's not the ending point, right? We'll continue to move. I think in the long term, we would aspire to have EBITDA margins across the two different parts of our business that converge over time, because we think there's that much opportunity and value that's delivered in the environmental solutions space. And again, that's a long-term target on that, but I've given you kind of a marker for kind of what kind of ratable improvement. And we're reticent to kind of choose an individual year because again, that's not how we run the business. We run it forever.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Stephanie Moore",
+      "title": "Analyst",
+      "content": "Great, that's helpful. And then maybe as you think about the pricing environment as the year progresses and more so next year, just kind of your mix across various index-based pricing, kind of your thoughts about potentially above historical average pricing, even as inflation comes down? Thanks.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Brian DelGhiaccio",
+      "title": "CFO",
+      "content": "Yeah. So, again, we've talked about our initiative in order to move to those favorable indices, water sewer trash, garbage trash, and those tend to run higher than CPI. So if you're going back and comparing to five or six years ago, yes, we would expect the restricted portion of our book to perform better than it had historically. But, we've made really good progress and movement against that. So, again, we're close to 60% of that book that was historically linked to CPI now on a favorable index or a fixed rate increase. So that's already reflected in the numbers that you saw in, or that you're seeing in 2024. But certainly, yes, we would expect to be better than where we were historically.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Stephanie Moore",
+      "title": "Analyst",
+      "content": "Thanks so much.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "The next question comes from Brian Butler with Stifel. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brian Butler",
+      "title": "Analyst",
+      "content": "Hey, thanks for taking my questions. Let's start with just on the small container side. When you think about the service intervals, maybe some color on how that's trending and what you kind of have built into the back half of \u201924? Maybe if you exclude the brokerage piece, how positive was the small container volume side?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Jon Vander Ark",
+      "title": "CEO",
+      "content": "Yeah, so service increases continue to exceed decreases. And as I mentioned, for net new business within our open market small container is positive. So if you just take the open market, it would have been modestly positive. I would sit there and say, in the quarter, which was completely offset by what we saw from the broker-related business.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Brian Butler",
+      "title": "Analyst",
+      "content": "Okay. And then the second question, when you think about the midpoint guidance kind of going up on EBITDA, kind of $60 million, $65 million. And you break that out, you talked about price cost being the biggest chunk of that. Can you give some color just on how big maybe the recycling is on a dollar amount for that kind of increase?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Brian DelGhiaccio",
+      "title": "CFO",
+      "content": "Yeah, so it's, call it, 25 to 30 with the balance all being in the underlying business.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Brian Butler",
+      "title": "Analyst",
+      "content": "All right, and if I could squeeze one last one in there, is your sensitivity to the RIN prices really changed at all? I mean, RINs have been kind of elevated for a while now, but maybe just if you have any color on kind of where that sensitivity kind of stands.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Brian DelGhiaccio",
+      "title": "CFO",
+      "content": "Our sensitivity hasn't changed significantly because we haven't increased our portfolio much. However, this sensitivity will definitely rise over time as more projects become operational. Currently, if you do some rough calculations, a $0.10 change in RIN prices translates to about $1 million in annual operating income for us.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Brian Butler",
+      "title": "Analyst",
+      "content": "Great, thank you very much.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "The next question comes from Tobey Sommer with Truist Securities. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Tobey Sommer",
+      "title": "Analyst",
+      "content": "Thanks. On the acquisition front, over time, is $500 million a good number for annual spend, or does that change as we go out in the future because the company clearly is growing and perhaps that needs to increase to maintain the same impact?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Brian DelGhiaccio",
+      "title": "CFO",
+      "content": "We don't have a specific target for the number of acquisitions. We provide a rough guideline for your modeling, but when considering opportunities, we look for companies that fit our strategic goals and where we can add value for our customers. We also assess whether we can exceed our cost of capital and generate economic profit for our shareholders. These are our main considerations. We're not restricted by capital in this regard. If we find suitable opportunities, we'll pursue them. In the past, we've spent as much as $3 billion in a single year, but this year will likely be more subdued as we focus on effectively integrating and managing our acquisitions over time. We\u2019ll provide an update as we approach 2025 regarding our outlook, but it will be more of an annual assessment rather than a long-term projection of our spending.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Tobey Sommer",
+      "title": "Analyst",
+      "content": "Thanks. On the employee attrition front, I know it's down from the peak of several years ago and that helps labor expense and margin expansion, but if I look at it from a different angle and say how low has it gotten during economic slowdowns and downturns, how far away are we from that at this juncture?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Brian DelGhiaccio",
+      "title": "CFO",
+      "content": "Well, I'd say if you think about we're at, right, kind of our benchmark level, if you think about any normal run of period. Now, if you take a very short look, like, April and May of 2020, after COVID hit, right, it dropped near zero because everyone was just trying to hold on and figure out what's happening in the world. But if you think about any longer run across a set of quarters, we're certainly at our best performance and we're not stopping. We think there's further opportunity for improvement. Obviously, the rate of improvement will slow. Zero is never the right answer in this category, but we think we can get better.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "At this time, there appears to be no further questions. Mr. Vander Ark, I'll turn the call back over to you for closing remarks.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jon Vander Ark",
+      "title": "CEO",
+      "content": "Thank you, Nick. I would like to thank the entire Republic Services team for their focus on exceeding customer expectations and commitment to driving value for all of our stakeholders. Have a wonderful rest of the summer and be safe.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Ladies and gentlemen, this concludes the conference call. Thank you for attending. You may now disconnect.",
+      "sentiment": "0.0"
+    }
+  ],
+  "reported_date": "2024-07-24"
+}

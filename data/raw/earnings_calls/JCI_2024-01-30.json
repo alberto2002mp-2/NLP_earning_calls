@@ -1,0 +1,553 @@
+{
+  "symbol": "JCI",
+  "quarter": "2023Q4",
+  "transcript": [
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Good morning, and welcome to the Johnson Controls Fourth Quarter 2023 Earnings Conference Call. All participants will be in listen-only mode. Please note today's event is being recorded. I would now like to turn the conference over to Jim Lucas, Vice President, Investor Relations. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jim Lucas",
+      "title": "Vice President, Investor Relations",
+      "content": "Good morning and thank you for joining our conference call to discuss Johnson Controls' fourth quarter fiscal 2023 results. The press release and all related tables that were issued earlier this morning, as well as the conference call slide presentation, can be found on the Investor Relations portion of our website at johnsoncontrols.com. Joining me on the call today are Johnson Controls' Chairman and Chief Executive Officer, George Oliver; and Chief Financial Officer, Olivier Leonetti. Before we begin, let me remind you that during our presentation today, we will make forward-looking statements. Listeners are cautioned that these statements are subject to certain risks and uncertainties, many of which are difficult to predict and generally beyond the control of Johnson Controls. These risks and uncertainties can cause actual results to differ materially from our current expectations. We advise listeners to carefully review the risk factors and cautionary statements in our most recent Form 10-Q, Form 10-K, and today's release. We will also reference certain non-GAAP measures. Reconciliations of these non-GAAP measures to the most directly comparable GAAP measures are contained in the schedules attached to our press release and in the appendix to this presentation, both of which can be found on the Investor Relations section of Johnson Controls' website. I will now turn the call over to George.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "George Oliver",
+      "title": "Chairman and CEO",
+      "content": "Thanks, Jim, and good morning, everyone. Thank you for joining us on the call today. Before discussing our fourth quarter and fiscal 2023 results, I wanted to take a moment to thank all of our employees for their quick agile response to the cyber incident beginning in the last week of September. Our teams responded quickly and worked diligently to minimize the impact from the incident. We greatly appreciate everyone's patience from customers to suppliers, to shareholders as we work through our remediation efforts. We now have the incident behind us and our operations are back to normal. Now let's begin with Slide 3. We feel it is important to not lose sight of the strong year we had in fiscal 2023, regardless of the impact on our fourth quarter results from the cyber incident. For the full year, we grew sales organically by 8%, expanded segment margins by 80 basis points to 15% and delivered adjusted EPS growth of 17%. We saw continued strength in our Service business as our efforts in maximizing our large installed base are coming to fruition. In fact, we grew service by 10% for the year with solid order momentum ending the fiscal year. Our total backlog grew by 9% to $12.1 billion as demand remains strong across our Commercial Building Solutions offerings. In fiscal 2023, we generated $1.8 billion in free cash flow, which represented a 76% conversion. During the year, we returned $1.6 billion to shareholders via dividends and share repurchases. Our capital allocation strategy remains unchanged, targeting to return 100% of our free cash flow to shareholders through dividends and share repurchases. We have the highest conviction ever in our strategy to lead in Building Solutions, and we'll continue to prioritize allocating capital accordingly toward that objective. Overall, we are pleased with our continued execution despite macro-driven headwinds over the fiscal year and believe that we are well positioned heading into fiscal 2024 with our strong backlog and resilient service business. We're initiating guidance for fiscal 2024 for approximately mid-single-digit sales and adjusted EPS growth, respectively, and for free cash flow conversion of approximately 85%. Olivier will provide additional color on the guidance later in the call, but fiscal 2024 will show improvement following a seasonally slower first quarter. Now turning to Slide 4. Demand for our Building Solutions is accelerating with our customers around the globe, as we are developing Applied Solutions to deliver outcomes that save energy and reduce emissions, while improving the overall occupant experience. We are able to achieve these outcomes not only through our leading domain expertise and applied HVAC & Controls solutions, but also through world-class fire detection and protection and smart security solutions enabled by an industry-leading digital platform, OpenBlue. All of our systems build on each other and are complementary components of our total solutions offering. The journey starts with our customer as we design, digitize and deploy solutions that achieve efficiency, sustainability and decarbonization. This turnkey offering drives operations, service and maintenance, which underpin our as-a-service offerings that make buildings smarter through our digital solutions. This helps our customers enable peak operating conditions, protect investments and achieve the lowest lifecycle cost. Johnson Controls is unique with our value proposition to make buildings smarter through OpenBlue. Our comprehensive ecosystem of connected digital solutions for buildings can break down silos and connect building systems regardless of equipment OEM and make them interoperable to build resiliency and efficiency. We were honored recently to be ranked number two on the Guidehouse Insights leaderboard in an assessment of leading energy service companies. The recognition underscores our commitment to excellence and sustainability on a global scale. It is a testament to our hard work and continued commitment to helping clients meet their sustainability goals. Moving on to Slide 5. Fiscal 2023 saw continued strength in install orders, which creates a strong service opportunity over the life of the equipment. As we advance our digital strategy, including more than doubling our connected assets during the fiscal year, we are gathering more intelligence through data. This data allows us to better segment customer needs and create more proactive offerings across all of our domains, effectively utilizing our industry-leading service organization of over 20,000 professionals that make over 5.5 million visits annually. With our large installed base, improved operations and strong pipeline, we see a long runway of continued growth for our service business. Turning to Slide 6. Our value creation framework remains unchanged. We truly believe we are well positioned to drive continued growth, delivering solutions across sustainable and healthy buildings while leveraging the increased adoption of OpenBlue to drive margin expansion. Our pipeline remains strong in our longer-cycle Building Solutions business, as we continue to realize top line growth. Our shorter-cycle businesses in Global Products, primarily global residential HVAC and parts of Fire & Security are stabilizing as the new fiscal year progresses. Converting our strong top line growth into improved margins and cash flow is our top priority. We are beginning to see our gross margins improve as supply chain disruptions continue to lessen. Within Building Solutions, we are also seeing stronger margins in our record backlog and as service continues to accelerate, we should see favorable mix as well. Cash flow is a key area of focus for us. On the receivables front, we are making progress in improving the longer collection cycle historically associated with our installed business. Inventories in our short-cycle businesses continue to reduce as lead times normalize, and we are adding capacity to meet the strong demand in our applied HVAC business. As you can see, we are very excited about the opportunity ahead. I will now turn the call over to Olivier to go through the financial details of the quarter. Olivier?",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "Olivier Leonetti",
+      "title": "CFO",
+      "content": "Thanks, George, and good morning, everyone. Let me start with the summary on Slide 7. Total sales grew 3% to $6.9 billion, while organic sales increased 2% with another strong quarter from our service business, which grew 9% organically. The cyber incident was a 1% headwind in the quarter. Adjusted segment EBITA was flat year-over-year with margins declining 50 basis points to 16%. Price/cost was positive, and we delivered strong productivity savings achieving our $340 million target for the year. Turning to our EPS bridge on Slide 8. Adjusted EPS of $1.05 increased 6% year-over-year and includes a $0.04 headwind from the cyber incident. Operations contributed $0.03 of the growth in the quarter, benefiting from positive price/cost and our ongoing SG&A and COGS actions. Let's now discuss our segment results in more detail on Slides 9 through 12. Beginning on Slide 9. Organic sales in our shorter-cycle Global Products business, excluding the 2% headwind from the cyber incident were flat year-over-year with price offsetting a decline in volume. Global Products saw continued strength in Commercial HVAC, which grew high single-digits after growing mid-teens in the comparable period one year ago. Demand remained strong and our leading position in Commercial HVAC was further extended in fiscal 2023. Fire & Security declined low single-digits as inventory further rebalanced as lead times improved materially year-over-year. Industrial Refrigeration had another strong quarter, growing over 45% driven by EMEALA. Global residential declined high-teens, driven by a greater than 30% decline in North America and a high single-digit decline in the Rest of World. North America faced challenging year-over-year comparisons as we were still working out of a backlog from last fiscal year. In Europe, the heat pump market overall experienced lower growth than anticipated. As our book-to-bill business begins to normalize with improved lead times, our global products, third-party backlog decreased 4% from the prior year to $2.5 billion and remained flat sequentially. Adjusted segment EBITA margins declined 85 basis points against a tough comparison to 21% as continued weakness in global residential offset positive price cost and productivity savings. One of the biggest factors impacting our Global Products margin performance is due to lower absorption costs in the Global Residential business. Moving to Slide 11 to discuss our Building Solutions performance. Order momentum remained strong with 9% growth. Service orders grew 7% in the quarter and 11% for the full year as our transformation into a service-led organization gains momentum. Install orders increased 10%, led by double-digit orders in North America and EMEALA. Organic sales grew 5%, driven by strong growth in service of 9%. Install sales grew 2% organically against a tough comparison. The cyber incident was a 1% headwind in the quarter. Adjusted segment EBITA increased 5%, while margins declined 10 basis points as a higher mix of equipment installations and weakness in China offset positive price/cost and savings from productivity initiatives. Strong equipment sales are an important contributor to future higher-margin recurring service revenue. Building Solutions backlog remains at record levels, growing 9% to $12.1 billion. Service backlog increased 12% and installed backlog grew 8% year-over-year. Let's discuss the Building Solutions performance by region on Slide 12. Orders in North America increased 8% with continued strength across our HVAC & Controls platform, up over 20% year-over-year. Overall, there was robust demand in our office, data center, health care, government, and manufacturing sectors. Install orders increased 11% year-over-year with solid growth in new construction. Sales in North America were up 8% organically with broad-based growth across the portfolio. Our installed business grew 9% with continued momentum in new construction, up 25% year-over-year. Organic sales in service grew 7% in the quarter and 8% for the full year, driven by a strong performance across our shorter-term transactional business which is the direct result of having a large customer base. Sales across our HVAC & Controls platform grew high teens year-over-year, while Fire & Security was flat. Segment margins expanded 70 basis points year-over-year to 15.4%, driven by ongoing productivity benefits, the continued execution of higher-margin backlog, and strength in our higher-margin service business. Total backlog ended the quarter at $8.3 billion, up 10% year-over-year. In EMEA/LA, orders were up 6% with solid contributions of 16% growth from both served and install. Demand in commercial remained strong, growing 50% year-over-year driven by HVAC and security as decarbonization efforts in Europe continue to gain momentum. Our offerings in Industrial Refrigeration and HVAC & Controls increased orders by over 20% across the industrial sector. By region, other growth was broad-based. Sales in EMEA/LA grew 3% organically, led by mid-teen growth in service with double-digit growth from both our recurring contracts and our shorter cycle transactional business. Applied Commercial HVAC and Fire & Security grew low single-digits within the quarter. Segment EBITA margins declined 160 basis points to 7.8%, driven primarily by execution of lower margin jobs within the backlog. Backlog was up 10% year-over-year to $2.3 billion. In Asia Pacific, orders grew 3%, driven by double-digit growth in service with healthy growth across our HVAC & Controls platform. Overall, we saw strong demand in the institutional sector growing over 30%. Sales in Asia Pacific declined 6%, as the installation business was impacted primarily by weakness in China. Our service business continued the momentum of double-digit growth, increasing 11% in the quarter and 14% for the full year. Overall, Fire & Security grew mid-single digits, while HVAC & Controls declined high single digits. Segment EBITA margins declined 50 basis points to 13.5%, as weakness in China offset ongoing productivity savings and positive price/cost. Backlog of $1.5 billion is flat year-over-year. Turning to our balance sheet and cash flow on Slide 13. We ended the fourth quarter with approximately $800 million in available cash and net debt declined to 1.9 times, which is lower than our long-term target range of 2 to 2.5 times. As George mentioned during 2023, we returned $1.6 billion to our shareholders via dividends and share repurchases. Our free cash flow conversion of 76% was better than our updated guidance. On the working capital front, our receivable collection has extended as our installation business critical to generate our service business has grown. We are making structural changes, such as more upfront payments to improve our cash collection cycle in the installation business. While inventories remain elevated versus historical levels, primarily due to the challenges in our global residential businesses, we saw overall inventories improved five days sequentially in the fourth quarter. We anticipate further improvement entering fiscal 2024. We have the fundamentals in place to be a 100% cash conversion company over time. However, continued growth investments and some further restructuring in fiscal 2024 will be headwinds in the fiscal year. Now let's discuss our first quarter and fiscal 2024 guidance on Slide 14. We are entering fiscal year 2024 with a backlog at historical levels, strong momentum in our industry-leading service business, and broad-based demand across end markets. When producing first quarter sales guidance of approximately flat year-over-year as we return to normalized seasonality. Our forecast includes a roughly 1% headwind from the cyber incident, as well as continued weakness anticipated in China. We expect Building Solutions momentum to continue, led by our resilient service business. Global Products faces a tough year-over-year comparison as we were working through elevated backlogs in the comparable quarter last year, especially in Residential HVAC and certain Fire & Security indirect channels. For the first quarter, we expect segment EBITA margin to be approximately 13% and adjusted EPS to be in the range of $0.48 to $0.50. We're expecting a slower start to the year as we return to more normalized seasonality, incur a negative impact from the cyber incident, and anticipate continued weakness in China. For the full year, we anticipate Global Products to stabilize in the second half of 2024, as backlog continues to normalize and Building Solutions converts its higher-margin backlog. We expect organic sales to grow approximately mid-single digits with Building Solutions leading the growth, particularly in service. Segment EBITA margins are expected to expand approximately 25 basis points or greater as price/cost remains positive and mix improves throughout the year. Adjusted EPS should be in the range of approximately $3.65 to $3.80, representing growth of 4% to 9% year-over-year. For the first quarter, we anticipate our normal seasonal cash usage with incremental impact from the cyber incident. We expect free cash flow conversion to be 85% for the full year. Our results and guidance reflect great progress advancing our service strategy enabled by digital, momentum in our commercial products offering, and we enter fiscal 2024 with strong order momentum and record backlog in our longer-cycle Building Solutions business. With that, Operator, open up the lines for questions.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And today's first question comes from Jeff Sprague with Vertical Research. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jeff Sprague",
+      "title": "Analyst",
+      "content": "Hi. Thank you. Good morning, everyone. I would like to discuss cash flow a bit more. How much recovery from the cyber incident do you expect to see as part of the 85% in 2024? Additionally, Olivier, it's unusual that your net financial charges are increasing to $420 million as per your guidance compared to $280 million last year. Is there something happening in the factoring or any other area of the capital structure that could explain this difference year-over-year?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Olivier Leonetti",
+      "title": "CFO",
+      "content": "Thank you for your question, Jeff. Regarding the free cash flow, we had an impact in the first quarter, which we believe will be about $200 million. If you look at the guide for 2024 at 85%, that includes two elements; one, some restructuring and also some investments in CapEx to support the strong demand in our applied business, George mentioned that in his opening remarks. If you look at the levers of improvement for free cash flow, we see, one, inventory reducing as we reduce our inventory in resi. Two, in receivables, we believe we're going to be able to demand more upfront payments as our lead times have improved, and also we have implemented our supplier financing program across the network, and that will help further improve GPO. To go back to your net financing charge is the byproduct of higher interest rates. We are going to refinance some debt. We have some commercial papers as well, which are going to be priced at the current higher interest rates. Factoring is a small proportion of the cost.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jeff Sprague",
+      "title": "Analyst",
+      "content": "Could you address whether there was any impact from the cyber incident on the ability to book orders, either at the end of the September quarter or as you entered this quarter? Please provide more details on the challenges you faced in the business as you navigated through this situation.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "George Oliver",
+      "title": "Chairman and CEO",
+      "content": "Yes. Our orders remain very strong, particularly in office data centers, health care, state and local government, and education. We are also seeing elevated levels of bookings in manufacturing and industrial sectors, following robust growth in construction starts, particularly in EV and semiconductor manufacturing. Our pipeline is solid, largely concentrated on these key sectors. Before the cyber incident, our bookings were tracking well, but we experienced a slight slowdown in the last week due to the outage. However, looking at the first quarter and the year ahead, we expect continued strong order growth based on our pipeline. In terms of Commercial HVAC trends, we are clearly gaining market share across all industries, leading to significant equipment sales in our Building Solutions division and a growing installed base we can leverage for service opportunities. In Building Solutions, our applied orders increased by about 20%, and excluding residential, our commercial ducting orders rose over 50%. Overall, our Commercial HVAC portfolio is performing strongly, driving the installed base within our Commercial Building Solutions business.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. And our next question today comes from Joe Ritchie at Goldman Sachs. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Joe Ritchie",
+      "title": "Analyst",
+      "content": "Thanks. Good morning everyone.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "George Oliver",
+      "title": "Chairman and CEO",
+      "content": "Good morning.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Joe Ritchie",
+      "title": "Analyst",
+      "content": "Hey guys, can we start on just the mix impact this quarter? I was a little surprised to see the Business Solutions business see a $100 million impact from mix. And also because it seems like your service business has far exceeded growth versus install this quarter. So what exactly is going on within Business Solutions that's driving negative mix and is that expected to reverse in 2024?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Olivier Leonetti",
+      "title": "CFO",
+      "content": "So if you look at the equipment sales today, particularly in the high end of our market, we are gaining share. This is a strong part of the market. This business is very attractive for us because for $1 of hardware, we typically generate over the lifecycle of the equipment another $9 of solutions, including $4 of services. And you saw also Joe in services today we clearly have momentum. Services is growing fast, enabled by digital. And as a reminder, services is twice the profit of the average of the company. So this mix is based upon equipment sales, which would generate attractive profit with the service and UTM solution annuity.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Joe Ritchie",
+      "title": "Analyst",
+      "content": "Okay. Got it. Understood. And I guess maybe my one follow-on question then would be on 1Q. And so look, it's December 12, we're clearly well into the quarter. You've given a fairly narrow range for the first quarter. I guess, I'm just trying to understand two things. Number one, confidence that, that will be the range when you report results? And then secondly, just any help that you can give on the bridge? Because even if you adjust for the insurance settlement from last year, it seems like a relatively large decline in the first quarter despite flat organic sales expected this year.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Olivier Leonetti",
+      "title": "CFO",
+      "content": "So if you look at Q1, we see a strong order momentum continuing. If you look at, of course, the confidence, we have now a few days to go before the end of the quarter. So that by itself answers the question. If you look at what is happening in Q1, we have strong momentum in our Building Solutions business, service, solutions powered by digital are growing fast. We see weaknesses in our Global Products division, particularly as it comes from residential. We have some impact also in China. Also, we have the impact of cyber, which is about 1% of the top line, and it's difficult to dimensionalize exactly about $0.02 of EPS. And last but not least, GP now is going through a more normalized seasonality after a few years of supply chain impact.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. And our next question today comes from Scott Davis of Melius Research. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Scott Davis",
+      "title": "Analyst",
+      "content": "Hi, good morning, guys.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "George Oliver",
+      "title": "Chairman and CEO",
+      "content": "Good morning.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Scott Davis",
+      "title": "Analyst",
+      "content": "Can you guys give us kind of help us understand the materiality of data centers? It seems obviously really bullish commentary we've heard from many folks, and don't always think about JCI in the data center business, but certainly, you guys have a meaningful presence. So can you help size that for us?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "George Oliver",
+      "title": "Chairman and CEO",
+      "content": "Yes, when we examine data centers, we have been reinvesting in all our applied products to fully capitalize on the substantial growth we anticipate over the next decade. A typical data center, such as a 100-megawatt facility, requires approximately 30,000 tons of cooling, primarily served by air-cooled chillers. We are a leading player in this area due to our investments and capabilities, which is driving significant growth among our customers. The cooling can be achieved through either air or water systems, and we hold a strong position in water-cooled solutions as well. For 2024, we are projecting a demand of 15 to 20 gigawatts, translating to about five tons of cooling needs. Given our robust portfolio of technology, we believe we can capture around half of that market, equating to over $2 billion in overall volume. This is a strong position for us, largely due to our multigenerational developments at our engineering center. Recently, we have collaborated with customers representing over 20% of the US GDP at our technology center, ensuring that we are well-prepared to meet their long-term plans. This sector presents a very attractive opportunity for us. Additionally, once our units are installed, we are experiencing significant growth in service, which will enhance the overall lifecycle of each installation.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Scott Davis",
+      "title": "Analyst",
+      "content": "That's helpful, George. When considering the servicing and AI-focused data centers, is there a higher margin? And if so, is that due to the complexity or simply because the scale allows for much greater content in the facility?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "George Oliver",
+      "title": "Chairman and CEO",
+      "content": "Yes, I think it's both. The critical nature of the applications we provide and our ability to operate within those conditions are important. From a data perspective, we need to ensure security in how we manage the data that helps us achieve our outcomes. The work we've done with OpenBlue and our cloud-based technology has remained unaffected by our cyber incident. We see this as a high-margin service opportunity, not only at the equipment level but also in how we utilize data to improve the operation of that equipment in various environments.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. And our next question today comes from Steve Tusa with JPMorgan. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Steve Tusa",
+      "title": "Analyst",
+      "content": "Hi. Good morning.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "George Oliver",
+      "title": "Chairman and CEO",
+      "content": "Good morning, Steve.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Steve Tusa",
+      "title": "Analyst",
+      "content": "Can you just provide a little bit more detail around the impact from the cyber-attack? I mean, I think you said $0.04 in the fourth quarter, but it was kind of late in the fourth quarter. And then in particular, which businesses it impacted just kind of the mechanics of the thing? And then just clarify what you're saying in the first quarter, I think you said $200 million in cash, but then $0.02 of earnings, I might have missed. I'm not sure I can reconcile like all those numbers. So maybe just a little more mechanical detail on the impact of the cyber-attack?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "George Oliver",
+      "title": "Chairman and CEO",
+      "content": "Yes. Let me give you some of the numbers. In Q4, we believe that the impact on the top-line was about 1%. It will be the same in Q1. What you have going on, Steve, I would go to the EPS impact in a second is what you lose in Q4, you recover some of it in Q1, right? That's why you have those numbers going on. So, 1% in revenue in Q4 and in Q1. The EPS impact in Q4 is about $0.04 and the impact in Q1 about $0.02. What is mainly impacted is everything which is short cycle, if you need to satisfy demand for something that you need to have in inventory if you don't have it, you lose it, that's where the impact will be. My $200 million impact in cash is lower collection in the first quarter because we're not able to bill immediately as we could not be built immediately which has delayed collection. That's the $200 million, Steve. Steve, looking at the overall event, it caused significant internal distraction. This lasted not just one or two days, but about three weeks throughout October. While we can quantify some of the impact, it's tougher to determine the overall effect for October. Although we kept operations running, we weren't operating at full efficiency. However, I want to emphasize that our teams' response and their ability to return to normal operations has been impressive. Overall, I believe we lost a bit of momentum in October, but I can assure you that we regained it in November and December.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Olivier Leonetti",
+      "title": "CFO",
+      "content": "Steve, a final sort of detail. We have substantial insurance coverage and the large proportion of our costs, including business disruption will be covered by insurance.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Steve Tusa",
+      "title": "Analyst",
+      "content": "I'm having difficulty understanding how you can move from $0.50 in the first quarter, which seems like a baseline, to $3.75 for the entire year. That feels like quite a steep climb. I know you might be expecting that comparisons will become slightly easier in some of the product sectors, but are you anticipating a genuine economic recovery in those short-cycle businesses in the latter half of the year?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Olivier Leonetti",
+      "title": "CFO",
+      "content": "So, what we see happening is earning growth to return during Q2. What we see today is momentum in our Building Solutions business. We talked about that at length, equipment, services enabled by digital are resonating with our customers. We see Global Products stabilizing in Q2 and more normalized growth in the second half for our Global Product division. If you look at the theme for the year, commercial strength, service strength with service expected to grow high single digits plus in the year.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. And our next question today comes from Julian Mitchell with Barclays. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Julian Mitchell",
+      "title": "Analyst",
+      "content": "Hi, good morning. I just wanted to understand some of the free cash flow moving parts again, maybe as we talk, just dollars year-on-year is the easiest thing for 2024. So, I think you're guiding about $100 million of net income growth, about $300 million of free cash flow growth in 2024. So, just trying to understand that extra kind of $200 million in the free cash, how much of that is sort of CapEx may be coming down or working capital coming down substantially? I'm just trying to understand as well what's the full year impact of cyber in the free cash year-on-year? And if there's anything to be aware of on factoring, I know you mentioned supply chain finance? Thank you.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Olivier Leonetti",
+      "title": "CFO",
+      "content": "So, if you look at the key driver of free cash flow, they are going to be around working capital, mainly in inventory. If you look at our level of inventory, we are going to close the year at about 54 days of inventory. We used to be before those supply chain events at about 45. A day of inventory is worth about quite a lot in terms of free cash flow. So inventory is going to be a key variable. Receivables also would be unchecked to declining as we are improving the way we manage that particular balance sheet line. Some of that will include upfront payments as our cycle has been improving to satisfy demand. We're able to demand for acceleration of products. We're able to demand more upfront payments and the final one would be supply chain financing, which we are now deploying across the world. Factoring will be flat year-on-year.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Julian Mitchell",
+      "title": "Analyst",
+      "content": "Thanks Olivier. And the cyber of $200 million free cash headwind in Q1. Is that like a headwind of $200 million for the year as a whole or are you assuming you recapture most of that in cash flow in the balance of the year?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Olivier Leonetti",
+      "title": "CFO",
+      "content": "It would be timing related. We'll catch that up in the second quarter.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Julian Mitchell",
+      "title": "Analyst",
+      "content": "Okay. And then my follow-up question would just be on the pace of the EPS recovery through the year. Historically, I think Q2 is about 19% or so of full year earnings. Is that roughly what we should expect for 2024 in terms of the seasonality?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Olivier Leonetti",
+      "title": "CFO",
+      "content": "We are going to go through a more normalized seasonality in terms of EPS performance as now the supply chain is going back to what we had pre-COVID. If you look at the themes for EPS earnings growth expected in Q2, momentum in Building Solutions has indicated, GP stabilizing in Q2, and then going to an increase in profit contribution in the second half. Those would be the themes for the flow of EPS across the year.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. And our next question today comes from Nigel Coe with Wolfe Research. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Nigel Coe",
+      "title": "Analyst",
+      "content": "Thanks. Good morning, everyone.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Olivier Leonetti",
+      "title": "CFO",
+      "content": "Good morning.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "George Oliver",
+      "title": "Chairman and CEO",
+      "content": "Good morning.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Nigel Coe",
+      "title": "Analyst",
+      "content": "Good morning. I know we've gone around this a fair amount here. But on the 1Q guide, Olivier, I really struggle to get down to that range down in flat sales and the 13% segment EBITA margin. So is there anything below the line from corporate timing, the interest or anything below the line you think about there? Just any help there would be helpful. And then on the free cash flow, the restructuring, I'm not sure if you did quantify that to Julian's question, but what sort of payback are we seeing on this restructuring action? Where should we dial in for social cost savings for 2024?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Olivier Leonetti",
+      "title": "CFO",
+      "content": "So if you look, let me start with the end. On free cash flow, we are going to have an impact of about 10 points of conversion to two elements. One is higher CapEx actually due to the demand we have, mainly in the data center. That's about 3-points of conversion and restructuring, we expect to have 7-points of conversion due to restructuring. The payback of those restructuring actions is about the year or below that. And we have actually quite a few projects to improve the profitability of our enterprise. On Q1, I go back to what I indicated earlier in the Q&A session of momentum in Building Solutions, that's what we see in Q1. Weakness in Global Products due to the residential demand, some more normalized comp as the supply chain is normalizing for our global product division and then of course, the impact of cyber.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Nigel Coe",
+      "title": "Analyst",
+      "content": "Okay. Regarding the CapEx, it appears there's a $60 million increase. I wanted to confirm that. Can we also discuss the EMEA/LA segment? The margins have been struggling for an extended period, and while there's growth in installation orders and backlog, inflation has decreased by 5% this quarter. I'm curious if you could elaborate on the issues in that region and possible solutions.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Olivier Leonetti",
+      "title": "CFO",
+      "content": "So we see no structural reasons for the EMEA/LA margin to be double digits. And we expect margin to turn positive in Q2. Clearly, we have work to do in the region. The margin profile of the region is mainly due to the realization of lower margin orders into the revenue. We see that turning the other way, so turning positive in Q2, Nigel.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. And our next question today comes from Andy Kaplowitz with Citigroup. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Andy Kaplowitz",
+      "title": "Analyst",
+      "content": "Hi, good morning everyone.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Olivier Leonetti",
+      "title": "CFO",
+      "content": "Good morning.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "George Oliver",
+      "title": "Chairman and CEO",
+      "content": "Good morning.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Andy Kaplowitz",
+      "title": "Analyst",
+      "content": "So your orders accelerated slightly actually in Q4, up 9%, I think, for Building Solutions led by North America. And I know you talked about the strength already and Applied and in markets such as data centers. But as you know, some leading indicators of non-res have been a little weaker. So do you see order growth holding up here across your businesses throughout FY 2024? And do you see your backlog staying around that $12.1 billion number for your long-cycle businesses in '24? I think any incremental color would be helpful.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "George Oliver",
+      "title": "Chairman and CEO",
+      "content": "Yes, I do, Andy. We have strong tracking across all critical markets and regions. We're monitoring everything from lead generation to conversion, along with how we allocate our resources to differentiate ourselves and ultimately succeed. The generation of our pipeline has remained strong and aligns with the segments I've previously mentioned as key drivers. Regarding our service business, especially with new projects and opportunities for installation, we've seen robust performance. Additionally, our efforts to engage with the installed base, enhance connectivity, leverage data, and introduce new value propositions have resulted in a significant increase in our PSAs, enabling us to secure longer-term contracts and strengthen our foundation. Even when analyzing our Building Solutions by segment, whether it\u2019s installed or otherwise, performance remains strong. I believe that even in a declining economy, with our compelling value proposition for customers in the service sector, we will continue to perform well. While some metrics, such as dodge starts and ABI, may indicate weakness, we remain focused on our growth priorities and resource deployment, positioning ourselves to capitalize on emerging growth opportunities.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Andy Kaplowitz",
+      "title": "Analyst",
+      "content": "That's very helpful. And then maybe you could give us just a little more color on your expectations for Global Products. Do you see global residential markets, for instance, turning positive in the second half? And as the greater segment turns, how are you thinking about the European heat pump market? I think you mentioned GP stabilizing overall in the second half, but maybe you can talk about your confidence level that destocking ends in the second quarter, as you guys mentioned?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "George Oliver",
+      "title": "Chairman and CEO",
+      "content": "Let's begin with the residential market. In the US residential sector, there have certainly been challenges in 2023, affecting both unit sales and overall performance due to the recession. The main factors contributing to this situation include higher equipment costs and reduced consumer spending, as people are returning to work and cutting back on home improvement expenses. However, as we navigate the changes with refrigerants, we anticipate more stabilization. While we may experience fewer units sold, the launch of new refrigerants is expected to drive higher prices. This positions us well to deliver our range of refrigerant products in time for the January 1 implementation. We have expedited our new product interactions by two to three months, allowing our distributors ample time to adjust their inventories and restock with the new 454B refrigerant products. We are collaborating with our suppliers, distributors, and partners to ensure a smooth transition. We are confident that the market will normalize and stabilize moving forward in North America. Regarding heat pumps, we see a significant opportunity in this area, estimating it to be a $100 billion market growing in the mid-single digits. Currently, about one-third of our HVAC sales come from heat pumps. Although we have noticed a slowdown in Europe, particularly with our JCH product that we expected to gain traction in 2023, the implementation timelines in some European countries have pushed back consumer engagement, impacting efficiency adoption for heat pumps. We believe that within the next 18 to 24 months, the market will rebound strongly. On the commercial front, we possess a leading portfolio globally and recognize that the growing emphasis on decarbonization and sustainability uniquely positions us with low GWP refrigerants. This strength enables us to tap into key global markets effectively. This is my assessment regarding heat pumps.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. And our next question today comes from Noah Kaye with Oppenheimer. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Noah Kaye",
+      "title": "Analyst",
+      "content": "Good morning. Thanks for taking the question. And it's really actually building on one of Nigel's earlier ones around restructuring and more broadly, productivity gains. You've got the $340 million of productivity savings for 2023. Is it time for kind of an updated medium-term target around productivity? And what do you see as the path forward to drive a stronger margin profile for the business? And how much does productivity play into that?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Olivier Leonetti",
+      "title": "CFO",
+      "content": "So we believe, Noah, that fundamentally, we have the ability to be a 30% incremental company. We will achieve improvement in margin through two levers; one, gross margin as we improve our mix as we improve our operations. And the second lever is going to be through OpEx as we keep standardizing and centralizing our operations. And we have, as we see a strong portfolio of ideas and projects to improve the profitability of our enterprise. As I indicated earlier, typically, those projects have below one year payback. We don't think we need to update today our productivity programs. I think you will see that being embedded in the guide, Noah.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "George Oliver",
+      "title": "Chairman and CEO",
+      "content": "And Noah, just to comment on that. As we have been able to strengthen our operating system globally, it hasn't identified significant opportunities continuing, so that we can capitalize on and ultimately continue to expand margins going forward to be able to get incrementals 30% plus. And so the payback that we're getting on the work that we're doing is within a year.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Noah Kaye",
+      "title": "Analyst",
+      "content": "Yes. Appreciate it. Maybe a little bit surprised positively, I would say that the cyber incident didn't more significantly impact the service business. One, can you kind of explain why that was the case? And two, just talk about how the service and install operations performed during this challenging period for IT infrastructure for the company?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "George Oliver",
+      "title": "Chairman and CEO",
+      "content": "Noah, I'd like to address the cyber incident overall. What we learned is that we are not alone in this; it's a situation that many companies face, and while it was unfortunate, our team did remarkable work with our business continuity plans. Despite the impact, our teams responded effectively, staying focused on our customers and maintaining operations with impressive speed and determination. We proactively communicated with suppliers, customers, and employees to ensure continuity. This was the foundation of our success. Our agility in managing data compromises helped us continue to serve effectively. Although we experienced some disruption in October, as previously mentioned, the efforts we made have positioned us strongly moving forward, and we've noticed a resurgence in momentum during November and December.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. And our next question today comes from Joe O'Dea with Wells Fargo. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Joe O'Dea",
+      "title": "Analyst",
+      "content": "Hi. Good morning.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "George Oliver",
+      "title": "Chairman and CEO",
+      "content": "Good morning.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Joe O'Dea",
+      "title": "Analyst",
+      "content": "First question, I just wanted to ask on channel inventory trends. I think that first emerged as a headwind in the third quarter. I believe you expected to see a more meaningful headwind in the fourth quarter. And so can you size kind of what you believe you saw in the fourth quarter? And then within the guide, what type of headwind would be embedded in sort of the first quarter or even second quarter of 2024?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "George Oliver",
+      "title": "Chairman and CEO",
+      "content": "When examining our global product book-to-bill businesses that rely heavily on channels, particularly in residential, we noticed a slowdown, especially in the US compared to the global market, resulting in an overall decline in residential. We have been working to adjust our inventory to align with what we anticipate will be the new demand. The book-to-bill metrics are starting to normalize moving forward, and our inventory levels have returned to historical norms relative to what's available in our distribution channels. I am cautiously optimistic that we are stabilizing. For our other book-to-bill businesses, particularly in Fire & Security controls, the situation remains similar. We believe we have overcome most of the inventory adjustment challenges in the channel and have aligned our inventory with projected future demand. It's crucial that we are positioned to meet this demand in real-time, which we are. As we review our performance business by business, we are encouraged by the signs of increasing orders that are replenishing our backlog. This positions us well for continued revenue growth through 2024. I feel positive that the headwinds we experienced in the latter quarters of last year are normalizing, and we are once again seeing growth.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Joe O'Dea",
+      "title": "Analyst",
+      "content": "And then I just wanted to understand kind of project activity in the market, I think 2023 would have seen still a lot of constraints as it relates to labor availability for projects, supply chain availability. What you're seeing on that front, kind of the smoothness of operating of projects at this point whether labor still remains a constraint? And then just related, I mean, office strength does come across as a bit of a surprise. And so any additional color on kind of what you're seeing in North America office? Anything that you're doing where you think you might be driving share gains there?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "George Oliver",
+      "title": "Chairman and CEO",
+      "content": "Yes. I'll talk a little bit about operations. When you look at our Building Solutions across the globe, certainly, there was significant disruption where from a cycle time standpoint, some of our projects got extended a month or two, as we look at where we are today, we're back to almost where we were. And what we're believing now is our operational, the operating system that we've deployed, we can create now cycle time as a competitive advantage and being able to respond with the improvements that we've made within our supply chain and within our factories and ultimately within the field and how we execute on projects. So I'm very confident now that, that's going to be a critical strength of ours. Your question relative to resources, we have been very attractive in being able to recruit labor, pretty much across the globe and have not been constrained by labor across both our project-based business as well as our service business. And then in our critical factories, we've been able to recruit, retain and develop, the talent is ultimately going to be critical to delivering on our capabilities. So that feels very good. As it relates to commercial buildings, even though there is a thought that maybe buildings is going to be a pullback, the work that we're doing within buildings is differentiating. And so as we go into a building now, especially with the focus on energy savings and decarbonization, there's no company that's consuming as much data as we are within the building. And so because of that, we can actually do upgrades and deploy new technologies and utilize our data platform, consume all of the data within the building, and in many cases, get a payback on what we do within the building. And so that is our focus. And now with building standards being implemented in many jurisdictions not only here in North America but across the globe, we believe that that really presents a big opportunity for us in that space, especially with the focus on energy and decarbonization.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. And our next question today comes from Deane Dray with RBC Capital Markets. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Deane Dray",
+      "title": "Analyst",
+      "content": "Thank you. Good morning everyone. Just wanted to follow-up on the potential timing of the insurance recovery, the business interruption insurance, would that be a fiscal 2024 event? And is that embedded in your guidance?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Olivier Leonetti",
+      "title": "CFO",
+      "content": "The timing would be a 2024 event. Some elements of our cost will actually be reimbursed, we believe, in Q1. That's the goal. So we depend on when the costs are incurred and when we are able to prepare our claims. So some of it will come in Q1, certainly in this year.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Deane Dray",
+      "title": "Analyst",
+      "content": "If you receive that in the first quarter, that's quite fast and impressive.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Olivier Leonetti",
+      "title": "CFO",
+      "content": "Some of\u2026",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Deane Dray",
+      "title": "Analyst",
+      "content": "I have a second question regarding China, which has been mentioned multiple times as a source of weakness, particularly in Building Solutions. Can you provide any insights on what changes might be occurring at the margins?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "George Oliver",
+      "title": "Chairman and CEO",
+      "content": "Yes. So as they went through different phases of COVID, we saw a pickup last year and capitalize on that opportunity. We believe that we've built a leading position in the higher end of the commercial market there and have a very large installed base that we're capitalizing on to be able to build our Service business. We are concerned that the macro environment has continued to deteriorate, leading to concerns of the overall slowdown now accelerating. I think when we look at these macro trends not only working against us but our competitors. And as we have now studied the markets and looking at verticals or looking at the overall region, we are planning prudently for continued pressure in China. So we hope we're a bit wrong and maybe it comes back a little bit stronger than we suspect right now, but that's really what's embedded in our guide.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Deane Dray",
+      "title": "Analyst",
+      "content": "Okay. Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And our next question today comes from Andrew Obin with Bank of America. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Andrew Obin",
+      "title": "Analyst",
+      "content": "Yes guys. Good morning.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "George Oliver",
+      "title": "Chairman and CEO",
+      "content": "Morning, Andrew.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Andrew Obin",
+      "title": "Analyst",
+      "content": "Hi. Can I just think it seems that JCI is facing as we look at more growth, more investment, more inflation, so more CapEx, more working capital. So how do we think about this 100% cash conversion target going forward that we are in a more, growthy and more inflationary environment, right? How do you balance growth and growth opportunities and investment versus cash conversion?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Olivier Leonetti",
+      "title": "CFO",
+      "content": "We believe that the fundamentals are in place for our company to achieve 100% free cash flow over time. Currently, we are investing in certain sectors to support the significant growth in high-end HVAC. We anticipate that our current capital expenditures will be sufficient to facilitate the growth we expect in the next few years. The primary factors for improving free cash flow will revolve around working capital. I pointed out that reducing inventory even by a day can release about $50 million in cash. At the end of FY 2023, we had approximately 54 days of inventory, whereas we used to maintain around 45 days, indicating that a significant amount of cash is tied up in inventory. We are seeing a decline in our inventory levels, as highlighted in our prepared remarks. Additionally, we have the opportunity to shorten the collection cycle. With our lead times improving, we will be able to collect payments more quickly. Furthermore, due to the value proposition of our offerings, we can now require some prepayments. Supply chain financing is another aspect I mentioned. This explanation clarifies our outlook on free cash flow and our path toward becoming a company with 100% free cash flow conversion over time.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Andrew Obin",
+      "title": "Analyst",
+      "content": "Got you. Can you clarify if I understood correctly? I believe you mentioned $220 million in impairments and restructuring charges. Were there any additional impairments included in that figure? If so, what were they?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Olivier Leonetti",
+      "title": "CFO",
+      "content": "So we had, first of all, some OpenBlue assets associated with the FM System acquisition. Some of those assets are part of the FM portfolio. They are better. So we're going to discontinue what we have in OpenBlue. We had an impairment associated with the business we have in Argentina. This business is impacted by hyperinflation. And also we had some restructuring charges. Those are the three key levers.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. And our next question today comes from Brett Linzey with Mizuho Americas. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brett Linzey",
+      "title": "Analyst",
+      "content": "Hi, good morning. Thanks. Just wanted to come back to price, cost. You said positive for 2024. Could you just discuss the pricing component within that framework? And how are you thinking about incremental price actions this year? I'm just curious, did the cyber disruptions in any way limit your ability to capture price ask? Any color there?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Olivier Leonetti",
+      "title": "CFO",
+      "content": "So on price cost today, we see price cost to be positive we believe we're going to be able to keep the level of pricing we saw in the second half of the year.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "George Oliver",
+      "title": "Chairman and CEO",
+      "content": "When projecting for the full year, we still see strong value propositions that we are bringing to our customers through our solutions. The differentiation we offer with our digital content is also driving margin. On the product side, we continue to achieve record launches of new products, and we are pricing them according to the value we provide to the market. Thus, we are still experiencing strong pricing across our portfolio.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Brett Linzey",
+      "title": "Analyst",
+      "content": "Okay. Great. Thanks for that. And then just a quick follow-up on the capacity expansion. Encouraging to hear, I guess, maybe just a little bit more context. Is it just simply targeted on data center? Are there other geographies? And is there any way to size what that investment was?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "George Oliver",
+      "title": "Chairman and CEO",
+      "content": "Yes, there is a significant focus on data centers due to our strong position and the quality of products we are introducing to that market. As I discussed with Scott earlier, we anticipate considerable demand in the coming years that we are well-equipped to meet, thanks to our customer relationships. This trend will persist. When considering our applied and overall commercial HVAC business, we see secular trends in decarbonization, sustainability, and efficiency impacting the entire industry. Our technology allows us to engineer and design from the compressor to the end market, ensuring our equipment is optimized for its intended use. This capability positions us well to benefit from these trends, not just in data centers but across various verticals. Over the past few years, we have reinvested to strengthen our applied portfolio, which we believe will outpace economic growth due to increased demand. This opportunity is widespread.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And this concludes our question-and-answer session. I'd like to turn the conference back over to George Oliver for any closing remarks.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "George Oliver",
+      "title": "Chairman and CEO",
+      "content": "Thank you all for your continued interest and support of Johnson Controls. As we stand here today, we are set up for success through our strong foundation as we continue to build on opportunities to enhance our business from our margin profile, free cash flow generation and growth through the digitization of our service offering. It is all about execution. And as we look ahead, I am confident in our global team's ability to deliver value and results for our customers and shareholders as we enter fiscal year 2024. So with that, operator, that concludes our call today.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. This concludes today's conference call, and we thank you all for attending today's presentation. You may now disconnect your lines, and have a wonderful day.",
+      "sentiment": "0.0"
+    }
+  ],
+  "reported_date": "2024-01-30"
+}

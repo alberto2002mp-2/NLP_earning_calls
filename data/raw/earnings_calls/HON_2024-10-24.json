@@ -1,0 +1,529 @@
+{
+  "symbol": "HON",
+  "quarter": "2024Q3",
+  "transcript": [
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you for standing by, and welcome to the Honeywell Third Quarter 2024 Earnings Conference Call. At this time, all participants are in a listen-only mode. After the speakers' presentation, there will be a question-and-answer session. Please be advised that today's call is being recorded. I would now like to hand the call over to Sean Meakim, Vice President of Investor Relations. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Sean Meakim",
+      "title": "Vice President of Investor Relations",
+      "content": "Thank you. Good morning, and welcome to Honeywell's third quarter 2024 earnings conference call. On the call with me today are Chairman and Chief Executive Officer, Vimal Kapur; Senior Vice President and Chief Financial Officer, Greg Lewis; and Vice President of Corporate Finance, Mike Stepniak. This webcast and the presentation materials, including non-GAAP reconciliations are available on our Investor Relations website. From time-to-time, we post new information that may be of interest or material to our investors on this website. Our discussion today includes forward-looking statements that are based on our best view of the world and of our businesses as we see them today and are subject to risks and uncertainties, including the ones described in our SEC filings. This morning, we will review our financial results for the third quarter, share our guidance for the fourth quarter and provide an update on full-year 2024. As always, we'll leave time for your questions at the end. With that, I'll turn the call over to Chairman and CEO, Vimal Kapur.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Vimal Kapur",
+      "title": "Chairman and CEO",
+      "content": "Thank you, Sean, and good morning, everyone. To start, I would like to highlight the significant leadership change announced earlier in the third quarter. After we report our 2024 financial results at the beginning of next year, Greg Lewis will step down as Chief Financial Officer of Honeywell, and Greg will enter a new role as Senior Vice President of Honeywell Accelerator and serve as a special advisor to me. I would like to express my sincere thanks to Greg for his partnership with me through my first year as CEO and his successful performance as CFO since 2018. He guided the company through multiple reorganizations and significant M&A activity, and his leadership was critical to transforming Honeywell into the digital operator it is today. Mike Stepniak, former Vice President and Chief Financial Officer of Aerospace Technologies, will succeed Greg in February. Mike will serve as Vice President of Corporate Finance and work closely with Greg and me during this transition. I would like to congratulate Mike and express my deeply rooted confidence in his readiness to lead Honeywell with me into our next stage of growth and innovation as we continue to deliver value for our shareholders. With that, let's turn to slide three. Honeywell demonstrated a commitment to operational excellence in the third quarter, exceeding the high-end of our adjusted earnings per share and segment margin guidance ranges despite sales coming in below our guided range. Near-term delays in a couple of the project-led businesses, a lack of short-cycle improvement, and some discrete supply chain disruption in September in aerospace have caused us to rebase our expectations for the year. Although the organic growth of 3% in the quarter was below our guidance, we continue to be encouraged by sustained strength in aerospace technologies output, further sequential progress in building automation, and ongoing positive order trends. Before we dive down into more detailed discussion on the results and updated outlook for 2024, I would like to reiterate the strategic priorities that are the cornerstones of my tenure as CEO and our latest progress against them. First priority is the acceleration of profitable organic growth towards the upper end of our long-term target range of 4% to 7%. While our recent performance has been below this target, we are accelerating driving new product innovation and commercial excellence to support higher-growth rates in the future, and we are already seeing returns from this strategy. We booked a record $1 billion of orders in UOP, showing the strength of our technology and the promise of our sustainability offerings. This quarter, Electra selected Honeywell's flight control computers and electromechanical actuation system for its hybrid electric short takeoff and landing aircraft. Earlier this week, we announced a new partnership with Google Cloud, leveraging Google's Vertex AI and Honeywell Forge to accelerate our customer transition from automation to autonomous operations. By continuing to focus our effort on these key strategies, we are confident that we will be able to deliver organic growth at the upper end of our long-range in the future. Second, we are making headway on the evolution of our accelerator operating system, transforming the way we run the company to extract incremental value from our operations and drive growth. Accelerator is unlocking new ways for us to leverage our well-established digital backbone to enhance top-line growth and expand margins in addition to successfully integrating our recent portfolio additions. We are leveraging our digital domain through our Honeywell Forge IoT platform, creating recurring revenue streams that are delivering increased value for our customers and shareholders alike. And third, we are accelerating value creation through the simplification of Honeywell and optimization of our portfolio, pursuing accretive, bolt-on, and tuck-in acquisitions, as well as targeted non-core divestitures that will lead to improved financial performance, strong cash generation, and an increasingly attractive outlook for investors. Before we discuss our results for the third quarter in more detail, let me take a moment to talk about in more depth our progress on portfolio shaping on slide four. The end of the third quarter marks one full year since we announced the reorganization of our businesses around the three powerful megatrends of automation; the future of aviation; and energy transition. I'm proud of the progress we have demonstrated on our portfolio strategy in 2024, particularly as our efforts have borne fruit over the past few months. We have remained disciplined in our commitment to executing strategic bolt-on M&A that aligns with our three key megatrends and are accretive to our financial profile. We have successfully closed four acquisitions this year, representing over $9 billion in deployed capital to M&A. All four deals fit seamlessly into our portfolio, bolstering our capability across automation, aerospace, and energy transition, and enhancing our growth trajectory. We are happy to welcome our new future shapers to Honeywell, and we are excited by the substantial possibilities in front of us as we work to ensure seamless integration across all three business segments. In addition, earlier this month, we took another important step in our simplification journey, announcing our plans to spin off advanced materials into an independent, publicly traded company. As a global leader in sustainability-focused specialty chemicals and materials, advanced materials will be positioned to benefit from financial flexibility to pursue the next generation of sustainable refrigerants and other valuable solutions for customers in electronic materials that support the semiconductor industry, industrial-grade fibers, and highly engineered healthcare applications. This quarter, we also made the decision to reclassify the personal protective equipment, or PPE, business as an asset held for sale. This move will help us further strengthen our core business and will be accretive to Honeywell's organic growth and margin rate. We will provide more details once a sale has been announced. The acquisitions we have made this year, along with the share buybacks, dividend, and high-return CapEx, will add up to a record $14 billion in capital deployed in 2024. We believe this demonstrates meaningful progress towards strengthening and simplifying our portfolio. However, our work is not yet done, and we'll continue to leverage portfolio optimization as a fundamental pillar of growth and margin enhancement into 2025 and beyond. With that, now let me turn it to Greg on slide five to discuss our third quarter results in more detail, as well as provide an update on the fourth quarter and full-year guidance.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Greg Lewis",
+      "title": "CFO",
+      "content": "Thank you, Vimal, and good morning, everyone. I'll begin on slide five. We navigated through a challenging operational environment in the third quarter, delivering segment margin and adjusted earnings per share above the high end of our guidance range and a 10% increase in cash flow, despite coming in below our sales guidance. The main driver of the sales miss was performance below our prior expectations in Industrial Automation as our revenues were sequentially flat across the portfolio. We were also impacted by some discrete manufacturing disruptions in September, including Hurricane Helene, and a separate fire at one of our aerospace technology plants. All in all, this led to third quarter organic sales growth of 3% year-over-year, with three segments remaining in positive territory and double-digit growth in defense and space and commercial aviation original equipment in aerospace. This was the first full quarter of impact from the acquisition of Access Solutions, and we're pleased with the performance of that business in the early days of integration. We also saw approximately one month of impact in aerospace from the CAES and Civitanavi acquisitions. On orders, we grew 2% organically year-over-year, with a book-to-bill of 1.1, led by double-digit growth in Energy and Sustainability Solutions and Building Automation. This order strength drove a 10% year-over-year improvement in backlog to a record $34 billion. Excluding the impact of M&A, backlog grew 6% year-over-year and 4% sequentially. Although sales came in below our expectations, profit remained resilient as we leveraged our Honeywell Accelerator operating system and cost management capabilities to protect our bottom line. Segment profit grew 6% year-over-year, led by double-digit growth in Aerospace. Segment margin remained flat at 23.6%, 30 basis points above the high-end of our guidance, as expansion in Industrial Automation, Building Automation, and Energy and Sustainability Solutions was offset by higher corporate costs year-over-year, mainly due to our investment in our digital infrastructure. Earnings per share for the third quarter was $2.16, down 5% year-over-year, and adjusted earnings per share was $2.58, up 8% year-over-year, and above the high end of our guidance range, driven primarily by segment profit growth and lower interest expense due to timing of M&A deal closures. We took a charge in the quarter as a result of our decision to exit the PPE business in Industrial Automation. A bridge for adjusted EPS from 3Q '23 to 3Q '24 can be found in the appendix of this presentation. Free cash flow in the quarter was $1.7 billion, up 10% year-over-year due to stronger operational income and higher collections. On capital deployment, we put $3.1 billion to work in the third quarter, with $2.1 billion in M&A, $700 million in dividends, and $300 million in high-return capital expenditures. As Vimal highlighted, we made significant progress this quarter and are on track to deploy over $14 billion in capital this year, and our work is not yet done as we continue to leverage our balance sheet into 2025, reshaping the portfolio. Now, let's spend a few minutes on the third quarter performance by business. In Aerospace Technologies, sales were up 10% organically year-over-year, the ninth consecutive quarter of double-digit growth. Sales were led by double-digit growth in Defense & Space, where we continue to unlock volume from our robust backlog through sustained global demand. In Commercial Aviation, we saw another quarter of double-digit growth in original equipment sales as shipset deliveries increased with particular strength in business and general aviation. Commercial aftermarket saw continued growth as global flight activity continues to rise. Despite some discrete supply chain disruptions in September that impacted our Air Transport OE business, output improved 13% in the quarter, as we made sequential progress in supply chain, the ninth consecutive quarter of double-digit output growth. Segment margin remained flat year-over-year at 27.7% in the third quarter as commercial excellence and productivity actions were offset by cost inflation and mix pressure within original equipment. Industrial automation sales were flat sequentially but decreased 5% organically in the quarter, primarily due to lower volumes in warehouse and workflow solutions and short-cycle safety and sensing technologies. Process Solutions sales grew 2% year-over-year and 1% sequentially in the quarter, driven by strength in our aftermarket services and compressor controls businesses, partially offset by demand softness in smart energy and thermal solutions, as well as some delays in our projects businesses. Sensing and Safety Technologies sales declined year-over-year and sequentially, but the Sensing business delivered modest sequential growth for the second consecutive quarter. In Productivity Solutions and Services, orders and organic sales grew double-digits year-over-year when excluding the impact of the Zebra license and settlement payments that ended in the first quarter of this year. Industrial Automation segment margin expanded 60 basis points to 20.3% due to productivity actions and commercial excellence, partially offset by cost inflation and volume leverage. In Building Automation, sales grew 14% year-over-year and 11% sequentially, thanks to a full quarter of the Access Solutions acquisition and acceleration in the fire business. Organically, BA sales were up 3%, supported by another quarter of solid performance in Building Solutions. Solutions grew 8% in the quarter, driven by another double-digit growth performance in projects and sequential growth in services. Product sales declined slightly year-over-year, but saw sequential improvement organically for the second straight quarter, thanks to strength in fire. Building Automation orders continue to be a bright spot, led by 25% year-over-year growth in Building Solutions on continued strong demand in data centers, healthcare, and energy. Segment margin expanded 30 basis points to 25.9% due to the impact of a full-quarter from Access Solutions and commercial excellence, partially offset by cost inflation. Energy and Sustainability Solutions sales grew 1% organically in the third quarter. Advanced Materials grew 3% year-on-year, due to further improvement in specialty chemicals and materials, particularly in Spectra, and continued growth in flooring products. UOP sales declined 2% as growth in aftermarket services and catalyst was offset by softness due to project timing. Orders in UOP were up over 50% in the quarter to a record $1 billion with strength in core process technologies and a record of more than $200 million in sustainable technology solutions. This marks the third consecutive quarter with ESS book-to-bill at 1.2. Segment margin expanded 10 basis points to 24.5% due to commercial excellence net of inflation. Overall, our accelerated playbook continues to serve us well as we once again demonstrated our ability to protect margins even in a lower-growth environment. Healthy orders, record backlog, and accretive growth rates across the M&A deals we have closed this year give us confidence in our ability to drive improved organic growth in the future. With that, let's turn to slide six, and we can talk about our fourth quarter and updated full-year outlook. Due to the incrementally more challenging end-market backdrop, we are revising our full-year sales guidance range while increasing the midpoint of our segment margin guidance. We are narrowing our adjusted EPS guidance to the high end of the prior range due to that margin outlook combined with favorable adjustments to our effective tax rate. While our pace of sales has not degraded, we have not seen the short-cycle acceleration, which we anticipated by this point in the year, and it's appropriate to reflect that, as well as the energy-related and aero output pushouts in our outlook. Our demand profile remains healthy with a book-to-bill of 1.1 and record backlog, and we're confident in our ability to accelerate growth within our long-term framework in the coming quarters. We now expect full-year sales to be in the range of $38.6 billion to $38.8 billion, representing organic growth of 3% to 4%, down from 5% to 6% previously. The lower guidance reflects the lower third-quarter results, a slower recovery in industrial automation, and more tempered expectations in pockets of Aerospace and Energy markets in the fourth quarter. As a reminder, our guidance includes the impact of all four acquisitions: Access Solutions, Civitanavi, CAES, and LNG now all closed. Collectively, they will add approximately $800 million in sales in 2024, consistent with prior communications. For the fourth quarter, we anticipate sales in the range of $10.2 billion to $10.4 billion, up 2% to 4% organically. Sales should increase sequentially across the portfolio, led by Aerospace as we experienced additional supply chain unlocks, as well as continued growth in flight hours and shipset deliveries. Turning to segment margins, our strong result in the third quarter and our commercial excellence and productivity playbook are supporting our bottom line. As a result, we're narrowing our overall segment margin guidance towards the high end, now expecting to end the year between 23.4% and 23.5%, flat to 10 basis points from 2023. That said, the dynamics we highlighted last quarter still hold. Delays in short-cycle improvement are leading our long-cycle project and original equipment businesses to a larger percentage of our mix, driving margin headwinds. In the long term, this provides us an expanded installed base to leverage for high-margin aftermarket projects. We now expect overall segment profit dollars to grow between 5% and 6% for the year. At a segment level, Building Automation and Energy and Sustainability Solutions will lead the group in margin expansion. For the fourth quarter, we anticipate overall segment margin in the range of 23.8% to 24.2%, up sequentially, but down 20 to 60 basis points year-over-year as a result of mix within original equipment in aerospace and volume de-leverage in industrial automation. Now let's spend a moment on our outlook by business. Looking ahead for Aerospace Technologies, we still expect low-double-digit growth in 2024 organic sales with double-digit growth in both commercial aviation and defense and space. In the fourth quarter, we expect sales growth of mid to high single digits, with particular strength in commercial aftermarket. As previously noted, segment margin in the third quarter outperformed our expectations on better-than-anticipated mix, but we still see modest year-over-year segment margin contraction as discrete supply chain disruptions from the third quarter are resolved and we see a corresponding recovery in commercial original equipment volumes. Moving to Industrial Automation, we're lowering our 2024 outlook for year-over-year organic sales to a decline in the high-single-digit range, as slower-than-expected short-cycle demand recovery alongside project pushouts and process solutions dampen our outlook for full-year organic growth. For the fourth quarter, we expect sales down low single digits with modest growth in projects and aftermarket services offset primarily by softness in sensing and safety technologies and smart energy. Margins will be down overall this year for industrial automation, but up when excluding the impact of the license and settlement payments that ended in the first quarter. In Building Automation, we still expect full-year organic growth in the low single-digit range, led by continued strength in Building Solutions and high growth regions, particularly in India and Saudi Arabia. Fourth quarter sales will be up year-over-year and flat to up sequentially as we see volume improvement led by fire products. Margins should hit their high point for the year in the fourth quarter as improvement in fire and the impact of Access Solutions support a positive mix. For energy and sustainability solutions, the organic growth outlook for the year is still low single digits with typical strong sequential improvement in the fourth quarter, driven by catalyst shipment seasonality. We're still expecting full-year margin expansion with the fourth quarter at the highest margin rate due to favorable business mix associated with catalyst reloads. We will also see a lift from the first quarter of sales and our newly acquired LNG business. Moving to other key guided metrics, net below the line is now expected to be between negative $650 million and negative $700 million for the full year. For the fourth quarter, net below the line is expected to be between negative $250 million and negative $300 million. We now expect pension income to be approximately $600 million for 2024, up $50 million from our prior guide due to a one-time item that was pushed out from the fourth quarter into 2025. This guidance includes repositioning spend between $150 million and $190 million for the year and between $60 million and $100 million for the fourth quarter as we invest in high-return projects to support future growth and productivity. We expect the adjusted effective tax rate to be around 20% for the full year and 17% for the fourth quarter. The reduction in expected tax rate is a result of favorable adjustments to income tax contingencies and taxable income mix. We anticipate average share count to be around 655 million shares for the full year and around 653 million shares for the fourth quarter. And we maintain balance sheet capacity to deploy additional capital to achieve the highest shareholder returns. We now expect that the year-over-year impact to 2024 adjusted EPS from the four acquisitions closed this year will be approximately neutral, a bit better than we communicated last quarter. Slight delays to the closing of the case in LNG deals reduced some of the interest expense and planned integration costs in 2024. And as we get our arms around the business, we're refining our near-term expectations. We continue to expect 1% to 2% EPS accretion in 2025 from these deals. A summary of the 2024 M&A impact on our financials is included in the appendix of this presentation. As a result of all these inputs, we expect full-year adjusted earnings per share to be in the upper half of our prior range, now between $10.15 to $10.25, up 7% to 8% year-on-year. We expect fourth-quarter adjusted earnings per share between $2.73 and $2.83, up 1% to 5% year-on-year. On cash, we're reducing our guidance and now expect free cash flow in the range of $5.1 billion to $5.4 billion, down 4% to up 2%, excluding the impact of prior year settlements. Lower progress in inventory, mainly in aerospace, and slowing payment cycles in certain high-growth regions has impacted our performance and our expectations. We continue to work on the multi-year unwind of working capital, and we will fund high-return CapEx projects focused on creating uniquely innovative technologies for the company. Overall, while we remain cautious on the macroeconomic environment in the short term, our acquisitions are progressing in line with our expectations, our backlog remains at record highs, and we are driving expansion of our installed base. Our rigorous operating principles give us confidence in our ability to execute on our long-term growth algorithm. Now let me turn it back to Vimal on slide seven for some closing thoughts.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Vimal Kapur",
+      "title": "Chairman and CEO",
+      "content": "Thank you, Greg. While we experienced some headwinds in the quarter, we are confident in our ability to weather that macroeconomic backdrop with the operational rigor you expect from Honeywell. We delivered segment margins and adjusted earnings per share above our guidance range in Q3. We have adjusted our outlook to reflect the realities as we now see them in this macro. We continue to make steady progress towards our portfolio optimization as we close out the year. As we look ahead towards 2025, our robust backlog further benefits from accretive growth rates to come from our acquisition and our leading position in attractive end markets provide us with a constructive outlook, despite the ongoing economic and geopolitical uncertainty. While we think volume growth could remain subdued by muted short-cycle growth early in the year, we expect to see organic growth across all four businesses next year. We plan to return to margin expansion again in 2025 as a combination of volume leverage and productivity actions across the portfolio should offset modest mixed headwinds in aerospace from OEM activity and integration of case. We look forward to providing more detailed guidance for 2025 during next quarter's earning call as the backdrop becomes clearer and our portfolio shaping impacts solidify. I remain excited about the future of Honeywell and believe our portfolio shaping efforts are enabling us to drive innovation and solve some of the world's most challenging problems. With that, Sean, let's open up for questions.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Sean Meakim",
+      "title": "Vice President of Investor Relations",
+      "content": "Thank you, Vimal. Vimal and Greg are now available to answer your questions. We ask that you please be mindful of others in the queue by only asking one question and one related follow-up. Operator, please open the line for Q&A.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our first question comes from Julian Mitchell with Barclays. Please go ahead with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Julian Mitchell",
+      "title": "Analyst",
+      "content": "Hi, good morning. Maybe I just wanted to start off with a sense, maybe flesh out a little bit more any thoughts around sort of next year. I realize we'll get more color in Q4 results, but in the past, you've often given sort of more detailed preliminary thoughts for the out year in October. So just wondered, for example, on the cost side of things, the top line is running light of expectations, but you took down your repositioning expectations for the year? I wondered if there might be a case given the macro backdrop to sort of accelerate things like cost-cutting measures, maybe do more repositioning to make sure you can get margins up in 2025. So maybe flesh out some thoughts around the margin expansion from here.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Vimal Kapur",
+      "title": "Chairman and CEO",
+      "content": "Thanks. Thanks, Julian. Let me start and then hand over to Greg there. Look, I know my predecessors provided guidance on 2025, but given the current uncertainty in the environment across what we experienced, the wars, the upcoming election in the U.S., and multiple factors, we only found it prudent that we do it in January when more facts are known. But I think there are a few comments I'll make. First, there are three important backdrops that we all should consider for 2025. Number one, our backlog is up 6%, 10% with all the acquisitions. I do believe we have a better quality portfolio. And number three, our cost position is very robust. We have seen that in our margin expansion across all four segments, and that's driven by both productivity and our cost control actions. So those are carrying forward for 2025. What we're also executing is our what's in our control: driving growth actions through new products, but also continuing to drive productivity actions to maintain a higher quality P&L. Now, with that backdrop, as we mentioned in our comments, we do expect all four segments to have organic growth in 2025. Now the specific ranges, we'll share that in January when we have the earnings call, but at this point, we feel confident on that fact. We also believe we will be back to margin expansion in 2025 based upon the actions we have really taken. So I would say the setup is positive. There are uncertainties. On the cost position, you're absolutely right, we are very watchful on that, and we have demonstrated that in Q3. I'm going to pass over to Greg to explain some of the repositioning numbers, what we have reflected on and provide specific commentary on that.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Greg Lewis",
+      "title": "CFO",
+      "content": "Yes. So Julian, the adjustment in the repo guidance is primarily due to the third quarter number being at the lower end of the range. Our guidance for the fourth quarter remains at $60 million to $100 million, which is consistent with our previous expectations. The reduction from $150 million to $225 million down to $150 million to $190 million is simply a reflection of the third quarter results. We have a solid pipeline for productivity and repositioning that we have managed for years. Furthermore, as Vimal mentioned, we are not overly concerned about potential downturns in 2025. We do not anticipate needing significant reductions in our census that would require drastic repo changes. We will, however, remain vigilant. Therefore, I wouldn\u2019t interpret the decrease in repo guidance as a major concern; rather, it allows us flexibility in the fourth quarter to implement necessary productivity measures, and we will do that.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Julian Mitchell",
+      "title": "Analyst",
+      "content": "That's very helpful. Thank you. And then just a very quick follow-up around, as we're thinking about portfolio movements and so forth, you announced Advanced Materials spin, you've got PPE and assets held for sale. Just wondered, sort of, to what extent, Vimal, the changes in the sort of organic backdrop on top line and what's happening with margins, do they have an effect on increasing the urgency of portfolio measures, or do you think about them as sort of somewhat two independent tracks?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Vimal Kapur",
+      "title": "Chairman and CEO",
+      "content": "I would say the portfolio actions are driven by two factors. The first is the fit within the Honeywell portfolio, focusing on three simplified megatrends, which I committed to exactly a year ago. If you look at our actions in both Advanced Materials and PPE, they reflect that commitment. The PPE business, in particular, is expected to accelerate organic growth and enhance margin expansion. The Advanced Materials business is more stable on a fixed basis. Moving forward, portfolio actions are never truly complete. We're going to continuously evaluate what else we can add or remove to enhance the quality of Honeywell's portfolio. What I'm particularly proud of are the four acquisitions we've made; they are in high-growth verticals such as defense, LNG, and Access Solutions, which are in high demand markets. This certainly contributes to improving Honeywell's growth profile alongside the initiatives we are implementing on the core portfolio.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Julian Mitchell",
+      "title": "Analyst",
+      "content": "Great. Thank you.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next question comes from the line of Steve Tusa with JPMorgan. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Steve Tusa",
+      "title": "Analyst",
+      "content": "Hello? Can you hear me?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Vimal Kapur",
+      "title": "Chairman and CEO",
+      "content": "Good morning, Steve.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Greg Lewis",
+      "title": "CFO",
+      "content": "Hey, Steve.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Steve Tusa",
+      "title": "Analyst",
+      "content": "Yes. So sorry, just missed the first part of the call. Can you just talk about any kind of trajectory on into kind of '25 and some of the puts and takes? I know you guys had talked to being within the range on organic a few weeks ago, but also just whether the margins can be a kind of a trend-line year, any updated thoughts on kind of the '25 outlook?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Greg Lewis",
+      "title": "CFO",
+      "content": "Sure, Steve. I'll begin. As we discussed during our time together in Europe, we still anticipate growth in all four businesses next year. Although we expect to finish the year with a lower exit rate than originally planned, it will still be a positive exit rate. Looking ahead to next year, it's too early for guidance, which we'll provide in January. We do foresee growth across all four businesses and expect overall margin expansion across the portfolio. Aero is likely to remain around its current levels organically; however, it may face some headline pressure from acquisitions. Nonetheless, all these acquisitions, particularly in Aero and sensors, are expected to yield strong growth rates, resulting in overall healthy segment profit growth.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Steve Tusa",
+      "title": "Analyst",
+      "content": "Okay, great. And then just regarding the reduction in free cash flow. Is that solely due to an earnings decline, or is there something else happening in working capital?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Greg Lewis",
+      "title": "CFO",
+      "content": "Yes. The two big items there is, as you know, the biggest pile of inventory we have is in Aerospace, and that's been the hardest nut for us to crack so far, and particularly given all the dynamics that you're seeing in the industry over even the last 90 days, we just don't see the ramp down that we had been trying to drive there specifically. We've made nice progress in both IA and BA on inventory reduction, but not in Aero. And then the other part of that, I would just say, is in our high-growth regions, we're seeing payment cycles slow. And I think, again, that's a little bit of a reaction to oil prices and a little bit of the disruption happening around the Middle East. And so those two things are really what we're reflecting in the guide on cash. We do expect, again, as we go into next year, we're going to still work the acceleration on working capital reduction effort and hopefully the environment will participate in a way that's going to be more conducive to that. We're going to continue to do our work as we've done on the digitization of our working capital, particularly on the inventory and planning side to try to unlock that balance.",
+      "sentiment": "-0.2"
+    },
+    {
+      "speaker": "Steve Tusa",
+      "title": "Analyst",
+      "content": "Great. Okay. Thanks a lot.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Vimal Kapur",
+      "title": "Chairman and CEO",
+      "content": "Thanks, Steve.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next question comes from the line of Nigel Coe with Wolfe Research. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Nigel Coe",
+      "title": "Analyst",
+      "content": "Thanks. Good morning, and hope all is well. Just on...",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Vimal Kapur",
+      "title": "Chairman and CEO",
+      "content": "Hey, Nigel.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Nigel Coe",
+      "title": "Analyst",
+      "content": "Hi, guys. Just on the Aero performance, maybe just touch on the Boeing strike and how you dial that into your sort of Q4 outlook? And then, within the performance in commercial aftermarket, the plus 8%, can you dissect that between ATR and Bizjet? I'm assuming Bizjets is going to be a bit more challenged there. Just any help there would be helpful.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Vimal Kapur",
+      "title": "Chairman and CEO",
+      "content": "Yes. Let me start here, and I'll pass that over to Greg. I would say the Boeing circumstances are obviously very challenging. We all saw the results of the strike vote yesterday night, which is unfortunate. I would say from a Honeywell perspective, we have been working very closely with Boeing to make sure that we have a coordinated way of dealing with our shipments with Boeing. The net punchline of that is thankfully, there is no impact of that into our revenue in Q4. We are adjusting some shipments into the aftermarket of Boeing's customers and so on. And we really have to already start thinking about 2025 based upon how things are shaping up. But for Q4, there's no specific impact into our numbers. Maybe, Greg, do you want to answer the second part?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Greg Lewis",
+      "title": "CFO",
+      "content": "Yes. So on the commercial aftermarket side, as you saw us report high-single-digit growth overall. And as your spidey senses are telling you, it's double digits in APR and it's single digits in BGA. And again, I don't think that should be a surprise to anyone as the international market continues to expand on flight hours as it has throughout the course of the year. We're still outgrowing in DGA the flight hours growth, given all of the nice work the team has done on their RMU portfolio. So that continues to be a positive for us in terms of trying to do the decoupled growth approach that we've been so successful at over the years.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Nigel Coe",
+      "title": "Analyst",
+      "content": "That's helpful. Just a quick question about the portfolio. There are no surprises with the PPE, but the revenue and margin for PV this year are mixed. Also, are we still planning to monetize Quantinium next year?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Greg Lewis",
+      "title": "CFO",
+      "content": "Yes. So the PPE revs are about $1.1 billion. We're not going to get into the margin profile; you can probably get close with some of the information you learned over time. And then on Quantinium...",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Vimal Kapur",
+      "title": "Chairman and CEO",
+      "content": "Yes, Nigel, as we have said, we absolutely want to monetize Honeywell investment at the right time. The key focus area for us is to continue to make progress on the technical milestone, because that will feed into a commercial customer acquisition, which will feed into IPO in that order. And we are making nice progress on the technical front. Earlier in the year, we worked with Microsoft to prove the added rates in quantum computing, which is a big milestone, and we did prove one of the highest fidelity computing platforms. They also made some announcement on the capability relative to logical qubits in Q3. So we are making progress on expected lines on the technical front, which is a very, very positive factor to note. That will now feed into the next step to acquire customers. The strategy of monetizing Quantinium hasn't changed. The timing will be dependent upon as we make progress in the actions we have highlighted earlier.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Nigel Coe",
+      "title": "Analyst",
+      "content": "Great. Thanks, Vimal.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next question comes from the line of Scott Davis with Melius Research. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Scott Davis",
+      "title": "Analyst",
+      "content": "Good morning, everyone. You announced your collaboration with Forge and Gemini AI. What can you tell us about the deliverables? I understand the concept, but what do you see as the final product or solution that will be compelling for customers?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Vimal Kapur",
+      "title": "Chairman and CEO",
+      "content": "Yes. I can give you a brief overview, although I have a more detailed explanation available. The key point is that as we have been connecting more of our customer assets to our Forge platform over the past two to three years, the next logical question is how we will utilize that data as we continue to grow our customer base through connectivity. We are looking forward to leveraging the AI model and the Vertex AI capabilities that Google has provided, which will allow us to create new applications using that data. This aligns with our ongoing strategy to monetize our installed base by fostering connections and enhancing our capabilities through partnerships. Additionally, we expect some of our edge devices, which are tied to buildings, process units, or warehouses\u2014like scanners and gas detection devices\u2014to integrate AI at the chip level with the Google Nano AI program. This will enhance the functionality of those products, with the first launch planned for early 2025. This is not a distant goal; it is happening soon. Overall, this approach continues to reinforce our commitment to organic growth through innovation, and our collaboration with companies like Google is crucial in expanding our opportunities. I am very optimistic about the impact this will have on our organic growth in the coming years.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Scott Davis",
+      "title": "Analyst",
+      "content": "That makes sense. And just Intelligrated, obviously, has been the kind of the gift that keeps on giving. It was great for a while, and then it's been not so great here for a few years. But how do you fix that business? It doesn't seem to be as much value at the customer level, perhaps as we all once thought? And is it a product innovation issue then? Is it just that the market itself is just too cyclical or perhaps too concentrated with a couple of big customers and maybe they have too much power in the channel? But how do you fix this thing? I'll just leave it at that, and thank you.",
+      "sentiment": "-0.1"
+    },
+    {
+      "speaker": "Vimal Kapur",
+      "title": "Chairman and CEO",
+      "content": "I understand the frustration surrounding Intelligrated, and we share that sentiment due to its performance. The positive news is that we experienced slight sequential growth in that business in Q3, and we anticipate that trend to continue into Q4. In other words, the business is showing signs of a slight turnaround. Looking ahead, I foresee the business becoming increasingly focused on the aftermarket, which could account for 60% of our revenue by 2025, up from 30% at the time of acquisition. We have adjusted our cost base to a nearly $1 billion run rate revenue, which we currently have. The main challenge we face is the rate of customer adoption. As we've mentioned before, the value proposition is very compelling, but the capital investment needed for fixed sortation systems is significant. Making a long-term commitment is crucial; you cannot simply automate one warehouse but must commit to all of them, leading to investments of several hundred million, or sometimes even $1 billion. This has been a constraint I've observed during my two years with this business. Therefore, we will continue to operate this business as efficiently as possible. By 2025, it will have stabilized to not negatively impact Honeywell's overall numbers anymore, and we will take actions to improve it in the coming years.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Scott Davis",
+      "title": "Analyst",
+      "content": "Thank you. Best of luck, guys.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Vimal Kapur",
+      "title": "Chairman and CEO",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next question comes from the line of Chris Snyder with Morgan Stanley. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Chris Snyder",
+      "title": "Analyst",
+      "content": "Thank you. I wanted to ask on the ARO organic growth into Q4, slowing to mid to high-singles. And I think you said earlier that there's no impact from the Boeing strike in that. So I guess, is there any spillover impact from the fire at the facility you saw in Q3? Or does this kind of where you see the aero market growing here in Q4?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Vimal Kapur",
+      "title": "Chairman and CEO",
+      "content": "Chris, Aero has been growing at double digits for nine quarters. The elevated level of comparisons definitely poses challenges. I want to highlight two key points. In Q3, we faced two specific incidents that were transitional. Unfortunately, there was a fire in one of our plants, which is now operational again, but we did lose revenue during that period. Additionally, Hurricane Helene affected us as we have a significant aerospace facility in Florida, and we were unable to ship during the last few days of the quarter. Looking ahead to Q4, our performance is promising. In Q3, our volume growth was 13%. Previously, it was in the high teens, but it has dipped to the low teens due to issues with our supply base. However, our outlook for Aero remains unchanged at low-double-digit growth for the year. We might have missed an opportunity for an even better figure there. Supply chain delays have pushed our expectations out beyond 2025. Our backlog and past dues remain above $2 billion, which isn\u2019t ideal from a customer standpoint. Nonetheless, we expect to carry that backlog into next year, which will support similar growth in 2025 as we anticipate for Q4 this year. I remain very positive and optimistic about our future. I'm also excited about the recent case acquisition, which will further enhance our portfolio. This business, valued at $750 million, is expected to grow significantly in the defense segment, positively influencing our top line growth for ARO in 2025.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Chris Snyder",
+      "title": "Analyst",
+      "content": "I appreciate that. Turning to Industrial Automation, it has experienced a couple of years of significant declines. I understand that many of these end markets, such as warehouse operations, scanners, and safety and sensing, are facing challenges. However, in terms of Honeywell's performance in industrial automation relative to these end markets, do you believe the company is maintaining its market share, or do you think it might be losing or possibly gaining share? Thank you.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Vimal Kapur",
+      "title": "Chairman and CEO",
+      "content": "Yes, Chris, we operate in various end markets, so my response won't be very concise. Overall, market drivers are key factors affecting the performance of our Industrial Automation sector. There are exceptions, but those drivers are significant. It's important to remember that our business has a global reach, and when we look at the U.S. market, which we align with, that's what we see. However, we also have a robust presence in Germany and China, and we cannot overlook the economic dynamics in those regions. With substantial revenue from those areas, they definitely have their own effects on our overall performance. To summarize, we are aligning with market conditions. Looking forward to 2025, we will have overcome two major challenges, which gives me strong confidence in Industrial Automation's growth for that year. The first challenge was the rebase signing of Intelligrated volumes, which we previously mentioned and is expected to be about $1 billion. That headwind will be eliminated, and we believe we can maintain that volume into 2025. Additionally, we accounted for three quarters of royalties from Zebra in our numbers for 2024, but only one quarter will be included this year, making its impact small from a comparative standpoint. With those factors easing and markets stabilizing, we anticipate constructive performance in our business in 2025.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Chris Snyder",
+      "title": "Analyst",
+      "content": "Thank you.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next question comes from the line of Sheila Kahyaoglu with Jefferies. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Sheila Kahyaoglu",
+      "title": "Analyst",
+      "content": "Thank you very much, everyone, and good morning. Returning to Aerospace and Greg, can you share what the rate was in Q3? How do you see it for Q4, and what do you think about the deceleration from Q3 to Q4? Is this related to a change in the MAX, or is it just a supplier issue?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Sean Meakim",
+      "title": "Vice President of Investor Relations",
+      "content": "Sorry, Sheila. I think you broke up for a second. Would you mind restating the question?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Sheila Kahyaoglu",
+      "title": "Analyst",
+      "content": "Sorry about that. So just on the MAX, can you give us an idea where you are on MAX in Q3 versus Q4? And if it is unchanged, what results in the Q3 to Q4 margin deceleration of about 250 bps going to around 25%.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Vimal Kapur",
+      "title": "Chairman and CEO",
+      "content": "Yes. I will address the second part. The margins from Q3 to Q4 are influenced by the drivers of the original equipment shipments. The disruptions in discrete manufacturing that we experienced in Q3 led to a decrease in OE volume, which positively affected our margin for Q3. As those supply chain disruptions are resolved in Q4, we expect shipments to increase, resulting in a shift in margins. I believe this represents a significant change.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Greg Lewis",
+      "title": "CFO",
+      "content": "I think our comments on the Boeing situation is just that their demand on us has not gone down demonstrably from what it had been previously. There doesn't mean there's not some disruption in our ability to ship in Q3 versus Q4. We definitely had that challenge, but the demand on us has not changed meaningfully from Boeing.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Sean Meakim",
+      "title": "Vice President of Investor Relations",
+      "content": "The last point I would add is to say that the third quarter is better than we initially thought regarding margins due to the mix, and then we anticipate some reversion in the fourth quarter. Overall, the full year remains consistent with what we communicated previously; it's just a matter of which quarter the changes occur in.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Sheila Kahyaoglu",
+      "title": "Analyst",
+      "content": "Got it. In Q3, the commercial aftermarket lagged at 8%, which may have been due to an incorrect model. It appears that the primary issue was with BGA. Considering that the aftermarket is expected to lead growth in Q4, can you provide any details on whether that's projected to reach double digits in ATR, or is BGI expected to improve again?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Greg Lewis",
+      "title": "CFO",
+      "content": "The aftermarket will be stronger in ATR than in BGA, and this trend is expected to continue for some time.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Sheila Kahyaoglu",
+      "title": "Analyst",
+      "content": "Got it. Thank you.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Vimal Kapur",
+      "title": "Chairman and CEO",
+      "content": "Thanks, Sheila.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next question comes from the line of Deane Dray with RBC Capital Markets. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Deane Dray",
+      "title": "Analyst",
+      "content": "Thank you. Good morning, everyone.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Greg Lewis",
+      "title": "CFO",
+      "content": "Hey, Dean.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Deane Dray",
+      "title": "Analyst",
+      "content": "Hey, I think it was around a year ago when you conducted the re-segmentation. One of the results was the identification of approximately 10% of revenues that would be divested, with maybe half of those being significant and the others being quite small and not easily noticeable. Is PPE included in that? I assume Advanced Materials is not part of that 10%. Can you provide some insight into that pipeline?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Vimal Kapur",
+      "title": "Chairman and CEO",
+      "content": "Yes. When I announced it last year, it was an initial view of the portfolio, which was less aligned with the three megatrends. There were elements of advanced materials included, but after our analysis, we found that the shareholder value was significantly higher for the entire spin compared to the smaller part, leading to the decision to announce the spin a few weeks ago. This was a key factor, and while the scope was initially smaller, it ended up being substantial. PPE was included in that scope. I would say that on a strategic level, we are mostly finished for the near term, but portfolio management is an ongoing process. We continuously assess what might not fit within Honeywell, even though everything currently aligns with future aviation, energy transition, or automation. I am also considering growth rates, margin expansion opportunities, and overall fit, and we will actively manage our portfolio as part of our operating strategy. We have significant balance sheet capacity that we intend to leverage to enhance our business. Those are some insights I can share.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Deane Dray",
+      "title": "Analyst",
+      "content": "What would be the time frame for other divestitures?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Vimal Kapur",
+      "title": "Chairman and CEO",
+      "content": "I wouldn\u2019t provide a specific timeline here. What I can say is that we aim to use our balance sheet responsibly, and the timing will depend on the opportunities available to us. The potential for acquisitions is currently limited, and we need to have strong conviction before proceeding. We will conduct thorough work and begin exploring possible portfolio actions. While there are no concrete plans at the moment, we remain open to possibilities since this is an ongoing process.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Deane Dray",
+      "title": "Analyst",
+      "content": "Thank you.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next question comes from the line of Joe Ritchie with Goldman Sachs. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Joe Ritchie",
+      "title": "Analyst",
+      "content": "Hey, good morning, guys.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Vimal Kapur",
+      "title": "Chairman and CEO",
+      "content": "Hi, Joe.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Joe Ritchie",
+      "title": "Analyst",
+      "content": "Can you please elaborate on the project delays you're experiencing in both Process Solutions? What are the root causes and how do you see that being addressed going forward?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Vimal Kapur",
+      "title": "Chairman and CEO",
+      "content": "So Joe, I would say the conversion rates typically we see we end up doing approximately 50% of our revenue in month three of every quarter. And we have a well-proven run rate of conversion of smaller projects, both in Process Solutions and smaller catalyst shipments. And that's what really didn't occur on the normal run rate in Q3. So that's what we observed for the first time that push outs are happening at this point of time. At the same time, I will also give you another data point, UOP had a historic high in its history order booking in the same quarter, $1 billion, which are large new projects, people are committed investments for new process technology on new equipment. So those are the dynamics going on. The long-cycle commitment continue to hold. The short-cycle pushouts are also occurring at the same time, and we have factored that into our Q4 earnings forecast now that we expect that some of those project pushouts will continue to occur did we say stability? And probably the root cause of that would ascertain that to two factors. I would say there's a lot of uncertainty in the Middle East due to the war situation and oil price fluctuations. We all observe that there and we all are equally awaiting the outcome of U.S. elections. So I think that uncertainty causes making any moderate investment also a bit of a consideration for our customers. And that's driving the push out. And we do expect as things settle, some of these should come back to the normal case ahead.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Joe Ritchie",
+      "title": "Analyst",
+      "content": "Got it. That's helpful. So mostly, this is basically exogenous factors, not anything internal that's impacting. Okay, and then I guess maybe...",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Vimal Kapur",
+      "title": "Chairman and CEO",
+      "content": "Yes, and then the second question is just, look, the defense business has been I think double-digits now for four out of the last five quarters and recognize that you're benefiting from the fact that supply chain is normalizing. I guess, how do we think about that into 2025? Is this a business just based on the normalization of the supply chain, it should continue to see this level of growth, call it, high single digits to double-digit type growth into next year? I do believe that. I think our order books there are strong in defense, and in fact, demand remains very strong. We have demonstrated now for two quarters in a row, our ability to take supply chain actions, specifically to the defense supply chain, and we do expect to maintain this momentum in 2025. It will remain the headline for aerospace growth, specifically not only the core business and even always own but with the acquisition of Kate, which is the entirely service Defense segment. Our near-term mix of defense is going to go up, and growth rates are going to be at, I would say, relatively elevated rates compared to the core aerospace business.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Joe Ritchie",
+      "title": "Analyst",
+      "content": "Okay, great. Thank you very much.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Vimal Kapur",
+      "title": "Chairman and CEO",
+      "content": "Thank you.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our final question this morning comes from the line of Andy Kaplowitz with Citigroup. Please proceed with your question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Andy Kaplowitz",
+      "title": "Analyst",
+      "content": "Good morning, everyone.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Vimal Kapur",
+      "title": "Chairman and CEO",
+      "content": "Hey, Andy.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Greg Lewis",
+      "title": "CFO",
+      "content": "Hey, Andy.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Andy Kaplowitz",
+      "title": "Analyst",
+      "content": "Vim, I know you've talked about accelerating new products now and evolving the accelerated operating system. How much could that accelerating or maybe the focus on what good looks like across your portfolio help in '25 versus '24? Would you anticipate a material step-up in core growth from your initiatives, even if markets maybe stay a little muted, more muted than expected outside of Aero?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Vimal Kapur",
+      "title": "Chairman and CEO",
+      "content": "Yes. I think short answer is yes, Andy. We have done work, and we really track what I call new product category. So fundamentally, what we have bought our operating system is think about the product as core products, which we always have and refreshing them because we have to keep share, you can't keep them stale, and then adding new product categories, which we don't have today; those SKU numbers don't exist in our ERP system. And those products which are being lodged in '24 or early '25 are going to be a larger number compared to what we had in '24 run rate. So that does give me confidence that that's going to act as an enabler for us to deliver our growth in 2025. Specifics will share when we do the earnings call. But fundamentals do look attractive in that space.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Andy Kaplowitz",
+      "title": "Analyst",
+      "content": "Got it. And then maybe just a little more color on what you're seeing in terms of the landscape by geography. It's interesting to see that building products have started to improve. Is that a function of European building products getting any better? And I know you mentioned some macro headwinds in China, obviously. So what are you seeing out there?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Vimal Kapur",
+      "title": "Chairman and CEO",
+      "content": "In certain areas, particularly the Buildings business, we've seen a positive recovery in Europe, especially in our building automation short cycle businesses. It seems that we've reached the lowest point in Europe and are now experiencing a moderate recovery. However, this isn't the case in China. Honeywell's performance in China is still in the mid- to high-single digits. We have previously mentioned our strong performance in China due to our Aerospace and Energy segments, but our automation businesses there remain stable to slightly declining. We have not noticed any changes that would impact our performance. While there are some signs of recovery in Europe, that's not the case in China. On a brighter note, we are experiencing significant growth in India and Saudi Arabia, which have become important drivers for our growth with a healthy amount of revenue contributing to our overall sales.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Andy Kaplowitz",
+      "title": "Analyst",
+      "content": "Appreciate all the color.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Vimal Kapur",
+      "title": "Chairman and CEO",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. This concludes our question-and-answer session. Mr. Kapur, I'll turn the floor back to you for any final comments.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Vimal Kapur",
+      "title": "Chairman and CEO",
+      "content": "I want to express my thanks to our shareholders for your support and to the Honeywell future shapers, who will help us to achieve our accelerated growth goals. I believe our future is bright, and we look forward to updating you on the progress. Thank you for listening, and please stay safe and healthy.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. This concludes today's conference call. You may disconnect your lines at this time. Thank you for your participation.",
+      "sentiment": "0.0"
+    }
+  ],
+  "reported_date": "2024-10-24"
+}

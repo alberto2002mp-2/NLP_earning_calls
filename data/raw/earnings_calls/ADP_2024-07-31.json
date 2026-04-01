@@ -1,0 +1,499 @@
+{
+  "symbol": "ADP",
+  "quarter": "2024Q2",
+  "transcript": [
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Good morning. My name is Michelle, and I'll be your conference operator. At this time, I would like to welcome everyone to ADP's Second Quarter Fiscal 2024 Earnings Call. I would like to inform you that this conference is being recorded. After the prepared remarks, we will conduct a question-and-answer session. Instructions will be given at that time. I will now turn the conference over to Mr. Danny Hussain, Vice President, Investor Relations. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Danny Hussain",
+      "title": "Vice President, Investor Relations",
+      "content": "Thank you, Michelle, and welcome, everyone, to ADP's second quarter fiscal 2024 earnings call. Participating today are Maria Black, our President and CEO, and Don McGuire, our CFO. Earlier this morning, we released our results for the quarter. Our earnings materials are available on the SEC's website and our Investor Relations website at investors.adp.com, where you will also find the investor presentation that accompanies today's call. During our call, we will reference non-GAAP financial measures, which we believe to be useful to investors and that exclude the impact of certain items. A description of these items, along with a reconciliation of non-GAAP measures to the most comparable GAAP measures, can be found in our earnings release. Today's call will also contain forward-looking statements that refer to future events and involve some risk. We encourage you to review our filings with the SEC for additional information on factors that could cause actual results to differ materially from our current expectations. I'll now turn it over to Maria.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "President and CEO",
+      "content": "Thank you, Danny, and thank you, everyone, for joining us. This morning, we reported strong second quarter results, including 6% revenue growth and 9% adjusted EPS growth. I'll begin with a review of the quarter's financial highlights, before providing an update on the progress we are making across our strategic priorities. We delivered solid Employer Services new business bookings in the second quarter, reaching a new record bookings volume for Q2, and keeping us on track for our full-year outlook. Growth was especially robust across our small business portfolio, and we also experienced healthy growth in our mid-market and international business. With steady demand in HCM and a healthy new business pipeline at the end of the quarter, we look forward to the important selling season ahead. Employer Services retention was strong in the second quarter. Although it declined slightly compared to the prior year, we once again exceeded our expectations as we continue to benefit from a healthy overall business environment, and from our very high client satisfaction levels. Our Employer Services pays per control growth remained at 2% for the second quarter. The overall labor market remains resilient, and our clients continue to add employees at a moderate pace, which is resulting in a very gradual deceleration in pays per control growth. Lastly, our PEO revenue growth of 3% for the second quarter was in line with our expectations, and we are very pleased to have delivered strong PEO new business bookings that were ahead of our expectations. Based on continued healthy activity levels, we feel good about our PEO bookings momentum, and we look forward to seeing a gradual re-acceleration of our PEO business in the second half of this fiscal year. Moving on to a broader update, during the second quarter, we launched a new brand advertising campaign themed 'the next anything.' The campaign highlights how the world of work is always changing, sometimes gradually, sometimes suddenly, and trusted business solutions must evolve with it. The theme aligns with our strategic priorities to give our clients the advantage of our leading technology, expertise, and scale. In Q2, we continue to push forward on our first strategic priority to lead with best-in-class HCM technology. A key part of that is the rollout of ADP Assist, our cross-platform solution powered by GenAI that proactively delivers actionable insights in plain language to enhance HR productivity, aid decision-making, and streamline day-to-day tasks for our clients and their employees. ADP Assist seamlessly integrates with ADP products across multiple platforms. Using an intuitive conversational interface, it provides valuable and contextual insights that touch every aspect of HR. For example, in addition to the features we shared with you last quarter, including our natural language reporting capability, in Q2, we integrated natural language search capabilities into our run platform, which allows it to understand intent behind the search terms and use GenAI to mine ADP's deep knowledge base to deliver easy-to-use and effective content. ADP Assist also helps clients validate payrolls and solve common employee challenges across HR, payroll, time, and benefits. It's a comprehensive experience that is trained on the industry's largest and deepest HCM dataset and our deep knowledge base to surface highly credible and actionable insights so that clients can make smarter decisions. We are excited about the roadmap ahead for all of our major solutions and we expect it to help us build on the recognition we continue to earn in the market. In Q2 alone, we were pleased to be recognized for product leadership by three major industry analyst rankings. Everest Group named ADP the highest leader out of 27 providers in its multi-country payroll solutions PEAK Matrix report. NelsonHall identified ADP as a leader in its Payroll Services Vendor Evaluation and Assessment tool in all markets. Ventana Research named us an exemplary leader across its North American, global, and payroll management buyers guide for performing the best and meeting overall product and customer experience requirements. Our second strategic priority is to provide unmatched expertise and outsourcing solutions. We shared last quarter that we were beginning to equip our associates with GenAI capabilities through our Agent Assist technology. In Q2, we expanded our call summarization deployment to a greater portion of our service associates and started to see productivity gains with shorter handle times and improved service quality. With our global service associates fielding millions of calls annually, we are incredibly excited to test ways to optimize those client interactions. Our third strategic priority is to benefit our clients through our global scale, and we continue to lean into this advantage. In Q2, we announced a strategic collaboration with Convera, a global business to business payments company to help our multi-country clients manage the complexity of global payroll and cross-border payments through an integrated platform. By combining Convera\u2019s payment solutions with our global payroll expertise, we're enhancing the client experience by minimizing the need to access various banking platforms and improving payment accuracy, compliance, and security. We also announced the launch of ADP retirement trust services to support our growing retirement services business. Standing up our own trust services entity demonstrates our scale and commitment to our retirement clients, positioning us on par with financial industry leaders and ahead of HCM competitors that rely on third parties. This commitment can really matter to financial advisors, keeps data within ADP's trusted ecosystem, and provides a cost and price benefit to ADP and our clients over the long term. Our scale also affords us the opportunity to partner with other leading technology providers in innovative ways, and we continue to expand on many of those partnerships to provide our sales implementation and service teams with client-specific insights to quickly address market shifts, drive more personalized interactions, and deepen our overall client engagement. Overall, our second quarter represented strong outcomes on the financial front and with respect to our key strategic priorities. I'd like to thank our associates who continue to deliver exceptional products and outstanding service to our clients, particularly now, as many of them are in the middle of our most hectic time of year completing year-end work. I'm proud to share that their efforts help drive our overall Net Promoter Score to its highest level ever in the second quarter. Thank you again for all that you do for ADP and for our clients. And now, I'll turn it over to Don.",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "Don McGuire",
+      "title": "CFO",
+      "content": "Thank you, Maria, and good morning, everyone. I'll provide more color on our results for the quarter, as well as our updated fiscal 2024 outlook. Overall, we reported a strong second quarter, with our consolidated revenue growth moderating in line with our expectations, and our adjusted EBIT margin coming in slightly better than expected. However, the interest rate backdrop has changed since we last provided our full-year outlook, and we are lightly tweaking our outlook, which I'll detail. I'll start with Employer Services. ES segment revenue increased 8% on a reported basis, and 7% on an organic constant currency basis, coming in slightly ahead of our expectations. As Maria shared, we continue to grow our ES new business bookings, resulting in a record second quarter bookings volume. Our small business portfolio and international business provided outsized growth contributions this quarter. And with a steady HCM demand environment and healthy pipelines, we feel on track for our 4% to 7% new business bookings growth outlook for the year. As mentioned earlier, our ES retention declined slightly in Q2 versus the prior year, but again exceeded our expectations. Given our first half retention outperformance, we are increasing our full-year retention outlook slightly. We now anticipate a 40 to 60 basis point decline in our full-year retention, which is 10 basis points better than our prior forecast. ES pays per control growth of 2% in Q2 was in line with our expectations, and we are maintaining our 1% to 2% growth outlook for the full-year. Client funds interest revenue increased in line with our expectations in Q2, as a slight decline in our average client funds balance, which we discussed last quarter, was more than offset by an increase in our average yield. However, we are revising our full-year client funds interest outlook lower to reflect the change in prevailing interest rates since our last update. We now expect fiscal 2024 client funds interest revenue of $985 million to $995 million, and we expect a net impact from our client funds extended investment strategy of $835 million to $845 million, representing a reduction of about $20 million at the midpoint. In total, there is no change to our fiscal 2024 ES revenue growth forecast of 7% to 8%. Our ES margin increased 170 basis points in Q2, driven by both operating leverage and contribution from client funds interest revenue growth, but reflecting the impact of a reduced client funds interest revenue forecast, as well as a slight increase in expected GenAI-related spend, we are tweaking our fiscal 2024 ES margin outlook and now anticipate the lower end of our prior margin range. Moving on to the PEO, we had 3% revenue growth, driven by 2% growth in average worksite employees in the second quarter. These metrics were in line with expectation, and we are encouraged to see signs of stabilization in our PEO pays per control growth. As Maria mentioned, our PEO new business bookings were very strong in Q2. With continued healthy activity levels, we continue to anticipate a gradual ramp in our worksite employee growth in the back half of fiscal 2024, and we are maintaining our full-year growth outlook of 2% to 3%. PEO margin decreased 50 basis points in Q2. As we shared last quarter, we assume this year's workers' compensation reserve release benefit will be lower than last year's benefit, and we are further narrowing our PEO margin expectation to be down 80 to 100 basis points in fiscal 2024 versus our prior expectation of decline of 50 to 100 basis points. Putting it all together, there is no change to our fiscal 2024 consolidated revenue growth outlook of 6% to 7%. With the two changes to segment margin, we now expect our adjusted EBIT margin to increase by 60 to 70 basis points versus our prior outlook for an increase of 60 to 80 basis points. We continue to expect an effective tax rate of around 23%, and we still anticipate fiscal 2024 adjusted EPS growth of 10% to 12%, with the middle of that range the most likely outcome given current assumptions. Thank you, and I'll now turn it back to the operator for Q&A.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. We'll take our first question from Mark Marcon with Robert W. Baird. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Mark Marcon",
+      "title": "Analyst",
+      "content": "Hey, good morning, and congratulations on all the accolades that you've received from the third-party reviewers. I'm wondering if you can talk a little bit about some of the initiatives. And specifically, one that stood out was setting up your own trust. Can you talk a little bit about the investment there and how we should think about how that would end up unfolding? Also, what do you think some of the reactions will be from some of your third-party partners, like banks and CPAs?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "President and CEO",
+      "content": "Thank you, Mark, and good morning. I appreciate the question and your well wishes regarding all of our recognition. Certainly excited to see across the board the recognition we mentioned during the prepared remarks, but also the continued momentum across all of our initiatives. Happy to comment on retirement trust services. It is truly a demonstration of our scale. So, when I think about what it means to our clients, and what it means to the ecosystem that you mentioned, banks, CPAs, I think it's all incredibly positive. Trust services are a core component of any 401(k) plan. Given the size and scale of our retirement services business, what we found is that the pool of what's known as third-party trustees, that are capable of handling a business just of our size, is actually becoming increasingly difficult to find in terms of the number of providers that can offer standalone trust services to a retirement offering of our size. So, in terms of that, we made the decision to launch our in-house trust services. We believe that this is a great value to our clients and to the ecosystem. It puts us on par with other industry leaders in financial services, and really provides a competitive advantage against some of our HCM competitors that continue to leverage these third-party trustees. So, for us, I think it's a significant commitment to the retirement business. It really can matter to financial advisors, and like you said, CPAs and banks. By taking the trust services in-house, the implication is that we have better control over our costs. Ultimately, that yields a better price for our clients and better service. We also have the ability to maintain all of the data inside of ADP's ecosystem, which as you know, is a key component of who ADP is in terms of data integrity and all those things. So, that\u2019s kind of the retirement trust services in a nutshell.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Mark Marcon",
+      "title": "Analyst",
+      "content": "Terrific. Thanks for that. It was noticeable that you are anticipating a lower level of decline in terms of the ES retention, which is coming off record levels. To what extent is that due to an anticipation of lower levels of bankruptcies as opposed to just the improvement in your client service scores?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "President and CEO",
+      "content": "So, retention is going incredibly well, right? And we mentioned that in the remarks. Year-to-date retention has definitely been better than we expected. I think things are fundamentally really healthy right now. One thing to keep in mind as you think about the outlook, is that we are, as you mentioned, coming off some of the record highs we've seen over the last several years. While we believe that from specifically a down market perspective, we're close to being normalized back to fiscal 2019 trends, we do also anticipate some pressure in the back half from perhaps bankruptcies having more of a material impact. We haven't seen it to date, but we certainly want to ensure that we're attuned to that and believe it\u2019s prudent to plan for some pressure in the back half. Like any year, retention is always noisy until we have some normal variability and conservatism in the back half. Just like you, I'd like to think that there's opportunity there, and I think only time will give us the answer to that. But that's kind of how we're thinking about things in the back half.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Mark Marcon",
+      "title": "Analyst",
+      "content": "Really appreciate that, Maria. Thank you, and congratulations.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next question comes from James Faucette with Morgan Stanley. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "James Faucette",
+      "title": "Analyst",
+      "content": "Great. Thank you very much. Appreciate all the detail this morning. I wanted to quickly just touch on PEO. You called out a strong acceleration in the business, but it looks like your outlook for revenues was changed. How much of that is a timing issue versus the concentration you have in professional services and technology, which still seem a little bit soft in the employment reports?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Don McGuire",
+      "title": "CFO",
+      "content": "Yes, James, thanks for that question. We've been happy to see the stabilization in the pays per control in those sectors, financial services and technology. Although there's still a little bit of noise there, it's certainly stabilized from what we saw in the prior quarter. So, that's positive. In terms of our sales results and bookings for PEO, we were very happy with the bookings. Maria mentioned that already; they were very good. As we look at those together, the improvement in the pays per control and the improvement in our bookings, I believe we're heading toward that re-acceleration we've been pointing to over the last couple of quarters in the PEO. But really, trying to get the impact of those two components is what will help us achieve that re-acceleration.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Danny Hussain",
+      "title": "Vice President, Investor Relations",
+      "content": "And James, just to clarify, the pays per control, although it\u2019s stabilizing, it\u2019s not providing any sort of upside versus our prior forecast. So, bookings are going well, but it takes a considerable amount in terms of bookings to really drive a material change in the current year\u2019s revenue, which you well understand. With pays per control still providing sequential, gradual drag, these factors are netting out to an inline outlook.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "James Faucette",
+      "title": "Analyst",
+      "content": "Got it. Thanks for that, Danny. And then quickly on AI, it seems like there's a bit of incremental investment and certainly a big focus on this call. Could you share how we should think about anticipating a return on that investment and over what kind of timeframe? More qualitatively, what kinds of paybacks, whether it's increased customer satisfaction or improvements to internal operations, etc.?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "President and CEO",
+      "content": "Yes, so I'll start on the AI side and tell you all the reasons again that I'm so excited about it. Maybe Don can provide more details on our thoughts regarding return on investments. To remind everyone, we're thinking about AI in three buckets. The first is product and innovation, integrating generative AI in all of our innovation cycles. This includes everything from product development to the features and functionality mentioned in the prepared remarks. Also, we're issuing a press release today that discusses our product and innovation principles and launches of products. Some of this speaks to our design principles around making things easier, smarter, and more human within our product and innovation cycles, which will ultimately drive enhancements like ADP Assist into the market meaningfully. The second bucket is what I call efficiency and service efficiency. This concerns giving our associates the same tools we provide our clients to make their jobs easier and more effective and efficient, notably through Agent Assist. We've significantly increased the number of associates engaging with AI tools overall. The feedback we've received from associates is that AI helps shave off a minute or so per call, which, while it may seem minor, is impactful given the volume of calls we handle. So, we\u2019re optimistic about these efficiency gains over time. Lastly, how we think about generative AI in our go-to-market motions is essential. Our partnerships and best-in-class modern distribution have been strong for years, and this is no different. We already have many of our sellers leveraging generative AI tools, and we're seeing great impacts in pre-call planning and other areas. All-in-all, we\u2019re excited to drive incremental opportunity in the long term through product enhancements, service efficiency, and go-to-market improvements.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Don McGuire",
+      "title": "CFO",
+      "content": "Yes, Maria outlined some exciting areas where GenAI will impact us and change the client experience, among other aspects like helping our associates and improving sales. To elaborate, we're discussing modest investments in GenAI. We do anticipate returns eventually, but it may take some time before we see those financial outcomes.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "James Faucette",
+      "title": "Analyst",
+      "content": "That's great. Thank you both very much.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next question comes from Ramsey El-Assal with Barclays. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Ramsey El-Assal",
+      "title": "Analyst",
+      "content": "Hi there, and thanks for taking my question this morning. You called out higher seller expenses as one component of the margin headwinds in PEO. Is this just the cost to compete in PEO at this point? In other words, is it becoming more expensive to compete in PEO, or do you expect these expense levels related to selling to sort of abate in a more normalized time period?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Don McGuire",
+      "title": "CFO",
+      "content": "Yes, there's nothing fundamentally different about our selling expenses and how we go-to-market in the PEO. Higher sales typically lead to higher selling expenses. Some of these adjustments are internally driven, ensuring our business units allocate expenses correctly. As a result, we aren't facing any new fundamental shifts in the competitive landscape driving these expenses.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Ramsey El-Assal",
+      "title": "Analyst",
+      "content": "Got it. Okay. And one follow-up. Regarding your international product launches, like Roll in Ireland, can you comment on the international value proposition? Is it largely the same as in the US, or are there distinctive products, needs, or partnerships required in these markets?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Don McGuire",
+      "title": "CFO",
+      "content": "As you know, our international revenue as a percentage of total is not where we\u2019d like it to be, even though approximately 40% of the people we serve are internationally located. The fundamental value proposition we have in the US isn\u2019t always mirrored in the international market. Some offerings, like PEO, don\u2019t have the same appeal overseas. That said, there\u2019s a significant opportunity for us to grow, especially with partners like Convera, which assists clients in managing their treasury functions effectively across various countries, helping to alleviate complexities and ensure compliance.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "President and CEO",
+      "content": "Yes, absolutely. The opportunity we have with international is substantial. When considering our performance in that segment, we recently reported strong bookings. We also have record retention in that area and positive feedback on our international offerings. While we remain ambitious for scaling our offerings outside the US, we\u2019re also proud of our current achievements in client experience, and overall performance internationally.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Ramsey El-Assal",
+      "title": "Analyst",
+      "content": "Fantastic. Sounds like good things ahead. Appreciate it.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next question comes from Bryan Keane with Deutsche Bank. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Bryan Keane",
+      "title": "Analyst",
+      "content": "Hi, guys, congrats on the solid results. Don, I wanted to ask about average balances. I know we were expecting a headwind from the payroll tax deferral. Can you quantify that as part of the reason for the 2% drop in balances? What's the go-forward expectation? Will there be more headwinds in the back half of this year?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Don McGuire",
+      "title": "CFO",
+      "content": "Yes, the payroll tax deferral was indeed behind the quarter-to-quarter decline. However, that's now in the past. We expect 2% to 3% balance growth for the remainder of the year, which we view positively. Interest rates have fallen quite a bit since our last call, affecting our client funds interest forecasts; we anticipate a decline in the float income but are still optimistic about growth overall.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Bryan Keane",
+      "title": "Analyst",
+      "content": "Got it. Is that tied to the ES margins moving to the lower end of your range?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Don McGuire",
+      "title": "CFO",
+      "content": "Yes, you're correct. The float does contribute to us guiding to the middle of our margin range. We\u2019ve been monitoring market yields and will adjust our forecasts accordingly.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Bryan Keane",
+      "title": "Analyst",
+      "content": "Great, thanks for taking the questions.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next question comes from Scott Wurtzel with Wolfe Research. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Scott Wurtzel",
+      "title": "Analyst",
+      "content": "Great, thanks. Good morning, guys, and thank you for taking my questions. I wanted to start off on trends seen in the selling season. Through Q2, it looked pretty positive on the booking side; can you share how things are tracking into Q3? What changes have you seen from competitors, if any, regarding pricing or go-to-market strategies?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "President and CEO",
+      "content": "Yes, good morning, Scott. We feel good about the demand environment overall at this point. Companies are still hiring and investing in their talent, and they're investing in HR. A couple of highlights: the down market indicates companies are hiring and purchasing, while our second quarter business execution has been exceptional for many quarters now. Our down market continues to grow well, and we have solid pipelines across mid-market and off-market segments. Regarding the competitive landscape, it has remained unchanged. It\u2019s been competitive, but we have best-in-class products and are successfully reducing friction for our clients. Our mid-market performance was strong in Q2, and we've been onboarding a substantial number of units in January alone.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Scott Wurtzel",
+      "title": "Analyst",
+      "content": "That's helpful. Just a follow-up for Don regarding float income guidance. I noticed an increase in your outlook for the client short portfolio. Can you offer some clarity on the geographical changes in those investments moving through the year?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Don McGuire",
+      "title": "CFO",
+      "content": "Certainly. We're not changing our investment strategy; we tweaked the timing of our market borrowing to smooth it out over a few days instead of peaking in one day. As you can see in our appendix, the average balances in the short portfolio have increased. It's not a change in strategy but rather an adjustment in how we\u2019re approaching the market.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Scott Wurtzel",
+      "title": "Analyst",
+      "content": "Great, thanks, guys.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next question comes from Bryan Bergin with TD Cowen. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Bryan Bergin",
+      "title": "Analyst",
+      "content": "Hi, good morning. Thank you. First, could you comment on EBIT margin\u2014what drove the outperformance compared to your expectations of a decline in 2Q? Was it timing within the year or better-than-expected efficiency? Also, Don, I believe you mentioned increased spending on GenAI\u2014how does that compare to your prior plan?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Don McGuire",
+      "title": "CFO",
+      "content": "There was some modest revenue outperformance during the quarter that contributed to the margin improvement, along with usual expense management efforts. Nothing significant in terms of unusual expenses contributed to this outcome. As for GenAI spend, yes, we\u2019re spending a bit more than we communicated last quarter, but it\u2019s not a huge amount\u2014just a little increment more than previously planned.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Bryan Bergin",
+      "title": "Analyst",
+      "content": "Okay, and just a follow-up on GenAI and ADP Assist\u2014can you clarify if this is a monetizable feature or primarily an enhancement to drive customer satisfaction?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "President and CEO",
+      "content": "ADP Assist represents our overarching brand that focuses on integrating new tools and technology into our products. Our goal is not to charge clients for enhancements but to leverage new technology to enhance the user experience. Over the long term, we do expect monetization opportunities through new products and innovations that stem from these investments.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Bryan Bergin",
+      "title": "Analyst",
+      "content": "Understood. Thank you.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next question comes from Samad Samana with Jefferies. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Samad Samana",
+      "title": "Analyst",
+      "content": "Hi, good morning. Thanks for taking my questions. I\u2019m interested in the PEO business; you\u2019ve mentioned softness in major sectors like technology and professional services. Have you seen any changes in exposure or trends over the last few quarters?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "President and CEO",
+      "content": "The trend in professional services has stabilized. In previous remarks, we mentioned that it had contributed to a deceleration in PEO pays per control growth, but it has now stabilized.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Samad Samana",
+      "title": "Analyst",
+      "content": "Got it. As you think about the pricing environment for new customers during the upcoming annual price increases, have you observed any changes in competitive pricing tactics?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Don McGuire",
+      "title": "CFO",
+      "content": "We haven't seen significant changes in the pricing environment. Our prices are set strategically, and we're comfortable with our position in the market. The upcoming budget cycle will help us evaluate strategies for next year, but we're confident in the long-term value we provide to clients.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Samad Samana",
+      "title": "Analyst",
+      "content": "I appreciate your insights. Thank you for your time.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next question comes from Kevin Mcveigh with UBS. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Kevin Mcveigh",
+      "title": "Analyst",
+      "content": "Great. Thanks so much. Maria, can you remind us what percentage of revenue comes from implementations today, and if there\u2019s any strategy to shift that over time?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Don McGuire",
+      "title": "CFO",
+      "content": "Sub 10% of our overall revenue comes from setup fees from implementations; it's not substantial.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Kevin Mcveigh",
+      "title": "Analyst",
+      "content": "If there\u2019s any shift to outsourcing, do you expect that to impact margins?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Don McGuire",
+      "title": "CFO",
+      "content": "We like maintaining control over implementations. While we could work with third parties, it wouldn't significantly affect our overall financials.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Kevin Mcveigh",
+      "title": "Analyst",
+      "content": "Helpful insights, thank you.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next question comes from Tien-Tsin Huang with J.P. Morgan. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Tien-Tsin Huang",
+      "title": "Analyst",
+      "content": "Thanks so much. Great results here. On your PEO business, could you share if there's anything different about what ADP is doing or if the industry demand is simply changing?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "President and CEO",
+      "content": "I think we\u2019re pleased with the strong PEO bookings momentum we\u2019ve experienced\u2014this marks the fourth quarter of positive momentum. The current demand continues to be incredibly strong, with our value proposition providing insights and support for our clients in navigating co-employment relationships.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Tien-Tsin Huang",
+      "title": "Analyst",
+      "content": "Thank you. That\u2019s very positive information.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next question comes from Jason Kupferberg with Bank of America. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Caroline",
+      "title": "Analyst",
+      "content": "Hi, this is Caroline on behalf of Jason. Pays per control growth has maintained at 2% quarterly so far, but your guidance for full-year 2024 remains at a range of 1 to 2%. Why the deceleration again for the second half?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Don McGuire",
+      "title": "CFO",
+      "content": "We maintained our 1% to 2% range for the year. We expect slight declines in pays per control growth, but overall employment demand remains robust.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Caroline",
+      "title": "Analyst",
+      "content": "Got it. Thanks.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next question comes from Dan Dolev with Mizuho. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Dan Dolev",
+      "title": "Analyst",
+      "content": "Hey, great results here. Can you talk about any initiatives you foresee in the next 12 to 18 months that could offset revenue challenges from declining interest rates?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Don McGuire",
+      "title": "CFO",
+      "content": "If interest rates start to decline, we expect economic activity to pick up as a result, potentially leading to increased revenue and bookings. Therefore, if rates do come down, we should avoid recession, which is essential for our growth.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Danny Hussain",
+      "title": "Vice President, Investor Relations",
+      "content": "Our model looks at reinvesting further out in the yield curve. We're still reinvesting at rates higher than what\u2019s present in the securities rolling off. We don't aim to predict the interest rate outlook for next year yet.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Don McGuire",
+      "title": "CFO",
+      "content": "Currently, our reinvestments are at 4%, higher than our average yield today. There\u2019s still opportunity for growth, although it may be slower than expected.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Dan Dolev",
+      "title": "Analyst",
+      "content": "Great results again, thank you.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. Our next question comes from Pete Christiansen with Citi. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Pete Christiansen",
+      "title": "Analyst",
+      "content": "Thank you. I have two questions. Now that we have fully lapped ERTC, have you noticed any changes in client demands or competitive tactics, particularly in the down market?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "President and CEO",
+      "content": "The changes around ERTC, including the advancements on deadlines, had plowed pressure into the system. We\u2019re focusing on supporting our clients through this process, although financially, ERTC has a minimal overall effect on us. Our competitors may charge more; however, helping our clients remains our key priority.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Pete Christiansen",
+      "title": "Analyst",
+      "content": "Regarding HCM and payments functionality, do you see opportunities to penetrate deeper or add more capabilities through further partnerships or M&A?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "President and CEO",
+      "content": "Yes, there are tremendous opportunities to increase engagement with our clients through various services, including Wisely and EWA. We\u2019ll also continue to explore ways to add value as our clients and employees move through our services.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Pete Christiansen",
+      "title": "Analyst",
+      "content": "Thank you for the insights.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "We have time for one last question, and that question comes from Ashish Sabadra with RBC Capital Markets. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Ashish Sabadra",
+      "title": "Analyst",
+      "content": "Thanks for taking my question. On the PEO front, considering the improvements in WSC and bookings, should we assume this trend continues to improve as we go through the year? Can you comment on revenue per WSC and any opportunities for pricing growth?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "President and CEO",
+      "content": "Yes, we anticipate and expect improvements in bookings and a more favorable retention outlook in the back half of the year. We are monitoring and expecting positive outcomes from various growth components, including those impacting revenue per worksite employee.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Ashish Sabadra",
+      "title": "Analyst",
+      "content": "That's very helpful. Congrats on the solid results.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. I\u2019d like to turn the call back over to Maria Black for any closing remarks.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Maria Black",
+      "title": "President and CEO",
+      "content": "I want to conclude with a huge shout-out to all of our associates and stakeholders across ADP. I'm excited about the back half and what we'll accomplish, not only in fiscal 2024 but in calendar 2024. This year marks ADP's 75th anniversary, and I look forward to celebrating this milestone together with all of you. Thank you.",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you for your participation. This concludes the program, and you may now disconnect. Everyone, have a great day.",
+      "sentiment": "0.0"
+    }
+  ],
+  "reported_date": "2024-07-31"
+}

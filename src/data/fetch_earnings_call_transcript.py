@@ -132,6 +132,7 @@ def main() -> None:
         )
 
     symbols = [
+        # Tech sector (existing)
         "ACN",   # Accenture
         "ADBE",  # Adobe
         "AMD",   # Advanced Micro Devices
@@ -151,6 +152,48 @@ def main() -> None:
         "CRM",   # Salesforce
         "NOW",   # ServiceNow
         "TXN",   # Texas Instruments
+        # Industrials & Transport
+        "MMM",   # 3M Co
+        "AME",   # AMETEK Inc
+        "ADP",   # Automatic Data Processing Inc
+        "AXON",  # Axon Enterprise Inc
+        "BA",    # Boeing Co/The
+        "CARR",  # Carrier Global Corp
+        "CAT",   # Caterpillar Inc
+        "CTAS",  # Cintas Corp
+        "CPRT",  # Copart Inc
+        "CSX",   # CSX Corp
+        "CMI",   # Cummins Inc
+        "DE",    # Deere & Co
+        "ETN",   # Eaton Corp PLC
+        "EMR",   # Emerson Electric Co
+        "FAST",  # Fastenal Co
+        "FDX",   # FedEx Corp
+        "GEV",   # GE Vernova Inc
+        "GD",    # General Dynamics Corp
+        "GE",    # General Electric Co
+        "HON",   # Honeywell International Inc
+        "HWM",   # Howmet Aerospace Inc
+        "ITW",   # Illinois Tool Works Inc
+        "JCI",   # Johnson Controls International
+        "LHX",   # L3Harris Technologies Inc
+        "LMT",   # Lockheed Martin Corp
+        "NSC",   # Norfolk Southern Corp
+        "NOC",   # Northrop Grumman Corp
+        "PCAR",  # PACCAR Inc
+        "PH",    # Parker-Hannifin Corp
+        "PAYX",  # Paychex Inc
+        "PWR",   # Quanta Services Inc
+        "RSG",   # Republic Services Inc
+        "RTX",   # RTX Corp (Raytheon)
+        "TT",    # Trane Technologies PLC
+        "TDG",   # TransDigm Group Inc
+        "UBER",  # Uber Technologies Inc
+        "UNP",   # Union Pacific Corp
+        "UPS",   # United Parcel Service Inc
+        "URI",   # United Rentals Inc
+        "WM",    # Waste Management Inc
+        "GWW",   # WW Grainger Inc
     ]
     year = 2024
 
@@ -203,11 +246,11 @@ def main() -> None:
 
                     # Save with reported_date in filename
                     output_path = save_transcript_json(data, symbol, reported_date)
-                    print(f"    ✓ Saved to {output_path}")
+                    print(f"    [OK] Saved to {output_path}")
 
                 except Exception as e:
                     failed += 1
-                    print(f"    ✗ Error: {type(e).__name__}: {str(e)}")
+                    print(f"    [FAIL] Error: {type(e).__name__}: {str(e)}")
 
                 # Rate limit: pause between calls (20s for free tier: 5 calls/min)
                 time.sleep(20)
@@ -215,7 +258,7 @@ def main() -> None:
             print()
 
         except Exception as e:
-            print(f"  ✗ Failed to discover dates: {type(e).__name__}: {str(e)}")
+            print(f"  [FAIL] Failed to discover dates: {type(e).__name__}: {str(e)}")
             print()
 
     print(f"Batch complete: {completed}/{total_transcripts} transcripts fetched, {failed} failed.")

@@ -1,0 +1,493 @@
+{
+  "symbol": "EMR",
+  "quarter": "2024Q1",
+  "transcript": [
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Good morning and welcome to the Emerson First Quarter 2024 Earnings Conference Call. All participants will be in listen-only mode. After today's presentation, there will be an opportunity to ask questions. Please note this event is being recorded. I would now like to turn the conference over to our host, Colleen Mettler, Vice President of Investor Relations at Emerson. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Colleen Mettler",
+      "title": "Vice President of Investor Relations",
+      "content": "Good morning, and thank you for joining us for Emerson's first quarter 2024 earnings conference call. Today I am joined by President and Chief Executive Officer, Lal Karsanbhai; Chief Financial Officer, Mike Baughman; and Chief Operating Officer, Ram Krishnan. As always, I encourage everyone to follow along with the slide presentation, which is available on our website. Please join me on Slide 2. This presentation may include forward-looking statements which contain a degree of business risk and uncertainty. Please take time to read the Safe Harbor statement and note on the non-GAAP measures. I will now pass the call over to Emerson's President and CEO, Lal Karsanbhai, for his opening remarks.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Lal Karsanbhai",
+      "title": "President and CEO",
+      "content": "Thank you, Colleen and good morning. I'd like to begin by thanking the Emerson team for delivering a strong start to 2024. I'd also like to extend my appreciation to the Emerson Board of Directors and to our customers for your continued confidence in us. Our first quarter results demonstrate the underlying strength of the markets we serve, the meaningfulness of our differentiated technology and the relentless execution of our global teams. Q1 was a strong start for Emerson. As we continued our focus on executing and driving value creation for our shareholders. The demand environment remains healthy for process and hybrid markets. We continue to see projects moving forward at a healthy pace in markets like chemical, LNG, life sciences, metals and mining, and sustainability and decarbonization. Even in the face of higher interest rates, ongoing geopolitical challenges, and upcoming elections in key global markets, including the U.S., our customers' 2024 CapEx budgets are shaping up constructively and are largely supportive of the demand environment we are experiencing. This robust environment, along with continued execution by our teams, is a key contributor to the Q1 performance. Q1 orders, sales, operating leverage and adjusted earnings all exceeded expectations, providing confidence to increase our full-year guidance. This performance reflects our ability to win with a focused approach to our growth platforms and through continued investments in innovation. It is also a testament to our new differentiated portfolio with leading technology, strong profit margins, and exposure to the important global secular growth markets. This is exhibited by our gross margin and adjusted EBITDA expansion since 2021. Our business is well positioned to capture investments in areas like energy security and affordability, sustainability and decarbonization, digital transformation, and nearshoring. Regarding our portfolio, we continue to reiterate that the large parts of our portfolio transformation are complete, and we do not expect any sizable transactions in 2024. This is a portfolio we designed from the beginning, and we are excited to be executing with this set of businesses. On that note, test and measurement is executing well and had a strong first quarter ahead of our expectations. The quarter performance and an acceleration of synergies provide more confidence for our full year expectations from the business. Emerson's Q1 exceeded all expectations. Underlying orders continued to grow in the mid-single digit range, with 4% growth in Q1. Processing hybrid markets were strong and discrete orders remain down as expected. Multiple LNG projects booked in the quarter, specifically in Europe and the Middle East. Life sciences activity was also strong across the globe, with large project wins in the U.S., Canada, Europe and Asia. The Q1 growth was also supported by some project activity shifting from Q2 to Q1. As you all know, orders can move around quarter to quarter, but we still expect low single digit order growth in the first half of 2024 and mid-single digit order growth for the full year, as discrete demand improves in the second half. Underlying sales for the quarter grew 10%. Again, led by process and hybrid markets, exceeding our expectations. Energy transition markets and metals and mining will both be bright spots in the quarter, as we executed numerous projects across Europe, Latin America and Australia. This volume combined with favorable price cost and a strong operational execution resulted in 41% operating leverage in Q1, ahead of our mid 30s expectations. Adjusted EPS was $1.22, up 56% versus 2023. And free cash flow was $367 million, up 51%. Mike Baughman will go through this specific shortly, but we are excited about our first quarter performance. Our current strategic project funnel grew by approximately $200 million to $10.4 billion, and our growth programs continue to represent nearly two-thirds of this funnel. The continued expansion of the funnel is promising, with existing customers and new entrants continuing to plan and budget for capital projects in the coming years. In the first quarter, Emerson was awarded approximately $400 million of project content, with a little more than half from our growth programs, including three noteworthy deals in energy transition. First, Emerson was selected by DG Fuels in Louisiana to provide our comprehensive automated automation portfolio, including advanced sensing, control systems, and optimization software for the production of sustainable aviation fuels. These fuels can be used in existing aviation and vehicle engines, and DG Fuels has previously announced agreements with aviation leaders, including Air France, KLM, Delta, and Airbus. Next, Emerson was chosen to automate a lithium ion recycling process based on our metals and mining expertise and experience throughout the lithium value chain. Emerson will provide SungEel HiTech, a specialist in lithium battery recycling in Korea, with advanced automation solutions for safe and reliable operations at its newest facility that is capable of supplying materials for approximately 400,000 electric vehicles each year. Lastly, Emerson and AspenTech were jointly selected for a large scale LNG liquefaction facility in the Middle East. The project win represents Emerson's strong presence in the region, including an already sizable LNG installed base. The win is also recognition of the collaboration and synergies between Emerson and AspenTech, as Emerson's DeltaV was selected along with AspenTech's high simulation, showcasing the power and differentiation of our combined portfolio. As we look at the continued needs of Europe and its reliance on gas imports, the Middle East and Africa will play a pivotal role in gas exports. Emerson is uniquely positioned with our local expertise, manufacturing and installed base to serve the region in its LNG growth. These are just three examples of Emerson's continued leadership position in energy transition markets, spanning from established markets like LNG to newer markets like sustainable aviation fuels. We remain focused on accelerating innovation for profitable growth. Our recent innovations and continued technology leadership were recognized by IoT Breakthrough, who named Emerson its 2024 Industrial IoT Company of the Year. IoT Breakthrough received over 4,300 nominations for the 2024 competition, and Emerson was selected based on our unique ability to effectively leverage decades of expertise in digitalization and automation to help the industry transform operations. Among the innovations recognized were Emerson's Ovation green portfolio for managing renewable power assets, Florida cloud solutions to continuously monitor critical production and energy efficiency data in factories, one-click transfer software capable of accelerating the life sciences drug development process, and numerous releases focused on enabling the boundless automation vision, including the DeltaV edge environment. As you recall, boundless automation is Emerson's vision for a cohesive automation ecosystem from device to enterprise. Integrating operations with a flexible automation architecture allows users to have access to all their data, enabling analytics and performance improvements across numerous domains like production, safety, reliability and sustainability. All these innovations will be on display at Emerson's upcoming Users Exchange at the end of February. Emerson Exchange in Dusseldorf, Germany will feature customer case studies, industry sessions and a technology exhibit demonstrating Emerson's leading automation portfolio for process and hybrid industries. New this year are industry-focused exhibits showcasing Emerson's complete solutions for emerging industries like hydrogen, biofuels and carbon capture in addition to growth markets like life sciences and metals and mining. For an update on our synergy progress in test and measurement, we effectively use the time between signing and closing to plan all integration and synergy activities, utilizing a world-class M&A methodology as part of our Emerson Management System. Given the strong team collaboration in the current market environment, we have accelerated those synergy activities. In the first quarter, we worked closely with the new test and measurement leadership team to aggressively address public company and corporate costs while rapidly implementing Phase 1 of our sales and marketing and research and development transformations. We are also leveraging our Emerson Management System and best practices to progress operational execution and commercial excellence at test and measurement. This includes trade working capital, price realization and procurement efficiencies in logistics and direct materials. These efforts put test and measurement ahead of schedule and give us the confidence to increase the cost synergy target to $185 million, which we now expect to achieve by the end of 2026, two years faster than originally expected. This includes approximately $80 million expected to be realized in 2024. Our planned cost to achieve these synergies increases slightly to $165 million with the majority of the spend expected in the first two years. We still expect adjusted segment EBITDA to reach approximately 31% by year five, as sales grow on the reset cost base. I'll now turn the call over to Mike Baughman to go through more detail on the quarter performance, including test and measurement and our updated 2024 guide.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Mike Baughman",
+      "title": "Chief Financial Officer",
+      "content": "Thanks, Lal, and good morning, everyone. Please turn to Slide 8, where we have summarized our first quarter financial results. Underlying sales growth was 10%, led by our process and hybrid businesses. Intelligent devices and software and control grew 11% and 9%, respectively. Discrete automation was down low single digits as expected. All world areas were strong with Asia, Middle East and Africa up 15%, Europe up 10%, and the Americas up 8%. Price contributed approximately 2 points of growth. Test and measurement, which is outside of the underlying sales measure, contributed $382 million, exceeding expectations for the quarter. I will discuss test and measurement performance in more detail on the next slide. Backlog is now $7.6 billion, which is up $500 million versus September 30, when excluding test and measurement. Emerson adjusted segment EBITDA margin improved 190 basis points to 24.6%. Volume, margin-accretive price-cost, which included net material deflation, ongoing productivity programs and the test and measurement performance, all contributed to the margin improvement. Operating leverage excluding test and measurement was 41%. Adjusted EPS grew 56% to $1.22, up $0.44 and is a strong start to the year. Double-digit sales growth and 41% operating leverage contributed to the $0.33 of operational improvement year-over-year. Non-operating items contributed $0.11 year-on-year, mainly due to lower stock compensation, which contributed $0.08 versus Q1 of 2023. As a reminder, all legacy mark-to-market stock compensation plans are now complete. Also contributing to the non-operating items were interest income of 4% and share count, which contributed $0.02. Tax was a $0.03 headwind. Lastly, free cash flow for the quarter of $367 million was up 51% versus the prior year. This was in line with our expectations for the quarter as we saw modest improvement in work capital year-on-year. Headwinds related to acquisition fees and restructuring impacted the quarter by approximately $100 million, and CapEx was up $18 million year-on-year. AspenTech sales and ACV were slightly weaker than our expectations for Q1 driven mainly by a delay in renewal from one customer. This slight miss, however, did not have a material impact on total Emerson results versus our expectations. For the quarter, ACV grew close to 10%. And the AspenTech team continues to see strong market dynamics in power transmission and distribution, and sustainability and decarbonization, while at the same time utilizing Emerson relationships to win in LNG, life sciences and power generation. Turning to Slide 9, we will dive deeper into the first quarter performance of test and measurement. Orders were in line with our expectations, down 17% year-over-year but showed high single-digit sequential improvement led by the strength in aerospace. There was continued softness in semiconductor and automotive markets and ongoing weakness in China. We continue to launch orders as a key indicator and still expect to turn in the second half on easier comps. Sales for the quarter were $382 million, beating initial expectations. This was driven by stronger backlog conversion, lower-than-expected sales during the 11-day stub period prior to closing and a little conservatism in the guide given the timing of the close. Sales were $401 million, including the sales in the stub period. Test and measurement adjusted segment EBITDA margin was 26.5% in the quarter, beating expectations due to higher sales, better-than-expected gross margins and slightly higher cost synergies. The Q1 adjusted segment EBITDA margin benefited from lower-than-expected sales in the stub period against ratable fixed costs. Test and measurement contributed $0.13 in the first quarter, including stock compensation expense and using the test and measurement tax rate, which is in the mid-teens. The stub period dynamic discussed earlier benefited the adjusted EPS contribution by approximately $0.02. Test and measurement's March quarter end sales volume has typically stepped down from its December quarter end. We expect similar seasonality with second quarter sales of approximately $350 million. Second quarter adjusted EPS contribution is expected to be $0.07 driven by leverage on the lower seasonal sales volume, partially offset by synergy savings. Turning to the full year, we have increased our expected adjusted EPS contribution from test and measurement to $0.40 to $0.45 to account for some of the Q1 upside. We still expect sales to be $1.5 billion to $1.6 billion as we continue to watch for the orders turn. Sales volumes are expected to ramp from Q2 to Q4, turning positive in Q4, consistent with our prior expectations. While we expect sales to be down versus 2023, we expect modest adjusted EBITDA expansion as we recognize the cost synergies. Finally, I would like to thank the test and measurement team for an excellent quarter. The integration work has been performed exceedingly well, and your embrace of the Emerson Management System is very much appreciated. Please turn to Slide 10 for details of our Q2 and full year 2024 guidance. After our strong Q1 performance, we are increasing our full year 2024 sales and adjusted EPS guidance. We now expect underlying sales growth of 4.5% to 6.5% driven by our process and hybrid businesses. We expect both intelligent devices and software and control to be within this guidance range for underlying sales. We continue to watch the discrete automation recovery closely, and we now expect sales to turn positive in Q4, consistent with test and measurement. Full year discrete automation underlying sales are now expected to be down in the low single-digit range. FX is expected to be approximately flat versus 2023 compared to a 1-point headwind embedded in our November guidance. Operating leverage, excluding test and measurement, is now expected to be in the low to mid-40s in 2024 versus the mid-to high 40s guidance from November. A modest reduction in our full year target is solely attributed to the move in FX as the 1% increase in sales volume comes in at a lower margin. Our adjusted EPS range increases from $5.30 to $5.45 driven by our Q1 performance. AspenTech is still expected to contribute approximately $0.32 to $0.34. Lastly, we are maintaining our free cash flow guidance of $2.6 billion to $2.7 billion. Share repurchase is expected to be approximately $500 million, of which $175 million was completed in Q1. For the second quarter, we expect underlying sales to increase 3.5% to 5.5% with leverage in the low to mid-40s. Tougher comps in discrete automation are expected to have an impact on reported sales growth for the quarter. However, volumes are expected to improve sequentially from Q1. Adjusted EPS is expected to be between $1.22 and $1.26. And with that, we will now turn the call back to the operator for Q&A.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "The first question comes from Andy Kaplowitz of Citigroup. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Andy Kaplowitz",
+      "title": "Analyst",
+      "content": "Good morning, everyone. Lal, I think your backlog at $7.6 billion, it was up relatively significantly, even excluding test and measurement addition with the orders, as you said, a plus 4%. Can you talk about organic order visibility going forward? It seems like process/hybrid has been relatively strong as you thought. Can you sustain that mid-single-digit kind of order growth going forward? And then have you seen an inflection yet in NATI-related orders?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Lal Karsanbhai",
+      "title": "President and CEO",
+      "content": "Hi, Andy, happy to give you some color on the orders. So obviously, as you know about our business, orders can fluctuate on a quarter-to-quarter basis, which is why we guided in that lower single-digit range in the first half of the year, but finishing the year in the mid-single-digit range, as we are now. We have a high degree of confidence about that based on two factors, Andy, the first being our MRO business continues to be relatively strong. It represented approximately 65% of the revenue in Q1, and we expect that to remain robust as we go through the remainder of the year. And that provides us a strong base of order activity. Secondly, the conversion in the funnel. We booked approximately $400 million that represented almost a little over 90 projects that we won out of the funnel in the first quarter. The funnel grew despite that. And we continue to see activity, particularly in energy transition driven by the Middle East and Africa, in the sustainability area, life sciences, and of course, a tremendous amount of activity in metals and mining. So from an underlying Emerson perspective, the focus really is process and hybrid to continue to provide that underlying strength through the year. Now what we will see is a recovery in discrete in the second half, and that's what we've got baked in here. We are still in the lower single digits negative right now in our discrete markets. It's really demand-driven, as we've been talking about for the last couple of quarters. We do expect a recovery in orders into the second half, of course, between comps and obviously some demand elements there. As far as NI is concerned, it's very much on plan to what we expect in terms of orders. We do also believe that there's a second half positive return on the order activity. And we're starting to see early signs in markets, particularly like semiconductor, as you see these companies come out and report. So very much on plan on both ends and which gives us confidence in the underlying strength of the order activity, Andy.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Andy Kaplowitz",
+      "title": "Analyst",
+      "content": "Helpful. You obviously had a good quarter and raised the outlook. But maybe just on free cash flow, you didn't change your guidance despite the better quarter and outlook. Did you raise your acquisition-related costs? Is CapEx going up? Anything that you could talk about on that side or on the working capital side?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Mike Baughman",
+      "title": "Chief Financial Officer",
+      "content": "Yes, the guidance remains at $2.6 billion to $2.7 billion. Regarding the $250 million mentioned in November, it's on track as expected. We have about $100 million for the quarter along with some capital expenditures related to operations, primarily for integration. We also noted slightly higher capital expenditures, which aligns with our expectations. We carefully considered our guidance. While we increased our earnings and sales, the net impact is approximately $50 million in cash flow, still within the $2.6 billion to $2.7 billion range. We decided not to adjust the guidance further based on our first quarter results. However, I can confidently say that we feel more optimistic about the cash flow guidance than we did three months ago, and everything is progressing as planned.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Andy Kaplowitz",
+      "title": "Analyst",
+      "content": "That\u2019s great. Appreciate the color guys.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "The next question comes from Steve Tusa of JPMorgan. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Steve Tusa",
+      "title": "Analyst",
+      "content": "Hi, good morning. Could you provide more clarity on the bridge from $0.13 for NATI to $0.07? It seems that not all of that difference can be attributed to a $30 million sales decline. Also, regarding the $1.55 billion guidance, based on the first half performance, should we expect sales to follow a linear trajectory from the $350 million in Q2, or will it be more heavily weighted in the fourth quarter?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Mike Baughman",
+      "title": "Chief Financial Officer",
+      "content": "Yes. Steve, it's Mike. I'll talk a little bit about the test and measurement performance and the EPS performance in the quarter. We talked a little bit about this stub dynamic, which really was simply the early 11-day period that we didn't own them the first part of the quarter. The sales were much lower than we expected. We expected something more ratable. They were not ratable. And that drove about $0.02 of improvement from what we expected. And the business leverages, as you know, really nicely. So pushing those sales out into the quarter drove part of that $0.13 performance. Now of that, there was also some Q1 sales that we were expecting in Q2. And so when we thought about the guide, we took that $0.08 beat and we rolled $0.05 forward, and that's where we landed. So great performance on test and measurement, and we're off to a great start there. Ram, do you want to talk about the...",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Ram Krishnan",
+      "title": "Chief Operating Officer",
+      "content": "The second part of the question, yes, I think it's not all in Q4. So you'll see evenly distributed in Q3 and Q4, it will step up from the $350 million. So we feel pretty good about the $0.40 to $0.45 as we sit here.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Steve Tusa",
+      "title": "Analyst",
+      "content": "You have been more consistent with your discrete performance compared to some peers who experienced strong backlog liquidation in the latter half of the previous year. While you've started to notice some weakness, the comparisons will become easier in the fourth quarter, right?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Ram Krishnan",
+      "title": "Chief Operating Officer",
+      "content": "Yes, actually, the third and fourth quarters should be good quarters for us from a discrete perspective.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Mike Baughman",
+      "title": "Chief Financial Officer",
+      "content": "And orders.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Ram Krishnan",
+      "title": "Chief Operating Officer",
+      "content": "And orders. And then sales will turn positive in Q4.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Steve Tusa",
+      "title": "Analyst",
+      "content": "Right. On an easier comp.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Ram Krishnan",
+      "title": "Chief Operating Officer",
+      "content": "Correct.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Steve Tusa",
+      "title": "Analyst",
+      "content": "Yes. Okay, great. Thanks a lot. Appreciate it.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "The next question comes from Jeff Sprague of Vertical Research. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jeff Sprague",
+      "title": "Analyst",
+      "content": "Hello. Good morning, everyone. Lal, two for me. First one, just on LNG. Obviously, it's a global business, and you talked about the Middle East. But just give us your perspective on what the administration has done on approvals in the U.S. and how that might impact your business, the funnels and anything related on your mind.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Lal Karsanbhai",
+      "title": "President and CEO",
+      "content": "Yes, we are certainly disappointed with the administration's decision to hold back on LNG export permitting. This is not just from Emerson's perspective, but as an American, to be honest. However, it is a global business, and we have significant projects ongoing in Qatar, Mozambique, and Guyana, which gives us confidence in our forecast. Regarding our projects in North America, we do not expect any significant impact in 2024 at this time. The projects we have secured have the necessary approvals for construction, transportation, and exports. Our partners, including Bechtel, have reassured us that 2024 looks relatively solid. Going forward, we are seeing increased activity in East Africa and the Middle East, as well as some developments in Canada. We will see how things progress in relation to the U.S. decision.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Jeff Sprague",
+      "title": "Analyst",
+      "content": "Just to clarify, Lal, are the U.S. projects that are pending approval included in the project funnel you present to us quarterly?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Lal Karsanbhai",
+      "title": "President and CEO",
+      "content": "Yes, they are included in the funnel. Depending on the performance of the year, we expect the funnel to reflect about three years of activity. As you know, constructing a liquefaction plant takes about 4 to 5 years. Therefore, certain decisions will continue to be made based on the expected awarding of export licenses in the future, Jeff.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Jeff Sprague",
+      "title": "Analyst",
+      "content": "Right. And then just shifting on NATI real quick. Certainly suspect that your synergies initially laid out were somewhat conservative. But I wonder if you could address the 3-year versus the 5-year. So kind of the underlying cost synergies, I'm not surprised they're going up. I think part of the reason that you talked about 5 years was really treading carefully on Salesforce, R&D organization and that sort of thing. So just give us your thoughts on where that is and maybe the cultural side of the integration, I guess, is the heart of the question.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Lal Karsanbhai",
+      "title": "President and CEO",
+      "content": "I will begin with this, Jeff. We have an exceptional management team led by Ritu Fabre and a strong integration team at Emerson that collaborates closely with the business. The team dedicated considerable time between signing and closing to prepare for a smooth transition. However, as you can expect, this is a substantial transaction. We acquired this company because we believe it has growth potential and can operate more efficiently. We aimed to approach our progress with caution regarding our speed and achievements. Overall, we are satisfied with the execution, the pace of the work, and the enthusiasm the team has shown during this effort, which has encouraged us to not only increase our expectations but also to reduce the execution timeline to three years. Ram, do you have any insights on that?",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Ram Krishnan",
+      "title": "Chief Operating Officer",
+      "content": "Yes, I think the team feels very positive about the quality of the opportunities we've identified, and there is a shared vision to accelerate our efforts and progress the business. We've been pleasantly surprised by our cultural alignment, our focus on the customer, and how we implement our synergy actions. We feel confident that we can expedite our plans, which is why we have expressed this belief, and we are also optimistic about achieving our goals by the end of year three.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Jeff Sprague",
+      "title": "Analyst",
+      "content": "Great, good luck. Thanks.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "The next question comes from Nigel Coe of Wolfe Research. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Nigel Coe",
+      "title": "Analyst",
+      "content": "Thanks. Good morning, everyone. So obviously, a lot of questions on NATI so far, National Instruments, I guess. You've obviously accelerated the timeline for the synergies. As Jeff mentioned, you raised it by $20 million. But you kept the 31% margin targets. Just wondering if there's anything kind of offsetting the upside to cost synergies we should consider there?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Mike Baughman",
+      "title": "Chief Financial Officer",
+      "content": "All right. Nigel, it's Mike. No, there's really on plan. And remember, that's five years out that we were talking about, 31%. We are on track. I think the important thing for the near term is that our expectation around that adjusted EBITDA margin will be that it's a little bit up year-over-year on down sales, reflecting the synergy actions. And moving forward, no, there's really no change to our longer-term expectation around the profitability of test and measurement.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Nigel Coe",
+      "title": "Analyst",
+      "content": "No, no. But the $20 million gives you an extra point of margin. So just wondering if there's anything to offset that. It doesn't sound like there is, but just that's the spirit of the question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Mike Baughman",
+      "title": "Chief Financial Officer",
+      "content": "There isn't. I mean at the...",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Nigel Coe",
+      "title": "Analyst",
+      "content": "Yes, go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Ram Krishnan",
+      "title": "Chief Operating Officer",
+      "content": "No, there isn't. There isn't necessarily anything we've identified to offset the $20 million. I mean the 31% margin target is five years out. I mean, obviously, what we are finding are good investment opportunities. And right now, we're focused on executing the synergies by year 3. If we find good investment opportunities, we'll make that because I think 31% is the target we've set, and we feel pretty comfortable getting there. But if the $185 million comes through with no additional investment opportunities, maybe the number goes up, but that applies to your outnumber.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Nigel Coe",
+      "title": "Analyst",
+      "content": "I understand your point, and I appreciate your question. You noted the impressive growth numbers within ID, particularly the 28% growth in measurement analytics, which seems like an easy comparison. Could you elaborate on that? More importantly, there's a suggestion that the process and hybrid markets are lagging behind discrete automation. It appears that the current trends in discrete automation may indicate what to expect in the coming months. Can you address that theory? Are there any unusual or concerning trends you are observing? It sounds like there aren't, but I would appreciate your thoughts on that concern.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Lal Karsanbhai",
+      "title": "President and CEO",
+      "content": "Yes, happy to, Nigel. I've been speaking and been asked about this for the last three quarters or so. And again, what we experienced in the quarter continues to be very consistent with our initial commentary. The drivers around process and hybrid are being supported by the secular macros that we've been discussing, whether it's energy security, affordability, nearshoring, sustainability to digital transformation. And I think those macro secular drivers are robust enough and secular in nature that they will go through a different type of cycle than we've seen historically. Secondly, we did not experience a boom and bust environment in the process space in over the last cycle. This is a much more moderated capital cycle that we experienced. So we don't have the overcapacity situations and the overbuild situations that we have typically experienced. There was much more discipline in the capital layouts by our customers. And that's a benefit as well. So our business continues to be very robust, obviously. We continue to have confidence in the order runs and in the execution through the year.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Ram Krishnan",
+      "title": "Chief Operating Officer",
+      "content": "Yes. To address the first part of your question, measurement solutions increased by 28%. This improvement is due to the recovery of supply chains in that sector. As you may recall, we faced significant challenges with electronics in the first quarter of last year, which have since eased. Consequently, our orders have risen in the high single digits, and sales have grown by 28%, attributed to the enhancing supply chain. It's important to note that this growth is significantly influenced by easier comparisons to the first quarter of last year.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Nigel Coe",
+      "title": "Analyst",
+      "content": "Right. That\u2019s perfect. Thanks.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "The next question comes from Scott Davis of Melius Research. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Scott Davis",
+      "title": "Analyst",
+      "content": "Good morning, everyone. Congratulations on a solid start. I want to clarify when you mention R&D transformation in test and measurement. Are you implying a shift in focus, like an 80-20 split? I know the team at NATI usually invests heavily, but do you think their efforts have been generally unfocused, and how do you assess that?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Ram Krishnan",
+      "title": "Chief Operating Officer",
+      "content": "Yes. I think it's purely on prioritization of the projects. I think we've gone in with our management system on how do we focus on the critical few priorities that can move the needle from a growth perspective. I mean, there's lots of opportunity. The beauty of what we're finding at NATI is a culture of innovation, plenty of opportunities across four very important market segments where we can move the needle, macros around those markets like EVs, ADAS and semiconductors that are supportive of strong innovation. But I think we're bringing some discipline into how do we prioritize, and how do we look at where do these resources need to be in order to balance cost capabilities, particularly in software versus Austin, for example. And I think these are prudent moves that will allow us to drive more innovation at a better cost from an R&D as a percent of sales.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Lal Karsanbhai",
+      "title": "President and CEO",
+      "content": "And I will just add, Scott, to that. I think a company like NI with the market position it has in the space and the legitimacy of its technology will always have a role in the research element of innovation. That's always going to be a responsibility that we have in the space to continue to move that needle forward. And we will, by all means, as we do in all our businesses, continue that. But having viable commercial programs is important. And that's where parking some cars and investing heavily in the ones that we believe and management believes will ultimately result in customer success is really important. So really good work and thoughtful work being done by the team here led by Ram, of course, and Ritu.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Scott Davis",
+      "title": "Analyst",
+      "content": "Could you clarify the scope when you refer to a win like the SAF win with DG Fuels? Are you discussing full meters, valves, and controls? Is this across a complete range of offerings, or are you focusing on more specific elements for projects you consider a win?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Lal Karsanbhai",
+      "title": "President and CEO",
+      "content": "Yes, this win encompassed our entire automation stack, including the final control elements, the operational components in the plant, and the sensing elements we utilize for flow, pressure, level, and temperature. It involved the DeltaV control system and the accompanying analytics packages as well. This represented a comprehensive solution that showcased the value of our portfolio and demonstrated how all the elements work together at a customer site.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Scott Davis",
+      "title": "Analyst",
+      "content": "Helpful. Thank you. Congrats. I\u2019ll pass on.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "The next question comes from Julian Mitchell of Barclays. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Julian Mitchell",
+      "title": "Analyst",
+      "content": "Hi, good morning. Just wanted to circle back to the discussion around sort of process investments by the large customers, particularly in the sort of oil and gas and energy world. Because it does seem as if there's an understandably a clear effort on that part is sort of shovel more of their cash to shareholders, whether they're government in the Middle East or public shareholders in the West. So just wondered your thoughts, Lal, on the kind of sustainability of that high single-digit orders growth in process that you saw in Q1. Should we expect that to moderate over the next sort of 12 months or so? And does that then pull the backlog down with it? Or the book-to-bill was so high that the backlog can still grow with moderating orders?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Lal Karsanbhai",
+      "title": "President and CEO",
+      "content": "It's a great question, Julian. I just returned from the Middle East where our team visited significant customers in Saudi Arabia, Abu Dhabi, and Qatar. I can tell you that the environment is very strong, particularly around sustainability and energy transition. There is enough demand-driven activity that gives us confidence in maintaining a mid-single-digit exit rate on total company orders at the end of the year. We've been analyzing this for about three quarters, and we haven't observed any deceleration in the process, especially in the areas you're inquiring about. In fact, we continue to see very disciplined spending, focused on core elements of automation that enhance production reliability, efficiency, productivity, and safety. That trend has not diminished, and we do not anticipate any changes as we move through the year.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Julian Mitchell",
+      "title": "Analyst",
+      "content": "That's helpful. Thank you. And then just a much more sort of near-term fiddly question. Just looking at the second quarter guide on Slide 10, so the EPS at the midpoint is going up maybe $0.02 sequentially from Q1 despite a decent revenue and volume increase sequentially. Partly, that's the test and measurement earnings falling sequentially. But just wondered if there was anything else like in the base business changing in terms of mix or something like that as you move from sort of Q1 to Q2.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Mike Baughman",
+      "title": "Chief Financial Officer",
+      "content": "No, you hit it right with the test and measurement comment. And the leverage in the low to mid-40s coming through reflects no big change in mix or trajectory. So no, really nothing there on the Q2 guide.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Julian Mitchell",
+      "title": "Analyst",
+      "content": "Great. Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "The next question comes from Christopher Snyder of UBS. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Christopher Snyder",
+      "title": "Analyst",
+      "content": "Thank you. I also wanted to ask on National Instruments. Q1 came in about $80 million above the guide. But you guys are now talking to a full year of $1.5 billion to $1.6 billion. All the commentary on the last call was $1.6 billion. So I guess, why that range following the beat? Is it just a rounding error? Or is National Instruments maybe turning a little bit slower than you thought previously? Thank you.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Colleen Mettler",
+      "title": "Vice President of Investor Relations",
+      "content": "Yes. Chris, if you go back to November guide, that range has remained consistent. I think it was just a round in $1.6 billion that was being spoken about.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Christopher Snyder",
+      "title": "Analyst",
+      "content": "Thank you. I want to ask about the margins. They have been a strong point for the company over the past couple of years, and you exceeded the incremental guidance again in Q1. However, it seems that the full year guidance for incrementals was lowered to a range in the low to mid-40s from mid- to high, despite the Q1 success. Is there anything related to the mix or other factors that we should consider? Thank you.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Mike Baughman",
+      "title": "Chief Financial Officer",
+      "content": "Yes. Chris, in the comments, we talked about the effect of foreign exchange. We changed assumption there, and it had a 1-point increase on FX, which comes into the leverage number with a much lower profitability attached to it. The drivers around leverage remain the same with volume and leverage and price/cost, and then we continue to drive the Emerson management process with cost reductions to offset inflation. So yes, but to answer your question specifically, the change in the guide was really solely attributed to that FX element.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Christopher Snyder",
+      "title": "Analyst",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "The next question comes from Deane Dray of RBC Capital Markets. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Deane Dray",
+      "title": "Analyst",
+      "content": "Thank you. Good morning, everyone. Look, there's been a lot of focus on the progress you're making on the cost synergies front in National Instruments. Can we talk a bit about expectations for revenue synergies? It might be too early, but just timing and size and where it might come from? Is it cross-selling? Are there new customers you've been opened up to? But just what's the expectation?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Lal Karsanbhai",
+      "title": "President and CEO",
+      "content": "I'll let Ram add a little bit of color. But certainly, it's something that we're keenly working on. Obviously, the focus was on the commitment on cost. And we do believe alongside management that that is a had been and is an evident opportunity. Having said that, I am not going to suggest that we're three or maybe even six months away to come out publicly with some sales ideas. But we're certainly working on customer-specific ideas on sales synergies. Ram and I and Ritu have held a number of customer meetings jointly and thinking through opportunities that we have across the Emerson portfolio as it comes in with NI. Ram?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Ram Krishnan",
+      "title": "Chief Operating Officer",
+      "content": "Yes. The two key markets are clearly EV batteries, where we are involved in production automation and NI focuses on validation and testing systems during R&D. Similarly, in semiconductors, these two markets show significant customer overlap and combined capabilities that deliver substantial value from R&D to production. We see these as areas of opportunity. We are actively pursuing this and are not yet prepared to quantify the sales synergies, but they are definitely a priority, and we are progressing through the process.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Deane Dray",
+      "title": "Analyst",
+      "content": "Great. I have a second question. I joined a bit late, so I'm sorry if this has already been discussed, but regarding China, there seems to be a lot of concern about the macroeconomic situation there. It appears that you are not heavily involved in sectors like real estate that are under significant pressure. What are your expectations, and what opportunities do you see in the near term?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Lal Karsanbhai",
+      "title": "President and CEO",
+      "content": "We experienced growth in the high single digits for our sales in China during the quarter. We anticipate growth in the mid to high single digits for the year. Our business remains strong, aligned with the same global macro trends. While the end markets might differ slightly, especially in specialty chemicals, our position is very solid. Our regionalization strategy has proven effective, and we are optimistic about continuing to succeed in China throughout the year. Ram, do you have anything to add?",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Ram Krishnan",
+      "title": "Chief Operating Officer",
+      "content": "Yes. No, you said it. I think in our core process hybrid business, power and chemical will drive the growth. I mean, obviously, what's not in the underlying numbers is test and measurement. Test and measurement is consistent with discrete. Off to a tougher start in China, but expecting a second half recovery, consistent with what we're seeing with the discrete business.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Deane Dray",
+      "title": "Analyst",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "The next question comes from Joe O'Dea from Wells Fargo. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Joe O'Dea",
+      "title": "Analyst",
+      "content": "Hi, good morning. Just in terms of the remaining 9 months of the year and the guide, obviously off to a strong start. But organically, any change in how you're thinking about that versus 3 months ago? It seems like not much change in what's implied in the organic growth rate. If anything, I think the math would suggest the margins could have ticked down a touch. But I just want to make sure, is the message that the last 9 months of the year, no real change in kind of the organic side of the expectations?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Lal Karsanbhai",
+      "title": "President and CEO",
+      "content": "No. We remain Joe, very positive on the environment. Obviously, we couple that with the strong execution by our teams. But in terms of the organic outlook, no change really.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Joe O'Dea",
+      "title": "Analyst",
+      "content": "Okay. And then related to the strength in measurement and analytical, I understand some commentary on easier comps, but the stacks did improve sequentially. And so as it relates to supply chain, where are you on a normalization? You know, the orders up high single digits is a pretty encouraging number. Are you at a point now where there's still some pent-up backlog to ship out? Or do you view it as having gotten pretty close to more normalization at this point?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Ram Krishnan",
+      "title": "Chief Operating Officer",
+      "content": "Yes, the supply chains have normalized. So in terms of our ability to procure electronics and load factories and drive production out of factories, we feel that's normalized. Now certainly, in the measurement and analytical business, there is some overdue backlog that will ship through Q2. The easier comparisons and our ability to ship that backlog is what drove the 28% in Q1. You'll see that in the measurement and analytical business. That's the last business normalizing from a supply chain perspective. But the demand environment for that business still remains very healthy with orders up in the high single digits.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Joe O'Dea",
+      "title": "Analyst",
+      "content": "Got it. Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And the next question comes from Brett Linzey of Mizuho. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brett Linzey",
+      "title": "Analyst",
+      "content": "Hey, good morning. Thank you. Wanted to come back to the project funnel. I was hoping you might be able to give some color on the profitability of the growth platforms. And is there anything different or unique about the aftermarket or service attachment rates and the way those deals were structured and Emerson's wallet share there?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Lal Karsanbhai",
+      "title": "President and CEO",
+      "content": "No, nothing really different. Look, the profitability certainly varies between MRO and project activity, but that's well known. I think you know that well. But in terms of the mix within the funnel, there's not really a significant difference between a growth platform and traditional project work there. Of course, we have a $150 billion installed base around the world. And with that, some of that is obtained through and managed through service contracts, a large portion of it, where we have commitments for replacement and maintenance with many of our global customers. And others are upgrades, activities and things of that sort.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Brett Linzey",
+      "title": "Analyst",
+      "content": "Okay. Great. And then just shifting to price/cost, I think the original guide was about two points. You had two points in the quarter. Has the expectation changed at all for the year? And then any movement on material or non-material inflation that is shifting expectations at all on the cost side?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Ram Krishnan",
+      "title": "Chief Operating Officer",
+      "content": "No, the price is two points for the quarter and two points for the year. We're confident with no changes in that area. Regarding our net material inflation, we're continuing to find opportunities related to direct materials. Logistics costs have decreased. We don\u2019t anticipate any significant impact from inflation related to the situation in the Red Sea or the Panama Canal. Therefore, we expect net material inflation to keep improving as the year progresses.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Brett Linzey",
+      "title": "Analyst",
+      "content": "Okay, great. Appreciate the insights. Best of luck.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "This concludes our question-and-answer session, and the conference has now concluded. Thank you for attending today's presentation. You may now disconnect.",
+      "sentiment": "0.0"
+    }
+  ],
+  "reported_date": "2024-05-08"
+}

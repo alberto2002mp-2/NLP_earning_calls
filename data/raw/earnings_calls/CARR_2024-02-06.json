@@ -1,0 +1,643 @@
+{
+  "symbol": "CARR",
+  "quarter": "2023Q4",
+  "transcript": [
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Good morning, and welcome to Carrier Fourth Quarter 2023 Earnings Conference Call. I would like to introduce your host for today's conference, Sam Pearlstein, Vice President of Investor Relations. Please go ahead, sir.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Sam Pearlstein",
+      "title": "Vice President of Investor Relations",
+      "content": "Thank you, and good morning, and welcome to Carrier's fourth quarter 2023 earnings conference call. With me here today are David Gitlin, Chairman and Chief Executive Officer; and Patrick Goris, Chief Financial Officer. We will be discussing certain non-GAAP measures on this call, which management believes are relevant in assessing the financial performance of the business. These non-GAAP measures are reconciled to GAAP figures in our earnings presentation, which is available to download from Carrier's website at ir.carrier.com. The company reminds listeners that the sales, earnings and cash flow expectations and any other forward-looking statements provided during the call are subject to risks and uncertainties. Carrier's SEC filings including Forms 10-K, 10-Q and 8-K provide details on important factors that could cause actual results to differ materially from those anticipated in the forward-looking statements. Once the call is open for questions, we ask that you limit yourself to one question and one follow-up to give everyone the opportunity to participate. With that, I'd like to turn the call over to our Chairman and CEO, Dave Gitlin.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "David Gitlin",
+      "title": "Chairman and Chief Executive Officer",
+      "content": "Well, thank you, Sam, and good morning, everyone. Let me start by saying a heartfelt thank you to our team for delivering excellent results in 2023 while navigating such a significant and compelling portfolio transformation. I'd also like to thank and welcome our new 12,000 team members from Viessmann Climate Solutions. Our formal kick-off last month had more energy, warmth, and excitement than I have ever seen from day one celebrations. I profoundly believe that this will go down as the most impactful business combination that our industry has ever seen, and we are so excited to be on this journey together. As you can see on Slide 2, the fourth quarter capped a strong finish to a great year for Carrier. In the quarter, we achieved 33% adjusted EPS growth, driving another quarter of double-digit aftermarket growth and 80 basis points of margin expansion on flat sales. Importantly, free cash flow of over $800 million significantly beat our expectations, driven by continued strong performance and working capital. Overall for 2023, I am so proud of what the team accomplished, as you can see on Slide 3. Our team has consistently shown an ability to outperform without excuses, overcoming COVID headwinds to deliver strong results following our spin in 2020, persevering through supply chain challenges, and delivering for our customers and shareholders despite significant portfolio moves. For the year, we delivered 17% EPS growth and 3% organic sales growth, drove about 40% core earnings conversion, and improved our free cash flow performance by more than 50% year-over-year, from $1.4 billion to over $2.1 billion. Not only did we deliver strong results in the year, but we also took key actions on growth initiatives and detailed productivity planning to position 2024 for solid growth and margin expansion. This consistent performance has led to differentiated shareholder returns since we became a public company, as you can see on Slide 4. As we prepare for our spin, our goal was to leverage our many strengths that Carrier established over the past century but also take advantage of the unique opportunity to create a new Carrier. We established a performance culture with innovation and customer intimacy at our core and simplified our business and portfolio. We have been disciplined on continuous improvement in productivity, invested in growth, and have driven recurring revenues with a proven playbook. We sharpened our focus as an organization to lean into the long-term trends around sustainability and have accelerated our leadership in this space. Though we're proud of our track record, we're even more excited about our next chapter as we take our performance to the next level. Our mission is clear: to be the global leader in intelligent climate and energy solutions, as you can see on Slide 5. It starts with differentiated product introductions, some of which you see listed here. We are now focusing our 6,000 engineers on developing differentiated sustainable solutions for our customers. Specific technologies that cut across our portfolio globally, such as AI and sensing algorithms, low GWP refrigerants, energy efficiency, low-temperature heat pumps, electrification, and integrated energy management solutions. We are poised to out-innovate and win, and we will continue to invest to ensure that we do so. These efforts are reflected in our results as we gain share across our portfolio. European commercial heat pump sales were up 25% in 2023. Nearly 40% of our North America residential split systems were heat pumps, and our market-leading electric transport refrigeration sales in Europe grew over 70%. For sustainability leadership, we walk the talk. We have reduced our customers' emissions by more than 270 million metric tons on our way to our 1 gigaton Scope 3 commitment for 2030. We remain on track for carbon neutrality in our operations by 2030 and are using a bond across our footprint to help ensure that we achieve it. We also laid out a clear roadmap to achieve net-zero greenhouse gas emissions across our value chain by 2050 under the SBTI framework. In addition to sustainability, one of our other key themes is achieving consistent double-digit aftermarket growth, which we achieved again last year, as you can see on Slide 6. Growing 12% last year represents our third consecutive year of double-digit growth. We now have approximately 30,000 connected chillers in the field versus 5,000 just three years ago. This has helped our attachment and our coverage rates with commercial HVAC now at 45% attachment for long-term service agreements, up from roughly 20% just three years ago. We know the playbook, it's working, and we are targeting another year of double-digit aftermarket growth this year and beyond. In summary, we continue to perform while we transform, as you see on Slide 7. I already mentioned the energy and warm reception that we received from our new team members and many customers across Europe just a few weeks ago. Here is what is clear: Viessmann is an organization with a deep culture of excellence. Excellence in its product design, customer intimacy, channel superiority, culture, and team, all reflected in its deeply admired brand. The tangible and intangible benefits from this combination will benefit our people, customers, investors, and the planet for decades to come. We are also fortunate to now have Max Viessmann on our board, who is already providing us with unique insights and perspectives. When we look closer at 2024, we are planning for Viessmann Climate Solutions sales to be up mid-single digits off a 2023 year end of about $4.2 billion, with high teens adjusted EBITDA margins. This includes the benefit of our targeted first-year cost synergies. Even though last year's regulatory and subsidy uncertainty in some European countries delayed order intake, which we expect to impact growth in the first half of 2024, we do expect Viessmann Climate Solutions to return to solid growth in the second half of this year. And we target achieving or exceeding our year one business case adjusted EBITDA by accelerating supply chain and other cost savings. So we are off and running. We are applying the playbook from our successful integration with Toshiba to ensure that we preserve Viessmann\u2019s super team and culture while integrating to create tremendous value together.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Patrick Goris",
+      "title": "Chief Financial Officer",
+      "content": "Thank you, Dave, and good morning everyone. Please turn to Slide 10. Q4 earnings were ahead of our expectations and the guide we provided in October, even though reported sales of $5.1 billion were about $150 million lower. Organic sales were flat, and a favorable 1% tailwind from currency translation was offset by the impact of the divestitures. Organic sales were lower than we expected, mostly in the North America residential HVAC business as lower volumes reflected demand and distributors drove down field inventories. Q4 adjusted operating profit was up 8% compared to last year, despite flat sales, driven by favorable price cost and productivity, partially offset by investments. As a result, adjusted operating margin expanded by 80 basis points compared to last year. Adjusted EPS of $0.53 was up 33% year-over-year and was ahead of our implied Q4 guide of $0.50. Compared to our expectations, HVAC margins were a little better, fire and security and refrigeration margins were a little light, and we benefited from discrete tax items and somewhat lower net interest expense. Free cash flow of $829 million was about $150 million better than our October guide, and we generated $2.1 billion of free cash flow for the full year, which is 92% of adjusted net income. Excluding some of the M&A-related fees and cash restructuring spend which are adjusted out of our results, we converted over 100% of adjusted net income into free cash flow in 2023. Moving on to the segments starting on Slide 11. The HVAC segment had another good quarter with significant operating margin expansion despite flat sales. Organic sales were down 1%, mostly due to North American residential HVAC sales being down high teens. This headwind was almost completely offset by continued exceptional growth in light commercial HVAC, high single-digit growth in commercial HVAC, including over 20% growth in the Americas and another quarter of double-digit growth in aftermarket. North America residential HVAC volume was down in the high 20s, which was partially offset by continued price realization and a positive mix-up related to the 2023 SEER transition. Our light commercial HVAC business finished a very strong year with another quarter of about 20% year-over-year growth. This business was up 35% for the full year, an industry best. Adjusted operating margin was up 250 basis points year-over-year on flat sales growth, driven by price cost and productivity. This led to a full year operating margin for this segment of 16.6%. Overall, another great year for our HVAC business. Transitioning to Refrigeration on Slide 12. As expected, organic sales for this segment returned to growth in the quarter and were up 6%. Within transport refrigeration, container was up significantly, around 60%. Our global truck and trailer business was up low single digits with North America and Europe flat and strong growth in Asia. Our Sensitech business, which provides comprehensive visibility solutions for tracking and monitoring temperature-sensitive products, was up high single digits. Commercial refrigeration was down high single digits year-over-year. Operating margin contracted 160 basis points year-over-year due to investments and a few one-time items such as warranty and insurance. Moving on to fire and security on Slide 13. Organic sales were down given a very tough compare in Access Solutions, partially offset by strength in industrial fire, which was up almost 20%. Adjusted operating profit was down 7% versus the prior year, driven by volume mix and currency, partially offset by favorable price cost. The revaluation of the Argentine peso impacted margins by over 100 basis points. Full-year operating margin for this segment was about 15%. Turning to Slide 14. As you can see on the left side of the chart, backlog for our longer-cycle commercial HVAC business continues to increase, while backlogs in our shorter-cycle businesses continue to normalize. Total company orders were down low single digits in the quarter mostly as a result of our North America truck and trailer orders being down significantly compared to last year. In Q4 of 2022, North America truck and trailer orders were up an exceptional 120% year-over-year as we opened the 2023 order book. Excluding North America truck and trailer, Carrier\u2019s organic orders were up mid-single digits in Q4. HVAC orders returned to low single-digit growth as residential HVAC orders were up mid-teens, which more than offset the decline in light commercial orders, which were down roughly 40% as lead times continued to improve in that business. Commercial HVAC orders were up low single digits and the longer cycle backlog remained strong, up around 30% on a two-year stack and extending well into the second half of 2024. Refrigeration orders were down about 20% in the quarter with global truck and trailer orders down roughly 50%, reflecting the very tough comp in North America I mentioned earlier. This was only partially offset by a return to growth in orders in the container business where orders were up nearly 60% and low single-digit growth in commercial refrigeration. Overall, we enter 2024 with robust, longer-cycle backlogs in commercial HVAC and a return to orders growth in key businesses such as residential HVAC and container. Moving on to Slide 15, guidance. Let me start with some key assumptions embedded in guidance related to our portfolio transformation. We have included a full year of Viessmann Climate Solutions as we closed the acquisition on January 2nd. You may recall that we previously communicated that our business exits will remain in continuing operations until they close. Therefore, with definitive agreements in place for the sale of both global access solutions and commercial refrigeration, our guidance assumes a midyear exit date, and so both businesses are included in 2024 guidance through the end of June. Accordingly, our guidance assumes the net proceeds from these two exits will be used to pay down debt. We include industrial fire and residential and commercial fire for the full year 2024 into our guidance and we will do so until there are definitive agreements in place and we have a good estimate as to the likely exit date. Now to details of the 2024 guidance. We expect reported sales of about $26.5 billion, including mid-single-digit organic sales growth, with about equal contribution from price and volume mix. We expect mid-single-digit organic growth for Viessmann Climate Solutions to contribute about 20% to reported sales growth and a deconsolidation of KFI along with the divestitures of Global Access Solutions and Commercial Refrigeration to represent about a 5% headwind to reported sales. Adjusted operating margin is expected to be between 15% and 15.5%, up over 50 basis points compared to 2023, driven by price, volume, and productivity. Productivity includes an $80 million benefit from restructuring actions we executed earlier this quarter as we simplify our structure, given our transformation. The impact of Viessmann Climate Solutions and overall company operating margin is about neutral. Core earnings conversion, that is excluding the impact of acquisitions, divestitures, and FX, is over 30%. Incorporating an estimated 23% adjusted effective tax rate, this gets us to an adjusted EPS guidance range of $2.80 to $2.90, which includes about a seven-cent headwind from the Viessmann acquisition as we expected. Underlying free cash flow is expected to be up about 10% compared to 2023. Reported free cash flow will be lower given some of the portfolio transformation activities. Similar to 2022, when we exited Chubb, cash flow from operations will be impacted by tax payments related to the gains on the sales of these business exits. Given the large expected gains on the two transactions already announced, we expect free cash flow to net about $700 million. This includes about $1.7 billion of cash outflows related to the expected tax payments on the gains of Access Solutions and Commercial Refrigeration, transaction fees related to all four exits and the Viessmann transaction, and additional restructuring. Similar to 2023, we expect higher than typical restructuring charges in 2024, about $100 million pre-tax. Seasonally, we expect our free cash flow to be back half-weighted. Unlike the tax payments on the gain of the business exits, proceeds from the divestitures will show in the cash flow statement as investing activities and therefore do not impact free cash flow. As shown on the right side of the slide, we expect mid-single-digit organic growth in all three segments. Fire and security operating margin of about 14% reflects the absence of the higher margin global access solutions business in the second half of the year. Now moving to Slide 16, 2024 adjusted EPS bridge. This chart shows how adjusted EPS increases from $2.73 to $2.85 at the midpoint. Our guidance includes the benefit of volume leverage and strong productivity, leading to over 30% core earnings conversion and over 50 basis points of margin expansion. Think of the dark blue as our core business, representing all the businesses we will retain, and the lighter blue representing the four businesses we are exiting. We expect the earnings of our core business to be up close to 15% in 2024, despite the dilutive impact of Viessmann. You can see the net contribution from Viessmann Climate Solutions and the net impact of losing six months of earnings from Access Solutions and Commercial Refrigeration offset by interest savings from the proceeds. We expect a headwind from tax as we return to a 23% adjusted effective tax rate. On the far right, you see that our full-year 2024 guide includes about $0.30 of adjusted EPS related to businesses being exited. The $0.30, of course, does not reflect the benefit of the redeployment of expected net proceeds from the exits of industrial fire and residential and commercial fire. As usual, we provide estimates of other items in the appendix on Slide 20. With respect to capital deployment in 2024, we recently announced a dividend increase payable starting with the February dividend, and our focus this year will be on deleveraging through free cash flow generation and net proceeds from the exits. As we return to about 2 times net leverage, we do intend to resume share repurchases. Finally, before I turn it over to Dave, let me provide some additional color on the first quarter. We expect low single-digit organic revenue growth with about 50 basis points of margin expansion. We have a $0.10 year-over-year adjusted EPS headwind, including $0.06 from Viessmann, $0.02 from last year's gain on the sale and refrigeration, and $0.01 each from the KFI deconsolidation and a higher tax rate. We therefore expect Q1 revenues of a little less than $6.5 billion and adjusted EPS to be right at about, but not above $0.50. We do expect organic revenue growth to sequentially improve throughout the year with easier comparisons in the second half of 2024. We expect a little less than 50% of full-year adjusted EPS to be realized in the first half of the year and the balance in the second half.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "David Gitlin",
+      "title": "Chairman and Chief Executive Officer",
+      "content": "Thanks, Patrick. In closing, we delivered strong results in 2023 and are geared up to do so again in 2024. This is a big year for us as a company, and we will remain heads down, focused on execution, and we will start realizing the tremendous benefits that we'll see from the combination of Viessmann and as a sustainability-focused, higher growth, pure-play company. In 2024, we will continue to perform while we transform. With that, we'll open this up for questions.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. The first question comes from Jeffrey Sprague with Vertical Research. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jeffrey Sprague",
+      "title": "Analyst",
+      "content": "Thank you. Good morning, everyone. Hey, good morning. Dave, can you address just a little bit more color and detail on how you see things playing out in Viessmann through the year? Obviously, the German political chaos and uncertainty on the incentives are clearly in play and impacted the end of the year in 2023. So just a little bit more color on what you're expecting in Germany, in particular, how you might offset that in other countries? And just how do we get comfortable with the business cycling higher in the back half of 2024?",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "David Gitlin",
+      "title": "Chairman and Chief Executive Officer",
+      "content": "Well, Jeff, we feel well positioned as we look at January, February, and then we do need to see that order book increase as we go into March, heading into 2Q. What we did see is exactly what you just said. Some of the dithering that we saw around legislation in countries like Germany and elsewhere did put a slight pause on new orders for a period of stretch in 3Q heading into 4Q. We now have clarity. We see the regulation coming out of the European Union, which is now looking like they're going to add a new provision that talks about not only getting to 55% renewables and reduction in greenhouse gas emissions by 2030, but now 90% by 2040. You can't get there without more regulation around heat pumps. So, we got more definitive legislation in Germany in January, which has those subsidies in the 40% to 70% range, depending on a variety of factors. We have more certainty in countries like France and Italy. We have a new administration in Poland, which should unleash some of the EU funding. So, as we look at the year, we think France and Poland will be up double digits. Germany probably in the mid-single digit range. Italy will be down a bit. To your point, Jeff, the sales are a bit backend \u2014 I would say the EBITDA is a bit more back-end loaded for us, probably 60%, 65% in the second half when synergies start to \u2014 we start to accumulate more synergies, especially from supply chain in the second half. So, the bottom line is that we're watching orders. We're starting to see activity pick up now, now that German legislation is finalized. We saw heat pump applications increase. We saw preorder activity on our website increase as we got into January, so that was very encouraging. So, we're looking at orders, we're looking at clearly filling that second half growth. We're looking at full-year EBITDA, which should be at or frankly a little bit ahead of our original business case. And we're going to be aggressive on some of those supply chain synergies to set up the second half EBITDA growth over the first half.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Jeffrey Sprague",
+      "title": "Analyst",
+      "content": "Great. Thank you. And just pivoting a little bit for Patrick. Patrick, can you just give us, I don't know, as precise as possible, how much actual revenue and profit then is actually in the 2024 guide for security and commercial refrigeration?",
+      "sentiment": "-0.1"
+    },
+    {
+      "speaker": "Patrick Goris",
+      "title": "Chief Financial Officer",
+      "content": "Yes, for the full year?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jeffrey Sprague",
+      "title": "Analyst",
+      "content": "Well, it's going to be gone in the second half for your guide, right? How much revenue and profit is actually embedded in the first half guide for those two businesses that are leaving?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Patrick Goris",
+      "title": "Chief Financial Officer",
+      "content": "Well, we lose for the full year, we lose about 5% of the exits. And think of the business as being more or less evenly loaded for the full year. So, think of the first year being about $1 billion, give or take, and from a profitability point of view, probably a little bit more profit in the \u2014 yes, and I would say from a margin point of view, similar to what we shared as the margin profile of these businesses. So, give or take $1 billion, Jeff.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jeffrey Sprague",
+      "title": "Analyst",
+      "content": "All right, thank you. Thank you very much.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Patrick Goris",
+      "title": "Chief Financial Officer",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Please stand by for our next question. The next question comes from Julian Mitchell with Barclays. Your line is now open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Julian Mitchell",
+      "title": "Analyst",
+      "content": "Hi, good morning, and thanks for giving a lot of clear detail amidst many moving parts. In terms of, I guess, my first question on the core sort of HVAC segment guide on Slide 15, you've got the sales guided up sort of mid-single digits for the full year. Maybe just any more detail on that in terms of, for example, price versus volumes and maybe what you're assuming for that U.S. residential HVAC business within that sales guide, please.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "David Gitlin",
+      "title": "Chairman and Chief Executive Officer",
+      "content": "Yes, Julian, the way I look at it is, residential and our sort of global commercial HVAC business, if you think about it those two ways, those will both probably be up in the high single-digit range, and North American light commercial business will probably be down mid-single digits.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Julian Mitchell",
+      "title": "Analyst",
+      "content": "Thanks. And any thoughts on price volume within the segment for the year?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "David Gitlin",
+      "title": "Chairman and Chief Executive Officer",
+      "content": "Yes, I would say for price for HVAC, you're looking at about 2% and 2.5% of price. The rest, volume mix.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Julian Mitchell",
+      "title": "Analyst",
+      "content": "Thanks very much. And then just a quick follow up on Viessmann Climate Solutions. You talked about that mid-single-digit sales growth guide for the year in aggregate. I wonder if any color within that, not so much by region which you addressed, and not so much by sort of seasonality which you addressed, but more perhaps in terms of how much of that growth guide is volume-based, and if you'd give any color across some of the products, perhaps, I think investors get very nervous about heat pumps and so forth, but maybe any flavor as to some of the other products, like boilers and so forth.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "David Gitlin",
+      "title": "Chairman and Chief Executive Officer",
+      "content": "Yes, it's more volume than price. You're probably looking at a couple of points of price, the rest volume. I would say a few things with respect to organic growth. For Viessmann, where I know some of our peers are talking about lower growth than we are, I think some of the reasons that we have high confidence in the mid-single-digit growth are: Number one, we're not a heat pump pure play. So we have the ability to flex with boilers depending on what the market conditions are. We are anticipating share gains. Viessmann has introduced new products. There's a new product line in that 16 kilowatts to 19 kilowatts, which will now give us access to more than 90% of the single-family residential market in Europe, where before that sort of higher capacity part of that segment, we did not have a product offering for, and all the way much higher than that, which gets into the multifamily. So, we're looking at not only share gains, but we're also looking at products that introduce us into new parts of the market. The geographic mix we think plays favorable, as we see Germany start to certainly recover in the second half, we'll push on the services, and I do think there's going to start to be some level of benefit on the revenue synergies. Internally, we're targeting a fairly significant number for ourselves that we haven't put into our underlying model. So, we'll start to see recovery of heat pumps taking place. We'll still see some more boiler sales. PV may slow a little bit, which would be something that we'll watch, but it is on the lower margin side for us as a business. So, all in all, I've had a chance to spend a lot of time with the Viessmann leadership team and the salespeople, and we're starting to see now that we have more clarity around the regulations, a lot of activity picking up that we do have confidence will certainly benefit us with growth in the second half.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Julian Mitchell",
+      "title": "Analyst",
+      "content": "That's very helpful. Thank you.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "David Gitlin",
+      "title": "Chairman and Chief Executive Officer",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Please stand by for the next question. The next question comes from Andrew Kaplowitz with Citigroup. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Andrew Kaplowitz",
+      "title": "Analyst",
+      "content": "Good morning, everyone.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "David Gitlin",
+      "title": "Chairman and Chief Executive Officer",
+      "content": "Good morning, Andy.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Andrew Kaplowitz",
+      "title": "Analyst",
+      "content": "Dave or Patrick, I think you mentioned the expectation of sales up high single digit in residential for the year. Can you break that out between price and volume? And then can you talk about the progress you're seeing on rolling out 454-B and where did inventory in the year in residential versus your target? I think you were talking about down mid-teens.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "David Gitlin",
+      "title": "Chairman and Chief Executive Officer",
+      "content": "Well, Andy, it's Dave. Let me try to break it out. I think that, look, we'll expect for residential a few points of price, the rest will be volume mix. Remember, we talked about price for the 454-B units being up 15% to 20% over two years. And the way you can think about that is a few percent of just basic price this year, a few percent of price next year. Remember, we announced a 6% price increase effective for March for our residential business. And then on top of that, you're probably looking at about a 10% or so price difference for the 454-B units versus the 410-A. And look, I'm proud of the team. I think that we're going to start shipping units as early as March. We'll start for the 454-B. We're going to start on some of the new build side because our home builders don't want a mixed subdivision, so to speak. So, they're going to start taking 454-B units a little bit earlier. We'll get some out for national heat pumps for training purposes. I think when all is set and done this year, probably be 80% will be the 410-A and about 20% will be the 454-B. And I'm sorry, Andy, did you have another piece in there that I failed to address?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Andrew Kaplowitz",
+      "title": "Analyst",
+      "content": "It's just where inventory is in the channel sort of ended the year?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "David Gitlin",
+      "title": "Chairman and Chief Executive Officer",
+      "content": "Yes, this was a big one for us. We wanted to end down mid-teens and we ended up down 16% year-over-year in inventory. So that was a fairly purposeful effort by us working very closely with our distributors. That was one of our biggest targets in 4Q. Now 4Q residential ended up being a little bit lighter than we had thought, partly for that reason, as we were making sure that we got as much of the de-stocking behind us in 2023 as possible. And I think we achieved that. Could there be a tiny bit more de-stocking here in 1Q? Yes, but I think that's behind us over the next month or two, and then we'll back to more typical levels.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Andrew Kaplowitz",
+      "title": "Analyst",
+      "content": "Great. And then sort of the mid-single-digit growth guidance for HVAC. You answered Julian's questions about the mix, but commercial HVAC orders actually reaccelerated a bit, up 5%. Are you seeing sort of reacceleration or anything in certain key markets for you guys? And then alternatively, on the light commercial side, you talked about down mid-single digits and visibility to that sort of kind of decline in 2024.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "David Gitlin",
+      "title": "Chairman and Chief Executive Officer",
+      "content": "When we look at orders, we\u2019ve seen robust results in the Americas for some time. Both our sales and orders in that region were up by double digits last year. Sales in commercial HVAC in the Americas were close to 20%, and we also experienced strong double-digit growth in commercial HVAC in Europe, which was somewhat unexpectedly strong. Orders in Europe were also satisfactory in the fourth quarter, driven in part by ongoing demand for data centers. We are witnessing positive growth on the industrial side in Europe, while Asia remains solid. However, orders from China in the fourth quarter were lower than anticipated, making it a point of concern. In terms of commercial HVAC in China, our focus has shifted from 70% real estate and 30% industrial and infrastructure to now 75% industrial. There is strong demand for electric vehicle production, and data center demand remains robust in China. While property markets in China are a weak point and likely to continue that way, the rest of the market shows strong growth potential. We are optimistic about strong growth in China this year as we continue to engage with our customers directly.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Andrew Kaplowitz",
+      "title": "Analyst",
+      "content": "Appreciate the color, guys.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "David Gitlin",
+      "title": "Chairman and Chief Executive Officer",
+      "content": "Thank you. One moment for our next question. Next question comes from Deane Dray with RBC Capital Markets. Your line is now open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Deane Dray",
+      "title": "Analyst",
+      "content": "Thank you. Good morning, everyone.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "David Gitlin",
+      "title": "Chairman and Chief Executive Officer",
+      "content": "Hey, Deane. Good morning.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Deane Dray",
+      "title": "Analyst",
+      "content": "Hey, it's kind of hard to see through the fog of all the moving pieces here, but we're hearing more about the resumption of seasonality. Just what's baked into the guide regarding what we would typically see as seasonality?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Patrick Goris",
+      "title": "Chief Financial Officer",
+      "content": "I would say, Deane, in general, no different than prior years. So we expect, as always, Q2 and Q3 to be, by far, our biggest quarters, generally driven, of course, by what's happening in residential HVAC. And then from a seasonality point of view, more on the cash flow side, as typical, very back-end loaded, so heavy in Q3 and in Q4. In terms of the EPS split, last year we did about 48% in the first half, 52% of our full-year EPS in the second half. This year our current guide assumes it's very similar, maybe a point lower in the first half, offset by a point higher in the second half, so 47%, 53%. But I would say besides that, no big difference in seasonality than we typically see. As Dave mentioned, for Viessmann specifically, we expect it to be a second half \u2014 more weighted towards the second half, one, because of the expected volume pickup given the order activity we're seeing, but also given the cost synergy that we expect to kick in, particularly in the second half of the year.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Deane Dray",
+      "title": "Analyst",
+      "content": "Great. That's real helpful. And then, Dave, lots of discussions this quarter across the industrials about all of these mega projects, $1 billion plus. It sounds like most of these are still in front log discussion stage. Where are you positioning and what do you expect to be with regards to win rates and so forth?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "David Gitlin",
+      "title": "Chairman and Chief Executive Officer",
+      "content": "We feel very well positioned with the mega projects and have established a central group to target larger scale customers. The data center market is exceptionally strong for us, surpassing the property market, which represents less than 10% of our commercial HVAC business in the Americas. Data centers now account for a low double-digit percentage of our overall business. We've recently launched new products, including a new air-cooled chiller, which has led to significant successes in both the United States and Europe. In fact, Europe has experienced tenfold growth in data center space over the past two years. With the CHIPS Act fostering local production and the robust demand across various verticals such as education\u2014both K-12 and higher ed\u2014retail, and healthcare, we feel optimistic about our position in the commercial HVAC sector. Last year, we gained market share in the Americas, saw stability in Europe, and held steady in Asia. Overall, we are well prepared for these mega projects.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Deane Dray",
+      "title": "Analyst",
+      "content": "That's very helpful. Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "David Gitlin",
+      "title": "Chairman and Chief Executive Officer",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Please stand by for the next question. The next question comes from Noah Kaye with Oppenheimer. Your line is now open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Noah Kaye",
+      "title": "Analyst",
+      "content": "Good morning. First question, the guidance for mid-single-digit organic growth in the Refrigeration segment for 2024. Can we talk a little bit about the assumptions to get there? And particularly what you're assuming on a regional basis for transport refrigeration? Thanks.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "David Gitlin",
+      "title": "Chairman and Chief Executive Officer",
+      "content": "Yes. Yes. I'll take that. This is Dave. Well, first of all, we're looking at a strong rebound in the container business, both in terms of the market and in terms of share. So we think that for us, the container business will certainly be well north of double digits. For the global truck trailer business, that's up in the low single-digit range. The North American truck trailer market, if you look at ACT, that market is down double digits. But remember, last year, it was down significantly, and we actually grew last year, and it's partly because people look at ACT, and that's just a small piece of it. That is the sheer volume for trailers. It excludes things like truck, APUs, pricing mix that we get from electrification. So even though the market says \u2014 I think the market could be down double digits, ACT, I think, is saying 37,000 units this year from 42,500 or so last year. We actually think that we'll end up probably flattish in both NATT, maybe kind of give or take a point or two. And then I would say flattish on the European truck trailer side as well. Europe would probably be down maybe 1 point or 2, but we continue to see strength in the Asia truck trailer. And we see commercial refrigeration business starting to rebound this year, and we're looking at double-digit growth in that business.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Noah Kaye",
+      "title": "Analyst",
+      "content": "Extremely helpful, Dave. I think when we adjust free cash flow profile back for the one-time cash outflows looking at core free cash flow conversion north of 90%. I guess as we move past some of these transformation initiatives, how do we think about the core free cash flow conversion on a go-forward basis? Is there still that potential to get to 100%? And what are you going to be focused on over the course of this year to get you there?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Patrick Goris",
+      "title": "Chief Financial Officer",
+      "content": "Yes. We're always focused on free cash flow conversion. As I mentioned this year in 2023, if you adjust for items like restructuring and some of the M&A-related fees which we adjust out, so they're not part of our adjusted income, we're actually well over 100% of free cash flow conversion. So some of it relates back to you take it over GAAP income or adjusted net income. Now for 2024, our guide for free cash flow, I mentioned $700 million; that includes $1.7 billion of those items. So take $2.4 billion, we expect 2024 to be elevated from a CapEx perspective as well, which is embedded in that guide for 2024. And a key reason for that is that within our Viessmann Climate Solutions business, we're finalizing some of the larger projects. And so we think that our CapEx outlook for 2024 of about $550 million is probably about $75 million or so higher than what the underlying run rate would be. And so that's an element in 2024. But obviously, taking into account the cash spend on restructuring, we would always target to be at 100% free cash flow conversion. And I think in 2023, if you take that into account, we absolutely didn't.",
+      "sentiment": "0.1"
+    },
+    {
+      "speaker": "Noah Kaye",
+      "title": "Analyst",
+      "content": "Appreciate that. Thanks, Patrick.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Patrick Goris",
+      "title": "Chief Financial Officer",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "One moment for our next question. Next question comes from Joe Ritchie with Goldman Sachs. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Joe Ritchie",
+      "title": "Analyst",
+      "content": "Thanks. Good morning, guys.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "David Gitlin",
+      "title": "Chairman and Chief Executive Officer",
+      "content": "Good morning.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Joe Ritchie",
+      "title": "Analyst",
+      "content": "Dave, I want to focus my first question just on Viessmann. So what were kind of like the exit trends for 2023? And then just embedded in that mid-single-digit number for the year, kind of what's expected in the first half of the year? I know it's expected to be a slower start.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "David Gitlin",
+      "title": "Chairman and Chief Executive Officer",
+      "content": "Yes. Look, we did see that orders were lighter in the second half, and that did impact \u2014 I would say the fourth quarter came in a little bit lower than we thought. It was still up mid-single digits versus the fourth quarter of last year. But when we look at the calendarization of this year, from a sales perspective, you're probably looking at about 45% or so of the sales in the first half and about 55% of the sales in the back half. When you look at the EBITDA, it's more \u2014 a little bit more weighted towards the back half because that's when we see our synergies start to come in. But as I was mentioning earlier, Joe, I think the encouraging piece is once we got the definitive legislation out of Germany, and you can apply for the subsidies, which become retroactively beneficial effective in \u2014 as of January, we did see \u2014 it was kind of like a tale of two cities. You saw activity on the Viessmann web pages picked up. You started to see energy amongst the installers. And you started to see heat pump applications increase. So clearly, some of that dithering we saw on the legislative side impacted new orders. Now that we have a level of certainty, we're very confident that we'll start to see the heat pump orders and sales pick up in the second half. And Patrick, are you going to add something?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Patrick Goris",
+      "title": "Chief Financial Officer",
+      "content": "Yes, Joe, I was just going to say, for Q4 of 2023, Viessmann sales were down about mid-single digits. And then, so for Q1 of this year, we expect them to be about flattish with a pickup in the second half of 2024 as Dave just mentioned.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Joe Ritchie",
+      "title": "Analyst",
+      "content": "Got it. That's perfect. That's good color. Thank you both. And I guess just I know we've already kind of talked through the residential HVAC inventory cycle and where we are. I'm just curious across the rest of your portfolio. Can you maybe just provide some color on inventories? I'm specifically curious about the security business and what you're seeing in that business right now.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "David Gitlin",
+      "title": "Chairman and Chief Executive Officer",
+      "content": "On the security side, as Patrick mentioned, we've guided for the first half of the year and feel aligned with our current position. We believe we're returning to more normal levels of backlog in security. Looking at other areas, particularly our commercial HVAC segment, our backlog remains up by 30% over a two-year period, which positions us well for the second half of this year. We are optimistic about our growth projections in commercial HVAC. Regarding the light commercial segment, we are monitoring inventory levels in the channel. This has influenced our forecast of sales declining in the mid-single digit range. It\u2019s important to note that even with our 2024 forecast, it would still be below the figures we experienced in 2019 and 2018. While we are keeping a close watch on inventory levels, we still have strong coverage as we move into the second quarter and beyond. We'll continue to monitor the situation, especially since light commercial constitutes about 5% of Carrier. However, we remain encouraged by the coverage we have.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Joe Ritchie",
+      "title": "Analyst",
+      "content": "Helpful. Thank you, guys.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "David Gitlin",
+      "title": "Chairman and Chief Executive Officer",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "One moment for our next question. The next question comes from Nigel Coe with Wolfe Research. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Nigel Coe",
+      "title": "Analyst",
+      "content": "Thanks. Good morning. And I echo Julian's comments, thanks for making a pretty complex setup a little bit easier for us. So thanks for the details. Just want to go back to Viessmann. And the comments about 45-55, Patrick, I think you mentioned that \u2014 based on our model, we got 50-50 roughly for 2023. So I just want to make sure that's sort of more normal seasonality. And then can you just maybe comment on where we finished up on EBITDA for Viessmann, I think, EUR0.7 billion was sort of the benchmark. And the spur of the question really is, I think, Patrick, you mentioned Viessmann be fairly neutral to margins in 2024. I've got EBITDA margins in the 16.5%, 17% range for 2024. So I just want to make sure that's where you see the Viessmann margins for 2024?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Patrick Goris",
+      "title": "Chief Financial Officer",
+      "content": "Okay. Quite a few things there. Nigel, I'll start with the \u2014 where Viessmann ended in 2023. We had said about EUR4 billion and about $700 million in EBITDA. So EUR4 billion in sales.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "David Gitlin",
+      "title": "Chairman and Chief Executive Officer",
+      "content": "$700 million.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Patrick Goris",
+      "title": "Chief Financial Officer",
+      "content": "In EBITDA. On both items, they came in slightly below. So sales were close to EUR3.9 billion, and EBITDA came in about $50 or so million below that. So that's where Viessmann ended the year. In terms of VCS margins for the full year, from an operating margin point of view, Viessmann embedding our guide is right at mid-teens. So right at the, call it, middle of mid-teens. And I think from an EBITDA margin point of view, they're in the high teens. So their EBITDA margin is slightly accretive to the overall company. The operating margin is basically right in line with the company average as well.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Nigel Coe",
+      "title": "Analyst",
+      "content": "Okay. I'll follow up offline. I thought the depreciation was quite low there, but we'll follow up offline. And just a quick follow-on...",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Patrick Goris",
+      "title": "Chief Financial Officer",
+      "content": "To that point, that there was a step-up in the fixed assets as part of the transaction, and that boosted the depreciation.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Nigel Coe",
+      "title": "Analyst",
+      "content": "Okay. That makes total sense. And then just thinking about \u2014 Dave, you talked about the ability for Viessmann to pivot between heat pumps and boilers. Just wondering about the mix impact there because my understanding is heat pumps are much higher ticket price than boiler. So just wondering if there's a mix impact we should consider as well?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "David Gitlin",
+      "title": "Chairman and Chief Executive Officer",
+      "content": "Yes. I think on the margin side, they're both very similar. But clearly, on the sales side, we're looking at about 3 times the price for heat pumps than you're seeing for boilers. So when we look at that heat pump growth, we think long term, you're looking at heat pump growth more than 20%. It remains to be seen whether obviously, a bit of a tough compare last year, whether we'll get that 20% growth in 2024, but the mix that we see between expected heat pumps and boilers is baked into our mid-single-digit guide for them for the top line for this year.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Nigel Coe",
+      "title": "Analyst",
+      "content": "Great. Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "David Gitlin",
+      "title": "Chairman and Chief Executive Officer",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "One moment for our next question. The next question comes from Jeff Hammond with KeyBanc Capital Markets. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jeff Hammond",
+      "title": "Analyst",
+      "content": "Hi. Good morning, guys. Just a couple of cleanups on HVAC. One, just on residential, maybe speak to sell-through versus sell-in, what are you thinking for the market versus the absence of de-stock? And then the light commercial down mid-single digits, is that purely comps? Or are you seeing order weakness there?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "David Gitlin",
+      "title": "Chairman and Chief Executive Officer",
+      "content": "Well, regarding the latter part of your question, comparisons are one aspect, and analyzing orders is challenging due to the significant fluctuations we're experiencing. For instance, in one quarter, orders might drop by 30% or 40%. Instead, we are focusing on coverage for light commercial sales, assessing the fundamental demand present in the market and our backlog's ability to meet that demand, along with evaluating the underlying verticals. Looking ahead to the first half of 2024, we believe we have good coverage for the anticipated sales, extending well into the second quarter. We are monitoring inventory levels and generally have solid coverage. Some verticals, like K-12 education and certain lower-end retail segments, remain quite strong. Additionally, we are tracking new orders coming in to support the second half of the year in the light commercial sector. Can you please remind me of your question regarding residential?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Jeff Hammond",
+      "title": "Analyst",
+      "content": "Just on residential, what you think market demand is? Yes.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "David Gitlin",
+      "title": "Chairman and Chief Executive Officer",
+      "content": "Yes, I think we're now back to a point which would have been more like what we would have been used to pre-COVID, which is you'll start to see sales and movement start to feel very similar to each other. We sell into the channel, what moves from our channel partners and to the dealers. So we should start to see more of a 1:1 match for movement, our sales and our movement from our distributors. We're sort of back to more normal levels. And you think about the market over these last handful of years, look at a market level, you're looking at total shipments on ducted splits of back in 2018, 2019 of around $6.5 million. And this year, you're looking at about $6.5 million. So it feels like we're kind of in the zone of where we would have been pre-COVID, and we'll grow from there. Last year was a bit of a reset year coming off a couple of years where we got up into that $8 million range. And now we're sort of back to more traditional levels, and we feel good about the growth rates that we have projected for residential for this year.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Jeff Hammond",
+      "title": "Analyst",
+      "content": "Okay. And then just on the commercial residential fire business, when do you think you'll have a resolution on what's kind of the lean spin versus sale at this point?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "David Gitlin",
+      "title": "Chairman and Chief Executive Officer",
+      "content": "Yes. When we think about \u2014 we're looking at combining the commercial and the residential fire in an exit together. And I'll tell you right now, our number one priority is we want to make sure that we do everything we can to close security, close the commercial refrigeration as effectively and as soon as we can, working with the buyers. And that's a little bit more than half of the EBITDA that we're exiting. The next priority we have in line is industrial fire, and that's frankly progressing very well. We're looking at hopefully an announced deal here within the next couple of months. Then we're doing all the prep work right now internally for commercial and residential fire, and we're preparing it both ways. We're preparing it as though we could do a sale with the QOV and all the work associated with that. And we have a whole prep activity around a public market exit. And in the meantime, we're heads down focused on improving the underlying performance of what are really great franchises in those businesses like Kidde and Edwards. And at the end of the day, which way we'll go sale or public market exit, it just comes down to maximizing long-term shareholder value, and we continue to assess that internally.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Jeff Hammond",
+      "title": "Analyst",
+      "content": "Okay. Great. Appreciate the color.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "David Gitlin",
+      "title": "Chairman and Chief Executive Officer",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "One moment for our next call. The next question comes from Stephen Tusa with JPMorgan.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Stephen Tusa",
+      "title": "Analyst",
+      "content": "Hi, good morning.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Patrick Goris",
+      "title": "Chief Financial Officer",
+      "content": "Good morning.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Stephen Tusa",
+      "title": "Analyst",
+      "content": "Congrats on closing the Viessmann deal.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Patrick Goris",
+      "title": "Chief Financial Officer",
+      "content": "Thank you. We're excited by it.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Stephen Tusa",
+      "title": "Analyst",
+      "content": "Dave, you mentioned $6.5 million ducted splits. What were you talking about versus the $8.5 million? What exactly data point are you talking about there?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "David Gitlin",
+      "title": "Chairman and Chief Executive Officer",
+      "content": "Yes, Steve, I know you\u2019ve talked different. That's like total split volume for North America.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Stephen Tusa",
+      "title": "Analyst",
+      "content": "So how does that differ from the HRI data?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "David Gitlin",
+      "title": "Chairman and Chief Executive Officer",
+      "content": "For the industry? We can take it off-line, Steve, if you have different...",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Stephen Tusa",
+      "title": "Analyst",
+      "content": "Okay. As we look ahead to 2025, could you clarify what that profile looks like? Specifically, how much operational profit will roll off and what will be the interest savings? How should we contextualize what you're discussing this year for the upcoming year?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Patrick Goris",
+      "title": "Chief Financial Officer",
+      "content": "Yes, Steve. It might be helpful to look at the EPS bridge we included in our deck for this. And the way I'm thinking this is our core business this year, the dark blue one grows by about 14% or so percent year-over-year. Next year, assuming, of course, we exit all the businesses \u2014 at the end of this year, that would be a $0.30 dilutive impact that we would lose. What's not embedded there is, of course, the offset related to the redeployment of the net proceeds. So core business $2.55 this year per our guide. We would be disappointed, of course, and if we could not continue to grow that at double digits. Add to that, the redeployment of the net proceeds. In addition to that, free cash flow given that we would be close to 2 times net leverage, we\u2019d be back in the market doing repo. And so, I think there\u2019s a lot of earnings power available to us.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Stephen Tusa",
+      "title": "Analyst",
+      "content": "Yes. Okay. That helps. And then just one last one. What was price cost for the quarter?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Patrick Goris",
+      "title": "Chief Financial Officer",
+      "content": "Price cost for the quarter?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Stephen Tusa",
+      "title": "Analyst",
+      "content": "Yes. The net. So what was pricing for the quarter and then the net, yes.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Patrick Goris",
+      "title": "Chief Financial Officer",
+      "content": "No, understood. I don't have an exact number, but it was significantly favorable because from the overall company point of view, our margin expanded by 80 basis points. That was basically all due to price cost and productivity. I embed productivity in there, Steve. It was probably \u2014 that was over 200 bps offset by some unfavorable mix and investments.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Stephen Tusa",
+      "title": "Analyst",
+      "content": "Okay. Great. Thanks a lot for detail. Appreciate it.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Patrick Goris",
+      "title": "Chief Financial Officer",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "One moment for our next question. The next question comes from Brett Linzey with Mizuho. Your line is open.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Brett Linzey",
+      "title": "Analyst",
+      "content": "Thanks. Good morning. Just wanted to come back to Asia and specifically China, you gave a little bit of color there, but fourth quarter orders up 20%, 25% there. Could you just give the complexion between the building markets versus transport markets in that order number and some of the activity you're seeing there?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "David Gitlin",
+      "title": "Chairman and Chief Executive Officer",
+      "content": "We observed very high orders in China, around 20%. While the ref orders were notably high, they represent a relatively small portion of our overall business. We faced some challenges on the commercial HVAC side in China, and the F&S segment was in the mid-single-digit range. Overall, we were quite pleased with the orders from China, which account for about 9% of our sales since acquiring Toshiba. We have also gained some traction in the residential and light commercial sectors and are launching several new products in that area. As I mentioned earlier with Viessmann, we introduced a new product entering a new market. The revenue synergies we've developed between Toshiba and Giwee to introduce new products in the Chinese market look promising, and we expect continued growth. The transition from real estate and property to more industrial sectors like EV production, electronics, infrastructure, and manufacturing is strong. We anticipate that China will contribute positively in 2024, likely in the high single-digit range. We must remain attentive to developments in China, but we believe that targeting the right areas will position us well.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Brett Linzey",
+      "title": "Analyst",
+      "content": "Okay. Great. And then just a follow-up to that. You identified the significant synergies at Viessmann. You've had some time for the integration here, maybe put a finer point on the sizing and the timing of those and what really is that new branding, new products, and so on? Any context would be great.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "David Gitlin",
+      "title": "Chairman and Chief Executive Officer",
+      "content": "Yes. I would categorize the revenue synergies and we will begin to outline those for our investors over time. It's still a bit early, but I would classify the revenue synergies into three groups. The first is multichannel, multi-brand. Viessmann has what I believe is the best channel for the residential market in Europe, with over 80,000 direct installer relationships. We are considering introducing a secondary brand, possibly the Carrier brand, into that channel. There's also potential for further development with the Toshiba brand in Europe. We need to explore how we can leverage the Viessmann brand in markets like China, India, and North America. The second category is pure innovation. Viessmann has an excellent digital tool that they utilize with their installers. We should explore ways to enhance service growth using the digital tools available within Carrier, Viessmann, or even our heat pump technology. We could see increased demand for air-to-water systems in the United States, especially in areas like New England that use radiated heat. There might be a trend toward geothermal systems in the U.S., even if it's a niche market. The last category is integrated offerings, such as comprehensive home energy management systems, which Viessmann excels at in Europe and presents an opportunity for us in the U.S. Additionally, solutions like district heating, where we can combine a commercial heat pump with Viessmann's apartment transfer units, represent significant potential. We have set ambitious internal targets and as we achieve progress, we will provide more details to our investors.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Brett Linzey",
+      "title": "Analyst",
+      "content": "Okay. And that's not baked in this year, right? Back half?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "David Gitlin",
+      "title": "Chairman and Chief Executive Officer",
+      "content": "Correct.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Brett Linzey",
+      "title": "Analyst",
+      "content": "Thank you.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "David Gitlin",
+      "title": "Chairman and Chief Executive Officer",
+      "content": "Okay. Well, let me wrap things up. First of all, thank you all for joining. For us, it's a big day. We're actually here in the New York Stock Exchange. We will be a little bit overdue because we were going to ring the bell when we spun as a public company back in 2020, but it was COVID, the New York Stock Exchange, which was shut down. So we're excited to have our \u2014 many of our key leaders here with us, and we'll be ringing the bell here shortly. We have customers with us in the building today, which we're excited to spend time with them. And we are so excited about not only 2024, but the future of this company. We are so well positioned around the sustainability trend, and I'm so proud of what this team has accomplished since our spin, but I assure you that our best days are ahead. So thank you all for joining, and Sam, as always, available for questions.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you for participating. This does conclude the program. You may now disconnect. Everyone have a great day.",
+      "sentiment": "0.0"
+    }
+  ],
+  "reported_date": "2024-02-06"
+}

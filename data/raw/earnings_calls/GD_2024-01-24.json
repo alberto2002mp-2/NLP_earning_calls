@@ -1,0 +1,379 @@
+{
+  "symbol": "GD",
+  "quarter": "2023Q4",
+  "transcript": [
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Good morning and welcome to the General Dynamics Fourth Quarter and Full Year 2023 Earnings Conference Call. All participants will be in listen-only mode. After the speakers' remarks, there will be a question-and-answer session. I would now like to turn the conference over to Nicole Shelton, Vice President of Investor Relations. Please go ahead.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Nicole Shelton",
+      "title": "Vice President of Investor Relations",
+      "content": "Thank you, operator, and good morning everyone. Welcome to the General Dynamics fourth quarter and full year 2023 earnings conference call. Any forward-looking statements made today represent our estimates regarding the company\u2019s outlook. These estimates are subject to some risks and uncertainties. Additional information regarding these factors is contained in the company\u2019s 10-K, 10-Q, and 8-K filings. We will also refer to certain non-GAAP financial measures. For additional disclosures about these non-GAAP measures, including reconciliations to comparable GAAP measures, please see the press release and slides that accompany this webcast, which are available on the Investor Relations page of our website, investorrelations.gd.com. On the call today are Phebe Novakovic, our Chairman and Chief Executive Officer, and Jason Aiken, Executive Vice President, Technologies and Chief Financial Officer. With the introductions complete, I\u2019ll turn the call over to Phebe.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Phebe Novakovic",
+      "title": "Chairman and CEO",
+      "content": "Thank you, Nicole. Good morning, everyone, and thanks for being with us. Earlier this morning, we reported earnings of $3.64 per diluted share on revenue of $11,668,000,000, operating earnings of $1,288,000,000, and net earnings of $1,000,000,000. Revenue is up $817 million, a strong 7.5% against the fourth quarter last year. Operating earnings are up $61 million, and earnings per share are up $0.06, or 1.7%. The year-ago quarter had $52 million more of other net income, which helps explain the more modest earnings per share growth. In short, the quarter-over-quarter results compare quite favorably, particularly revenue and operating earnings. The sequential results are even better. Here, we beat last quarter's revenue by $1,097,000, a very strong 10.4%, operating earnings by $231 million, or 21.9%, net earnings by $169 million or 20.2%, and EPS by $0.60, a 19.7% improvement. As we promised that it would be, the final quarter is our strongest of the year in both revenue and earnings. In fact, revenue, earnings per share, operating earnings, and net earnings improved quarter over the previous quarter throughout the year. It was a nice steady progression of sequential improvement. For the full year, we had revenue of $42.3 billion, up 7.3%, and operating earnings of $4.25 billion, up 0.8%, and earnings per fully diluted share of $12.02, down $0.17, a 1.4% decrease, mostly as a result of below-the-line items like other income, which was higher, and the tax provision, which was lower in 2022. The fourth quarter and the year are $0.04 and $0.09 respectively, below consensus. It is important to note that consensus lowered during the two weeks before this earnings release, as the sell side became aware of Gulfstream's deliveries from public sources. This miss was exclusively because the G700 did not certify before year end. As a result, Gulfstream was unable to deliver 15 G700s as we and the sell side had anticipated. I will have more to say about this in my segment remarks. While we miss consensus and our own expectations for reasons beyond our control, it should not distract from an otherwise good quarter and year. Let me ask Jason to provide some detail on our strong cash performance for the quarter and the year, overall order activity, and backlog, and any other items you might like to address.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Jason Aiken",
+      "title": "Executive Vice President and CFO",
+      "content": "Thank you, Phebe, and good morning. Order activity and backlog were a strong story for us in 2023. We finished the year with total backlog of $93.6 billion, up $2.5 billion over last year. Total estimated contract value, which includes options and IDIQ contracts, was nearly $132 billion. In terms of orders, the aerospace segment led the way with a 1.2 to 1 book-to-bill ratio in both the fourth quarter and full year, and they ended the year with a total backlog of $20.5 billion. The defense segments had a book-to-bill of 0.7 times in the fourth quarter and one-to-one for the full year. Overall, the company had a book-to-bill of 1.1 times for the year, and all four segments were one-to-one or better. Turning to our cash performance, it was another strong quarter with operating cash flow of $1.2 billion, which brings us to $4.7 billion of operating cash flow for the year. As discussed on previous calls, this level of cash flow was achieved on the strength of Gulfstream orders, additional payments on Combat Systems international programs, and continued strong cash performance in technologies. After capital expenditures, our free cash flow for the year was $3.8 billion, a cash conversion rate of 115%. This was nicely ahead of our anticipated cash flow for the year, notwithstanding the delayed certification and entry into service of the G700. Looking at capital deployment, capital expenditures, as I noted on the last call, were higher in the fourth quarter at $304 million, which brings us to $904 million for the full year. The lion's share of these investments are, of course, in our shipyards to support the Navy's submarine and shipbuilding plan. At 2.1% of sales, full year capital expenditures were a little lower than our original expectation due to timing, so some of that naturally pushes into next year. As a result, we expect CapEx to be between 2% and 2.5% of sales next year and closer to 2% thereafter. We also paid $360 million in dividends in the fourth quarter, bringing the full year to $1.4 billion. There were no shares repurchased in the quarter, so we finished the year with two million shares repurchased for $434 million at $215 per share. With respect to our pension plans, we contributed $106 million in 2023, which included a modest voluntary contribution to one of our commercial plans, and we expect to contribute approximately $75 million in 2024. After all this, we ended the year with a cash balance of $1.9 billion and a net debt position of $7.3 billion, down approximately $1.9 billion, more than 20% from last year. We have $500 million of debt maturing in 2024. Our net interest expense in the fourth quarter was $78 million, bringing interest expense for the full year to $343 million. That compares to $85 million and $364 million in the respective 2022 periods. We expect interest expense in 2024 to continue to decrease to around $320 million. Turning to income taxes, we had an 18.1% effective tax rate in the fourth quarter, which brings our full year rate to 16.8%, slightly below, but generally in line with our guidance. Looking ahead to 2024, we expect the full year effective tax rate to increase to around 17.5%, reflecting higher taxes on foreign earnings. That concludes this portion of my remarks, and I'll turn it back over to Phebe for segment comments.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Phebe Novakovic",
+      "title": "Chairman and CEO",
+      "content": "Thanks, Jason. First, aerospace; the story in aerospace is found in sequential and year-over-year improvement, continuing strong demand for Gulfstream aircraft, the overall strength of Gulfstream's service business, and the continuing growth of jet aviation. In the quarter, aerospace had revenue of $2.74 billion and earnings of $449 million. This represents a 12% increase in revenue and a 33% increase in earnings on a quarter-over-quarter basis. The sequential numbers are even stronger, with a 35% increase in revenue coupled with a staggering 68% increase in operating earnings. The important point here is the dramatic increase in the delivery of in-service airplanes in the quarter, 39 versus 27 in the third quarter of 2023. A strong mix favoring large aircraft, strong pricing in the backlog, better overhead absorption, and improved supply chain response, leading to less out-of-station work, all contributed to a 16.4% margin in the quarter. For the full year, revenue of $8.62 billion is up only $54 million from the prior year, and operating earnings of $1.18 billion improved by $52 million on a 50-basis point improvement in operating margin. Nevertheless, aerospace revenue and earnings are less than we anticipated for the quarter in the year because, as I mentioned earlier, we did not receive the certification of G700 in the fourth quarter and did not deliver 15 aircraft we had ready to go. That deprived us of slightly over a billion dollars of revenue and close to $250 million in earnings. These, of course, are orders of magnitude figures. We were also unable during the course of the year to increase production of in-service aircraft as planned because of well-known supply chain issues that began to resolve in the fourth quarter. So, where are we in our journey toward G700 certification? We are almost complete with the final technical inspection authorization. FAA function and reliability flight testing is almost done, and almost all of the paperwork associated with the process has been submitted. In the meantime, we are asking customers to schedule their pre-delivery inspections contemplating delivery this quarter. All that having been said, let me turn to the demand environment. The book-to-bill was 1.2 times in the quarter and 1.2 times for the year. Backlog increased $395 million sequentially and $938 million for the year. So, aerospace demand remained strong for both aircraft and services at Gulfstream and jet aviation. I should add that strong order intake was interrupted for a two- to three-week period twice during the year, once for a macroeconomic event and the second for a geopolitical event. I refer to the regional bank failures earlier in the year and the conflict initiated by the Hamas attack on Israel and the resultant conflict in Gaza. In each case, order intake resumed after a brief pause. As we go into the New Year, the sales pipeline remained strong and sales activity is at a solid pace. Aerospace backlog is up 72% since the first quarter of 2021 when we first detected a measurable uptick in order activity. In summary, aerospace results are in line with our original forecast, excluding the G700 certification delay. We look forward to a significant increase in deliveries in 2024 and improved operating margin, but I'll say more about this as we get to guidance. We also expect continued growth and margin improvement at Jet Aviation to perform well in the year. Next, combat systems. Revenue in the quarter of $2.36 billion is up 8.5% from the year-ago quarter. Operating earnings of $351 million are up 5.7% on a 40-basis point decrease in operating margin, but still a very good 14.8%. The majority of the growth in the quarter was at ordnance and tactical systems and European land systems. It was largely driven by higher artillery and propellant volume, including programs to expand production volume, higher volume of Piranhas, bridges and eagles in Europe, and new international tank programs. Not surprisingly, the sequential comparisons are even better. Revenue is up $140 million or 6.3% and earnings are up $51 million or 17% on the strength of a 130 basis point improvement in margins. From an order perspective, combat had a very good year with a 1.1 times book-to-bill, driven by very strong international demand for the Abrams main battle tank, growing demand on the munitions side of the business, and particular strength in Europe. By the way, combat's performance for the year significantly outperformed our expectations. 2023 revenue was up 13% against a flat forecast provided earlier in the year. Operating earnings are up $72 million or 6.7%, with operating margin at 13.9% for the year. In short, this group had a wonderful quarter and a year with strong revenue growth, strong margin performance, good order activity, and a strong pipeline of opportunity as we go forward. Turning to marine, the powerful marine systems growth story continues. Fourth quarter revenue of $3,408,000,000 is up 14.8% over the year-ago quarter. Revenue is also up 13.5% sequentially, and 12.9% for the year. This was driven by Columbia class construction and engineering volume, TAO volume, and service contracts at bat. Operating earnings are down 8.4% over the year-ago quarter on a 160 basis point reduction in operating margin attributable to EAC rate decreases at Electric Boats. These rate decreases similarly impact the sequential and annual comparison with respect to operating earnings. The EAC decreases were primarily driven by two factors, later than promised material to EB, which drove additional out of station work at EB, and quality problems from several vendors. On the positive side, we are continuing to work with the Navy and the Congress to help further stabilize the supply chain with additional funding for work. We are also working with certain suppliers to set up process improvements where we can. EB also needs to continue to improve its productivity to help offset some of the financial impacts from the supply chain. Marine systems had a one-time book-to-bill for the year, a good result for a group of shipyards that began the year with a total backlog of nearly $46 billion. Jason will now give you some color on the Technologies group for which he has responsibility, and then I'll return for our outlook for 2024.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Jason Aiken",
+      "title": "Executive Vice President and CFO",
+      "content": "The Technologies group had a solid quarter and a very strong year. Revenue in the quarter of $3.2 billion was down 3.1% compared with the prior year, while operating earnings of $305 million were down 10.3% versus the fourth quarter of 2022. For the year, however, the group's revenue of $12.9 billion was up 3.4%, with both businesses experiencing nice growth. The results exceeded our expectations on strong demand for the group's products and services. GDIT fared particularly well with increased volume across each of its customer-facing segments: defense, intel, and federal civilian. Operating earnings of $1.2 billion were down by 2% versus the prior year on a 50-basis point contraction in operating margin to 9.3%, and that's solely a function of the revenue mix as IT services grew faster than the defense electronics portfolio. Turning back to the quarterly performance, to break it down between the two businesses, GDIT's revenue was up in all four quarters compared with 2022, and they've now grown their top line in each of the past three years. The same is true for mission systems' quarterly revenue performance, with the exception of the fourth quarter. If you recall, last year's fourth quarter saw us break through a logjam in the supply chain and deliver an unusually high number of products, lifting both revenue and margins. Barring that anomaly in 2022, the group's comparisons on a quarterly and full-year basis are quite favorable. With respect to order activity and backlog, the technologies group had a very good year, notwithstanding the continuing trend of customer solicitations pushing to the right and recurring award protests. The individual businesses and the group as a whole achieved a one-to-one book-to-bill on solid revenue growth. GDIT received awards totaling $13.5 billion, far exceeding their previous annual record set the year before. They've got another $15 billion in awards pending adjudication and just shy of $2 billion in awards under protest. Mission systems had a great year as well, with a total value of submitted bids almost triple the level they saw in 2022. Of course, many of the group's awards come in the form of IDIQ contracts with potential value that doesn't initially hit the backlog. So much of these positive results will continue to manifest in the reported numbers over time. To that point, we ended the quarter with a total estimated contract value for the group of nearly $41 billion, and the group's combined qualified pipeline exceeds $130 billion; so all in all, a great year for the technologies group.",
+      "sentiment": "0.8"
+    },
+    {
+      "speaker": "Phebe Novakovic",
+      "title": "Chairman and CEO",
+      "content": "So let me provide our operating forecast for 2024 with some color around our outlook for each business group and then the company-wide roll-up. In 2024, we expect aerospace revenue of about $12 billion, up around 40% over 2023. Operating margin is expected to be up 130 basis points to 15%. Gulfstream deliveries will be around 160, materially over the 111 delivered in 2023. This is about 10 fewer deliveries than we anticipated in the multiyear forecast we gave you in January of '22. The mix will include about 50 G700 deliveries and fewer G280s as a result of the Gaza conflict's impact on our Israel-based supplier. As I just noted, we anticipate a 15% operating margin for the year, weaker in the first half, particularly in the second quarter, and then well over 15% in the third and fourth quarters. While the ramp-up is slightly less than previously anticipated, it is not without supply chain challenges. In combat systems at this time last year, we had anticipated revenue to be flat in '23. With a changed threat environment, we had a 13% increase in revenue. For '24, we expect revenue to be up about 3% to $8.5 billion, coupled with a 50 basis point improvement in operating margin to 14.4%. The outlook is the result of the strong order activity we saw in '23 and the demand signals we see in Europe. To the extent that these demand signals start to convert into order activity, we could see some opportunity for additional revenue later in the year, particularly in our armaments and munitions business. As I noted earlier, the Marine group has been on a remarkable growth journey. In 2023, revenue came in much stronger than expected, almost $1.6 billion against a flattish forecast. Our outlook for this year anticipates revenue of about $12.8 billion, with operating margin improvement to 7.6%, which should result in a meaningful improvement in earnings in 2024. In technologies, 2023 revenue was stronger than anticipated in both businesses. 2024 revenue is expected to be up about 1% to $13 billion. Within the group, GDIT will be up low single digits; mission systems will be down slightly due to a transition from legacy systems and a slow ramp-up on new programs. Operating margins are expected to improve 20 basis points to about 9.5%. We see long-term low single digit growth for the group and continued industry-leading margins. So for 2024 company-wide, we expect to see revenue of approximately $46.3 billion to $46.4 billion, an increase of around 9.5%. We anticipate operating margin of 11% up 100 basis points from 2023. All this rolls up to an EPS forecast of around $14.40. A reasonable range would be $14.35 billion to $14.45 billion. On a quarterly basis, the first two quarters look a lot alike with very strong third and fourth quarters. In summary, as we go into this year, we feel very good about the demand environment across all of our businesses. It has been some time since I have seen stronger demand signals and better promise of organic growth. We also have some very good opportunities across the business to improve operating margins. All we must do is execute. It almost goes without saying that we will be laser-focused on operations. Nicole, back to you.",
+      "sentiment": "0.9"
+    },
+    {
+      "speaker": "Nicole Shelton",
+      "title": "Vice President of Investor Relations",
+      "content": "Thanks, Phebe. As a reminder, we ask participants to ask one question and one follow-up so that everyone has a chance to participate. Operator, could you please remind participants how to enter the queue?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "We will take our first question from Myles Walton at Wolfe Research.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Myles Walton",
+      "title": "Analyst",
+      "content": "Thanks. Good morning. Phebe, I was hoping you could touch on the G700, not a surprise. How many do you have ready for pre-delivery inspection from your customers and also, relative to confidence of when the deliveries could take place? I mean, this is pretty much out of your control. The FAA has published a few rules last week that are pending and have to go through their process. I'm just curious, your confidence level for first quarter delivery versus, say, where you were in the fourth quarter expecting deliveries by year-end? Thanks.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Phebe Novakovic",
+      "title": "Chairman and CEO",
+      "content": "So we have 15 airplanes ready to go, and the hope is that we deliver them this quarter. The notifications that Gulfstream made earlier, I guess, this week, are in the regular order and really have no material impact on the certification process. I tried to give you as much clarity as I could around the certification and where we are.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Myles Walton",
+      "title": "Analyst",
+      "content": "Is there an 800 delivery assumed in the guidance for '24?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Phebe Novakovic",
+      "title": "Chairman and CEO",
+      "content": "So we're not going to go into what we've assumed for any given airplane in our guidance. So let me give you guys some perspective about this. For the last about eight years, we've tried to give you some clarity about a process over which we have no control and it's kind of like sticking your fingers in a light socket to predict a process that we just don't control. So I think we're going to be silent as we go forward about any specificity around certification timing because then we hear words like slip and miss and these planes are going to get certified, but get certified on the FAA schedule.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "We'll move next to Ron Epstein at Bank of America.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Ron Epstein",
+      "title": "Analyst",
+      "content": "Hey, good morning, Phebe and Jason. Maybe just circling back on your remarks, Phebe, around EB, but maybe more broadly, just kind of the ship industrial base. The DOD has been making some big investments. Now, where do you see Virginia-class build rates ultimately getting, and Columbia, too, because it just seems like the supply chain and maybe just also from just a capacity perspective, we're just under-capacitized? So any thoughts on that?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Phebe Novakovic",
+      "title": "Chairman and CEO",
+      "content": "Let's take a moment to discuss the shipbuilding industry, especially the submarine sector. These businesses rely heavily on human resources, and both the supply chain and workforce availability were significantly affected by COVID in two ways. First, we experienced a notable rise in the number of seasoned workers retiring from the industry. Additionally, post-COVID labor shortages caused considerable disruptions in the supply chain. While some stabilization in the labor market is already evident, these challenges won't be entirely resolved soon, and we need to continue learning throughout the supply chain. At Electric Boat, we currently have enough capacity to meet existing demand, but if demand increases soon, we will collaborate closely with our Navy customer. Key to stabilizing the supply chain is enhancing delivery and quality, which can improve as new workers gain experience. Electric Boat benefits from a strong training system that helps new workers reach higher proficiency levels, although they still need time to acclimate. To provide some context, Electric Boat has increased its production rates for the Virginia class by about 10% this year and about 30% for the Columbia class. Overall, Electric Boat is progressing well, but they need to keep boosting productivity to counter the financial impacts arising from the supply chain. Finally, I want to highlight that the Navy has been a supportive partner in acknowledging these challenges and actively working to provide orders and ensure demand certainty within the supply chain, which is beneficial for our entire planning process.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Ron Epstein",
+      "title": "Analyst",
+      "content": "Got it. And maybe just one quick follow-on. Are we capacitized enough to meet the demand that AUKUS would require, having an extra Virginia class every three years?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Phebe Novakovic",
+      "title": "Chairman and CEO",
+      "content": "So I think we're going to look at all of that with the Navy, but let me tell you, the best thing we can do for AUKUS in the moment is get back to two-a-year production. That's one step at a time.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "We'll take our next question from Jason Gursky at Citigroup.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Jason Gursky",
+      "title": "Analyst",
+      "content": "I was wondering if you could talk a little bit about the G400 and how that plane seems to be performing from a market acceptance perspective and kind of the pipeline that you're seeing for that aircraft. I'm just kind of curious how that segment of your market is shaping up there as we come into the New Year.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Phebe Novakovic",
+      "title": "Chairman and CEO",
+      "content": "So the plane is performing very nicely in excess of the design parameters. We see considerable interest in that end of the market, and so we are quite positive about that airplane when it enters into service.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Jason Gursky",
+      "title": "Analyst",
+      "content": "Okay, great. And then your comments on combat and the potential for some orders converting into revenue coming out of Europe in the second half of the year, that doesn't sound like it's implied in your guidance, but I'm just kind of curious how far into the year can we go to get those orders and actually convert them into revenue?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Phebe Novakovic",
+      "title": "Chairman and CEO",
+      "content": "It depends on the nature of the orders. For faster transaction items like services and munitions, the process can move more quickly. However, longer lead times for combat vehicles typically take longer. We have done our best to factor in known demand signals and the speed of contracting into our planning. Any potential upside will likely come primarily from the armament munitions programs that can be executed at a faster pace. Additionally, if we can accelerate the installation of more jigs and fixtures for productivity and expand our munitions delivery scope, that should also help. Overall, we are presenting a balanced plan with equal opportunities and risks, and we feel confident in the estimates we have provided.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "We'll go next to Davis Strauss at Barclays.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Davis Strauss",
+      "title": "Analyst",
+      "content": "Phoebe, any thoughts on how the budget process for '24 might actually play out here given that we're quickly approaching the potential for a sequester?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Phebe Novakovic",
+      "title": "Chairman and CEO",
+      "content": "So we have factored in all known funding into our plan, and should we see an extensive and continuing resolution, we'll have to see what impact that has on our faster transaction businesses because every CR plays out a bit differently and to the extent that we have a sequester, then we have factored some of that, but apparently, clearly you can't do all of it into your plan. So we'll adjust accordingly, but we are hopeful that Congress is able to pass a critical defense bill, particularly in these times given the threat environment.",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Jason Aiken",
+      "title": "Executive Vice President and CFO",
+      "content": "Yeah, so when you think about free cash flow, we are anticipating to continue in the 100% conversion range in '24 and beyond. Obviously, we outperformed that a bit in 2023, but that doesn't affect what we expect in '24. So, the good news is a lot of the larger scale moving parts around cash flow are starting to settle down a little bit. We've experienced some big headwinds and then some corresponding tailwinds over the past several years, but right now if you look ahead, I think you can expect for the aerospace group a fairly steady conversion at or slightly above 100% conversion. When you think about it, we got a pretty big tailwind when they were building the significant backlog over the past few years and all the deposits were coming in. So that more than offset any effective inventory build. So as you transition into a period where you're starting to deliver off that inventory, but then you assume a steady one-to-one book-to-bill, you should be in a pretty regular burn rate at 100% conversion plus or minus for that business. Combat systems, on the other hand, should continue to see tailwinds as they work through some of the receivables and work in process on the international programs that we've made some great progress on in recent years. So that'll continue for a couple of years. The technologies group is a steady provider, well above 100% conversion, and the marine systems group, as we noted, is still finishing up some of the large capital projects. We're coming through that now and we'll see what the future holds as Phebe alluded to in terms of Navy investment. But when you kind of net all those together, we're right about 100% for the coming year. If you look at capital deployment, as you noted, there's not a lot in terms of commitment. We've got $500 million in notes that mature out in November of this year. So we've got plenty of time to kind of see how things play out and decide what we want to do with that maturity. No rush on that decision and we'll look at all options as we always have. I think we've got great opportunity for stepped up share repurchases as more, I should say, as uncertainty sort of moves out of the environment. We looked at the last half of last year, the last quarter of last year, and the significant threat of a government shutdown sort of hung over the environment and that factors into our thinking as we think about how we preserve cash and deploy capital. So if we can get past that in March, then I think it provides a lot of optionality for us as we look ahead on the capital deployment front.",
+      "sentiment": "0.7"
+    },
+    {
+      "speaker": "Phebe Novakovic",
+      "title": "Chairman and CEO",
+      "content": "If you think about it, the demand signals we see and our expected growth make share repurchases increasingly compelling. Hey, one thing that Jason talked about, just mentioned tangentially, and I want to focus a little bit on and just give you guys some perspective, when we talk about a one-to-one book-to-bill in our businesses, that's really for planning purposes. It's not a forecast. So just keep that in mind.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "We'll move next to Sheila Kahyaoglu at Jefferies.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Sheila Kahyaoglu",
+      "title": "Analyst",
+      "content": "Good morning, Phebe, Jason. Thank you for the time. Phebe, great color on Gulfstream. You gave some numbers around the loss of revenues and profit that slipped into '24 from the G700, which would imply, north of 20% margins for the G700, and given you have quite a few built up already, any color you could give on profit profile of the G700 relative to maybe the G650 and the G500 and G600?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Phebe Novakovic",
+      "title": "Chairman and CEO",
+      "content": "Hey, can you repeat the last part of your question? It was kind of coming in.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Sheila Kahyaoglu",
+      "title": "Analyst",
+      "content": "Sure, sorry. It was more just the profit profile of the G700 relative to G650 and the G500 and G600 as it entered service, just because you gave the revenue.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Phebe Novakovic",
+      "title": "Chairman and CEO",
+      "content": "Yeah, the G700 comes in at accretive margins, but as you all know, and many of you are quite expert in this, we've talked about over the years, including on this call, the margin performance at Gulfstream is driven by a host of issues and as I noted in my remarks, mix, pricing, out-of-station work, all impacted. So I think, again, as I mentioned earlier, the way to think about our plan is a really balanced plan. Not quite the question you asked, but I'd stick with that and I'd think about it that way. But these new airplanes are coming in at very nice margins.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Sheila Kahyaoglu",
+      "title": "Analyst",
+      "content": "Okay, and then if I could ask one more on the defense side of the business, just given a lot of what your peers are talking about as well, and you have pretty robust demand in Marine and combat, but earnings growth tends to be below revenue growth. So just given inflation and mix, how do you think about GD's ability to continue to grow defense profits? It seems like combat is seeing some of that.",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Phebe Novakovic",
+      "title": "Chairman and CEO",
+      "content": "Combat is seeing some of it, but I tried to give you some perspective earlier on the impacts of what happened to the industrial base in the Marine group, and it also impacted Gulfstream as a result of COVID. So for us, it's really a question of operating excellence, operating excellence, operating excellence. We're going to focus on that very heavily. So we drive increased profitable growth. That's the value proposition that we're looking at right now.",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "We'll move next to Seth Seifman at JP Morgan.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Seth Seifman",
+      "title": "Analyst",
+      "content": "Okay, thank you very much, and good morning, everyone. I wanted to start off asking about combat and just the 3% growth guide. I guess even if we adjust for some seasonality, I might have thought that the activity levels that we're seeing here in the earlier, what we saw in the second half of '23 would lead to some really quite robust growth in the first half, perhaps even double digits, and then being at 3% would imply something like flat or down in the second half. Am I not thinking about that cadence properly, or is there some reason for the growth to really step off or come down in the second half?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Phebe Novakovic",
+      "title": "Chairman and CEO",
+      "content": "No, I wouldn't look at anything macro with respect to that. In a quickly growing environment, contracts tend to come in a little bit more lumpier, and so this is simply a question of timing. I think we see mid to upper single digits over and toward the higher upper single digits over our planned period, but we've given you the plan that given the faster execution of contracting that we saw last year, we may have a bit of a slowdown in the first couple of quarters, and then acceleration as the year goes on, but the demand is there. Yes, so we're going to deliver 160 airplanes that's in our plan this year. I will say that '25 will be more deliveries and '26 even more deliveries, but at this point given the issues that you mentioned, we're not going to be any more granular than that. We owe you additional fidelity as time goes on.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Our next question comes from Noah Poponak at Goldman Sachs.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Noah Poponak",
+      "title": "Analyst",
+      "content": "Hey, good morning, everyone. Phebe, maybe just following on that, but a little bit bigger picture, I was curious to hear you talk about how you're managing supply versus demand in this pretty unique business jet market because if you go to $12 billion in revenue, that's run rating $3 billion a quarter and based on the change in backlog, I know that's imperfect, but directionally, the order rate had made it to $3 billion a quarter, but it's now slowed a little bit and we're trying to figure out where this market settles out. And so you want to get customers airplanes and you want to grow, but I know you also want to maintain backlog and that you're more focused on pricing and margins than units. And so if you're going to $12 billion and then as you just said to Seth, you're going to go higher, I guess you'd be burning backlog. So how do you think about managing that multi-year supply versus demand in that market?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Phebe Novakovic",
+      "title": "Chairman and CEO",
+      "content": "Well, look, I don't see us particularly burning through backlog given the robust backlog we have and given the robust pipeline that we have. We're off to a good start this year. So I don't see anything that particularly drives an unhealthy burn through the backlog. We have believed for some time and it is turning out to be the case that new clean sheet airplanes drive incremental demand and we're certainly seeing that, and we don't see much of an abatement in that.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Noah Poponak",
+      "title": "Analyst",
+      "content": "Okay. So it sounds like you potentially expect the quarterly order rate to pick back up moving forward as your new airplanes are more entrenched in the market?",
+      "sentiment": "0.4"
+    },
+    {
+      "speaker": "Phebe Novakovic",
+      "title": "Chairman and CEO",
+      "content": "Well, look, our order rate has been quite healthy and quite wholesome, and we would expect additional orders supported by the pipeline to come in this year. So we're not going to give you any real granularity around orders per quarter, but we see nice demand, continuing interest, and a very solid pipeline. To me, those are the sort of foundational elements that we rely on for looking on a going-forward basis, looking at what production can ultimately be.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "We'll move next to Cai von Rumohr at TD Cowen.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Cai von Rumohr",
+      "title": "Analyst",
+      "content": "Yes, thank you very much, Phebe. Good, good numbers. So Gulfstream, two issues. First, you mentioned the Hamas attack and the impact on the G280. Maybe tell me the status of that and what that means in terms of your ability to get deliveries. And secondly, I think the bigger question is, by my quick math, it looks like your guidance for '24 implies an 18% incremental margin at Gulfstream, which seems low given the good margins you should be getting on the G700.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Phebe Novakovic",
+      "title": "Chairman and CEO",
+      "content": "Okay. Right. So look, let's agree that we shouldn't in any given moment infer something from an implied margin. I think as you know probably better than most that the margin performance in any given quarter is driven by a myriad of factors that we have gone over multiple times, and I think in this environment where we are encouraged by the supply chain, but we've got more ways to go, we think that we have given you a very, very balanced plan, and I really stick to that plan. That's how I think about it. With respect to the G280, we have properly adjusted our plan to deal with the realities of what they are facing there. They are continuing to perform with retirees and management, and as I say, we factored all of that into our expectations for the year.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Cai von Rumohr",
+      "title": "Analyst",
+      "content": "I still don't quite understand the 18% margin. Is that a drag on the profit and loss statement due to insufficient supply or timing issues?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Phebe Novakovic",
+      "title": "Chairman and CEO",
+      "content": "I wouldn't say it's a P&L drag. It's just a reality of the multiplicity of factors that are impacting us. '24 is a pivotal year. We saw a significant improvement in the supply chain during the course of the year that frankly allowed us to increase production in the latter half of the year. If you recall, we were delivering between 24 aircraft and 25 aircraft, and we delivered 39 aircraft in the fourth quarter. That makes us pretty optimistic that we can continue to increase production, but we are cautious about the ability of the supply chain to keep up. All indicators are that they're doing quite well, but this is one step at a time, and there's more risk. As I say, we're optimistic, but we've got a ways to go.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "We'll move next to George Shapiro at Shapiro Research.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "George Shapiro",
+      "title": "Analyst",
+      "content": "Just following up a bit on Cai's question, the incremental margin was like 38% here in this fourth quarter, which is pretty extraordinary. So, what changes to really knock that down to the point that Cai's comment?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Phebe Novakovic",
+      "title": "Chairman and CEO",
+      "content": "Hey, you guys are reverse engineering incremental margin, and it's almost impossible to deal with in the complexity of this business. I would infer nothing from it. Look, let's talk about the underlying capabilities. Gulfstream has a lot of operating leverage. They've always been a good since we acquired them at GD years ago. They have been strong operating performers with very good margin performance and gross margins coming out of their operations. That won't change, but the mix of business, the level of any given quarters, timing around supply chain and its impact on out-of-station work and mix of service, jet aviation, all of those things are contributing. So, there is nothing systemic other than those issues that you know, and they are temporary, and we will work through the supply chain issues, but there's nothing systemic that should concern you about where we stand on Gulfstream and its ability to increase margins, earnings and revenue over time here.",
+      "sentiment": "0.6"
+    },
+    {
+      "speaker": "Jason Aiken",
+      "title": "Executive Vice President and CFO",
+      "content": "It's a little bit Ajax and it's a little bit of the ongoing payments on our other large international program of combat systems. Those are the two big pieces. Yes, George.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "We'll take our next question from Robert Spingarn at Melius Research.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Robert Spingarn",
+      "title": "Analyst",
+      "content": "Phebe, the marine guide implies about $340 million in sales growth, and in the past, you've talked about Columbia driving $400 million to $500 million of growth per year. So, could an economic price adjustment for Virginia-class be a meaningful source of sales and operating income for Marine in 2024?",
+      "sentiment": "0.2"
+    },
+    {
+      "speaker": "Phebe Novakovic",
+      "title": "Chairman and CEO",
+      "content": "Well, EPA adjustments can always be a good source of income. Look, I think the way that we've always talked about Marine growth being somewhat lumpy, $300 million to $500 million in any given year, but in the next two years, we expect between $600 million and $1 billion in per annum growth. So the growth is there. It just comes in on a lumpier basis than one might want, but it is there. So with respect to Virginia and any EPA adjustments, we're continuing to work with the Navy. We had contemplated the impact of Columbia prioritization, as had the Navy, on Virginia and that's just a work in progress as we work through all the particulars with the Navy, but we think we've given you a pretty good indicator of this year's revenue, and we'll adjust it accordingly if anything changes on the upside.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Robert Spingarn",
+      "title": "Analyst",
+      "content": "So just to be clear, there's nothing in there for an adjustment yet?",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Phebe Novakovic",
+      "title": "Chairman and CEO",
+      "content": "No. I think it's premature to put numbers in before you've got an agreement with your customers. And Audra, I think we have time for just one more question.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "Thank you. We'll take that question from Peter Arment at Baird.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Peter Arment",
+      "title": "Analyst",
+      "content": "Yeah, thanks. Good morning, Phebe and Jason. Hey, Phebe, maybe just to add and just speak on Marine. You've given us a lot of details on what some of the pressures were, but we've seen throughout the industry, the Defense Production Act has been used to kind of improve some capacity at rocket motors and munitions. Is there an opportunity? I know the Navy's a really good partner and customer. Is there an opportunity to get some relief and free up some additional resources for you at the yards?",
+      "sentiment": "0.3"
+    },
+    {
+      "speaker": "Phebe Novakovic",
+      "title": "Chairman and CEO",
+      "content": "So we have been pretty well resourced by the Navy and for many, many years in anticipation of particularly the Columbia and Block 5. So I think from our perspective where we really need some assistance and continued assistance from the Navy is stabilization of on-time delivery and quality coming out of the supply chain. So I think that as we go through this year, I'm sure there'll be additional opportunities for us to work with the Navy and find some ability to relieve those pain points that remain in the supply chain. And listen, before we leave, I just wanted, this is for many of you may know, this is Jason's last earnings call, and I wanted to thank him for his excellent years of service as a CFO. He will be missed, but his work will continue at Technologies. So I'm sure all of you will join me in congratulating Jason on a superb CFO job well done over the years.",
+      "sentiment": "0.5"
+    },
+    {
+      "speaker": "Nicole Shelton",
+      "title": "Vice President of Investor Relations",
+      "content": "Okay. Well, thank you all for joining our call today. As a reminder, please refer to the General Dynamics website for the fourth quarter earnings release and highlights presentation. If you have any additional questions, I can be reached at 703-876-3152.",
+      "sentiment": "0.0"
+    },
+    {
+      "speaker": "Operator",
+      "title": "Operator",
+      "content": "And this concludes today's conference call. Thank you for your participation. You may now disconnect.",
+      "sentiment": "0.0"
+    }
+  ],
+  "reported_date": "2024-01-24"
+}
