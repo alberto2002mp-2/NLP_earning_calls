@@ -35,6 +35,10 @@ IT_PLOT_RAW_WEEKLY_PCT = PROCESSED_DIR / "it_indicators_vs_sp500_45_raw_weekly_p
 IND_PLOT_RAW_WEEKLY_PCT = PROCESSED_DIR / "industrials_indicators_vs_sp500_20_raw_weekly_pct.png"
 IT_PLOT_RAW_MONTHLY_PCT = PROCESSED_DIR / "it_indicators_vs_sp500_45_raw_monthly_pct.png"
 IND_PLOT_RAW_MONTHLY_PCT = PROCESSED_DIR / "industrials_indicators_vs_sp500_20_raw_monthly_pct.png"
+IT_PLOT_RAW_WEEKLY_PCT_Z = PROCESSED_DIR / "it_indicators_vs_sp500_45_raw_weekly_pct_zscore.png"
+IND_PLOT_RAW_WEEKLY_PCT_Z = PROCESSED_DIR / "industrials_indicators_vs_sp500_20_raw_weekly_pct_zscore.png"
+IT_PLOT_RAW_MONTHLY_PCT_Z = PROCESSED_DIR / "it_indicators_vs_sp500_45_raw_monthly_pct_zscore.png"
+IND_PLOT_RAW_MONTHLY_PCT_Z = PROCESSED_DIR / "industrials_indicators_vs_sp500_20_raw_monthly_pct_zscore.png"
 
 
 def fetch_prices_2024() -> pd.DataFrame:
@@ -79,6 +83,16 @@ def resampled_percent_change(series: pd.Series, rule: str, full_dates: pd.Dateti
     return changed.reindex(full_dates).ffill()
 
 
+def zscore_standardize(series: pd.Series) -> pd.Series:
+    """Standardize a series to z-scores using non-null observations."""
+    clean = pd.to_numeric(series, errors="coerce")
+    mean = clean.mean(skipna=True)
+    std = clean.std(skipna=True, ddof=0)
+    if pd.isna(std) or std == 0:
+        return pd.Series(0.0, index=series.index)
+    return (clean - mean) / std
+
+
 def main() -> None:
     PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -113,6 +127,19 @@ def main() -> None:
         merged.set_index("date")["^SP500-20"], "ME", full_dates
     ).values
 
+    merged["sp500_45_weekly_pct_zscore"] = zscore_standardize(
+        merged["sp500_45_weekly_pct_change"]
+    )
+    merged["sp500_20_weekly_pct_zscore"] = zscore_standardize(
+        merged["sp500_20_weekly_pct_change"]
+    )
+    merged["sp500_45_monthly_pct_zscore"] = zscore_standardize(
+        merged["sp500_45_monthly_pct_change"]
+    )
+    merged["sp500_20_monthly_pct_zscore"] = zscore_standardize(
+        merged["sp500_20_monthly_pct_change"]
+    )
+
     it_df = merged[
         [
             "date",
@@ -122,6 +149,8 @@ def main() -> None:
             "sp500_45_norm100",
             "sp500_45_weekly_pct_change",
             "sp500_45_monthly_pct_change",
+            "sp500_45_weekly_pct_zscore",
+            "sp500_45_monthly_pct_zscore",
         ]
     ].copy()
     it_df["sp500_45_daily_pct_change"] = it_df["^SP500-45"].pct_change() * 100.0
@@ -138,6 +167,8 @@ def main() -> None:
             "sp500_20_norm100",
             "sp500_20_weekly_pct_change",
             "sp500_20_monthly_pct_change",
+            "sp500_20_weekly_pct_zscore",
+            "sp500_20_monthly_pct_zscore",
         ]
     ].copy()
     ind_df["sp500_20_daily_pct_change"] = ind_df["^SP500-20"].pct_change() * 100.0
@@ -312,6 +343,46 @@ def main() -> None:
 
     fig.tight_layout()
     fig.savefig(IT_PLOT_RAW_MONTHLY_PCT, dpi=180)
+    plt.close(fig)
+
+    # IT plot with standardized weekly percent-change z-scores.
+    fig, ax = plt.subplots(figsize=(12, 6))
+    ax.plot(it_df["date"], it_df["it_finbert_pit_zscore"], label="IT FinBERT PIT Z", linewidth=1.8)
+    ax.plot(it_df["date"], it_df["it_lexical_pit_zscore"], label="IT Lexical PIT Z", linewidth=1.8)
+    ax.plot(
+        it_df["date"],
+        it_df["sp500_45_weekly_pct_zscore"],
+        label="^SP500-45 Weekly % Change Z",
+        color="black",
+        linewidth=1.6,
+    )
+    ax.axhline(0.0, color="gray", linestyle="--", linewidth=1)
+    ax.set_title("IT Indicators vs S&P 500 Information Technology (Weekly % Change Z-Score)")
+    ax.set_xlabel("Date")
+    ax.set_ylabel("Z-Score")
+    ax.legend(loc="upper left")
+    fig.tight_layout()
+    fig.savefig(IT_PLOT_RAW_WEEKLY_PCT_Z, dpi=180)
+    plt.close(fig)
+
+    # IT plot with standardized monthly percent-change z-scores.
+    fig, ax = plt.subplots(figsize=(12, 6))
+    ax.plot(it_df["date"], it_df["it_finbert_pit_zscore"], label="IT FinBERT PIT Z", linewidth=1.8)
+    ax.plot(it_df["date"], it_df["it_lexical_pit_zscore"], label="IT Lexical PIT Z", linewidth=1.8)
+    ax.plot(
+        it_df["date"],
+        it_df["sp500_45_monthly_pct_zscore"],
+        label="^SP500-45 Monthly % Change Z",
+        color="black",
+        linewidth=1.6,
+    )
+    ax.axhline(0.0, color="gray", linestyle="--", linewidth=1)
+    ax.set_title("IT Indicators vs S&P 500 Information Technology (Monthly % Change Z-Score)")
+    ax.set_xlabel("Date")
+    ax.set_ylabel("Z-Score")
+    ax.legend(loc="upper left")
+    fig.tight_layout()
+    fig.savefig(IT_PLOT_RAW_MONTHLY_PCT_Z, dpi=180)
     plt.close(fig)
 
     # Industrials plot
@@ -552,6 +623,66 @@ def main() -> None:
     fig.savefig(IND_PLOT_RAW_MONTHLY_PCT, dpi=180)
     plt.close(fig)
 
+    # Industrials plot with standardized weekly percent-change z-scores.
+    fig, ax = plt.subplots(figsize=(12, 6))
+    ax.plot(
+        ind_df["date"],
+        ind_df["industrials_finbert_pit_zscore"],
+        label="Industrials FinBERT PIT Z",
+        linewidth=1.8,
+    )
+    ax.plot(
+        ind_df["date"],
+        ind_df["industrials_lexical_pit_zscore"],
+        label="Industrials Lexical PIT Z",
+        linewidth=1.8,
+    )
+    ax.plot(
+        ind_df["date"],
+        ind_df["sp500_20_weekly_pct_zscore"],
+        label="^SP500-20 Weekly % Change Z",
+        color="black",
+        linewidth=1.6,
+    )
+    ax.axhline(0.0, color="gray", linestyle="--", linewidth=1)
+    ax.set_title("Industrials Indicators vs S&P 500 Industrials (Weekly % Change Z-Score)")
+    ax.set_xlabel("Date")
+    ax.set_ylabel("Z-Score")
+    ax.legend(loc="upper left")
+    fig.tight_layout()
+    fig.savefig(IND_PLOT_RAW_WEEKLY_PCT_Z, dpi=180)
+    plt.close(fig)
+
+    # Industrials plot with standardized monthly percent-change z-scores.
+    fig, ax = plt.subplots(figsize=(12, 6))
+    ax.plot(
+        ind_df["date"],
+        ind_df["industrials_finbert_pit_zscore"],
+        label="Industrials FinBERT PIT Z",
+        linewidth=1.8,
+    )
+    ax.plot(
+        ind_df["date"],
+        ind_df["industrials_lexical_pit_zscore"],
+        label="Industrials Lexical PIT Z",
+        linewidth=1.8,
+    )
+    ax.plot(
+        ind_df["date"],
+        ind_df["sp500_20_monthly_pct_zscore"],
+        label="^SP500-20 Monthly % Change Z",
+        color="black",
+        linewidth=1.6,
+    )
+    ax.axhline(0.0, color="gray", linestyle="--", linewidth=1)
+    ax.set_title("Industrials Indicators vs S&P 500 Industrials (Monthly % Change Z-Score)")
+    ax.set_xlabel("Date")
+    ax.set_ylabel("Z-Score")
+    ax.legend(loc="upper left")
+    fig.tight_layout()
+    fig.savefig(IND_PLOT_RAW_MONTHLY_PCT_Z, dpi=180)
+    plt.close(fig)
+
     print("Saved files:")
     print(f"  {PRICE_CSV}")
     print(f"  {IT_MERGED_CSV}")
@@ -568,6 +699,10 @@ def main() -> None:
     print(f"  {IND_PLOT_RAW_WEEKLY_PCT}")
     print(f"  {IT_PLOT_RAW_MONTHLY_PCT}")
     print(f"  {IND_PLOT_RAW_MONTHLY_PCT}")
+    print(f"  {IT_PLOT_RAW_WEEKLY_PCT_Z}")
+    print(f"  {IND_PLOT_RAW_WEEKLY_PCT_Z}")
+    print(f"  {IT_PLOT_RAW_MONTHLY_PCT_Z}")
+    print(f"  {IND_PLOT_RAW_MONTHLY_PCT_Z}")
 
 
 if __name__ == "__main__":
