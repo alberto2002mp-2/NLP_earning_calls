@@ -1,0 +1,18 @@
+google-genai>=0.7.0
+openai>=1.40.0
+numpy>=1.26.0
+pandas>=2.0.0
+requests>=2.31.0
+yfinance>=0.2.54
+python-dotenv>=1.0.1
+
+
+
+# pip install -r requirements.txt
+
+# python3 -m venv venv
+# source venv/bin/activate
+# pip install -r requirements.txt
+# export GEMINI_API_KEY="Your Key"
+# python3 main.py
+
