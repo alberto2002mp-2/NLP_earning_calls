@@ -85,6 +85,7 @@ class ValuationAgent:
                 "ttm_revenue": None,
                 "ttm_op_income": None,
                 "ttm_net_income": None,
+                "ttm_ocf": None,
                 "ttm_fcf": None,
                 "shares_outstanding": None,
                 "market_cap": None,
@@ -98,7 +99,7 @@ class ValuationAgent:
             eligible = q
         last_end = eligible["end"].max()
 
-        ttm = ttm_from_quarters(q, pd.Timestamp(last_end))
+        ttm = ttm_from_quarters(eligible, pd.Timestamp(last_end))
 
         # Point-in-time market cap using point-in-time shares if possible
         shares = ttm.get("shares_outstanding")

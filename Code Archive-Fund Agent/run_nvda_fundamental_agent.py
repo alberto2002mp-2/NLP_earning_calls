@@ -38,6 +38,7 @@ OUT_PLOT_VALUATIONS = PROCESSED_DIR / "nvda_pit_valuations.png"
 OUT_PLOT_DECISIONS = PROCESSED_DIR / "nvda_agent_decisions.png"
 OUT_PLOT_PORTFOLIO = PROCESSED_DIR / "nvda_backtest_portfolio.png"
 OUT_PLOT_SENTIMENT = PROCESSED_DIR / "nvda_sentiment_scores.png"
+OUT_PLOT_SHARPE = PROCESSED_DIR / "nvda_backtest_sharpe.png"
 
 TICKER = "NVDA"
 WINDOWS = [
@@ -204,6 +205,7 @@ def decision_table(agent: ValuationAgent, inputs_by_date: Dict[pd.Timestamp, Val
                 "price": vin.price,
                 "ttm_revenue": metrics.get("ttm_revenue"),
                 "ttm_net_income": metrics.get("ttm_net_income"),
+                "ttm_ocf": metrics.get("ttm_ocf"),
                 "ttm_fcf": metrics.get("ttm_fcf"),
                 "ttm_ps": metrics.get("ps"),
                 "ttm_pe": metrics.get("pe"),
@@ -230,6 +232,46 @@ def summarize_backtest(label: str, bt_df: pd.DataFrame, bt: EventBacktester) -> 
         "cumulative_return": cumret,
         "sharpe": sharpe,
     }
+
+
+def _safe_div(a: Optional[float], b: Optional[float]) -> Optional[float]:
+    if a is None or b is None:
+        return None
+    if abs(float(b)) < 1e-12:
+        return None
+    return float(a) / float(b)
+
+
+def add_price_based_multiples(pit: pd.DataFrame, shares_outstanding: Optional[float]) -> pd.DataFrame:
+    """Convert market-cap-based ratios into share-price-based PIT multiples."""
+    out = pit.copy()
+    shares = None
+    if shares_outstanding is not None and float(shares_outstanding) > 0:
+        shares = float(shares_outstanding)
+
+    if shares is None:
+        return out
+
+    rev_ps = out["ttm_revenue"].astype(float) / shares
+    ni_ps = out["ttm_net_income"].astype(float) / shares
+    fcf_ps = out["ttm_fcf"].astype(float) / shares
+    ocf_ps = out["ttm_ocf"].astype(float) / shares if "ttm_ocf" in out.columns else None
+
+    out["ttm_ps"] = [
+        _safe_div(p, s) for p, s in zip(out["price"].astype(float), rev_ps)
+    ]
+    out["ttm_pe"] = [
+        _safe_div(p, e) for p, e in zip(out["price"].astype(float), ni_ps)
+    ]
+    out["ttm_pfcf"] = [
+        _safe_div(p, c) for p, c in zip(out["price"].astype(float), fcf_ps)
+    ]
+    if ocf_ps is not None:
+        out["ttm_pocf"] = [
+            _safe_div(p, c) for p, c in zip(out["price"].astype(float), ocf_ps)
+        ]
+
+    return out
 
 
 def main() -> None:
@@ -312,6 +354,7 @@ def main() -> None:
             "price",
             "ttm_revenue",
             "ttm_net_income",
+            "ttm_ocf",
             "ttm_fcf",
             "ttm_ps",
             "ttm_pe",
@@ -321,6 +364,8 @@ def main() -> None:
             "recent_5d_prices",
         ]
     ].copy()
+    # Use share-price numerator for PIT multiples in exported table/plot.
+    pit_table = add_price_based_multiples(pit_table, fallback_shares)
     pit_table.to_csv(OUT_VAL_INPUTS, index=False)
 
     decisions_without = decision_table(agent_without, inputs_without, "without_sentiment")
@@ -397,13 +442,14 @@ def main() -> None:
     print(f"- {OUT_BACKTEST_WITH}")
     print(f"- {OUT_BACKTEST_SUMMARY}")
 
-    generate_plots(pit_table, decisions_without, decisions_with, bt_without, bt_with)
+    generate_plots(pit_table, decisions_without, decisions_with, bt_without, bt_with, summary)
 
     print(f"\nSaved plots:")
     print(f"- {OUT_PLOT_VALUATIONS}")
     print(f"- {OUT_PLOT_DECISIONS}")
     print(f"- {OUT_PLOT_PORTFOLIO}")
     print(f"- {OUT_PLOT_SENTIMENT}")
+    print(f"- {OUT_PLOT_SHARPE}")
 
 
 def generate_plots(
@@ -412,6 +458,7 @@ def generate_plots(
     dec_with: pd.DataFrame,
     bt_without: pd.DataFrame,
     bt_with: pd.DataFrame,
+    summary: pd.DataFrame,
 ) -> None:
     """Produce four PNG plots from agent outputs."""
     MARKER_STYLE = {"buy": ("^", "green"), "sell": ("v", "red"), "hold": ("o", "orange")}
@@ -421,30 +468,43 @@ def generate_plots(
     fig, axes = plt.subplots(4, 1, figsize=(12, 14), sharex=True)
     pit = pit.copy()
     pit["date"] = pd.to_datetime(pit["date"])
+    pit = pit[pit["date"].dt.month.isin([2, 8])].sort_values("date")
 
-    axes[0].plot(pit["date"], pit["price"], color="navy", linewidth=1.8, label="Price (USD)")
-    axes[0].set_ylabel("Price (USD)")
-    axes[0].legend(loc="upper left")
+    x = np.arange(len(pit))
+    xlabels = pit["date"].dt.strftime("%Y-%m-%d")
+
+    axes[0].plot(x, pit["price"], color="navy", linewidth=2.2, label="Price (USD)")
+    axes[0].set_ylabel("Price (USD)", fontsize=14)
+    axes[0].legend(loc="upper left", fontsize=12)
     axes[0].grid(True, alpha=0.3)
 
-    axes[1].bar(pit["date"], pit["ttm_pe"], color="steelblue", width=0.8, label="TTM P/E")
-    axes[1].set_ylabel("P/E")
-    axes[1].legend(loc="upper left")
+    axes[1].bar(x, pit["ttm_pe"], color="steelblue", width=0.8, label="Price / EPS (TTM)")
+    axes[1].set_ylabel("Price / EPS", fontsize=14)
+    axes[1].legend(loc="upper left", fontsize=12)
     axes[1].grid(True, alpha=0.3)
 
-    axes[2].bar(pit["date"], pit["ttm_pfcf"], color="tomato", width=0.8, label="TTM P/FCF")
-    axes[2].set_ylabel("P/FCF")
-    axes[2].legend(loc="upper left")
+    panel3_col = "ttm_pocf" if "ttm_pocf" in pit.columns else "ttm_pfcf"
+    panel3_label = "Price / OCF per Share (TTM)" if panel3_col == "ttm_pocf" else "Price / FCF per Share (TTM)"
+    panel3_ylabel = "Price / OCF per Share" if panel3_col == "ttm_pocf" else "Price / FCF per Share"
+    axes[2].bar(x, pit[panel3_col], color="tomato", width=0.8, label=panel3_label)
+    axes[2].set_ylabel(panel3_ylabel, fontsize=14)
+    axes[2].legend(loc="upper left", fontsize=12)
     axes[2].grid(True, alpha=0.3)
 
-    axes[3].bar(pit["date"], pit["ttm_ps"], color="mediumseagreen", width=0.8, label="TTM P/S")
-    axes[3].set_ylabel("P/S")
-    axes[3].legend(loc="upper left")
+    axes[3].bar(x, pit["ttm_ps"], color="mediumseagreen", width=0.8, label="Price / Sales per Share (TTM)")
+    axes[3].set_ylabel("Price / Sales per Share", fontsize=14)
+    axes[3].legend(loc="upper left", fontsize=12)
     axes[3].grid(True, alpha=0.3)
-    axes[3].xaxis.set_major_formatter(DATE_FMT)
-    plt.setp(axes[3].xaxis.get_majorticklabels(), rotation=30, ha="right")
 
-    fig.suptitle("NVDA – Point-in-Time Valuation Multiples", fontsize=13, fontweight="bold")
+    for ax in axes:
+        ax.tick_params(axis="y", labelsize=12)
+        ax.set_xlim(-0.6, len(x) - 0.4)
+
+    axes[3].set_xticks(x)
+    axes[3].set_xticklabels(xlabels, rotation=35, ha="right", fontsize=11)
+    axes[3].set_xlabel("Event Trading Dates (Feb and Aug windows only)", fontsize=13)
+
+    fig.suptitle("NVDA - Point-in-Time Valuation Multiples (Price Numerator)", fontsize=18, fontweight="bold")
     fig.tight_layout()
     fig.savefig(OUT_PLOT_VALUATIONS, dpi=150, bbox_inches="tight")
     plt.close(fig)
@@ -475,26 +535,71 @@ def generate_plots(
     fig.savefig(OUT_PLOT_DECISIONS, dpi=150, bbox_inches="tight")
     plt.close(fig)
 
-    # ── 3. Backtest Portfolio Value ──────────────────────────────────────────
+    # ── 3. Backtest Portfolio Value (with Sharpe annotations) ───────────────
     fig, ax = plt.subplots(figsize=(12, 6))
 
-    for df, label, color in [
-        (bt_without, "Without Sentiment", "steelblue"),
-        (bt_with, "With Sentiment", "darkorange"),
+    for df, cfg_label, color in [
+        (bt_without, "without_sentiment", "steelblue"),
+        (bt_with, "with_sentiment", "darkorange"),
     ]:
         df = df.copy()
         df.index = pd.to_datetime(df.index)
-        ax.plot(df.index, df["portfolio_value"], label=label, color=color, linewidth=1.8)
+        row = summary[summary["config"] == cfg_label]
+        sharpe_val = float(row["sharpe"].iloc[0]) if not row.empty else float("nan")
+        cumret_val = float(row["cumulative_return"].iloc[0]) if not row.empty else float("nan")
+        nice_label = cfg_label.replace("_", " ").title()
+        line_label = f"{nice_label}  |  Sharpe: {sharpe_val:.3f}  |  CumRet: {cumret_val:+.2%}"
+        ax.plot(df.index, df["portfolio_value"], label=line_label, color=color, linewidth=1.8)
 
     ax.set_xlabel("Date")
     ax.set_ylabel("Portfolio Value (USD)")
     ax.set_title("NVDA – Backtest Portfolio Value: With vs Without Sentiment", fontsize=12, fontweight="bold")
-    ax.legend()
+    ax.legend(loc="lower left", fontsize=9)
     ax.grid(True, alpha=0.3)
     ax.xaxis.set_major_formatter(DATE_FMT)
     plt.setp(ax.xaxis.get_majorticklabels(), rotation=30, ha="right")
     fig.tight_layout()
     fig.savefig(OUT_PLOT_PORTFOLIO, dpi=150, bbox_inches="tight")
+    plt.close(fig)
+
+    # ── 3b. Sharpe Ratio Comparison Bar Chart ────────────────────────────────
+    fig, axes = plt.subplots(1, 2, figsize=(10, 5))
+
+    configs = ["without_sentiment", "with_sentiment"]
+    nice_labels = ["Without Sentiment", "With Sentiment"]
+    bar_colors = ["steelblue", "darkorange"]
+
+    sharpes = []
+    cumrets = []
+    for cfg in configs:
+        row = summary[summary["config"] == cfg]
+        sharpes.append(float(row["sharpe"].iloc[0]) if not row.empty else 0.0)
+        cumrets.append(float(row["cumulative_return"].iloc[0]) if not row.empty else 0.0)
+
+    # Sharpe bar
+    bars = axes[0].bar(nice_labels, sharpes, color=bar_colors, edgecolor="black", linewidth=0.8)
+    axes[0].axhline(0, color="black", linewidth=0.8, linestyle="--")
+    for bar, val in zip(bars, sharpes):
+        axes[0].text(bar.get_x() + bar.get_width() / 2, val + (0.01 if val >= 0 else -0.04),
+                     f"{val:.3f}", ha="center", va="bottom" if val >= 0 else "top", fontsize=10, fontweight="bold")
+    axes[0].set_title("Annualised Sharpe Ratio", fontsize=11, fontweight="bold")
+    axes[0].set_ylabel("Sharpe Ratio")
+    axes[0].grid(True, axis="y", alpha=0.3)
+
+    # Cumulative return bar
+    bars2 = axes[1].bar(nice_labels, [v * 100 for v in cumrets], color=bar_colors, edgecolor="black", linewidth=0.8)
+    axes[1].axhline(0, color="black", linewidth=0.8, linestyle="--")
+    for bar, val in zip(bars2, cumrets):
+        pct = val * 100
+        axes[1].text(bar.get_x() + bar.get_width() / 2, pct + (0.05 if pct >= 0 else -0.15),
+                     f"{pct:+.2f}%", ha="center", va="bottom" if pct >= 0 else "top", fontsize=10, fontweight="bold")
+    axes[1].set_title("Cumulative Return", fontsize=11, fontweight="bold")
+    axes[1].set_ylabel("Return (%)")
+    axes[1].grid(True, axis="y", alpha=0.3)
+
+    fig.suptitle("NVDA – Backtest Performance Summary", fontsize=13, fontweight="bold")
+    fig.tight_layout()
+    fig.savefig(OUT_PLOT_SHARPE, dpi=150, bbox_inches="tight")
     plt.close(fig)
 
     # ── 4. Sentiment Scores ──────────────────────────────────────────────────

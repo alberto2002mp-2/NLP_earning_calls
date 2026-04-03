@@ -94,7 +94,14 @@ def _extract_shares_series(companyfacts: Dict[str, Any], taxonomy: str, tag: str
 def _latest_per_end(df: pd.DataFrame) -> pd.DataFrame:
     if df.empty:
         return df
-    return df.sort_values(["end", "filed"]).groupby("end", as_index=False).tail(1).reset_index(drop=True)
+    # Keep the earliest filing for each period end to preserve point-in-time behavior
+    # and avoid selecting restated values filed years later.
+    return (
+        df.sort_values(["end", "filed"], na_position="last")
+        .groupby("end", as_index=False)
+        .head(1)
+        .reset_index(drop=True)
+    )
 
 
 def _first_nonempty_tag(
@@ -205,10 +212,10 @@ def build_quarter_table(ticker: str, cfg: SecConfig) -> pd.DataFrame:
         facts,
         "us-gaap",
         [
+            "Revenues",
             "RevenueFromContractWithCustomerExcludingAssessedTax",
             "RevenueFromContractWithCustomerIncludingAssessedTax",
             "SalesRevenueNet",
-            "Revenues",
         ],
         unit="USD",
     )
@@ -324,6 +331,7 @@ def ttm_from_quarters(q: pd.DataFrame, asof_end: pd.Timestamp) -> Dict[str, Opti
             "ttm_revenue": None,
             "ttm_op_income": None,
             "ttm_net_income": None,
+            "ttm_ocf": None,
             "ttm_fcf": None,
             "shares_outstanding": None,
         }
@@ -337,6 +345,7 @@ def ttm_from_quarters(q: pd.DataFrame, asof_end: pd.Timestamp) -> Dict[str, Opti
             "ttm_revenue": None,
             "ttm_op_income": None,
             "ttm_net_income": None,
+            "ttm_ocf": None,
             "ttm_fcf": None,
             "shares_outstanding": None,
         }
@@ -361,6 +370,7 @@ def ttm_from_quarters(q: pd.DataFrame, asof_end: pd.Timestamp) -> Dict[str, Opti
         "ttm_revenue": ttm_sum("revenue"),
         "ttm_op_income": ttm_sum("op_income"),
         "ttm_net_income": ttm_sum("net_income"),
+        "ttm_ocf": ttm_sum("ocf"),
         "ttm_fcf": ttm_sum("fcf"),
         "shares_outstanding": shares,
     }
